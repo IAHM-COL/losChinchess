@@ -1,17 +1,21 @@
 ### Torneo de Ajedrez "Los Chinchess" 
 
+#### Tercera edición
+
+Los Chinchess III se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 25 de Enero a el 09 de Marzo de 2022.
+
 #### Segunda edición
 
-La segunda edición Los Chinchess II se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 4 de Septiembre a el 14 de Octubre de 2021.
+Los Chinchess II se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 4 de Septiembre a el 14 de Octubre de 2021.
 
 
 #### Primera edición
 
-La primera edición Los Chinchess I se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 24 de Abril a el 04 de Junio de 2021.
+Los Chinchess I se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 24 de Abril a el 04 de Junio de 2021.
 
 ***
 
-:copyright: 2021, IAHM-COL
+:copyright: 2021-2022, IAHM-COL
 
 **COPYING**
 
