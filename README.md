@@ -1,17 +1,17 @@
 ### Torneo de Ajedrez "Los Chinchess" 
 
-#### Tercera edición
+El torneo/Club de Ajedrez, "Los Chinchess" esta organizado para competir cada 4 meses, usando la plataforma [Lichess.org](https://lichess.org/). 
+El Campeon de cada Edicion es reconocido con el Titulo del "Alfil de Oro".
 
-Los Chinchess III se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 25 de Enero a el 09 de Marzo de 2022.
+#### Ediciones pasadas y resultados
 
-#### Segunda edición
+| Edicion | Fechas | Alfil de Oro | Alfil de Plata | Alfil de Bronce |
+| --- | --- | --- | --- | --- | 
+| Los Chinchess IV | 05/06/2022 - 06/17/2022 |  |  |  |
+| Los Chinchess III | 01/25/2022 - 03/09/2022 | **Jorge Andres (kopalito)** | Edison (Ear512) | Camilo (cgallego00) |
+| Los Chinchess II | 09/04/2021 - 10/14/2021 | **Edison (Ear512)** | Jorge Andres (kopalito) | Camilo (cgallego00) |
+| Los Chinchess I | 04/24/2022 - 06/04/2021 | **Andres (arandres)** | Camilo (cgallego00) | Maria Clara (mc3010) |
 
-Los Chinchess II se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 4 de Septiembre a el 14 de Octubre de 2021.
-
-
-#### Primera edición
-
-Los Chinchess I se jugó en la plataforma [Lichess.org](https://lichess.org/) desde el 24 de Abril a el 04 de Junio de 2021.
 
 ***
 
