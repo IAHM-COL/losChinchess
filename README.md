@@ -10,7 +10,7 @@ El Campeon de cada Edicion es reconocido con el Titulo del "Alfil de Oro".
 | Los Chinchess IV | 05/06/2022 - 06/17/2022 |  |  |  |
 | Los Chinchess III | 01/25/2022 - 03/09/2022 | **Jorge Andres (kopalito)** | Edison (Ear512) | Camilo (cgallego00) |
 | Los Chinchess II | 09/04/2021 - 10/14/2021 | **Edison (Ear512)** | Jorge Andres (kopalito) | Camilo (cgallego00) |
-| Los Chinchess I | 04/24/2022 - 06/04/2021 | **Andres (arandres)** | Camilo (cgallego00) | Maria Clara (mc3010) |
+| Los Chinchess I | 04/24/2021 - 06/04/2021 | **Andres (arandres)** | Camilo (cgallego00) | Maria Clara (mc3010) |
 
 
 ***
