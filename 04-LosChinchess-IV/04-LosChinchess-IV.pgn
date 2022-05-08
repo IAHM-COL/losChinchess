@@ -25,3 +25,31 @@ Kf8 21. Ne3 Ke7 22. Nd5+ Nxd5 23. cxd5 Kd7 24. a4 Kc7 25. f4 Kb6 26. Kf2 Ka5
 27. Ke3 Kxa4 28. g4 Kb4 29. Kd3 a5 30. g5 Kb3 31. g6 fxg6 32. fxg6 hxg6 33. Ke4
 a4 34. f5 gxf5+ 35. Kxf5 a3 36. h4 a2 37. h5 a1=Q 38. h6 gxh6  0-1
 
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/faqGYimN"]
+[Date "2022.05.08"]
+[Round "1"]
+[White "IAHMCOL"]
+[Black "Ear512"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1948"]
+[BlackRatingDiff "+3"]
+[ECO "B23"]
+[EventDate "2022.05.08"]
+[Opening "Sicilian Defense: Closed"]
+[Termination "Normal"]
+[UTCDate "2022.05.08"]
+[UTCTime "00:05:56"]
+[Variant "Standard"]
+[WhiteElo "1385"]
+[WhiteRatingDiff "-3"]
+
+1. e4 c5 2. Nc3 e6 {  B23 Sicilian Defense: Closed}  3. d3 d6 4. Nf3 h6 5. g3
+Nc6 6. Bg2 Be7 7. d4 cxd4 8. Nxd4 Nf6 9. e5 Nxe5 10. O-O Qb6 11. b3 Bd7 12. Be3
+Qc7 13. f4 Qxc3 14. Re1 Nc6 15. Bxc6 Bxc6 16. Nxc6 Qxc6 17. Bd4 O-O 18. h4 b6
+19. Qd3 Rac8 20. Rac1 Ng4 21. f5 Ne5 22. Bxe5 dxe5 23. Rxe5 Rfd8 24. Qf1 Bc5+
+25. Kh2 Rd2+ 26. Re2 Rxe2+ 27. Qxe2 exf5 28. Rd1 Re8 29. Qg2 Qxg2+ 30. Kxg2
+Re2+ 31. Kh3 Rxc2 32. Rd8+ Kh7 33. g4 Rc3+ 34. Kg2 fxg4 {  White resigns.}  
+0-1
+
