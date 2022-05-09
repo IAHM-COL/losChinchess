@@ -53,3 +53,61 @@ Qc7 13. f4 Qxc3 14. Re1 Nc6 15. Bxc6 Bxc6 16. Nxc6 Qxc6 17. Bd4 O-O 18. h4 b6
 Re2+ 31. Kh3 Rxc2 32. Rd8+ Kh7 33. g4 Rc3+ 34. Kg2 fxg4 {  White resigns.}  
 0-1
 
+[Event "Rated Classical game"]
+[Site "https://lichess.org/P8cfftiF"]
+[Date "2022.05.08"]
+[Round "3"]
+[White "IAHMCOL"]
+[Black "NeiderMT"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1696"]
+[BlackRatingDiff "-74"]
+[ECO "C40"]
+[EventDate "2022.05.08"]
+[Opening "King's Pawn Game: Damiano Defense"]
+[Termination "Normal"]
+[UTCDate "2022.05.08"]
+[UTCTime "22:20:34"]
+[Variant "Standard"]
+[WhiteElo "1382"]
+[WhiteRatingDiff "+55"]
+
+1. e4 e5 2. Nf3 f6 {  C40 King's Pawn Game: Damiano Defense}  3. Nc3 c6 4. Bc4
+d6 5. Bxg8 Rxg8 6. O-O Bg4 7. h3 Bxf3 8. Qxf3 Qe7 9. Ne2 g6 10. d3 Nd7 11. d4
+O-O-O 12. d5 Kb8 13. dxc6 bxc6 14. Qb3+ Nb6 15. Be3 Qc7 16. a4 Bg7 17. a5 Kc8
+18. axb6 axb6 19. Bxb6 Qb7 20. Qe6+ Qd7 21. Ra8+ Kb7 22. Ra7+ Kc8 23. Rxd7 Rxd7
+24. Qxg8+ Kb7 25. Ba5 Bh6 26. Qb3+ Kc8 27. f4 Rb7 28. Qg8+ Kd7 29. Qxh7+ Kc8
+30. Qxh6 Rxb2 31. Rc1 Ra2 32. Qf8+ Kb7 33. Qe7+ Ka6 34. fxe5 fxe5 35. Bc7 d5
+36. exd5 cxd5 37. Qd6+ Kb5 38. Nc3+ Kc4 39. Nxa2 Kd4 40. Bb6+ Ke4 41. Re1+ Kf5
+42. Qxe5# {  White wins by checkmate.}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/DAJcKCyu"]
+[Date "2022.05.09"]
+[Round "2"]
+[White "OseznoRaudo"]
+[Black "arandres"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1803"]
+[BlackRatingDiff "-23"]
+[ECO "C02"]
+[EventDate "2022.05.09"]
+[Opening "French Defense: Advance Variation, Steinitz Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.09"]
+[UTCTime "01:07:34"]
+[Variant "Standard"]
+[WhiteElo "1436"]
+[WhiteRatingDiff "+544"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5 Bxc5 5. Be3 Be7 6. Nf3 Nc6 7. Bb5 a6 8. Bxc6+
+bxc6 9. O-O a5 10. Nc3 Qc7 11. a4 Rb8 12. b3 Bb4 13. Bd4 Ne7 14. Ng5 O-O 15.
+Qd3 g6 16. Qh3 h5 17. Ne2 Kg7 18. c3 c5 19. cxb4 cxd4 20. Nxd4 Rxb4 21. Rfd1
+Qxe5 22. Ngf3 Qe4 23. Rab1 e5 24. Ng5 Bxh3 25. Nxe4 Rxd4 26. Rxd4 exd4 27. Ng5
+Bf5 28. Re1 Nc6 29. Rc1 Ne5 30. Rc5 Be6 31. Rxa5 d3 32. Kf1 Kf6 33. Nh7+ Ke7
+34. Nxf8 Kxf8 35. f4 Nc6 36. Rc5 Nb4 37. Ke1 Ke7 38. Kd2 Kd6 39. Rb5 Nc6 40.
+Kxd3 Bf5+ 41. Kd2 Be6 42. a5 Bc8 43. b4 Ba6 44. Rb6 Bc4 45. b5 Bxb5 46. Rxb5
+Nd4 47. Rb7 Kc6 48. a6 Nb3+ 49. Rxb3  1-0
+
