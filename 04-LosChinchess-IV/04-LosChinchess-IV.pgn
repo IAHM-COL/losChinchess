@@ -53,7 +53,7 @@ Qc7 13. f4 Qxc3 14. Re1 Nc6 15. Bxc6 Bxc6 16. Nxc6 Qxc6 17. Bd4 O-O 18. h4 b6
 Re2+ 31. Kh3 Rxc2 32. Rd8+ Kh7 33. g4 Rc3+ 34. Kg2 fxg4 {  White resigns.}  
 0-1
 
-[Event "Rated Classical game"]
+[Event "Los Chinchess IV"]
 [Site "https://lichess.org/P8cfftiF"]
 [Date "2022.05.08"]
 [Round "3"]
@@ -75,12 +75,18 @@ Re2+ 31. Kh3 Rxc2 32. Rd8+ Kh7 33. g4 Rc3+ 34. Kg2 fxg4 {  White resigns.}
 
 1. e4 e5 2. Nf3 f6 {  C40 King's Pawn Game: Damiano Defense}  3. Nc3 c6 4. Bc4
 d6 5. Bxg8 Rxg8 6. O-O Bg4 7. h3 Bxf3 8. Qxf3 Qe7 9. Ne2 g6 10. d3 Nd7 11. d4
-O-O-O 12. d5 Kb8 13. dxc6 bxc6 14. Qb3+ Nb6 15. Be3 Qc7 16. a4 Bg7 17. a5 Kc8
-18. axb6 axb6 19. Bxb6 Qb7 20. Qe6+ Qd7 21. Ra8+ Kb7 22. Ra7+ Kc8 23. Rxd7 Rxd7
-24. Qxg8+ Kb7 25. Ba5 Bh6 26. Qb3+ Kc8 27. f4 Rb7 28. Qg8+ Kd7 29. Qxh7+ Kc8
-30. Qxh6 Rxb2 31. Rc1 Ra2 32. Qf8+ Kb7 33. Qe7+ Ka6 34. fxe5 fxe5 35. Bc7 d5
-36. exd5 cxd5 37. Qd6+ Kb5 38. Nc3+ Kc4 39. Nxa2 Kd4 40. Bb6+ Ke4 41. Re1+ Kf5
-42. Qxe5# {  White wins by checkmate.}   1-0
+O-O-O 12. d5 Kb8 $4 13. dxc6 bxc6 14. Qb3+ Nb6 15. Be3 Qc7 $4 16. a4 Bg7 17. a5
+Kc8 18. axb6 axb6 19. Bxb6 Qb7 20. Qe6+ Qd7 $4 $148 21. Ra8+ Kb7 22. Ra7+ Kc8
+23. Rxd7 $4 {  Pierde secuencia de mate}  ( 23. Qa2 Qb7 24. Rxb7 Kxb7 25. Qa7+
+Kc8 26. Qc7# )23... Rxd7 24. Qxg8+ Kb7 25. Ba5 $5 ( 25. Qb3 $142)25... Bh6 26.
+Qb3+ Kc8 27. f4 Rb7 28. Qg8+ Kd7 29. Qxh7+ $5 {  Pierde secuencia de mate en 2}
+ ( 29. Qf7+ Kc8 30. Qe8# )29... Kc8 30. Qxh6 Rxb2 31. Rc1 $4 ( 31. Qg7 $140 --
+32. Qc7# )31... Ra2 32. Qf8+ Kb7 33. Qe7+ Ka6 34. fxe5 $4 {  Pierde secuencia
+de mate}  ( 34. Rb1 $3 -- ( 34... -- 35. Qb7+ Kxa5 36. Qb6+ Ka4 37. Qb4# )(
+34... Kxa5 35. Qa7# )( 34... Rxa5 35. Qb7# )( 34... Rb2 35. Rxb2 c5 36. Qb7+
+Kxa5 37. Qa7# )35. Rb6+ )34... fxe5 35. Bc7 d5 36. exd5 cxd5 37. Qd6+ Kb5 38.
+Nc3+ Kc4 39. Nxa2 Kd4 40. Bb6+ ( 40. Rd1+ Ke4 ( 40... Kc4 41. Qxd5# )41. Qxe5#
+)40... Ke4 41. Re1+ Kf5 42. Qxe5# {  White wins by checkmate.}   1-0
 
 [Event "Los Chinchess IV"]
 [Site "https://lichess.org/DAJcKCyu"]
@@ -110,4 +116,60 @@ Bf5 28. Re1 Nc6 29. Rc1 Ne5 30. Rc5 Be6 31. Rxa5 d3 32. Kf1 Kf6 33. Nh7+ Ke7
 34. Nxf8 Kxf8 35. f4 Nc6 36. Rc5 Nb4 37. Ke1 Ke7 38. Kd2 Kd6 39. Rb5 Nc6 40.
 Kxd3 Bf5+ 41. Kd2 Be6 42. a5 Bc8 43. b4 Ba6 44. Rb6 Bc4 45. b5 Bxb5 46. Rxb5
 Nd4 47. Rb7 Kc6 48. a6 Nb3+ 49. Rxb3  1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/viJKgsxP"]
+[Date "2022.05.10"]
+[Round "2"]
+[White "twinsendell"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1437"]
+[BlackRatingDiff "-16"]
+[ECO "B32"]
+[EventDate "2022.05.10"]
+[Opening "Sicilian Defense: Open"]
+[Termination "Normal"]
+[UTCDate "2022.05.10"]
+[UTCTime "01:48:15"]
+[Variant "Standard"]
+[WhiteElo "1500"]
+[WhiteRatingDiff "+204"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 {  B32 Sicilian Defense: Open}  3... b6 4. dxc5 bxc5
+5. c4 d6 6. Nc3 Nf6 7. g3 g6 8. Bg2 Bg7 9. O-O O-O 10. Nh4 Bg4 11. Qe1 g5 $2
+12. Bxg5 Ne5 13. f4 Nxc4 14. e5 dxe5 15. Bxa8 Qd4+ 16. Rf2 Rxa8 17. Bxf6 Bxf6
+18. fxe5 Bxe5 $2 ( 18... Nxe5 $142)19. Rb1 Nd2 $4 {  Y pierde con ...}  ( 19...
+Qd3 $142)( 19... Rb8 $142 20. b3 Ne3 )20. Qxd2 Qd8 $4 21. Qg5+ Kf8 22. Qxg4 Qd3
+23. Rf4 Bxc3 24. Rd1 Qe3+ 25. Kg2 Rb8 26. bxc3 Rb2+ 27. Kh3 Qxc3 28. Rd8# { 
+White wins by checkmate.}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/AyqMDlqT"]
+[Date "2022.05.11"]
+[Round "2"]
+[White "kopalito"]
+[Black "NeiderMT"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1622"]
+[BlackRatingDiff "+77"]
+[ECO "C00"]
+[EventDate "2022.05.11"]
+[Opening "French Defense: Knight Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.11"]
+[UTCTime "00:21:47"]
+[Variant "Standard"]
+[WhiteElo "2026"]
+[WhiteRatingDiff "-57"]
+
+1. e4 e6 2. Nf3 {  C00 French Defense: Knight Variation}  2... f6 3. Be2 Bc5 4.
+d4 Bb6 5. O-O Ne7 6. Be3 O-O 7. Nbd2 d5 8. exd5 Nxd5 9. Nc4 Nxe3 10. Nxe3 Nc6
+11. Bc4 Kh8 12. Qd3 Nb4 13. Qb3 c5 14. dxc5 Bxc5 15. Rad1 Qe7 16. Rfe1 Bd7 17.
+Nf5 Qd8 18. Bxe6 Bxf2+ 19. Kxf2 Qb6+ 20. Kf1 Bxe6 21. Rxe6 Qb5+ 22. Kg1 Qxf5
+23. Red6 Nxc2 24. R6d5 Qe4 25. R1d2 Rac8 26. Qxb7 Qe3+ 27. Kh1 Nb4 28. Qxb4
+Rc1+ 29. Ng1 $4 {  Concede Victoria??}  ( 29. Rd1 $142 Rxd1+ 30. Rxd1 Re8
+)29... Qxg1# {  Black wins by checkmate.}   0-1
 
