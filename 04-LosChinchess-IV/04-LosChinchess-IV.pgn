@@ -169,7 +169,61 @@ White wins by checkmate.}   1-0
 d4 Bb6 5. O-O Ne7 6. Be3 O-O 7. Nbd2 d5 8. exd5 Nxd5 9. Nc4 Nxe3 10. Nxe3 Nc6
 11. Bc4 Kh8 12. Qd3 Nb4 13. Qb3 c5 14. dxc5 Bxc5 15. Rad1 Qe7 16. Rfe1 Bd7 17.
 Nf5 Qd8 18. Bxe6 Bxf2+ 19. Kxf2 Qb6+ 20. Kf1 Bxe6 21. Rxe6 Qb5+ 22. Kg1 Qxf5
-23. Red6 Nxc2 24. R6d5 Qe4 25. R1d2 Rac8 26. Qxb7 Qe3+ 27. Kh1 Nb4 28. Qxb4
+23. Red6 Nxc2 24. R6d5 Qe4 25. R1d2 Rac8 26. Qxb7 Qe3+ 27. Kh1 Nb4 $13 28. Qxb4
 Rc1+ 29. Ng1 $4 {  Concede Victoria??}  ( 29. Rd1 $142 Rxd1+ 30. Rxd1 Re8
 )29... Qxg1# {  Black wins by checkmate.}   0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/c58ilkNM"]
+[Date "2022.05.11"]
+[Round "3"]
+[White "cgallego00"]
+[Black "axertijo"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1500"]
+[BlackRatingDiff "-63"]
+[ECO "B00"]
+[EventDate "2022.05.11"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.11"]
+[UTCTime "16:01:06"]
+[Variant "Standard"]
+[WhiteElo "1980"]
+[WhiteRatingDiff "+6"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Nf3 Ng6 5. Bc4 Nf6 6. Nc3 a6 7. a4 c6 8. O-O d6
+9. dxc6 bxc6 10. Bg5 Be7 11. Qe2 Bb7 12. Rfd1 h6 13. Be3 d5 14. exd5 cxd5 15.
+Bb3 Nf4 16. Bxf4 exf4 17. Qe5 O-O 18. Nxd5 Bxd5 19. Bxd5 Nxd5 20. Rxd5 Qb6 21.
+Qxe7 Rfe8 22. Qc5 Qxb2 23. Rf1 Rac8 24. Qa5 Re6 25. Rd8+ Rxd8 26. Qxd8+ Kh7 27.
+Qc7 f6 28. Qxf4 Qxc2 29. Nd4 Qa2 30. Qf5+ Kg8 31. Qxe6+ Qxe6 32. Nxe6 Kf7 33.
+Nc7 a5 34. Rd1 g5 35. Rd5 Kg6 36. Rxa5 h5 37. Rb5 h4 38. a5 g4 39. a6 f5 40. a7
+Kg5 41. a8=Q g3 42. hxg3 hxg3 43. Qg8+ Kf4 44. Qc4+ Kg5 45. Ne6+ Kh6 46. Qh4+
+Kg6 47. Qg5+ Kf7 48. Nd8+ Kf8 49. Rb7 Ke8 50. Qe7#  1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/vi9YS9Oo"]
+[Date "2022.05.12"]
+[Round "1"]
+[White "NeiderMT"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1704"]
+[BlackRatingDiff "+146"]
+[ECO "A00"]
+[EventDate "2022.05.12"]
+[Opening "Saragossa Opening"]
+[Termination "Normal"]
+[UTCDate "2022.05.12"]
+[UTCTime "00:15:15"]
+[Variant "Standard"]
+[WhiteElo "1699"]
+[WhiteRatingDiff "-30"]
+
+1. c3 {  A00 Saragossa Opening}  1... Nf6 2. f3 d5 3. d4 c5 4. e3 Nc6 5. dxc5 e5
+6. Bb5 Bxc5 7. Bxc6+ bxc6 8. Ne2 e4 9. O-O exf3 10. Rxf3 Bg4 11. Rf1 O-O 12.
+Nd2 Bxe3+ 13. Kh1 Re8 14. h3 Bxd2 15. hxg4 Bxc1 16. Rxc1 Nxg4 17. Ng3 Qh4+ 18.
+Kg1 Qh2# {  Black wins by checkmate.}   0-1
 
