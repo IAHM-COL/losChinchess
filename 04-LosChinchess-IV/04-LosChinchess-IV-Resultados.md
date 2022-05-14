@@ -11,14 +11,14 @@
 | Maria Clara (mc3010)    | 0                        | -                 | -                  | -                   | 0                         | X                      |        0 |            0 |
 #### Grupo B
 
-|                            | Camilo (cgallego00)   | Joaquin (OseznoRaudo)   | Andres (arandres)   | Alejandro (Alejandro-mesa)   | Jairo (jajajairoramirez)   | Juan David (axertijo)   |   Puntos |   Neudstadtl |
-|:---------------------------|:----------------------|:------------------------|:--------------------|:-----------------------------|:---------------------------|:------------------------|---------:|-------------:|
-| Camilo (cgallego00)        | X                     | 1                       | -                   | 1                            | -                          | 1                       |        3 |            1 |
-| Joaquin (OseznoRaudo)      | 0                     | X                       | 1                   | -                            | -                          | -                       |        1 |            1 |
-| Andres (arandres)          | -                     | 0                       | X                   | -                            | -                          | 1                       |        1 |            0 |
-| Alejandro (Alejandro-mesa) | 0                     | -                       | -                   | X                            | -                          | -                       |        0 |            0 |
-| Jairo (jajajairoramirez)   | -                     | -                       | -                   | -                            | X                          | -                       |        0 |            0 |
-| Juan David (axertijo)      | 0                     | -                       | 0                   | -                            | -                          | X                       |        0 |            0 |
+|                            | Camilo (cgallego00)   | Jairo (jajajairoramirez)   | Joaquin (OseznoRaudo)   | Andres (arandres)   | Alejandro (Alejandro-mesa)   | Juan David (axertijo)   |   Puntos |   Neudstadtl |
+|:---------------------------|:----------------------|:---------------------------|:------------------------|:--------------------|:-----------------------------|:------------------------|---------:|-------------:|
+| Camilo (cgallego00)        | X                     | -                          | 1                       | -                   | 1                            | 1                       |        3 |            1 |
+| Jairo (jajajairoramirez)   | -                     | X                          | -                       | -                   | 1                            | 1                       |        2 |            0 |
+| Joaquin (OseznoRaudo)      | 0                     | -                          | X                       | 1                   | -                            | -                       |        1 |            1 |
+| Andres (arandres)          | -                     | -                          | 0                       | X                   | -                            | 1                       |        1 |            0 |
+| Alejandro (Alejandro-mesa) | 0                     | 0                          | -                       | -                   | X                            | -                       |        0 |            0 |
+| Juan David (axertijo)      | 0                     | 0                          | -                       | 0                   | -                            | X                       |        0 |            0 |
 #### Cuadrangular Final
 
 |           | Ganador A   | Ganador B   | Segundo A   | Segundo B   |   Puntos |   Neudstadtl |
