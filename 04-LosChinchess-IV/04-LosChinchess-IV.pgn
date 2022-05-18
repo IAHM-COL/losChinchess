@@ -563,3 +563,85 @@ Qxg4 27. h3 Qe4 28. Qc3 Rxf2 29. Re1 Re2 30. Rg1 d4 31. Qd3 Qxd3 32. cxd3 Rd2
 Kb2 d2 40. Kc2 h4 41. b5 Rc1+ 42. Kb2 d1=Q 43. Rxd1 Rxd1 44. a4 h3 45. b6 Nd6
 46. Kc2 Ra1 47. b7 Nxb7 {  White resigns.}   0-1
 
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/vcaDnO3P"]
+[Date "2022.05.18"]
+[Round "4"]
+[White "OseznoRaudo"]
+[Black "axertijo"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1319"]
+[BlackRatingDiff "-24"]
+[ECO "C42"]
+[EventDate "2022.05.18"]
+[Opening "Russian Game: Damiano Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.18"]
+[UTCTime "02:04:26"]
+[Variant "Standard"]
+[WhiteElo "1919"]
+[WhiteRatingDiff "+22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Bd3 Qf6 5. Bxe4 Qxe5 6. Qe2 Nc6 7. O-O Bd6
+8. f4 Qc5+ 9. Qe3 O-O 10. Qxc5 Bxc5+ 11. Kh1 Re8 12. d3 Nd4 13. Na3 c6 14. c3
+Ne2 15. g3 d5 16. Bf3 Bxa3 17. bxa3 Nxc3 18. Bd2 d4 19. Rfc1 Na4 20. Rc4 Nb6
+21. Rxd4 c5 22. Re1 Be6 23. Rde4 h6 24. f5 Bd5 25. Rxe8+ Rxe8 26. Rxe8+ Kh7 27.
+Bxd5 Nxd5 28. Re5 Nf6 29. Rxc5 Ng4 30. Rc7 b5 31. Rxa7 Nf2+ 32. Kg2 Nxd3 33.
+Rxf7 Ne5 34. Re7 Nc6 35. Rb7 h5 36. f6 Ne5 37. fxg7 Kg8 38. Rxb5 Ng6 39. Rxh5
+Kxg7 40. Rg5 Kf6 41. a4 Ne7 42. a5 Nc6 43. a6 Ke6 44. h4 Kd7 45. h5 Kc8 46. h6
+Kb8 47. Rg7 Na7 48. Be3 Nc8 49. h7 Nd6 50. h8=Q+ Nc8 51. a7+ Ka8 52. Qxc8#  1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/8tvC0pLA"]
+[Date "2022.05.18"]
+[Round "5"]
+[White "macla3010"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1414"]
+[BlackRatingDiff "-24"]
+[ECO "A21"]
+[EventDate "2022.05.18"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[Termination "Normal"]
+[UTCDate "2022.05.18"]
+[UTCTime "02:38:55"]
+[Variant "Standard"]
+[WhiteElo "1363"]
+[WhiteRatingDiff "+201"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nf3 Bxc3 4. bxc3 d6 5. g3 d5 6. cxd5 Qxd5 7. Bg2 Bg4 8.
+Qa4+ Qd7 9. Qe4 Nc6 10. Ba3 O-O-O 11. O-O Nf6 12. Qc2 e4 13. Ng5 Bxe2 14. Rfe1
+Bf3 15. Nxe4 Bxg2 16. Nxf6 gxf6 17. Kxg2 Rhe8 18. Qxh7 $4 $201 Qxd2 $4 {  Y
+pierde la partida --}  ( 18... Rh8 $1 $19 19. Qe4 Qh3+ 20. Kg1 ( 20. Kf3 Ne5+
+)20... Qxh2+ )( 18... Rxe1 $6 19. Rxe1 Qxd2 20. Re3 Rf8 )19. Rxe8 Rxe8 20. Qxf7
+Re7 21. Bxe7 Nxe7 22. Qxe7 Qd5+ 23. Kg1 b5 24. Qe8+ Qd8 25. Qxb5  1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/W215GBhV"]
+[Date "2022.05.18"]
+[Round "4"]
+[White "Ear512"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1808"]
+[BlackRatingDiff "-51"]
+[ECO "C50"]
+[EventDate "2022.05.18"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[Termination "Normal"]
+[UTCDate "2022.05.18"]
+[UTCTime "02:51:40"]
+[Variant "Standard"]
+[WhiteElo "1955"]
+[WhiteRatingDiff "+19"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. Nf3 Nc6 5. h3 O-O 6. Bg5 h6 7. Bh4 a6 8. c3 b5
+9. Bb3 Bb7 10. O-O d6 11. Nbd2 Na5 12. Bc2 Bb6 13. Nh2 g5 14. Bg3 d5 15. Ng4
+Nxg4 16. Qxg4 dxe4 17. Nxe4 Bxe4 18. Qxe4 f5 19. Qxe5 f4 20. Bh2 Re8 21. Qf5
+Qd6 22. b4 Nc6 23. d4 Re7 24. Rae1 Rf7 25. Bb3 Rf8 26. Re8 Kg7 27. Bxf7 Rxf7
+28. Qe4 Rf8 29. Re6 Qd7 30. Qg6+ Kh8 31. Rxc6 Rf7 32. Qxh6+ Rh7 33. Qf8#  1-0
+
