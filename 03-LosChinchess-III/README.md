@@ -1,7 +1,7 @@
 ## Torneo de Ajedrez Los Chinchess III - Ranking Final
 
 |          Posicion | Competidor                 |     PTOS | Buchholz (Total) | Glicko-2 |
-|-------------------+----------------------------+----------+------------------+----------|
+|-------------------|----------------------------|----------|------------------|----------|
 |    *Alfil de Oro* | Jorge Andres (kopalito)    | 3.5 (+1) |             12.5 |     2026 |
 |  *Alfil de Plata* | Edison (Ear512)            |        4 |             13.5 |     1948 |
 | *Alfil de Bronce* | Camilo (cgallego00)        | 3.0 (+1) |               13 |     1974 |
