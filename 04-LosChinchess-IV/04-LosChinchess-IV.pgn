@@ -873,3 +873,60 @@ Kh1 f5 27. Rc7 Re8 28. Rxc6 Kf7 29. Rc7+ Kf6 30. Rc6+ Kg5 31. c3 Qe4 32. h3 Re6
 33. Rc7 Rhe8 34. Rxa7 Qe3 35. Ra5 Qg3 36. Kg1 Re1 37. Rxd5 Qe3+ 38. Kh2 Rxf1
 39. a4 Qf4+ 40. g3 Qf2# {  Black wins by checkmate.}   0-1
 
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/wnhGGHHj"]
+[Date "2022.05.21"]
+[Round "4"]
+[White "cgallego00"]
+[Black "jajajairoramirez"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1675"]
+[BlackRatingDiff "+45"]
+[ECO "C02"]
+[EventDate "2022.05.21"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.21"]
+[UTCTime "19:03:25"]
+[Variant "Standard"]
+[WhiteElo "1970"]
+[WhiteRatingDiff "-43"]
+
+1. e4 e6 2. d4 d5 3. e5 {  C02 French Defense: Advance Variation}  3... b6 4. c3
+c5 5. Nf3 g6 6. Bb5+ Bd7 7. Bxd7+ Nxd7 8. O-O Bh6 9. Bxh6 Nxh6 10. Qd2 Nf5 11.
+Qd3 O-O 12. Nbd2 c4 13. Qe2 Nh4 14. Nxh4 Qxh4 15. Nf3 Qe7 16. b3 b5 17. bxc4
+bxc4 18. Rab1 Rab8 19. Rb2 Qa3 20. Rfb1 Qxc3 21. Rxb8 Rxb8 22. Rxb8+ Nxb8 23.
+h3 Qa1+ 24. Kh2 Nc6 25. Qc2 Nxd4 26. Nxd4 Qxd4 27. Qa4 Qxe5+ 28. g3 h5 29. Qxa7
+h4 30. Qa8+ Kg7 31. Qa3 d4 32. Qf3 hxg3+ 33. fxg3 d3 34. a4 Qe2+ 35. Qg2 Qxg2+
+36. Kxg2 d2 {  White resigns.}   0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/yHl1OL7O"]
+[Date "2022.05.22"]
+[Round "6"]
+[White "kopalito"]
+[Black "macla3010"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1745"]
+[BlackRatingDiff "+169"]
+[ECO "B10"]
+[EventDate "2022.05.22"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+[UTCDate "2022.05.22"]
+[UTCTime "02:54:25"]
+[Variant "Standard"]
+[WhiteElo "2000"]
+[WhiteRatingDiff "-40"]
+
+1. e4 c6 {  B10 Caro-Kann Defense}  2. Nf3 d5 3. e5 Bg4 4. Be2 e6 5. h3 Bh5 6.
+d4 Nd7 7. Be3 c5 8. c3 Qa5 9. O-O cxd4 10. cxd4 Rc8 11. Nbd2 Bg6 12. Nb3 Qb6
+13. a3 Ne7 14. Rc1 Nc6 15. Bd2 f6 16. Na5 fxe5 17. dxe5 Qxb2 18. Nxb7 Bxa3 19.
+Bb5 Qxb5 20. Rb1 Bxb1 21. Ng5 Qxb7 22. Qf3 Ndxe5 23. Qxa3 Bd3 24. Re1 Qe7 25.
+Qa4 O-O 26. f4 Qc5+ 27. Be3 Qc3 28. Rc1 Bc2 $1 29. Rxc2 Qxe3+ 30. Kh2 Ng6 31.
+g3 Nd4 32. Ra2 Nf3+ $1 33. Nxf3 Qxf3 34. Qd7 Rc1 35. Qxe6+ ( 35. -- Qh1# )35...
+Kh8 36. Rg2 Nxf4 $1 {  Y gana}  37. gxf4 ( 37. Ra2 Qh1# )37... Qxf4+ 38. Rg3
+Rc2+ 39. Kh1 Qxg3 {  White resigns.}   0-1
+
