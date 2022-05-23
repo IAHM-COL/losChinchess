@@ -11,14 +11,14 @@
 | Israel (IAHMCOL)        | 0                         | 0                         | 1                   | 0                        | 0                 | X                  |        1 |            3 |
 #### Grupo B
 
-|                            | Joaquin (OseznoRaudo)   | Camilo (cgallego00)   | Jairo (jajajairoramirez)   | Alejandro (Alejandro-mesa)   | Andres (arandres)   | Juan David (axertijo)   |   Puntos |   Neudstadtl |
-|:---------------------------|:------------------------|:----------------------|:---------------------------|:-----------------------------|:--------------------|:------------------------|---------:|-------------:|
-| Joaquin (OseznoRaudo)      | X                       | 1                     | 1                          | 0                            | 1                   | 1                       |        4 |           11 |
-| Camilo (cgallego00)        | 1                       | X                     | 0                          | 1                            | 1                   | 1                       |        4 |           10 |
-| Jairo (jajajairoramirez)   | 0                       | 1                     | X                          | 2                            | 0                   | 1                       |        4 |           10 |
-| Alejandro (Alejandro-mesa) | 1                       | 0                     | 0                          | X                            | 1                   | 1                       |        3 |            7 |
-| Andres (arandres)          | 0                       | 0                     | 1                          | 0                            | X                   | 2                       |        3 |            4 |
-| Juan David (axertijo)      | 0                       | 0                     | 0                          | 0                            | 0                   | X                       |        0 |            0 |
+|                            | Camilo (cgallego00)   | Joaquin (OseznoRaudo)   | Jairo (jajajairoramirez)   | Alejandro (Alejandro-mesa)   | Andres (arandres)   | Juan David (axertijo)   |   Puntos |   Neudstadtl |
+|:---------------------------|:----------------------|:------------------------|:---------------------------|:-----------------------------|:--------------------|:------------------------|---------:|-------------:|
+| Camilo (cgallego00)        | X                     | 1                       | 0                          | 2                            | 1                   | 2                       |        6 |           13 |
+| Joaquin (OseznoRaudo)      | 1                     | X                       | 1                          | 0                            | 1                   | 1                       |        4 |           13 |
+| Jairo (jajajairoramirez)   | 1                     | 0                       | X                          | 2                            | 0                   | 1                       |        4 |           12 |
+| Alejandro (Alejandro-mesa) | 0                     | 1                       | 0                          | X                            | 1                   | 1                       |        3 |            7 |
+| Andres (arandres)          | 0                     | 0                       | 1                          | 0                            | X                   | 2                       |        3 |            4 |
+| Juan David (axertijo)      | 0                     | 0                       | 0                          | 0                            | 0                   | X                       |        0 |            0 |
 #### Cuadrangular Final
 
 |           | Ganador A   | Ganador B   | Segundo A   | Segundo B   |   Puntos |   Neudstadtl |
