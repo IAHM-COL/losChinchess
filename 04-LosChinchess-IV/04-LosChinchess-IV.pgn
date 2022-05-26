@@ -901,7 +901,7 @@ h3 Qa1+ 24. Kh2 Nc6 25. Qc2 Nxd4 26. Nxd4 Qxd4 27. Qa4 Qxe5+ 28. g3 h5 29. Qxa7
 h4 30. Qa8+ Kg7 31. Qa3 d4 32. Qf3 hxg3+ 33. fxg3 d3 34. a4 Qe2+ 35. Qg2 Qxg2+
 36. Kxg2 d2 {  White resigns.}   0-1
 
-[Event "Rated Classical game"]
+[Event "Los Chinchess IV"]
 [Site "https://lichess.org/yHl1OL7O"]
 [Date "2022.05.22"]
 [Round "6"]
@@ -981,4 +981,68 @@ Kh2 Nxf2 $4 25. Qa8#  1-0
 Kf1 Qxc6 16. Qc4 Bg7 17. f3 exf3 18. gxf3 Qxa4 19. Bc1 b5 20. cxb6 cxb6 21. Ne2
 Rac8 22. Qe4 Qd1+ 23. Kg2 Qxe2+ 24. Kg3 Rc2 25. Rh2 Qxh2+ 26. Kh4 Bf6+ 27. Kg4
 Rg2# ( {  IAHMCOL sugiere: o con peon } 27... h5#) 0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/txHXC2WX"]
+[Date "2022.05.26"]
+[Round "7"]
+[White "NeiderMT"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1960"]
+[BlackRatingDiff "+10"]
+[ECO "A16"]
+[EventDate "2022.05.26"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.26"]
+[UTCTime "01:29:27"]
+[Variant "Standard"]
+[WhiteElo "1668"]
+[WhiteRatingDiff "-10"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 c5 4. e5 Nh5 5. Be2 Nf4 6. Bf3 Nc6 7. Bxc6 bxc6 8. d3
+Nxg2+ 9. Kf1 Nh4 10. Bg5 Nf5 11. Nf3 Bg7 12. Ke2 Qb6 13. Qb3 Bxe5 14. Qxb6 axb6
+15. Nxe5 f6 16. Nxc6 dxc6 17. Be3 Nd4+ 18. Bxd4 cxd4 19. Ne4 Bf5 20. Ng3 Bg4+
+21. f3 Be6 22. a3 Kf7 23. Rhe1 b5 24. b3 bxc4 25. dxc4 Rhb8 26. Reb1 Rb7 27.
+Ne4 Rba7 28. a4 Bf5 29. Rd1 Rb8 30. Nc5 Ra5 31. Nd3 Rxb3 32. Nf4 g5 33. Nh5
+Rb2+ 34. Kf1 Rxh2 35. Ng3 Bh3+ 36. Ke1 Re5+ 37. Ne4 f5 38. Rd2 Rh1+ 39. Kf2
+Rxa1 40. Nxg5+ Kg6 41. Nxh3 Rh1 42. Nf4+ Kg5 43. Rxd4 c5 44. Ne6+ Rxe6 45. f4+
+Kg4 46. Kg2 $4 {  Mate es inevitable}  46... Rhe1 47. Rd2 R6e2+ 48. Rxe2 Rxe2+
+49. Kf1 Ra2 50. Ke1 h5 51. Kd1 h4 52. Ke1 h3 53. Kf1 h2 {  Blancas Resignan} 
+54. -- h1=R#  0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/SpVMw6CX"]
+[Date "2022.05.26"]
+[Round "8"]
+[White "NeiderMT"]
+[Black "IAHMCOL"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1390"]
+[BlackRatingDiff "+54"]
+[ECO "A22"]
+[EventDate "2022.05.26"]
+[Opening "English Opening: King's English Variation, Two Knights Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.26"]
+[UTCTime "00:45:55"]
+[Variant "Standard"]
+[WhiteElo "1724"]
+[WhiteRatingDiff "-56"]
+
+1. c4 e5 2. Nc3 Nf6 {  A22 English Opening: King's English Variation, Two
+Knights Variation}  3. Nf3 e4 4. Nd4 d5 5. e3 a6 6. a4 Bb4 7. a5 Bxc3 8. bxc3
+c5 $2 9. Nb3 $1 Bf5 10. Nxc5 b6 11. axb6 Qxb6 12. Qa4+ Nc6 13. Ba3 Nd7 14. Nxa6
+Rxa6 15. Qc2 Nc5 16. cxd5 Nd3+ 17. Bxd3 exd3 18. Qd1 Ne5 19. O-O Bg4 20. f3 Bh3
+$6 {  Con la intencion de debilitar g2, pero pierde con}  21. gxh3 Qg6+ 22. Kh1
+Rf6 23. Rg1 Qh5 24. Qa4+ $1 {  Y mate de negras es inevitable}  24... Kd8 25.
+Qa8+ Kd7 26. Qa7+ Kd8 27. Qb6+ $4 {  Excepto si hay un error}  ( 27. Be7+ $18
+$142)27... Rxb6 28. f4 Qf3+ {  Y ahora el deficit en g2 paga}  29. Rg2 Nc4 30.
+Bc5 Rb2 $3 31. Ra8+ Kc7 32. Ra1 Rxd2 33. Rg1 Rf2 $4 ( 33... Re2 34. -- d2 )34.
+e4 d2 35. Bxf2 d1=R $1 {  Y mate es inevitable}  ( 35... d1=Q $10)36. Rxd1
+Qxd1+ 37. Rg1 Qf3+ 38. Rg2 Ra8 39. Be1 Ra1 40. Kg1 Rxe1# {  Black wins by
+checkmate.}   0-1
 
