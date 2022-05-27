@@ -1084,3 +1084,33 @@ Re8 42. Rxe7+ Rxe7 43. Qxg6 Rxc4 44. Qf5+ Kd8 45. Qf8+ Re8 46. Qf6+ Kc8 47.
 Qf5+ Kd8 ( 47... Kb8 48. Qd7 -- ( 48... Rc8 $17)49. Qxe8# )48. Qf6+ Re7 49.
 Qf8+ Re8 50. Qf6+ {  Tablas por repeticion}   1/2-1/2
 
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/s1S4mPr7"]
+[Date "2022.05.27"]
+[Round "7"]
+[White "arandres"]
+[Black "OseznoRaudo"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1993"]
+[BlackRatingDiff "-184"]
+[ECO "B22"]
+[EventDate "2022.05.27"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+[UTCDate "2022.05.27"]
+[UTCTime "03:03:32"]
+[Variant "Standard"]
+[WhiteElo "1756"]
+[WhiteRatingDiff "+26"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 e5 4. Bb5 d6 5. O-O Nf6 6. d3 Bg4 7. Bg5 Be7 8. Nbd2
+h6 9. Bh4 O-O 10. h3 Bh5 11. Bg3 a6 12. Ba4 b5 13. Bc2 b4 14. cxb4 Nxb4 15. Bb1
+Rb8 16. a3 Nc6 17. Qc2 Qb6 18. Nc4 Qc7 19. Nh4 Nd4 20. Qa4 Qb7 21. Kh2 Qb5 22.
+Qxb5 axb5 23. Ne3 Kh7 24. Nef5 Nxf5 25. Nxf5 Bd8 26. Nxd6 Nd7 27. Ba2 Bc7 28.
+Nf5 Be2 29. Rfe1 Bxd3 30. Rad1 c4 31. b3 Nf6 32. bxc4 Bxe4 33. Ne3 bxc4 34.
+Nxc4 Ra8 35. Re3 Bd5 36. Bb1+ g6 37. Nxe5 Bxe5 38. Bxe5 Ra6 39. Bxf6 Rxf6 40.
+Rxd5 Rxf2 41. Rd7 Rb8 42. Be4 Re8 43. a4 ( 43. Bxg6+ $16 $142 Kg7 44. Rxe8 Kxg6
+45. Rg8+ Kf6 46. Rd6+ )43... Rf4 44. Rd4 f5 45. Rd7+ Kh8 46. a5 Rfxe4 47. Ra3
+Re3 48. Ra1 Ra8 49. a6 Ree8 50. a7 Red8 51. Rxd8+ Rxd8  1-0
+
