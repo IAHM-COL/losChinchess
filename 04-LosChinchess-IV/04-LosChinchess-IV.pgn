@@ -1196,3 +1196,91 @@ Bxc4 16. dxc4 O-O 17. Qf3 Rac8 18. Bh3 Rcd8 19. Rfd1 e4 20. Qe2 d3 21. Qd2 cxb4
 34. Rxc5 Rd8 35. Kg2 Bb4 36. Rh5+ Kg8 37. Rb5 d2 38. Rxb4 d1=Q 39. h4 Qd5+ 40.
 Kf1 Rc8 41. Rd4 Qf3 42. Rd8+ Rxd8 {  Blancas Resignan}  43. -- Rd1#  0-1
 
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/DxBaC9I8"]
+[Date "2022.05.28"]
+[Round "8"]
+[White "OseznoRaudo"]
+[Black "Alejandro-mesa"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1595"]
+[BlackRatingDiff "+36"]
+[ECO "B01"]
+[EventDate "2022.05.28"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+[UTCDate "2022.05.28"]
+[UTCTime "20:54:51"]
+[Variant "Standard"]
+[WhiteElo "1809"]
+[WhiteRatingDiff "-143"]
+
+1. e4 d5 2. exd5 Qxd5 {  B01 Scandinavian Defense: Mieses-Kotroc Variation}  3.
+Nc3 Qe6+ 4. Be2 Nf6 5. h3 Nc6 6. Nf3 Qd7 7. O-O e6 8. Bb5 a6 9. Bxc6 Qxc6 10.
+b3 Bb4 11. Bb2 O-O 12. a3 Bxc3 13. Bxc3 Bd7 14. Ne5 Qd6 15. Nxd7 Qxd7 16. Qg4
+$4 Nxg4 17. hxg4 b5 {  White resigns.}   0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/JT0w8dGC"]
+[Date "2022.05.29"]
+[Round "7"]
+[White "Ear512"]
+[Black "macla3010"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1956"]
+[BlackRatingDiff "-77"]
+[ECO "B10"]
+[EventDate "2022.05.29"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+[UTCDate "2022.05.29"]
+[UTCTime "00:47:25"]
+[Variant "Standard"]
+[WhiteElo "1923"]
+[WhiteRatingDiff "+30"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d3 Bg4 5. h3 Bh5 6. Be2 Bxf3 7. Bxf3 e5 8.
+O-O Nf6 9. Re1 Nc6 10. Bg5 h6 11. Bh4 Qb6 12. Qc1 Bc5 13. Re2 g5 14. Bg3 e4 15.
+dxe4 dxe4 16. Bxe4 O-O-O 17. Bf5+ Nd7 18. Nc3 Nd4 19. Bxd7+ Rxd7 20. Re4 f5 21.
+Na4 Qc6 22. Nxc5 fxe4 23. Qe3 Qxc5 24. Qxe4 h5 25. c3 Nf5 26. Bh2 Rf8 27. Re1
+h4 28. Rc1 Nd6 29. Qe2 Rdf7 30. Qe6+ Rd7 31. Rc2 Re8 32. Bxd6 Rxe6 33. Bxc5
+Rd1+ 34. Kh2 b6 35. Be3 Ra1 36. a3 Rd1 37. Bxg5 Re4 38. f3 Ree1 39. Bxh4 Rh1+
+40. Kg3 Rhe1 41. Kg4 Re8 42. Kg3 Rd5 43. Bf6 Re6 44. Bd4 b5 45. f4 Rg6+ 46. Kh2
+Rf5 47. Be5 Kd7 48. g4 Rf7 49. c4 Rc6 50. Rd2+ Ke8 51. cxb5 Rc1 52. g5 Rd7 53.
+Re2 Rdd1 54. b4 Rh1+ 55. Kg3 Rcg1+ 56. Kh4 Ra1 57. Bxa1+ Kd7 58. Bd4 Rd1 59.
+Bxa7 Rd3 60. a4 Rb3 61. Bc5 Ra3 62. a5 {  Negras resigan}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/YNveYPJE"]
+[Date "2022.05.29"]
+[Round "8"]
+[White "kopalito"]
+[Black "Ear512"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1953"]
+[BlackRatingDiff "+29"]
+[ECO "B30"]
+[EventDate "2022.05.29"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+[UTCDate "2022.05.29"]
+[UTCTime "02:51:11"]
+[Variant "Standard"]
+[WhiteElo "1970"]
+[WhiteRatingDiff "-28"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 a6 4. Be2 e6 5. d3 d6 6. O-O Be7 7. Be3 Nf6 8. d4
+Nxd4 9. Nxd4 cxd4 10. Bxd4 e5 11. Be3 O-O 12. Bc4 b5 13. Bb3 Bb7 14. Qf3 Qd7
+15. Rad1 Qc6 16. Nd5 Nxd5 17. Bxd5 Qc7 18. Qg3 Kh8 19. Qf3 Bxd5 20. Rxd5 Qxc2
+21. Rd2 Qc6 22. Rd5 Rad8 23. Rc1 Qd7 24. Rd2 Rc8 25. Rxc8 Qxc8 26. Rd1 f5 27.
+exf5 Qxf5 28. Qb7 Bg5 29. Qb6 d5 30. Bc5 Rd8 31. g3 d4 32. Rf1 h6 33. f4 exf4
+34. Rxf4 Qb1+ 35. Rf1 Be3+ 36. Kg2 Qxb2+ 37. Kh3 Rd5 38. Qg6 Rd8 39. Rf7 d3 40.
+Bxe3 $138 Rg8 41. Bxh6 d2 42. Bf4 ( {  Pierde secuencia de mate } 42. Bxg7+
+Rxg7 ( 42... Qxg7 43. Qh5+ Qh7 44. Qxh7# )43. Rf8+ Rg8 44. Qxg8# )42... d1=Q
+43. Qg5 Qf1+ 44. Kg4 Qbe2+ 45. Kh4 Qxh2+ 46. Kg4 Qfe2+ 47. Kf5 Qh7+ 48. Qg6
+Qxg6+ 49. Kxg6 Qe4+ 50. Kg5 Qe6 51. Rf5 Rd8 52. Kg4 g6 {  Blancasr resignan}  
+0-1
+

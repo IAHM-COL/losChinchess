@@ -1,14 +1,14 @@
 ## Torneo de Ajedrez Los Chinchess IV - Resultados
 #### Grupo A
 
-|                         | Jorge Andres (kopalito)   | Maria Clara (macla3010)   | Mauricio (twinsendell)   | Neider (NeiderMT)   | Edison (Ear512)   | Israel (IAHMCOL)   |   Puntos |   Neudstadtl |
-|:------------------------|:--------------------------|:--------------------------|:-------------------------|:--------------------|:------------------|:-------------------|---------:|-------------:|
-| Jorge Andres (kopalito) | X                         | 1                         | 1                        | 1                   | 1                 | 1                  |      5   |        17    |
-| Maria Clara (macla3010) | 1                         | X                         | 1                        | 1                   | 1                 | 1                  |      5   |        17    |
-| Mauricio (twinsendell)  | 0                         | 1                         | X                        | 1                   | 0                 | 1.5                |      3.5 |        11.75 |
-| Neider (NeiderMT)       | 1                         | 0                         | 1                        | X                   | 1                 | 0                  |      3   |        11.5  |
-| Edison (Ear512)         | 0                         | 0                         | 1                        | 0                   | X                 | 2                  |      3   |         8.5  |
-| Israel (IAHMCOL)        | 0                         | 0                         | 0.5                      | 2                   | 0                 | X                  |      2.5 |         7.75 |
+|                         | Jorge Andres (kopalito)   | Maria Clara (macla3010)   | Edison (Ear512)   | Mauricio (twinsendell)   | Neider (NeiderMT)   | Israel (IAHMCOL)   |   Puntos |   Neudstadtl |
+|:------------------------|:--------------------------|:--------------------------|:------------------|:-------------------------|:--------------------|:-------------------|---------:|-------------:|
+| Jorge Andres (kopalito) | X                         | 1                         | 1                 | 1                        | 1                   | 1                  |      5   |        19    |
+| Maria Clara (macla3010) | 1                         | X                         | 1                 | 1                        | 1                   | 1                  |      5   |        19    |
+| Edison (Ear512)         | 1                         | 1                         | X                 | 1                        | 0                   | 2                  |      5   |        18.5  |
+| Mauricio (twinsendell)  | 0                         | 1                         | 0                 | X                        | 1                   | 1.5                |      3.5 |        11.75 |
+| Neider (NeiderMT)       | 1                         | 0                         | 1                 | 1                        | X                   | 0                  |      3   |        13.5  |
+| Israel (IAHMCOL)        | 0                         | 0                         | 0                 | 0.5                      | 2                   | X                  |      2.5 |         7.75 |
 #### Grupo B
 
 |                            | Camilo (cgallego00)   | Andres (arandres)   | Jairo (jajajairoramirez)   | Joaquin (OseznoRaudo)   | Alejandro (Alejandro-mesa)   | Juan David (axertijo)   |   Puntos |   Neudstadtl |
