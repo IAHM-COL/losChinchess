@@ -14,7 +14,7 @@
 | Maria Clara (macla3010)   |                           X |                   1 |                           1 |                          1 |                     2 |                    2 |          7 |           28.5 |         |
 | Edison (Ear512)           |                           1 |                   X |                           1 |                          1 |                     1 |                    2 |          6 |           26.5 |  1948   |
 | Jorge Andres (kopalito)   |                           1 |                   1 |                           X |                          1 |                     1 |                    2 |          6 |           26.5 |  1911   |
-| Mauricio (twinsendell)    |                           1 |                   1 |                           0 |                          X |                     1 |                  1.5 |        5.5 |          25.75 |         |
+| Mauricio (twinsendell)    |                           1 |                   1 |                           1 |                          X |                     1 |                  1.5 |        5.5 |          25.75 |         |
 | Neider (NeiderMT)         |                           0 |                   1 |                           1 |                          1 |                     X |                    0 |          3 |           17.5 |         |
 | Israel (IAHMCOL)          |                           0 |                   0 |                           0 |                        0.5 |                     2 |                    X |        2.5 |           8.75 |         |
 
