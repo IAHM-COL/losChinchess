@@ -1,12 +1,12 @@
 ## Torneo de Ajedrez Los Chinchess IV - Resultados
 
 #### Cuadrangular Final
-|                      | Maria Clara (mc3010) | camilo (cgallego00) | Edison (Ear512) | Andres (arandres) |     Puntos |     Neudstadtl |
-| :----------          | :------------        | :------------       | :------------   | :------------     | ---------: | -------------: |
-| Maria Clara (mc3010) | X                    | -                   | -               | -                 |          0 |              0 |
-| Camilo (cgallego00)  | -                    | X                   | -               | -                 |          0 |              0 |
-| Edison (Ear512)      | -                    | -                   | X               | -                 |          0 |              0 |
-| Andres (arandres)    | -                    | -                   | -               | X                 |          0 |              0 |
+|                      | Andres (arandres) | Camilo (cgallego00) | Maria Clara (mc3010) | Edison (Ear512) |      Puntos |     Neudstadtl |
+| :------------------- | :---------------- | :------------------ | :------------------- | :-------------- | ----------: | -------------: |
+| Andres (Arandres)    |                 X |                   1 |                    2 |               2 |           5 |             10 |
+| Camilo (cgallego00)  |                 1 |                   X |                    1 |               2 |           4 |              8 |
+| Maria Clara (mc3010) |                 0 |                   1 |                    X |               2 |           3 |              4 |
+| Edison (Ear512)      |                 0 |                   0 |                    0 |               X |           0 |              0 |
 
 #### Grupo A
 |                           |     Maria Clara (macla3010) |     Edison (Ear512) |     Jorge Andres (kopalito) |     Mauricio (twinsendell) |     Neider (NeiderMT) |     Israel (IAHMCOL) |     Puntos |     Neudstadtl | Glicko  |
