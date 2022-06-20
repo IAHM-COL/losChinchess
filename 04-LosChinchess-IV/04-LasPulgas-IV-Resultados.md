@@ -5,8 +5,8 @@
 | :-------------------    |  :--------------------- | :--------------------- | :----------------------  | :---------------- | -------: | ---------: |
 | Jorge Andres (kopalito) |                       X |                      1 | 1                        | 1                 |        3 |          2 |
 | Mauricio (twinsendell)  |                       0 |                      X | 1                        | 1                 |        2 |          0 |
-| Jairo (jajairoramirez)  |                       0 |                      0 | X                        | -                 |        0 |          0 |
-| Neider (NeiderMT)       |                       0 |                      0 | -                        | X                 |        0 |          0 |
+| Jairo (jajairoramirez)  |                       0 |                      0 | X                        | 1                 |        1 |          0 |
+| Neider (NeiderMT)       |                       0 |                      0 | 0                        | X                 |        0 |          0 |
 
 #### Repechaje 
 #### 4A v 5B
