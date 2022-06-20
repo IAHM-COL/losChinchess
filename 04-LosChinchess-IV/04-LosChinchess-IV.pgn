@@ -1168,7 +1168,7 @@ gxh3 26. Rxh3 Ne4 27. Bd3 f4 28. Rf3 Nc3 29. Rc1 d4 30. g3 Bg4 31. Nxf4 exf4
 Nd7 11. Qd2 Ne7 12. O-O-O O-O 13. Qxd7 Nd5 14. Qxb7 Nxc3 15. Rd4 Ne2+ 16. Kd1
 Nxd4 17. Nxd4 Qxd4+ 18. Ke1 Rfd8 {  White resigns.}  19. -- Qd1#  0-1
 
-[Event "Rated Classical game"]
+[Event "Los Chinchess IV"]
 [Site "https://lichess.org/kSWQW7c1"]
 [Date "2022.05.28"]
 [Round "8"]
@@ -1283,4 +1283,821 @@ Rxg7 ( 42... Qxg7 43. Qh5+ Qh7 44. Qxh7# )43. Rf8+ Rg8 44. Qxg8# )42... d1=Q
 43. Qg5 Qf1+ 44. Kg4 Qbe2+ 45. Kh4 Qxh2+ 46. Kg4 Qfe2+ 47. Kf5 Qh7+ 48. Qg6
 Qxg6+ 49. Kxg6 Qe4+ 50. Kg5 Qe6 51. Rf5 Rd8 52. Kg4 g6 {  Blancasr resignan}  
 0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/lNSUO4Wr"]
+[Date "2022.06.04"]
+[Round "9"]
+[White "IAHMCOL"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1942"]
+[BlackRatingDiff "+3"]
+[ECO "B30"]
+[EventDate "2022.06.04"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[Termination "Normal"]
+[UTCDate "2022.06.04"]
+[UTCTime "01:16:05"]
+[Variant "Standard"]
+[WhiteElo "1456"]
+[WhiteRatingDiff "-4"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bb5 a6 5. Bxc6 bxc6 6. d4 cxd4 7. Nxd4 e5 8.
+Nb3 Bb4 9. Qd2 Nxe4 10. Qe2 Nxc3 11. bxc3 Bxc3+ 12. Bd2 Bxa1 13. O-O Bb2 14. f4
+O-O 15. fxe5 Re8 16. Qh5 Qe7 17. Rxf7 Qxf7 18. Qxf7+ Kxf7 19. Bf4 Bxe5 20. Bxe5
+Rxe5 21. Nd4 c5 22. Nf3 Re2 23. Ng5+ Kg6 24. h4 d5 25. Nf3 Rxc2 26. Ne5+ Kh5
+27. g3 Rb8  0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/WlodIMjz"]
+[Date "2022.06.03"]
+[Round "9"]
+[White "twinsendell"]
+[Black "Ear512"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1982"]
+[BlackRatingDiff "-42"]
+[ECO "B40"]
+[EventDate "2022.06.03"]
+[Opening "Sicilian Defense: Marshall Counterattack"]
+[Termination "Normal"]
+[UTCDate "2022.06.03"]
+[UTCTime "22:06:07"]
+[Variant "Standard"]
+[WhiteElo "1674"]
+[WhiteRatingDiff "+105"]
+
+1. e4 c5 2. Nf3 e6 3. d4 d5 {  B40 Sicilian Defense: Marshall Counterattack}  4.
+Nc3 Nf6 5. e5 Nfd7 6. Be2 Nc6 7. dxc5 Bxc5 8. Bf4 Qb6 9. Na4 Qa5+ 10. c3 Qc7
+11. Nxc5 Nxc5 12. O-O O-O 13. g3 Qd8 14. Re1 f6 15. exf6 Qxf6 16. Bd6 Re8 17.
+Bxc5 Bd7 18. Bb5 a6 19. Bxc6 Bxc6 20. Bd4 Qf5 21. Re5 Qf7 22. Ng5 Qg6 23. Qe2
+Bd7 24. Re1 Rac8 25. Nxe6 Rc6 26. Nf4 Rxe5 27. Qxe5 Qf7 28. Qe7 Qf5 29. Qd8+
+Kf7 30. Re7# {  White wins by checkmate.}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/IEwwlyMZ"]
+[Date "2022.06.04"]
+[Round "9"]
+[White "NeiderMT"]
+[Black "macla3010"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1892"]
+[BlackRatingDiff "+26"]
+[ECO "A40"]
+[EventDate "2022.06.04"]
+[Opening "Queen's Pawn Game"]
+[Termination "Normal"]
+[UTCDate "2022.06.04"]
+[UTCTime "02:15:53"]
+[Variant "Standard"]
+[WhiteElo "1658"]
+[WhiteRatingDiff "-13"]
+
+1. d4 {  A40 Queen's Pawn Game}  1... c6 2. Bf4 d5 3. Nc3 Bf5 4. Bxb8 Rxb8 5.
+Nf3 Qb6 6. b3 e6 7. e3 Nf6 8. Be2 Bb4 9. Qd2 Ne4 10. Qd3 Bxc3+ 11. Kf1 Bxa1 12.
+g3 O-O 13. Kg2 Bg4 14. Rxa1 Qd8 15. Nh4 Bxe2 16. Qxe2 g5 17. Nf3 h5 18. Ne5 h4
+19. Qh5 Qf6 20. f3 Nd2 21. Nd7 Qg7 22. gxh4 gxh4+ 23. Qg4 Qxg4+ 24. fxg4 Kg7
+25. Kh3 f5 26. Rg1 Nf3 27. gxf5+ Nxg1+ 28. Kxh4 Rh8+ 29. Kg5 Rbd8 30. f6+ Kf7
+31. Ne5+ Ke8 32. f7+ Kf8 33. Kf6 Rh6+ 34. Ng6+ Rxg6+ 35. Kxg6 c5 36. h4 Rd7 37.
+h5 Rxf7 38. h6 Kg8 39. dxc5 Rh7 40. b4 Nh3 41. b5 Nf2 42. c6 bxc6 43. b6 axb6
+44. a4 Ne4 45. c3 Ng3 46. c4 Nf5 47. cxd5 exd5 48. Kxf5 Rxh6 49. Ke5 Kf7 50. e4
+Ke7 51. exd5 Rh5+ 52. Kd4 Rxd5+ 53. Ke4 Kf6 54. Kf4 Rd4+ 55. Ke3 c5 56. Kf3 Kf5
+57. Ke3 Rxa4 58. Kd3 Ke5 59. Ke3 Ra3+ 60. Kd2 Kd4 61. Kc2 Rh3 62. Kd2 Rh2+ 63.
+Ke1 Kd3 64. Kf1 Ke3 65. Kg1 Ra2 66. Kf1 c4 67. Ke1 Ra1# {  Black wins by
+checkmate.}   0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/BRfFZGdE"]
+[Date "2022.06.05"]
+[Round "9"]
+[White "Alejandro-mesa"]
+[Black "arandres"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1799"]
+[BlackRatingDiff "+9"]
+[ECO "C00"]
+[EventDate "2022.06.05"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[Termination "Normal"]
+[UTCDate "2022.06.05"]
+[UTCTime "17:08:56"]
+[Variant "Standard"]
+[WhiteElo "1588"]
+[WhiteRatingDiff "-12"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. dxc5 Bxc5 6. Nc3 Qc7 7. Ne4 Be7 8. Nc3
+Nxe5 9. Nxe5 Qxe5+ 10. Be3 Nf6 11. Bb5+ Bd7 12. Bxd7+ Nxd7 13. O-O Bd6 14. g3
+O-O 15. Bd4 Qg5 16. Nb5 Bb8 17. Re1 a6 18. Nc3 h5 19. Ne2 h4 20. b3 hxg3 21.
+Nxg3 Bc7 22. Be3 Qg6 23. Bc1 Nf6 24. Ba3 Rfe8 25. Bb2 Ne4 26. Qf3 Ng5 27. Qc3
+Bb6 28. Bc1 Rac8 29. Qd2 Nf3+  0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/wEVp1CJ7"]
+[Date "2022.06.02"]
+[Round "9"]
+[White "jajajairoramirez"]
+[Black "cgallego00"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1936"]
+[BlackRatingDiff "+11"]
+[ECO "A05"]
+[EventDate "2022.06.02"]
+[Opening "Zukertort Opening: Nimzo-Larsen Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.02"]
+[UTCTime "03:34:13"]
+[Variant "Standard"]
+[WhiteElo "1702"]
+[WhiteRatingDiff "-10"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. Nc3 O-O 5. g3 b6 6. Bg2 Bb7 7. d4 d5 8. Qd2 e6
+9. O-O-O Ng4 10. Rhf1 a5 11. Kb1 Bc6 12. h3 Nf6 13. Ne5 Nfd7 14. f4 Nxe5 15.
+fxe5 b5 16. e4 dxe4 17. Bxe4 Bxe4 18. Nxe4 a4 19. Ba3 Re8 20. Qb4 axb3 21. Qxb3
+Nd7 22. h4 Nb6 23. d5 Qc8 24. d6 Qd7 25. dxc7 Qxc7 26. Bd6 Qc6 27. Nf6+ Bxf6
+28. exf6 Qc4 29. Qe3 Qxa2+ 30. Kc1 Nc4 31. Qb3 Qxb3 32. cxb3 Ne3 33. Rf4 Ra1+
+34. Kd2 Nxd1 35. Be5 Rd8+ 36. Ke2 Ra2+ 37. Kf3 Ra3 38. Rb4 Rd3+ 39. Ke2 Raxb3
+40. Rxb3 Rxb3 41. Kxd1 Kf8 42. Kc2 Rf3 43. g4 Ke8 44. h5 Kd7 45. hxg6 hxg6 46.
+Kd2 Kc6 47. Ke2 Rh3 48. Kf2 Kd5 49. Kg2 Rb3 50. Bf4 b4 51. Kf2 Ra3 52. Bc1 Rc3
+53. Bb2 Rc2+  0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/rLjT3vEq"]
+[Date "2022.06.02"]
+[Round "9"]
+[White "axertijo"]
+[Black "OseznoRaudo"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1666"]
+[BlackRatingDiff "+16"]
+[ECO "D20"]
+[EventDate "2022.06.02"]
+[Opening "Queen's Gambit Accepted"]
+[Termination "Normal"]
+[UTCDate "2022.06.02"]
+[UTCTime "18:39:28"]
+[Variant "Standard"]
+[WhiteElo "1204"]
+[WhiteRatingDiff "-21"]
+
+1. d4 d5 2. c4 dxc4 {  D20 Queen's Gambit Accepted}  3. Nc3 Nf6 4. g3 Nc6 5. Nf3
+Bg4 6. Bg2 Bxf3 7. Bxf3 Qxd4 8. Be3 Qxd1+ 9. Rxd1 e6 10. a3 Bd6 11. O-O O-O 12.
+Nb5 Rfd8 13. Rd2 a6 14. Nxd6 cxd6 15. Bg5 d5 16. Bxf6 gxf6 17. Rfd1 f5 18. e3
+Kg7 19. Bg2 Kf6 20. f4 b5 21. h4 Rg8 22. Kh2 h5 23. Bf3 Rh8 24. a4 b4 25. Ra1
+b3 26. Kh3 a5 27. Kh2 Nb4 28. Kh3 Rag8 29. Rg2 Nd3 30. Rb1 Rb8 31. Rd2 Rb4 32.
+Ra1 Kg6 33. Kh2 Kh6 34. Be2 Nf2 35. Bf3 Ng4+ 36. Bxg4 hxg4 37. Rd4 Re8 38. Ra3
+Rd8 39. Ra1 f6 40. Rd2 Kg6 41. Rdd1 e5 42. Rd2 Rb6 43. Rf1 e4 44. Rfd1 Rbd6 45.
+Rd4 Kf7 46. R1d2 Ke7 47. Rd1 Kd7 48. R4d2 Kc6 49. Kg2 Kc5 50. Kf2 Kb4 51. Ra1
+d4 52. exd4 Rxd4 53. Rxd4 Rxd4 54. Ke3 Rd3+ 55. Ke2 Rxg3 56. Rh1 Rg2+ 57. Kf1
+Rxb2 58. h5 Rb1+ 59. Kg2 Rxh1 60. Kxh1 b2 61. h6 b1=Q+ 62. Kg2 Qc2+ 63. Kg3
+Qd3+ 64. Kh4 Qh3# {  Black wins by checkmate.}   0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/zhglffRg"]
+[Date "2022.06.04"]
+[Round "10"]
+[White "twinsendell"]
+[Black "kopalito"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1945"]
+[BlackRatingDiff "-34"]
+[ECO "B33"]
+[EventDate "2022.06.04"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.04"]
+[UTCTime "01:39:08"]
+[Variant "Standard"]
+[WhiteElo "1779"]
+[WhiteRatingDiff "+78"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nf3 Nf6 6. Nc3 {  B33 Sicilian
+Defense: Lasker-Pelikan Variation, Retreat Variation}  6... Bb4 7. Bg5 h6 8.
+Bh4 g5 9. Bg3 Nxe4 10. Qd3 Nxc3 11. bxc3 Qe7 12. cxb4 e4 13. Qe3 d5 14. Nd4
+Qxb4+ 15. c3 Qb2 16. Qc1 Qb6 17. Bb5 Bd7 18. Rb1 Qc5 19. Bxc6 bxc6 20. O-O O-O
+21. Rb7 Bg4 22. Rc7 Qc4 23. a3 c5 24. Nc6 f5 25. Ne5 Qb5 26. Nxg4 fxg4 27. Be5
+Rf7 28. Rxf7 Kxf7 29. Qd2 Rd8 30. f4 $3 {  Y gana!}  30... gxf4 31. Qxf4+ Ke6
+32. Qf6+ Kd7 33. Qd6+ Ke8 34. Rf8# {  White wins by checkmate.}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/iEwAVqJ3"]
+[Date "2022.06.03"]
+[Round "10"]
+[White "IAHMCOL"]
+[Black "macla3010"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1879"]
+[BlackRatingDiff "+13"]
+[ECO "B18"]
+[EventDate "2022.06.03"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.03"]
+[UTCTime "02:45:11"]
+[Variant "Standard"]
+[WhiteElo "1462"]
+[WhiteRatingDiff "-6"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 {  B18 Caro-Kann Defense: Classical
+Variation}  5. Bd3 Nd7 6. Nf3 Bxe4 7. Bxe4 Ngf6 8. Bd3 e6 9. O-O Bd6 10. Re1
+O-O 11. Nh4 Qb6 12. c3 Qc7 13. g3 c5 14. Qc2 cxd4 15. cxd4 Qxc2 16. Bxc2 Rac8
+17. Bd3 Nd5 18. f4 Nb4 19. Re3 Nc2 20. Bb5 Nxa1 21. Bd2 Nb6 22. f5 Rc2 23. Bc3
+a6 24. Bd3 Rc1+ 25. Re1 Rxe1+ 26. Bxe1 Rc8 27. Bc3 Nd5 28. fxe6 fxe6 29. Bd2
+Nc2 30. Nf3 Ncb4 31. Be4 Nxa2 32. Bxd5 exd5 33. Ng5 Rc2 34. Bf4 Bxf4 35. gxf4
+Rxb2 36. h4 Re2 37. f5 Re3 38. Kf2 Rc3 39. Nf3 b5 40. Kg3 b4 41. Kg4 b3 42. Nd2
+b2 43. Nb1 Rc1 44. Nd2 Rd1 {  White resigns.}   0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/6US11utw"]
+[Date "2022.06.05"]
+[Round "10"]
+[White "Ear512"]
+[Black "NeiderMT"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1645"]
+[BlackRatingDiff "-10"]
+[ECO "D02"]
+[EventDate "2022.06.05"]
+[Opening "Queen's Pawn Game"]
+[Termination "Normal"]
+[UTCDate "2022.06.05"]
+[UTCTime "01:55:08"]
+[Variant "Standard"]
+[WhiteElo "1940"]
+[WhiteRatingDiff "+8"]
+
+1. e3 d5 2. d4 {  D00 Queen's Pawn Game}  2... Bf5 3. Nf3 f6 4. Bd3 Bxd3 5. Qxd3
+e6 6. Qb5+ Nc6 7. Qxb7 Nge7 8. b3 g5 9. Ba3 Rb8 10. Qa6 Rb6 11. Qe2 Bg7 12. c4
+O-O 13. cxd5 exd5 14. Nc3 Re8 15. O-O Nf5 16. Rac1 Ncxd4 17. Nxd4 Nxd4 18. Qd3
+Nxb3 19. axb3 Rxb3 20. Bc5 Re5 21. Bxa7 f5 22. Bd4 Rxe3 23. Bxe3 d4 24. Qc4+
+Kh8 25. Qxb3 dxe3 26. fxe3 h6 27. Nd5 Kh7 28. Rxf5 Be5 29. Qd3 Bxh2+ 30. Kxh2
+Qd6+ 31. Kg1 Kg7 32. Rxc7+ Kg8 33. Rc8+ Kg7 34. Qd4+ Kg6 35. Rf6+ Kh5 36. Rxd6
+{  Black resigns.}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/2z3foEnQ"]
+[Date "2022.06.06"]
+[Round "10"]
+[White "arandres"]
+[Black "cgallego00"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1947"]
+[BlackRatingDiff "+16"]
+[ECO "C24"]
+[EventDate "2022.06.06"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[Termination "Normal"]
+[UTCDate "2022.06.06"]
+[UTCTime "04:41:36"]
+[Variant "Standard"]
+[WhiteElo "1808"]
+[WhiteRatingDiff "-12"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. h3 a6 5. Nf3 b5 6. Bb3 d5 7. Nbd2 dxe4 8. dxe4
+Nc6 9. O-O O-O 10. Re1 a5 11. a3 a4 12. Ba2 h6 13. b3 axb3 14. Bxb3 Bd6 15. Bb2
+Re8 16. Bd5 Bb7 17. c3 Na5 18. Bxb7 Nxb7 19. Qb3 c6 20. Rad1 Nc5 21. Qa2 Nd3
+22. Re3 Nxb2 23. Qxb2 Bxa3 24. Qb3 Qe7 25. Nh4 Kh8 26. Nf5 Qe6 27. Qc2 Bc5 28.
+Rg3 Rg8 29. Nb3 Bb6 30. Rd6 Qc4 31. Ne7 Nxe4 32. Rxc6 Bxf2+ 33. Qxf2 Qxb3 34.
+Rxh6+ gxh6 35. Rxg8+ Rxg8 36. Qe3 Qd1+ 37. Kh2 Rxg2+ 38. Kxg2 Qd2+ 39. Qxd2
+Nxd2 40. Nd5 Kg7 41. Kf2 f5 42. Ke3 Nc4+ 43. Kd3 Kg6 44. Nc7 Nd6 45. Nd5 Kg5
+46. Ne7 Kh4 47. Ng6+ Kxh3 48. Nxe5 h5 49. Ke3 Kg3 50. Ke2 h4 51. Kf1 h3 52. Kg1
+Ne4 53. Nd3 Nxc3 54. Kh1 Ne4 55. Kg1 f4 56. Kh1 h2 57. Nxf4 $4 Nf2#  0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/He5iH0oS"]
+[Date "2022.06.03"]
+[Round "10"]
+[White "Alejandro-mesa"]
+[Black "axertijo"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1183"]
+[BlackRatingDiff "+210"]
+[ECO "C42"]
+[EventDate "2022.06.03"]
+[Opening "Russian Game"]
+[Termination "Normal"]
+[UTCDate "2022.06.03"]
+[UTCTime "23:48:06"]
+[Variant "Standard"]
+[WhiteElo "1631"]
+[WhiteRatingDiff "-43"]
+
+1. e4 e5 2. Nf3 Nf6 3. d3 d6 4. Bg5 h6 5. Be3 Nc6 6. Nc3 Be6 7. d4 exd4 8. Nxd4
+Nxd4 9. Bxd4 d5 10. Bxf6 Qxf6 11. exd5 Bd7 12. Nb5 O-O-O 13. Qd3 a6 14. Nd4 Bc5
+15. c3 Rhe8+ 16. Be2 h5 17. O-O g5 18. Bxh5 Rh8 19. Bf3 g4 20. Be4 Bd6 21. g3
+Rh3 22. Bg2 Rh5 23. f4 Rdh8 24. Kf2 Bc5 25. Qe4 Re8 26. Qd3 Bb5 27. c4 Bd7 28.
+Rae1 Bxd4+ 29. Re3 Rxe3 30. Qc2 b5 31. Re1 Rxe1+ 32. Kxe1 Bf5 33. Qe2 Rxh2 34.
+Qe8+ Qd8 35. Qxf7 Rxg2 36. Qxf5+ Qd7 37. Qe4 Bxb2 38. Qxg2 Bc3+ 39. Kd1 bxc4
+40. Kc2 Bd4 41. Qe4 Qa4+ 42. Kd2 c3+ 43. Kc1 Qa3+ 44. Kd1 Qa4+ 45. Ke1 c2 46.
+Kd2 Qc4 47. Qxc2 Qxd5 48. Qd3 c5 49. Qxa6+ Kc7 50. Qa5+ Kc6 51. Qa4+ Kd6 52.
+Qa6+ Qc6 53. Qc4 Qg2+ 54. Kd3 Qxg3+ 55. Ke4 Qe3+ 56. Kf5 g3 57. Qa6+ Kd5 58.
+Qb7+ Kc4 59. Qb3+ Qxb3 60. axb3+ Kxb3 61. Kg4 g2 62. Kf3 g1=Q  0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/Emh32scA"]
+[Date "2022.06.03"]
+[Round "10"]
+[White "OseznoRaudo"]
+[Black "jajajairoramirez"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1692"]
+[BlackRatingDiff "+21"]
+[ECO "B21"]
+[EventDate "2022.06.03"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[Termination "Normal"]
+[UTCDate "2022.06.03"]
+[UTCTime "19:06:19"]
+[Variant "Standard"]
+[WhiteElo "1682"]
+[WhiteRatingDiff "-70"]
+
+1. e4 c5 2. d4 {  B21 Sicilian Defense: Smith-Morra Gambit}  2... b6 3. Nf3 g6
+4. Bc4 Bg7 5. Be3 Nc6 6. c3 a6 7. dxc5 bxc5 8. Bxc5 d6 9. Bd4 e5 10. Be3 Nf6
+11. Ng5 O-O 12. Bd5 Nxd5 13. Qxd5 Qd7 14. O-O Bb7 15. Rd1 Nd4 16. Qc4 Nc2 17.
+Nd2 d5 18. Qd3 Nxa1 19. Rxa1 h6 20. Ngf3 Rad8 21. exd5 Bxd5 22. c4 e4 23. Qxd5
+exf3 24. Nxf3 Qa4 25. b3 Qb4 26. Bc5 Qc3 27. Rf1 Rxd5 28. Bxf8 Rd6 29. Bxg7
+Kxg7 30. h4 Rf6 31. Rd1 Rxf3 32. gxf3 Qxf3 33. Rd6 Qg4+ 34. Kf1 Qh3+ 35. Ke2 a5
+36. Rd3 Qxh4 37. Kd2 Qf4+ 38. Kc3 Qxf2 39. a4 g5 40. Rd5 Qf3+ 41. Kd4 Qxb3 42.
+Rxa5 Qd1+ 43. Kc3 Qe1+ {  White resigns.}   0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/99xTUs6Z"]
+[Date "2022.06.11"]
+[Round "11"]
+[White "cgallego00"]
+[Black "arandres"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1796"]
+[BlackRatingDiff "-10"]
+[ECO "C02"]
+[EventDate "2022.06.11"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+[Termination "Normal"]
+[UTCDate "2022.06.11"]
+[UTCTime "19:38:39"]
+[Variant "Standard"]
+[WhiteElo "1963"]
+[WhiteRatingDiff "+13"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O
+Nge7 9. b4 Bxb4 10. cxb4 Qxb4 11. Ba3 Qb6 12. Bxe7 Nxe7 13. Nc3 Nc6 14. Nb5 O-O
+15. Rb1 Qa5 16. Nd6 b6 17. Qc2 Nb4 18. Qd2 Nxd3 19. Qxd3 Qxa2 20. Ng5 g6 21.
+Qh3 h5 22. Ngxf7 Rxf7 23. Nxf7 Kxf7 24. Qf3+ Kg7 25. Qf6+ Kh6 26. Qe7 Qa4 27.
+Ra1 Qb5 28. Rfb1 Qc6 29. Ra3 Qc2 30. Re1 Qd2 31. Raa1 Bc8 32. Rad1 Qf4 33. g3
+Qf3 34. h4 a5 35. Rc1 Bd7 36. Qxd7 Rf8 37. Rf1 Rf7 38. Qxe6 a4 39. Qxb6 a3 40.
+Qa6 d4 41. Rc6 Rg7 42. Rd6 Qc3 43. e6 d3 44. Rxd3 Qf6 45. Rxa3 Kh7 46. Re1 g5
+47. hxg5 Qxg5 48. Ra5 Qg6 49. e7 Qg4 50. Qd3+ Kh6 51. Ra6+ Kg5 52. Re5+  1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/xn3GO5oV"]
+[Date "2022.06.11"]
+[Round "11"]
+[White "cgallego00"]
+[Black "macla3010"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1976"]
+[BlackRatingDiff "-46"]
+[ECO "B13"]
+[EventDate "2022.06.11"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.11"]
+[UTCTime "21:06:41"]
+[Variant "Standard"]
+[WhiteElo "1976"]
+[WhiteRatingDiff "+22"]
+
+1. e4 c6 2. d4 d5 3. exd5 {  B13 Caro-Kann Defense: Exchange Variation}  3...
+cxd5 4. Nf3 Bg4 5. Be2 Nc6 6. h3 Bh5 7. c3 Nf6 8. O-O e6 9. Ne5 Bxe2 10. Qxe2
+Nxe5 11. Qxe5 Bd6 12. Qg5 O-O 13. Bf4 h6 14. Qg3 Ne4 15. Qe3 Be7 16. Nd2 Qb6
+17. b4 g5 18. Be5 Nxd2 19. Qxd2 f6 20. Bg3 Rac8 21. h4 Rc4 22. Rfe1 Rfc8 23.
+Rac1 f5 24. hxg5 Bxg5 25. Bf4 Qd8 26. Rxe6 Rxc3 27. Rxc3 Rxc3 28. Bxg5 Qxg5 29.
+Qxc3 {  Black resigns.}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/EWAdNLpI"]
+[Date "2022.06.20"]
+[Round "12"]
+[White "arandres"]
+[Black "macla3010"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1976"]
+[BlackRatingDiff "-55"]
+[ECO "B10"]
+[EventDate "2022.06.20"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+[UTCDate "2022.06.20"]
+[UTCTime "03:20:22"]
+[Variant "Standard"]
+[WhiteElo "1814"]
+[WhiteRatingDiff "+23"]
+
+1. e4 c6 2. Nf3 d6 3. Bc4 Bg4 4. h3 Bh5 5. d3 e5 6. Be3 b5 7. Bb3 Nf6 8. Nbd2
+Nbd7 9. c3 Nb6 10. Qc2 d5 11. Nxe5 Qd6 12. Bf4 dxe4 13. Nxe4 Nxe4 14. dxe4 Qf6
+15. Bg3 Bd6 16. f4 O-O 17. Ng4 Bxf4 $4 {  Y pierde}  18. Nxf6+ gxf6 19. Bxf4 { 
+Arandres -- alfil de Oro}   1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/IrL0PWGC"]
+[Date "2022.06.11"]
+[Round "12"]
+[White "Ear512"]
+[Black "macla3010"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1918"]
+[BlackRatingDiff "+58"]
+[ECO "B12"]
+[EventDate "2022.06.11"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.11"]
+[UTCTime "20:06:55"]
+[Variant "Standard"]
+[WhiteElo "1948"]
+[WhiteRatingDiff "-26"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 {  B12 Caro-Kann Defense: Advance Variation,
+Short Variation}  4... e6 5. Bd3 Bxd3 6. Qxd3 Nd7 7. O-O c5 8. c3 Ne7 9. Bg5
+Qb6 10. Qd2 Ng6 11. Be3 f6 12. exf6 gxf6 13. Na3 Bd6 14. b3 h5 15. Qd3 h4 16.
+Qxg6+ Kd8 17. h3 Kc7 18. Qf7 Rae8 19. c4 Rhf8 20. Qh7 Rh8 21. Qd3 Kb8 22. cxd5
+exd5 23. Rfc1 Reg8 24. dxc5 Bxc5 25. Bxc5 Nxc5 26. Qxd5 Ne6 27. Qf5 Ng5 28. Nc4
+Qc6 29. Qf4+ Ka8 30. Rc3 Nxh3+ 31. Kh2 Nxf4 {  White resigns.}   0-1
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/EmuxTnlO"]
+[Date "2022.06.16"]
+[Round "12"]
+[White "arandres"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1998"]
+[BlackRatingDiff "-34"]
+[ECO "C55"]
+[EventDate "2022.06.16"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+[UTCDate "2022.06.16"]
+[UTCTime "00:30:42"]
+[Variant "Standard"]
+[WhiteElo "1786"]
+[WhiteRatingDiff "+28"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d3 Nf6 5. c3 Bd6 6. Bb3 a6 7. Bc2 Bc5 8. O-O
+O-O 9. Re1 d6 10. Be3 Bxe3 11. Rxe3 Bg4 12. Qd2 Qd7 13. d4 exd4 14. cxd4 Rae8
+15. d5 Bxf3 16. dxc6 Qxc6 17. Rxf3 Nxe4 18. Bxe4 Rxe4 19. Nc3 Re6 20. Re1 Rfe8
+21. Rfe3 Rxe3 22. Rxe3 Rxe3 23. Qxe3 b5 24. Qe4 Qc5 25. Qe8+ Kh7 26. Qxf7 Qg5
+27. h3 Qc1+ 28. Kh2 Qxb2 29. Qxc7 Qxf2 30. Qxd6 b4 31. Qxb4 a5 32. Qd6 Qe1 33.
+Nd5 Qa1 34. a3 Kh8 35. Ne7 Kh7 36. Qd3+ g6  1-0
+
+[Event "Los Chinchess IV"]
+[Site "https://lichess.org/kSDLSyHN"]
+[Date "2022.06.20"]
+[Round "12"]
+[White "macla3010"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1964"]
+[BlackRatingDiff "-23"]
+[ECO "A29"]
+[EventDate "2022.06.20"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+[Termination "Normal"]
+[UTCDate "2022.06.20"]
+[UTCTime "01:20:44"]
+[Variant "Standard"]
+[WhiteElo "1930"]
+[WhiteRatingDiff "+46"]
+
+1. c4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bc5 5. Nf3 O-O 6. O-O d6 7. d3 Bg4 8. Bg5
+h6 9. Bxf6 Qxf6 10. Qb3 Rab8 11. Nd5 Qd8 12. Rfd1 Nd4 13. Qa4 Nxe2+ 14. Kh1 c6
+15. Ne3 Bxe3 16. fxe3 Qf6 17. Rf1 b5 18. cxb5 Rxb5 19. Qc2 Nxg3+ 20. hxg3 Bxf3
+21. Rxf3 Qg5 22. Qxc6 Rxb2 23. Qxd6 Qh5+ 24. Kg1 Rfb8 25. Raf1 Rf8 26. Qa3 Rb5
+27. Qxa7 e4 28. dxe4 Qe5 29. Qd4 Qb8 30. a4 Rb1 31. a5 Rxf1+ 32. Rxf1 Qb5 33.
+Qd5 Qe2 34. a6 Qxe3+ 35. Kh2 Qb6 36. Qa2 Ra8 37. e5 Rxa6 38. Qxf7+ Kh8 39. Qf8+
+Kh7 40. Be4+ $1 $18 Qg6 {  Y se rinde, ya que}  41. Bxg6+ Rxg6 42. Re1 {  [%csl
+Ge5]}  42... -- 43. e6  1-0
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/93P8rgbo"]
+[Date "2022.06.11"]
+[Round "1"]
+[White "twinsendell"]
+[Black "Alejandro-mesa"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1576"]
+[BlackRatingDiff "-10"]
+[ECO "B01"]
+[EventDate "2022.06.11"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.11"]
+[UTCTime "00:10:05"]
+[Variant "Standard"]
+[WhiteElo "1857"]
+[WhiteRatingDiff "+18"]
+
+1. e4 d5 2. exd5 Qxd5 {  B01 Scandinavian Defense: Mieses-Kotroc Variation}  3.
+Nc3 Qe6+ 4. Be2 Nc6 5. Nf3 Nf6 6. d4 Qd7 7. O-O e6 8. Bb5 a6 9. Bxc6 Qxc6 10.
+Ne5 Qd6 11. Bf4 Qd8 12. Ne2 Bd6 13. c4 O-O 14. c5 Bxe5 15. Bxe5 b6 16. b4 Bb7
+17. Rc1 Qd5 18. f3 Qxa2 19. Bxc7 Rac8 20. Be5 bxc5 21. Bxf6 gxf6 22. dxc5 Rfd8
+23. Qc2 Qa3 24. Qc3 Qa2 25. Nd4 e5 26. Nf5 Rd2 27. Ne3 Rcd8 28. Rc2 Rxc2 29.
+Qxc2 Qe6 30. Qf5 Qb3 31. Qg4+ Kh8 32. Nf5 Rg8 33. Qh4 Bxf3 34. Qxf6+ {  Black
+resigns.}   1-0
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/mgDbYnjH"]
+[Date "2022.06.11"]
+[Round "1"]
+[White "Alejandro-mesa"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1875"]
+[BlackRatingDiff "+15"]
+[ECO "C45"]
+[EventDate "2022.06.11"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+[UTCDate "2022.06.11"]
+[UTCTime "18:55:42"]
+[Variant "Standard"]
+[WhiteElo "1566"]
+[WhiteRatingDiff "-8"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 {  C45 Scotch Game}  4... Nxd4 5. Qxd4 d6
+6. Nc3 Nf6 7. Nd5 Nxd5 8. Qxd5 Be7 9. Bc4 O-O 10. Bd3 Be6 11. Qd4 c5 12. Qe3
+Bg5 13. f4 Bh4+ 14. g3 Bf6 15. Rb1 Bd4 16. Qd2 f5 17. e5 dxe5 18. fxe5 Qd5 19.
+c3 Qxh1+ 20. Bf1 Qe4+ 21. Be2 Qxb1 22. cxd4 Rad8 23. Qg5 Rxd4 24. Qe3 Re4 25.
+Qxc5 Bc4 26. b3 Qxc1+ 27. Kf2 Rxe2+ 28. Kf3 Qf1+ {  White resigns.}   0-1
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/rMTemSZ0"]
+[Date "2022.06.08"]
+[Round "1"]
+[White "OseznoRaudo"]
+[Black "NeiderMT"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1635"]
+[BlackRatingDiff "+25"]
+[ECO "B21"]
+[EventDate "2022.06.08"]
+[Opening "Benoni Defense: French Benoni"]
+[Termination "Normal"]
+[UTCDate "2022.06.08"]
+[UTCTime "16:40:13"]
+[Variant "Standard"]
+[WhiteElo "1612"]
+[WhiteRatingDiff "-56"]
+
+1. e4 c5 2. d4 e6 3. d5 {  A43 Benoni Defense: French Benoni}  3... e5 4. Nf3
+Bd6 5. Bc4 f6 6. O-O Ne7 7. Nc3 a6 8. Be3 b5 9. Be2 c4 10. b3 Qa5 11. Qd2 Bb4
+12. bxc4 Bxc3 13. Qd1 Bxa1 14. Qxa1 bxc4 15. Bxc4 d6 16. Bd2 Qc7 17. Rb1 Qxc4 {
+ White resigns.}   0-1
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/o4eIq5WF"]
+[Date "2022.06.08"]
+[Round "1"]
+[White "NeiderMT"]
+[Black "OseznoRaudo"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1556"]
+[BlackRatingDiff "+67"]
+[ECO "D20"]
+[EventDate "2022.06.08"]
+[Opening "Queen's Gambit Accepted: Old Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.08"]
+[UTCTime "16:52:12"]
+[Variant "Standard"]
+[WhiteElo "1660"]
+[WhiteRatingDiff "-32"]
+
+1. d4 d5 2. c4 dxc4 3. e3 {  D20 Queen's Gambit Accepted: Old Variation}  3...
+e5 4. Bxc4 exd4 5. Ne2 Nc6 6. exd4 Bb4+ 7. Nbc3 Nge7 8. O-O Be6 9. Bxe6 fxe6
+10. Bg5 h6 11. Bxe7 Qxe7 12. Qd3 O-O-O 13. Rfe1 Qf6 14. a3 Bd6 15. Ng3 Bxg3 16.
+Qxg3 Nxd4 17. Rad1 c6 18. b4 Nc2 19. Rxd8+ Rxd8 20. Rd1 Rxd1+ 21. Nxd1 Qd4 22.
+Qf3 g6 23. h3 Qa1 24. Kh2 Qxa3 25. Qf8+ Kd7 26. Qxh6 Qxb4 27. Qxg6 Qd6+ 28. g3
+Qxd1 29. h4 Qe2 30. Qf7+ Kd6 31. h5 Ne1 32. Qf4+ Ke7 33. h6 Qf3 34. Qxf3 Nxf3+
+35. Kh3 Kf7 36. Kg4 Kg6 37. Kxf3 a5 38. g4 Kxh6 39. Kf4 Kg6 40. Ke5 a4 41. f4
+a3 42. Kxe6 a2 43. f5+ Kg5 44. f6 a1=Q 45. f7 Qf6+ 46. Kd7 Qxf7+ 47. Kc8 Kxg4
+48. Kb8 Qb3 49. Kc7 c5 50. Kd6 c4 51. Ke6 c3+ 52. Kd6 c2 53. Kd7 c1=Q 54. Kd6
+Qc6+ 55. Ke5 Qbb5+ 56. Kd4 Qcc4+ 57. Ke3 Qbb3+ 58. Kf2 Qcc2+ 59. Kg1 Qbb1# { 
+Black wins by checkmate.}   0-1
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/CjuPkMdq"]
+[Date "2022.06.09"]
+[Round "1"]
+[White "OseznoRaudo"]
+[Black "NeiderMT"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1672"]
+[BlackRatingDiff "+20"]
+[ECO "B21"]
+[EventDate "2022.06.09"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[Termination "Normal"]
+[UTCDate "2022.06.09"]
+[UTCTime "23:28:54"]
+[Variant "Standard"]
+[WhiteElo "1623"]
+[WhiteRatingDiff "-40"]
+
+1. e4 c5 2. d4 {  B21 Sicilian Defense: Smith-Morra Gambit}  2... b6 3. d5 Ba6
+4. Bxa6 Nxa6 5. Qe2 e6 6. Qxa6 exd5 7. exd5 Bd6 8. Nf3 f6 9. O-O Qc7 10. g3 Ne7
+11. c4 O-O 12. Nc3 Be5 13. Nb5 Qb8 14. Rb1 g5 15. Re1 Ng6 16. b3 h5 17. Bb2 Re8
+18. Bxe5 Nxe5 19. Nxe5 Rxe5 20. Rxe5 Qxe5 21. Qb7 Rf8 22. Qxa7 Qe4 23. Rf1 h4
+24. gxh4 Rf7 25. Nd6 Qg4+ 26. Kh1 Rg7 27. Rg1 Qf3+ 28. Rg2 gxh4 29. Qb8+ Kh7 { 
+White resigns.}  30. -- Qxg2#  0-1
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/MpMC5aaq"]
+[Date "2022.06.19"]
+[Round "2"]
+[White "twinsendell"]
+[Black "jajajairoramirez"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1701"]
+[BlackRatingDiff "-13"]
+[ECO "C02"]
+[EventDate "2022.06.19"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.19"]
+[UTCTime "02:14:31"]
+[Variant "Standard"]
+[WhiteElo "1874"]
+[WhiteRatingDiff "+21"]
+
+1. e4 e6 2. d4 d5 3. e5 {  C02 French Defense: Advance Variation}  3... c6 4.
+Nf3 g6 5. Be2 Bg7 6. O-O Ne7 7. Re1 O-O 8. Nbd2 b5 9. Nf1 Na6 10. a3 Qc7 11.
+Bg5 c5 12. Bxb5 cxd4 13. Qxd4 Nf5 14. Qd3 Nc5 15. Qc3 h6 16. Bf6 Qb6 17. Bxg7
+Kxg7 18. Bd3 Ba6 19. Bxf5 exf5 20. e6+ f6 21. e7 Rfe8 22. Ng3 Rac8 23. Qb4 Qc7
+24. Rad1 Rxe7 25. Rxe7+ Qxe7 26. Rxd5 Bb7 27. Rxf5 Bxf3 28. gxf3 Kh8 29. Rd5
+Rc7 30. Ne4 Nxe4 31. Qxe7 Rxe7 32. fxe4 Rxe4 33. Rd8+ Kg7 34. Rd7+ Kf8 35. Rxa7
+f5 36. Ra6 Kf7 37. b4 Re1+ 38. Kg2 h5 39. b5 g5 40. b6 Re6 41. Ra7+ Kf6 42. b7
+Rb6 43. a4 g4 44. a5 Rb5 45. Ra6+ Ke5 46. Rb6 Rd5 47. b8=Q+ Ke4 48. Rb4+ Rd4
+49. Rxd4+ {  Black resigns.}   1-0
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/fBVihGcF"]
+[Date "2022.06.14"]
+[Round "3"]
+[White "NeiderMT"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1911"]
+[BlackRatingDiff "+12"]
+[ECO "B30"]
+[EventDate "2022.06.14"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+[UTCDate "2022.06.14"]
+[UTCTime "01:30:02"]
+[Variant "Standard"]
+[WhiteElo "1692"]
+[WhiteRatingDiff "-10"]
+
+1. e4 c5 2. Nf3 Nc6 {  B30 Sicilian Defense: Old Sicilian}  3. Nh4 e6 4. Bc4
+Qxh4 5. Nc3 d6 6. Qe2 d5 7. exd5 Nd4 8. Qd3 Nf6 9. dxe6 Bxe6 10. Bb5+ Bd7 11.
+Qe3+ Be7 12. Bxd7+ Nxd7 13. O-O Nxc2 14. Qe4 Qxe4 15. Nxe4 Nxa1 16. Re1 O-O 17.
+b3 Nc2 18. Re2 Nd4 19. Re1 Nf6 20. Nxc5 Bxc5 21. h3 Rfe8 22. Rf1 Bd6 23. Bb2
+Ne2+ 24. Kh1 Rac8 25. g3 Rc2 26. Bd4 Nxd4 {  White resigns.}   0-1
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/rLu3E2MU"]
+[Date "2022.06.17"]
+[Round "2"]
+[White "kopalito"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1890"]
+[BlackRatingDiff "-38"]
+[ECO "A45"]
+[EventDate "2022.06.17"]
+[Opening "Indian Defense"]
+[Termination "Normal"]
+[UTCDate "2022.06.17"]
+[UTCTime "02:24:53"]
+[Variant "Standard"]
+[WhiteElo "1935"]
+[WhiteRatingDiff "+20"]
+
+1. d4 Nf6 {  A45 Indian Defense}  2. Bf4 d6 3. Nc3 g6 4. Qd2 Bg7 5. e4 O-O 6.
+O-O-O Nbd7 7. Bh6 e5 8. d5 Nc5 9. h4 Ncxe4 10. Nxe4 Nxe4 11. Qe3 Bf5 12. h5
+Bxh6 13. Qxh6 Nxf2 14. hxg6 Nxh1 15. Qxh7# {  White wins by checkmate.}   1-0
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/TrcI7ZF0"]
+[Date "2022.06.20"]
+[Round "2"]
+[White "jajajairoramirez"]
+[Black "NeiderMT"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1664"]
+[BlackRatingDiff "-20"]
+[ECO "A04"]
+[EventDate "2022.06.20"]
+[Opening "Zukertort Opening: Arctic Defense"]
+[Termination "Normal"]
+[UTCDate "2022.06.20"]
+[UTCTime "18:30:29"]
+[Variant "Standard"]
+[WhiteElo "1688"]
+[WhiteRatingDiff "+21"]
+
+1. Nf3 f6 {  A04 Zukertort Opening: Arctic Defense}  2. b3 c5 3. Bb2 e5 4. d3
+Qe7 5. Nbd2 Nc6 6. g3 Qd6 7. Ne4 Qe6 8. Bg2 d5 9. Nc3 d4 10. Nb5 Bd6 11. c3 a6
+12. Nxd6+ Qxd6 13. cxd4 cxd4 14. Rc1 Nge7 15. O-O O-O 16. a3 b5 17. b4 Bb7 18.
+e3 dxe3 19. fxe3 Nd5 20. Qb3 Kh8 21. Rfe1 Rac8 22. e4 Nde7 23. Bh3 Rcd8 24. Nh4
+Qxd3 25. Qe6 Qd2 26. Bc3 Qd3 27. Bf1 Qd6 28. Qg4 Nd4 29. Red1 Nec6 30. Nf5 Qd7
+31. Bh3 Bc8 32. Bxd4 Nxd4 33. Rxc8 $2 Qxc8 $4 ( 33... Rxc8 $142 34. Nxd4 ( 34.
+Qxg7+ Qxg7 35. Nxg7 Kxg7 )34... exd4 )34. Qxg7# {  White wins by checkmate.}  
+1-0
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/uvAaaPZI"]
+[Date "2022.06.18"]
+[Round "2"]
+[White "twinsendell"]
+[Black "NeiderMT"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1677"]
+[BlackRatingDiff "-13"]
+[ECO "B00"]
+[EventDate "2022.06.18"]
+[Opening "Nimzowitsch Defense: Declined Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.18"]
+[UTCTime "00:53:42"]
+[Variant "Standard"]
+[WhiteElo "1852"]
+[WhiteRatingDiff "+22"]
+
+1. e4 Nc6 2. Nf3 {  B00 Nimzowitsch Defense: Declined Variation}  2... d5 3.
+exd5 Nb4 4. c4 Bf5 5. Qa4+ c6 6. Qxb4 e6 7. Qxb7 f6 8. Qxc6+ Kf7 9. dxe6+ Bxe6
+10. Bd3 Rc8 11. Qb5 Qxd3 12. b3 Re8 13. Kd1 Bf5 14. Qd5+ Qxd5 15. cxd5 Bd6 16.
+Nd4 Be4 17. f3 Bxd5 18. Nc3 Ba8 19. Ndb5 Bb8 20. Ba3 Nh6 21. Bd6 g5 22. Bxb8
+Rxb8 23. Re1 Nf5 24. Nxa7 Nd4 25. Kc1 Rhd8 26. Ne2 Re8 27. Kd1 Nxe2 28. Rxe2
+Rxe2 29. Kxe2 Bd5 30. Rc1 Rb7 31. Nc6 Kg6 32. Rc5 Bf7 33. Nd8 Re7+ 34. Kd1 Bg8
+35. a4 Bxb3+ 36. Kc1 Bxa4 37. Rc4 Bb3 38. Rc3 Re1+ 39. Kb2 Bg8 40. d4 Rd1 41.
+Nc6 Bd5 42. Ne7+ Kh5 43. Nxd5 Rxd4 44. Nxf6+ Kh4 45. Kb3 g4 46. fxg4 Kg5 47.
+Nxh7+ Kg6 48. Nf8+ Kf7 49. Rf3+ Ke7 50. Ng6+ Kd7 51. Ne5+ Kd6 52. Rd3 Kxe5 53.
+Rxd4 Kxd4 54. h4 Ke5 55. h5 Kf4 56. h6 Kxg4 57. h7 Kg5 58. h8=Q {  Black
+resigns.}   1-0
+
+[Event "Las Pulgas IV"]
+[Site "https://lichess.org/PnVuIDUR"]
+[Date "2022.06.17"]
+[Round "3"]
+[White "kopalito"]
+[Black "jajajairoramirez"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1713"]
+[BlackRatingDiff "-12"]
+[ECO "C00"]
+[EventDate "2022.06.17"]
+[Opening "French Defense: Knight Variation"]
+[Termination "Normal"]
+[UTCDate "2022.06.17"]
+[UTCTime "02:04:15"]
+[Variant "Standard"]
+[WhiteElo "1923"]
+[WhiteRatingDiff "+12"]
+
+1. e4 e6 2. Nf3 {  C00 French Defense: Knight Variation}  2... d5 3. exd5 Qxd5
+4. Nc3 Qd8 5. d4 Bb4 6. Bd2 Nf6 7. a3 Bxc3 8. Bxc3 O-O 9. Bd3 Qd5 10. Qe2 b6
+11. Bd2 Bb7 12. Bg5 Nfd7 13. O-O f6 14. Bc4 Qc6 15. Bxe6+ Kh8 16. d5 Qd6 17.
+Bd2 c6 18. c4 cxd5 19. Bb4 Qe5 20. Nxe5 {  Black resigns.}   1-0
 
