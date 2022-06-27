@@ -1,12 +1,12 @@
 ## Ligilla de Ajedrez Las Pulgas IV - Resultados
 
 #### Cuadrangular Final
-|                         | Jorge Andres (kopalito) | Mauricio (twinsendell) | Jairo (jajajairoramirez) | Neider (NeiderMT) |   Puntos | Neudstadtl |
-| :-------------------    |  :--------------------- | :--------------------- | :----------------------  | :---------------- | -------: | ---------: |
-| Jorge Andres (kopalito) |                       X |                      1 | 1                        | 1                 |        3 |          2 |
-| Mauricio (twinsendell)  |                       0 |                      X | 1                        | 1                 |        2 |          0 |
-| Jairo (jajairoramirez)  |                       0 |                      0 | X                        | 1                 |        1 |          0 |
-| Neider (NeiderMT)       |                       0 |                      0 | 0                        | X                 |        0 |          0 |
+|                         | Jorge Andres (kopalito) | Mauricio (twinsendell) | Jairo (jajajairoramirez) | Neider (NeiderMT) |   Puntos | Neudstadtl | Glicko-2 |
+| :-------------------    |  :--------------------- | :--------------------- |  :---------------------- | :---------------- | -------: | ---------: | -------: |
+| Jorge Andres (kopalito) |                       X |                      2 |                        2 |                 2 |        6 |         12 |          |
+| Mauricio (twinsendell)  |                       0 |                      X |                        1 |                 1 |        2 |          4 |     1881 |
+| Jairo (jajairoramirez)  |                       0 |                      1 |                        X |                 1 |        2 |          4 |     1701 |
+| Neider (NeiderMT)       |                       0 |                      1 |                        1 |                 X |        2 |          4 |     1630 |
 
 #### Repechaje 
 #### 4A v 5B
