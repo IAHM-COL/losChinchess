@@ -6,8 +6,9 @@ El Campeon de cada Edicion es reconocido con el Titulo del "Alfil de Oro".
 #### Ediciones pasadas y resultados
 
 | Edicion | Fechas | Alfil de Oro | Alfil de Plata | Alfil de Bronce |
-| --- | --- | --- | --- | --- | 
-| Los Chinchess IV | 05/06/2022 - 06/17/2022 |  |  |  |
+| --- | --- | --- | --- | --- |
+| Los Chinchess V | 09/03/2022 - 10/09/2022 |  |  |  |
+| Los Chinchess IV | 05/06/2022 - 06/17/2022 | **Andres  ([arandres](https://lichess.org/@/arandres))** | Camilo ([cgallego00](https://lichess.org/@/cgallego00)) | Maria Clara ([macla3010](https://lichess.org/@/mc3010)) |
 | Los Chinchess III | 01/25/2022 - 03/09/2022 | **Jorge Andres ([kopalito](https://lichess.org/@/kopalito))** | Edison ([Ear512](https://lichess.org/@/Ear512)) | Camilo ([cgallego00](https://lichess.org/@/cgallego00)) |
 | Los Chinchess II | 09/04/2021 - 10/14/2021 | **Edison  ([Ear512](https://lichess.org/@/Ear512))** | Jorge Andres ([kopalito](https://lichess.org/@/kopalito)) | Camilo([cgallego00](https://lichess.org/@/cgallego00)) |
 | Los Chinchess I | 04/24/2021 - 06/04/2021 | **Andres  ([arandres](https://lichess.org/@/arandres))** | Camilo ([cgallego00](https://lichess.org/@/cgallego00)) | Maria Clara ([mc3010](https://lichess.org/@/mc3010)) |
