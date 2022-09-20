@@ -2,7 +2,7 @@
 ### Regulations
 
 | Group A                            | Group B                               |
-|------------------------------------+---------------------------------------|
+|------------------------------------|---------------------------------------|
 | A1. ♝♝ Andres (@arandres; 1835)    | B1. ♝ Jorge Andres (@kopalito; 1901)  |
 | A2. Israel (@IAHMCOL; 1446)        | B2. Alejandro (@Alejandro-mesa; 1487) |
 | A3. Maria Clara (@macla3010; 1921) | B3. Camilo (@cgallego00; 1786)        |
