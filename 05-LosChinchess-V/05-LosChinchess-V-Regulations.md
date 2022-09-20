@@ -1,15 +1,16 @@
 ## Los Chinchess V – Chess Tournament
 ### Regulations
 
-| Group A                            | Group B                               |
-|------------------------------------|---------------------------------------|
-| A1. ♝♝ Andres (@arandres; 1835)    | B1. ♝ Jorge Andres (@kopalito; 1901)  |
-| A2. Israel (@IAHMCOL; 1446)        | B2. Alejandro (@Alejandro-mesa; 1487) |
-| A3. Maria Clara (@macla3010; 1921) | B3. Camilo (@cgallego00; 1786)        |
-| A4. Hector (@Hector2311; 1500)     | B4. Joaquin (@OseznoRaudo; 1534)      |
-| A5. Pei (@pei12; 2160)             | B5. Jairo (@jajajairoramirez; 1701)   |
-| A6.  Neider (@NeiderMT; 1696)      | B6.  Mauricio (@twinsendell; 1649)    |
-| A7. Leison (@Quintero_05; 1785)    | B7. Asher (@AsDaGo; 1850)             |
+| Group A                                                                            | Group B                                                                                   |
+|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| A1. ♝♝ Andres ([@arandres](https://lichess.org/?user=arandres#friend); 1835)       | B1. ♝ Jorge Andres ([@kopalito](https://lichess.org/?user=kopalito#friend) 1901)          |
+| A2. Israel ([@IAHMCOL)](https://lichess.org/?user=IAHMCOL#friend); 1446)           | B2. Alejandro  ([@Alejandro-mesa](https://lichess.org/?user=Alejandro-mesa#friend); 1487) |
+| A3. Maria Clara  ([@macla3010](https://lichess.org/?user=macla3010#friend);  1921) | B3. Camilo  ([@cgallego00](https://lichess.org/?user=cgallego00#friend); 1786)            |
+| A4. Hector  ([@Hector2311](https://lichess.org/?user=Hector2311#friend);  1500)    | B4. Joaquin  ([@OseznoRaudo](https://lichess.org/?user=OseznoRaudo#friend); 1534)         |
+| A5. Pei  ([@pei12](https://lichess.org/?user=pei12#friend);  2160)                 | B5. Jairo  ([@jajajairoramirez](https://lichess.org/?user=jajajairoramirez#friend); 1701) |
+| A6.  Neider  ([@NeiderMT](https://lichess.org/?user=NeiderMT#friend);  1696)       | B6.  Mauricio  ([@twinsendell](https://lichess.org/?user=twinsendell#friend); 1649)       |
+| A7. Leison  ([@Quintero_05](https://lichess.org/?user=Quintero_05#friend);  1785)  | B7. Asher  ([@AsDaGo](https://lichess.org/?user=AsDaGo#friend); 1850)                     |
+
 
 ### Game's calendar and results record
 
