@@ -1,26 +1,26 @@
 ## Torneo de Ajedrez Los Chinchess IV - Resultados
 
 #### Grupo A
-|                           | Andres (arandres) | Israel (IAHMCOL)  | Maria Clara (macla3010)  | Hector (Hector2311)  | Pei (Pei12)  | Neider (NeiderMT) | Leison (Quintero_05)  |  Puntos |  Neudstadtl |
-| :------------------------ | :---------------- | :---------------- | :-------------------- | :------------------- | :----------- | :---------------- | --------------------:    | ------: | ----------: |
-| Andres (arandres)         | X                 | -                 | -                     | -                    | -            | -                 | -                        |       0 |           0 |
-| Israel (IAHMCOL)          | -                 | X                 | -                     | -                    | -            | -                 | -                        |       0 |           0 |
-| Maria Clara (macla3010)   | -                 | -                 | X                     | -                    | -            | -                 | -                        |       0 |           0 |
-| Hector (Hector2311)       | -                 | -                 | -                     | X                    | -            | -                 | -                        |       0 |           0 |
-| Pei (Pei12)               | -                 | -                 | -                     | -                    | X            | -                 | -                        |       0 |           0 |
-| Neider (NeiderMT)         | -                 | -                 | -                     | -                    | -            | X                 | -                        |       0 |           0 |
-| Leison (Quintero_05)      | -                 | -                 | -                     | -                    | -            | -                 | X                        |       0 |           0 |
+|                         | Leison (Quintero_05) | Andres (arandres) | Israel (IAHMCOL) | Neider (NeiderMT) | Maria Clara (macla3010) | Hector (Hector2311) | Pei (Pei12) | Bye | PTOS | Neudstatdl |
+|-------------------------|----------------------|-------------------|------------------|-------------------|-------------------------|---------------------|-------------|-----|------|------------|
+| Leison (Quintero_05)    | x                    | -                 |                1 | 1                 | -                       | -                   | -           |   1 |    3 |          2 |
+| Andres (arandres)       | -                    | x                 |                1 | -                 | -                       | -                   | -           |   - |    1 |          1 |
+| Israel (IAHMCOL)        | 0                    | 0                 |                x | 0                 | -                       | 1                   | -           |   - |    1 |          1 |
+| Neider (NeiderMT)       | 0                    | -                 |                1 | x                 | -                       | -                   | -           |   - |    1 |          1 |
+| Maria Clara (macla3010) | -                    | -                 |                - | -                 | x                       | -                   | -           |   1 |    1 |          0 |
+| Hector (Hector2311)     | -                    | -                 |                0 | -                 | -                       | x                   | -           |   1 |    1 |          0 |
+| Pei (Pei12)             | -                    | -                 |                - | -                 | -                       | -                   | x           |   1 |    1 |          0 |
 
 #### Grupo B
-|                              | Jorge Andres (kopalito) | Alejandro (Alejandro-mesa) | Camilo (cgallego00) | Joaquin (OseznoRaudo) | Jairo (jajajairoramirez)  | Mauricio (twinsendell) | Asher (AsDaGo) |  Puntos |  Neudstadtl |
-| :--------------------------- | :---------------------- | :------------------------- | :------------------ | :-------------------- | :------------------------ | :--------------------- | :------------  | ------: | ----------: |
-| Jorge Andres (kopalito)      | X                       | -                          | -                   | -                     | -                         | -                      | -              |       0 |           0 |
-| Alejandro (Alejandro-mesa)   | -                       | X                          | -                   | -                     | -                         | -                      | -              |       0 |           0 |
-| Camilo (cgallego00)          | -                       | -                          | X                   | -                     | -                         | -                      | -              |       0 |           0 |
-| Joaquin (OseznoRaudo)        | -                       | -                          | -                   | X                     | -                         | -                      | -              |       0 |           0 |
-| Jairo (jajajairoramirez)     | -                       | -                          | -                   | -                     | X                         | -                      | -              |       0 |           0 |
-| Mauricio (twinsendell)       | -                       | -                          | -                   | -                     | -                         | X                      | -              |       0 |           0 |
-| Asher (AsDaGo)               | -                       | -                          | -                   | -                     | -                         | -                      | X              |       0 |           0 |
+|                            | Asher (AsDaGo) | Camilo (cgallego00) | Joaquin (OseznoRaudo) | Jairo (jajajairoramirez) | Jorge Andres (kopalito) | Alejandro (Alejandro-mesa) | Mauricio (twinsendell) | Bye | PTOS | Neudstatdl |
+|----------------------------|----------------|---------------------|-----------------------|--------------------------|-------------------------|----------------------------|------------------------|-----|------|------------|
+| Asher (AsDaGo)             | x              | 1                   | -                     | -                        | -                       | 1                          | -                      |   1 |    3 |        1.5 |
+| Camilo (cgallego00)        | 0              | x                   | -                     | -                        | 0.5                     | -                          | -                      |   1 |  1.5 |       0.25 |
+| Joaquin (OseznoRaudo)      | -              | -                   | x                     | -                        | -                       | -                          | -                      |   1 |    1 |          0 |
+| Jairo (jajajairoramirez)   | -              | -                   | -                     | x                        | -                       | -                          | -                      |   1 |    1 |          0 |
+| Jorge Andres (kopalito)    | -              | 0.5                 | -                     | -                        | x                       | -                          | -                      |   - |  0.5 |       0.75 |
+| Alejandro (Alejandro-mesa) | 0              | -                   | -                     | -                        | -                       | x                          | -                      |   - |    0 |          0 |
+| Mauricio (twinsendell)     | -              | -                   | -                     | -                        | -                       | -                          | x                      |   - |    0 |          0 |
 
 
 #### Cuadrangular Final
