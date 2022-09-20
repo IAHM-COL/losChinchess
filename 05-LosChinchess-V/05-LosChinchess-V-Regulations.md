@@ -35,7 +35,7 @@ The player in third placement of each group obtains a direct ticket to the leagu
 
 All four classified players play a doble round Robin, alternating colors, October 22 to November 4. Podium is awarded Gold, Silver and Bronze Medal.
 
-# B	Platform
+## B	Platform
 
 B1. The tournament plays in  Lichess (https://lichess.org/)
 
@@ -65,7 +65,7 @@ C2. In accordance to chess regulations,  a player can personally request the Tou
 
 C3: Tie-breaking: Neudstadtl score is used for tie-breaking. If required, Glicko-2 score registered at the beginning of tournament, is used after Neudstadl. Higher score placed best.
 
-# D	Match programming and abandonment
+## D	Match programming and abandonment
 
 D1. Every week, each player has a schedule of either 3 or 4 games
 
