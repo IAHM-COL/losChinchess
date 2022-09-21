@@ -1,4 +1,4 @@
-## Torneo de Ajedrez Los Chinchess IV - Resultados
+## Torneo de Ajedrez Los Chinchess V - Resultados
 
 #### Grupo A
 |                                                                        | Leison (Quintero_05) | Pei (Pei12) | Andres (arandres) | Israel (IAHMCOL) | Neider (NeiderMT) | Maria Clara (macla3010) | Hector (Hector2311) | Bye | PTOS | Neudstatdl |
