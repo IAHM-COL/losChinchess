@@ -23,12 +23,12 @@
 | Jairo ([jajajairoramirez](https://lichess.org/?user=jajajairoramirez#friend)) |              0 |                   0 |                     0.5 |                    0.5 |                          0 |                     1 |                        x |   2 |    4 |       10.5 |
 
 #### Cuadrangular Final
-|                                                           | Asher (AsDaGo) | B1 | A2 | B2 | Puntos | Neudstadtl |
-|-----------------------------------------------------------|----------------|----|----|----|--------|------------|
-| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend)) | X              | -  | -  | -  |      0 |          0 |
-| B1                                                        | -              | X  | -  | -  |      0 |          0 |
-| A2                                                        | -              | -  | X  | -  |      0 |          0 |
-| B2                                                        | -              | -  | -  | X  |      0 |          0 |
+|                                                           | A1 | Asher (AsDaGo) | A2 | B2 | Puntos | Neudstadtl |
+|-----------------------------------------------------------+----+----------------+----+----+--------+------------|
+| A1                                                        | X  | -              | -  | -  |      0 |          0 |
+| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend)) | -  | X              | -  | -  |      0 |          0 |
+| A2                                                        | -  | -              | X  | -  |      0 |          0 |
+| B2                                                        | -  | -              | -  | X  |      0 |          0 |
 
 ****
 *Tabulated with Python 3.6.15 / Pandas 1.1.5*
