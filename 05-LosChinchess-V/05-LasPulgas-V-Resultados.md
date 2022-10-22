@@ -9,16 +9,16 @@
 #### Repechaje B4 vs A5
 |                                                                        | Mauricio (twinsendell) | Neider (NeiderMT) | Puntos | Neudstadtl |
 |------------------------------------------------------------------------|------------------------|-------------------|--------|------------|
-| Mauricio ([twinsendell](https://lichess.org/?user=twinsendell#friend)) | x                      | -                 |      0 |          0 |
-| Neider ([NeiderMT](https://lichess.org/?user=NeiderMT#friend))         | -                      | x                 |      0 |          0 |
+| Mauricio ([twinsendell](https://lichess.org/?user=twinsendell#friend)) | x                      | 2                 |      2 |          0 |
+| Neider ([NeiderMT](https://lichess.org/?user=NeiderMT#friend))         | 0                      | x                 |      0 |          0 |
 
 #### Cuadrangular Final
-|                                                                      | Leison (Quintero_05) | Jorge Andres (kopalito) | A4vB5 | B4vA5 | Puntos | Neudstadtl |
-|----------------------------------------------------------------------|----------------------|-------------------------|-------|-------|--------|------------|
-| Leison ([Quintero_05](https://lichess.org/?user=Quintero_05#friend)) | X                    | -                       | -     | -     |      0 |          0 |
-| Jorge Andres ([kopalito](https://lichess.org/?user=kopalito#friend)) | -                    | X                       | -     | -     |      0 |          0 |
-| A4vB5                                                                | -                    | -                       | X     | -     |      0 |          0 |
-| B4vA5                                                                | -                    | -                       | -     | X     |      0 |          0 |
+|                                                                        | Leison (Quintero_05) | Jorge Andres (kopalito) | A4vB5 | Mauricio (twinsendell) | Puntos | Neudstadtl |
+|------------------------------------------------------------------------|----------------------|-------------------------|-------|------------------------|--------|------------|
+| Leison ([Quintero_05](https://lichess.org/?user=Quintero_05#friend))   | X                    | -                       | -     | -                      |      0 |          0 |
+| Jorge Andres ([kopalito](https://lichess.org/?user=kopalito#friend))   | -                    | X                       | -     | -                      |      0 |          0 |
+| A4vB5                                                                  | -                    | -                       | X     | -                      |      0 |          0 |
+| Mauricio ([twinsendell](https://lichess.org/?user=twinsendell#friend)) | -                    | -                       | -     | X                      |      0 |          0 |
 
 ****
 *Tabulated with Python 3.6.15 / Pandas 1.1.5*

@@ -1,12 +1,12 @@
 ## Torneo de Ajedrez Los Chinchess V - Resultados
 
 #### Cuadrangular Final
-|                                                                    | Pei (Pei12) | Asher (AsDaGo) | Andres (arandres) | Camilo (cgallego00) | Puntos | Neudstadtl |
-|--------------------------------------------------------------------|-------------|----------------|-------------------|---------------------|--------|------------|
-| Pei ([pei12](https://lichess.org/?user=pei12#friend))              | X           | -              | -                 | -                   |      0 |          0 |
-| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))          | -           | X              | -                 | -                   |      0 |          0 |
-| Andres ([arandres](https://lichess.org/?user=arandres#friend))     | -           | -              | X                 | -                   |      0 |          0 |
-| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend)) | -           | -              | -                 | X                   |      0 |          0 |
+|                                                                    | Asher (AsDaGo) | Pei (Pei12) | Andres (arandres) | Camilo (cgallego00) | PTOS | Neudstatdl |
+|--------------------------------------------------------------------|----------------|-------------|-------------------|---------------------|------|------------|
+| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))          |              x |           1 |                 1 |                   1 |    3 |          3 |
+| Pei ([pei12](https://lichess.org/?user=pei12#friend))              |              0 |           x |                 1 |                   1 |    2 |          1 |
+| Andres ([arandres](https://lichess.org/?user=arandres#friend))     |              0 |           0 |                 x |                   1 |    1 |          0 |
+| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend)) |              0 |           0 |                 0 |                   x |    0 |          0 |
 
 #### Grupo A
 |                                                                       | Pei (Pei12) | Andres (arandres) | Leison (Quintero_05) | Maria Clara (macla3010) | Neider (NeiderMT) | Hector (Hector2311) | Israel (IAHMCOL) | Bye | PTOS | Neudstatdl |
@@ -20,15 +20,15 @@
 | Israel ([IAHMCOL](https://lichess.org/?user=IAHMCOL#friend))          |           0 |                 0 |                    0 |                       0 |                 0 |                   1 |                x |   2 |    3 |          5 |
 
 #### Grupo B
-|                                                                               | Asher (AsDaGo) | Camilo (cgallego00) | Jorge Andres (kopalito) | Mauricio (twinsendell) | Alejandro (Alejandro-mesa) | Jairo (jajajairoramirez) | Joaquin (OseznoRaudo) | Bye | PTOS | Neudstatdl |
-|-------------------------------------------------------------------------------|----------------|---------------------|-------------------------|------------------------|----------------------------|--------------------------|-----------------------|-----|------|------------|
-| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))                     |              x |                   2 |                       2 |                      2 |                          2 |                      1.5 |                     2 |   2 | 13.5 |      80.75 |
-| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend))            |              0 |                   x |                     1.5 |                      1 |                          2 |                        2 |                     2 |   2 | 10.5 |         50 |
-| Jorge Andres ([kopalito](https://lichess.org/?user=kopalito#friend))          |              0 |                 0.5 |                       x |                      1 |                          2 |                      1.5 |                     1 |   2 |    8 |         37 |
-| Mauricio ([twinsendell](https://lichess.org/?user=twinsendell#friend))        |              0 |                   1 |                       1 |                      x |                        0.5 |                      1.5 |                     2 |   2 |    8 |       36.5 |
-| Alejandro ([Alejandro-mesa](https://lichess.org/?user=Alejandro-mesa#friend)) |              0 |                   0 |                       0 |                    1.5 |                          x |                        2 |                     1 |   2 |  6.5 |         25 |
-| Jairo ([jajajairoramirez](https://lichess.org/?user=jajajairoramirez#friend)) |            0.5 |                   0 |                     0.5 |                    0.5 |                          0 |                        x |                     1 |   2 |  4.5 |      18.75 |
-| Joaquin ([OseznoRaudo](https://lichess.org/?user=OseznoRaudo#friend))         |              0 |                   0 |                       1 |                      0 |                          1 |                        0 |                     x |   2 |    4 |       14.5 |
+|                                                                               | Asher (AsDaGo) | Camilo (cgallego00) | Mauricio (twinsendell) | Jorge Andres (kopalito) | Alejandro (Alejandro-mesa) | Joaquin (OseznoRaudo) | Jairo (jajajairoramirez) | Bye | PTOS | Neudstatdl |
+|-------------------------------------------------------------------------------|----------------|---------------------|------------------------|-------------------------|----------------------------|-----------------------|--------------------------|-----|------|------------|
+| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))                     |              x |                   2 |                      2 |                       2 |                          2 |                     2 |                      1.5 |   2 | 13.5 |      82.75 |
+| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend))            |              0 |                   x |                      1 |                     1.5 |                          2 |                     2 |                        2 |   2 | 10.5 |         52 |
+| Mauricio ([twinsendell](https://lichess.org/?user=twinsendell#friend))        |              0 |                   1 |                      x |                       1 |                        0.5 |                     2 |                      1.5 |   2 |    8 |       38.5 |
+| Jorge Andres ([kopalito](https://lichess.org/?user=kopalito#friend))          |              0 |                 0.5 |                      1 |                       x |                          2 |                     1 |                      1.5 |   2 |    8 |         38 |
+| Alejandro ([Alejandro-mesa](https://lichess.org/?user=Alejandro-mesa#friend)) |              0 |                   0 |                    1.5 |                       0 |                          x |                     1 |                        2 |   2 |  6.5 |         26 |
+| Joaquin ([OseznoRaudo](https://lichess.org/?user=OseznoRaudo#friend))         |              0 |                   0 |                      0 |                       1 |                          1 |                     x |                        1 |   2 |    5 |         19 |
+| Jairo ([jajajairoramirez](https://lichess.org/?user=jajajairoramirez#friend)) |            0.5 |                   0 |                    0.5 |                     0.5 |                          0 |                     1 |                        x |   2 |  4.5 |      19.75 |
 
 ****
 *Tabulated with Python 3.6.15 / Pandas 1.1.5*
