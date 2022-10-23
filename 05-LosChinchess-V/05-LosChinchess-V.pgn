@@ -1172,7 +1172,7 @@ Bxa2 30. Kg2 Bb3 31. Kg3 f5 32. Kf4 g5+ 33. Kg3 f4+ {  White resigns.}   0-1
 [BlackRatingDiff "-3"]
 [ECO "B32"]
 [EventDate "2022.09.27"]
-[Opening "Sicilian Defense: LÃÂ¶wenthal Variation"]
+[Opening "Sicilian Defense: LÃÂÃÂ¶wenthal Variation"]
 [Termination "Normal"]
 [UTCDate "2022.09.27"]
 [UTCTime "00:00:53"]
@@ -1180,11 +1180,11 @@ Bxa2 30. Kg2 Bb3 31. Kg3 f5 32. Kf4 g5+ 33. Kg3 f4+ {  White resigns.}   0-1
 [WhiteElo "1947"]
 [WhiteRatingDiff "+8"]
 
-1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 {  B32 Sicilian Defense: LÃÂ¶wenthal
-Variation}  5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bc4 Nf6 8. Nc3 Bb4 9. f3 Be6 10. Bxe6
-fxe6 11. Bd2 Kc7 12. a3 Ba5 13. b4 Bb6 14. O-O-O Rad8 15. Bg5 h6 16. Rxd8 Rxd8
-17. Bh4 g5 18. Bg3 Bd4 19. Ne2 b6 20. Nxd4 Rxd4 21. Bxe5+ {  Black resigns.}  
-1-0
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 {  B32 Sicilian Defense:
+LÃÂÃÂ¶wenthal Variation}  5. Nxc6 dxc6 6. Qxd8+ Kxd8 7. Bc4 Nf6 8. Nc3 Bb4
+9. f3 Be6 10. Bxe6 fxe6 11. Bd2 Kc7 12. a3 Ba5 13. b4 Bb6 14. O-O-O Rad8 15.
+Bg5 h6 16. Rxd8 Rxd8 17. Bh4 g5 18. Bg3 Bd4 19. Ne2 b6 20. Nxd4 Rxd4 21. Bxe5+
+{  Black resigns.}   1-0
 
 [Event "Los Chinchess V"]
 [Site "https://lichess.org/LE6gc8PH"]
@@ -1332,7 +1332,7 @@ Kxe8 19. Nxd4 Ne5 20. Qe1 g6 21. f4 {  Black resigns.}   1-0
 [BlackRatingDiff "-35"]
 [ECO "D86"]
 [EventDate "2022.09.28"]
-[Opening "GrÃÂ¼nfeld Defense: Exchange Variation, Classical Variation"]
+[Opening "GrÃÂÃÂ¼nfeld Defense: Exchange Variation, Classical Variation"]
 [Termination "Normal"]
 [UTCDate "2022.09.28"]
 [UTCTime "23:56:24"]
@@ -2526,4 +2526,65 @@ Kg8 20. Ba5 Qc8 21. Bd7 Qa6 22. Qxb8 Qd3 23. Qxd6 Qxe4 24. Qxf6 Nxd5 25. Be6# {
 1. d4 Nf6 2. f3 {  A45 Paleface Attack}  2... d6 3. Bg5 g6 4. Bxf6 exf6 5. g4 f5
 6. h3 Qh4+ 7. Kd2 fxg4 8. fxg4 Bxg4 9. c3 Bf5 10. Nf3 Qf4+ 11. Ke1 Bh6 12. Rg1
 Nd7 13. Nbd2 Bg5 14. Nxg5 Qh4+ 15. Rg3 Qxg3# {  Black wins by checkmate.}   0-1
+
+[Event "Las Pulgas V"]
+[Site "https://lichess.org/5lX7YmWx"]
+[Date "2022.10.22"]
+[Round "1"]
+[White "macla3010"]
+[Black "Alejandro-mesa"]
+[Result "1/2-1/2"]
+[Annotator "lichess.org"]
+[BlackElo "1510"]
+[BlackRatingDiff "+6"]
+[ECO "B32"]
+[EventDate "2022.10.22"]
+[Opening "Sicilian Defense: Franco-Sicilian Variation"]
+[Termination "Normal"]
+[UTCDate "2022.10.22"]
+[UTCTime "21:30:19"]
+[Variant "Standard"]
+[WhiteElo "1673"]
+[WhiteRatingDiff "-18"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 e6 {  B32 Sicilian Defense: Franco-Sicilian Variation}
+ 4. d5 exd5 5. exd5 Qe7+ 6. Be3 Nd4 7. Bc4 d6 8. O-O Bf5 9. Nxd4 cxd4 10. Bxd4
+Qg5 11. Re1+ Ne7 12. Nc3 Bh3 13. Qf3 O-O-O 14. Qxh3+ Kb8 15. Ne4 Qg6 16. a4 Nf5
+17. Bc3 Re8 18. Nxd6 Rxe1+ 19. Rxe1 Bxd6 20. Bd3 Qh6 21. Qxf5 Qxh2+ 22. Kf1
+Qh1+ 23. Ke2 Re8+ 24. Kf3 Rxe1 25. Bxe1 Qxe1 26. Qxf7 Qe5 27. Qg8+ Kc7 28. Qf7+
+Be7 29. Qf4 Kd6 30. Qxe5+ Kxe5 31. c4 Bf6 32. b3 Kd4 33. Bxh7 Kc3 34. d6 Kxb3
+35. Bg8 Kxa4 36. Ke3 Kb4 37. Kd3 Kc5 38. d7 a5 39. Be6 b5 40. cxb5 Kxb5 41. Kc2
+Kb4 42. Kb1 Kc3 43. f4 Kd4 44. Kc2 Ke4 45. f5 Kf4 46. Kd3 Kg3 47. Bd5 Kg4 48.
+Kc4 Kxf5 49. Kb5 Ke5 50. Bf7 Kd6 51. Kxa5 Kxd7 52. Kb5 Ke7 53. Bd5 Kd6 54. Bf3
+g5 55. Kc4 Ke5 56. Kd3 Kf4 57. Bh5 Kg3 58. Bf3 g4 59. Bd5 Kf4 60. Bc6 g3 61.
+Kc4 Ke3 62. Bf3 Kf2 63. Kd5 Bg5 64. Ke5 Be3 65. Kf5 Ba7 66. Kg4 Bb8 67. Bd5 Ke3
+68. Bc6 Kd4 69. Bb7 Kc5 70. Kh3 Kb6 71. Bf3 Kc5 72. Kg4 Kd4 {  The game is a
+draw.}   1/2-1/2
+
+[Event "Las Pulgas V"]
+[Site "https://lichess.org/0WRvC4iQ"]
+[Date "2022.10.22"]
+[Round "1"]
+[White "Alejandro-mesa"]
+[Black "macla3010"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1641"]
+[BlackRatingDiff "+32"]
+[ECO "A04"]
+[EventDate "2022.10.22"]
+[Opening "Zukertort Opening: Black Mustang Defense"]
+[Termination "Normal"]
+[UTCDate "2022.10.22"]
+[UTCTime "21:10:38"]
+[Variant "Standard"]
+[WhiteElo "1520"]
+[WhiteRatingDiff "-10"]
+
+1. Nf3 Nc6 {  A04 Zukertort Opening: Black Mustang Defense}  2. g3 e5 3. d3 d5
+4. Bg2 Bc5 5. O-O Nf6 6. c3 O-O 7. c4 dxc4 8. dxc4 Bf5 9. Nc3 Bb4 10. Bd2 Qc8
+11. a3 Bxc3 12. Bxc3 Bh3 13. Nxe5 Rd8 14. Qb3 Nd4 15. Bxd4 Bxg2 16. Kxg2 Rxd4
+17. c5 Qe8 18. Nf3 Qe4 19. Qxb7 Qxb7 20. b4 Rd2 21. Rfe1 Re8 22. Kf1 Qb5 23.
+Nxd2 Qc6 24. Nf3 Ne4 25. Rab1 Nd2+ 26. Kg2 Nxb1 27. Rxb1 Rxe2 28. Rd1 Kf8 29.
+Kf1 Qxf3 30. Rd8+ Ke7 31. Rc8 {  White resigns.}   0-1
 
