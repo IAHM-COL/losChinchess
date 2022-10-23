@@ -1,12 +1,12 @@
 ### Torneo de Ajedrez "Los Chinchess" 
 
 El torneo/Club de Ajedrez, "Los Chinchess" esta organizado para competir cada 4 meses, usando la plataforma [Lichess.org](https://lichess.org/). 
-El Campeon de cada Edicion es reconocido con el Titulo del "Alfil de Oro".
+El Campeon de cada edicion es reconocido con el titulo del "Alfil de Oro".
 
 #### Ediciones pasadas y resultados
 
 | Edicion           | Fechas                  | Alfil de Oro                                                  | Alfil de Plata                                            | Alfil de Bronce                                            |
-| ---               | ---                     | ---                                                           | ---                                                       | ---                                                        |
+|-------------------|-------------------------|---------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
 | Los Chinchess VI  | 01/28/2023 - 03/09/2023 |                                                               |                                                           |                                                            |
 | Los Chinchess V   | 09/17/2022 - 11/04/2022 |                                                               |                                                           |                                                            |
 | Los Chinchess IV  | 05/06/2022 - 06/17/2022 | **Andres  ([arandres](https://lichess.org/@/arandres))**      | Camilo ([cgallego00](https://lichess.org/@/cgallego00))   | Maria Clara ([macla3010](https://lichess.org/@/macla3010)) |
