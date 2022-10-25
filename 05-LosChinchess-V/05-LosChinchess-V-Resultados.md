@@ -1,12 +1,12 @@
 ## Torneo de Ajedrez Los Chinchess V - Resultados
 
 #### Cuadrangular Final
-|                                                                    | Asher (AsDaGo) | Pei (Pei12) | Andres (arandres) | Camilo (cgallego00) | PTOS | Neudstatdl |
-|--------------------------------------------------------------------|----------------|-------------|-------------------|---------------------|------|------------|
-| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))          |              x |           1 |                 1 |                   1 |    3 |          3 |
-| Pei ([pei12](https://lichess.org/?user=pei12#friend))              |              0 |           x |                 1 |                   1 |    2 |          1 |
-| Andres ([arandres](https://lichess.org/?user=arandres#friend))     |              0 |           0 |                 x |                   1 |    1 |          0 |
-| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend)) |              0 |           0 |                 0 |                   x |    0 |          0 |
+|                                                                    | Asher (AsDaGo) | Pei (Pei12) | Camilo (cgallego00) | Andres (arandres) | PTOS | Neudstatdl |
+|--------------------------------------------------------------------|----------------|-------------|---------------------|-------------------|------|------------|
+| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))          |              x |           1 |                   2 |                 1 |    4 |          5 |
+| Pei ([pei12](https://lichess.org/?user=pei12#friend))              |              0 |           x |                   1 |                 1 |    2 |          2 |
+| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend)) |              0 |           1 |                   x |                 0 |    1 |          2 |
+| Andres ([arandres](https://lichess.org/?user=arandres#friend))     |              0 |           0 |                   1 |                 x |    1 |          1 |
 
 #### Grupo A
 |                                                                       | Pei (Pei12) | Andres (arandres) | Leison (Quintero_05) | Maria Clara (macla3010) | Neider (NeiderMT) | Hector (Hector2311) | Israel (IAHMCOL) | Bye | PTOS | Neudstatdl |
