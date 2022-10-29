@@ -3,10 +3,10 @@
 #### Cuadrangular Final
 |                                                                    | Asher (AsDaGo) | Pei (Pei12) | Camilo (cgallego00) | Andres (arandres) | PTOS | Neudstatdl |
 |--------------------------------------------------------------------|----------------|-------------|---------------------|-------------------|------|------------|
-| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))          |              x |           1 |                   2 |                 2 |    5 |          6 |
-| Pei ([pei12](https://lichess.org/?user=pei12#friend))              |              0 |           x |                   1 |                 1 |    2 |          2 |
-| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend)) |              0 |           1 |                   x |                 0 |    1 |          2 |
-| Andres ([arandres](https://lichess.org/?user=arandres#friend))     |              0 |           0 |                   1 |                 x |    1 |          1 |
+| Asher ([AsDaGo](https://lichess.org/?user=AsDaGo#friend))          |              x |           2 |                   2 |                 2 |    6 |         12 |
+| Pei ([pei12](https://lichess.org/?user=pei12#friend))              |              0 |           x |                   1 |                 2 |    3 |          4 |
+| Camilo ([cgallego00](https://lichess.org/?user=cgallego00#friend)) |              0 |           1 |                   x |                 1 |    2 |          4 |
+| Andres ([arandres](https://lichess.org/?user=arandres#friend))     |              0 |           0 |                   1 |                 x |    1 |          2 |
 
 #### Grupo A
 |                                                                       | Pei (Pei12) | Andres (arandres) | Leison (Quintero_05) | Maria Clara (macla3010) | Neider (NeiderMT) | Hector (Hector2311) | Israel (IAHMCOL) | Bye | PTOS | Neudstatdl |
