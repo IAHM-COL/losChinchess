@@ -1,12 +1,12 @@
 ## Liguilla de Ajedrez Las Pulgas V - Resultados
 
 #### Cuadrangular Final
-|                                                                        | Leison (Quintero_05) | Jorge Andres (kopalito) | Mauricio (twinsendell) | Maria Clara (macla3010) | PTOS | Neudstatdl |
-|------------------------------------------------------------------------|----------------------|-------------------------|------------------------|-------------------------|------|------------|
-| Leison ([Quintero_05](https://lichess.org/?user=Quintero_05#friend))   |                    x |                       0 |                      1 |                       1 |    2 |          2 |
-| Jorge Andres ([kopalito](https://lichess.org/?user=kopalito#friend))   |                    1 |                       x |                      0 |                       1 |    2 |          2 |
-| Mauricio ([twinsendell](https://lichess.org/?user=twinsendell#friend)) |                    0 |                       1 |                      x |                       1 |    2 |          2 |
-| Maria Clara ([macla3010](https://lichess.org/?user=macla3010#friend))  |                    0 |                       0 |                      0 |                       x |    0 |          0 |
+|                                                                        | Leison (Quintero_05) | Mauricio (twinsendell) | Jorge Andres (kopalito) | Maria Clara (macla3010) | PTOS | Neudstatdl |
+|------------------------------------------------------------------------|----------------------|------------------------|-------------------------|-------------------------|------|------------|
+| Leison ([Quintero_05](https://lichess.org/?user=Quintero_05#friend))   |                    x |                      1 |                       1 |                       2 |    4 |          9 |
+| Mauricio ([twinsendell](https://lichess.org/?user=twinsendell#friend)) |                    1 |                      x |                     1.5 |                       1 |  3.5 |      10.25 |
+| Jorge Andres ([kopalito](https://lichess.org/?user=kopalito#friend))   |                    1 |                    0.5 |                       x |                       2 |  3.5 |       7.75 |
+| Maria Clara ([macla3010](https://lichess.org/?user=macla3010#friend))  |                    0 |                      1 |                       0 |                       x |    1 |        3.5 |
 
 #### Repechaje A4 vs B5
 |                                                                               | Maria Clara (macla3010) | Alejandro (Alejandro-mesa) | Puntos | Neudstadtl |
