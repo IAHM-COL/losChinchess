@@ -3,13 +3,14 @@
 
 |                                    |                                       |
 |------------------------------------|-------------------------------------- |
-| A1. ♝Asher (AsDaGo; 2140)          | A8. Joaquin (OseznoRaudo; 1552)      |
-| A2. Pei (pei12; 2052)              | A9.Alejandro (Alejandro-mesa; 1505)  |
-| A3. Camilo (cgallego00; 1907)      | A10. Nicolas (CaballitodeMarr; 1500) |
-| A4. ♝Jorge Andres (kopalito; 1845) | A11. Carolina (Carolmar; 1500)       |
-| A5. ♝♝Andres (arandres; 1784)      | A12. Santiago (Ceras1998; 1500)      |
-| A6. Mauricio (twinsendell; 1687)   | A13. Neider (NeiderMT; 1417)         |
-| A7. Maria Clara (macla3010; 1629)  | A14. Israel (IAHMCOL; 1387)          |
+| A1. ♝Asher (AsDaGo; 2140)          | A9. Joaquin (OseznoRaudo; 1552)      |
+| A2. Pei (pei12; 2052)              | A10.Alejandro (Alejandro-mesa; 1505) |
+| A3. Camilo (cgallego00; 1907)      | A11. Nicolas (CaballitodeMarr; 1500) |
+| A4. ♝Jorge Andres (kopalito; 1845) | A12. Carolina (Carolmar; 1500)       |
+| A5. ♝♝Andres (arandres; 1784)      | A13. Santiago (Ceras1998; 1500)      |
+| A6. Leison (Quintero_05; 1689)     | A14. Neider (NeiderMT; 1417)         |
+| A7. Mauricio (twinsendell; 1687)   | A15. Israel (IAHMCOL; 1387)          |
+| A8. Maria Clara (macla3010; 1629)  | A16.      
 
 ### Game's calendar and results record
 
