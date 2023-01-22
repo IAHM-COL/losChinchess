@@ -8,9 +8,9 @@
 | A3. Camilo (cgallego00; 1907)      | A11. Nicolas (CaballitodeMarr; 1500) |
 | A4. ♝Jorge Andres (kopalito; 1845) | A12. Carolina (Carolmar; 1500)       |
 | A5. ♝♝Andres (arandres; 1784)      | A13. Santiago (Ceras1998; 1500)      |
-| A6. Leison (Quintero_05; 1689)     | A14. Neider (NeiderMT; 1417)         |
-| A7. Mauricio (twinsendell; 1687)   | A15. Israel (IAHMCOL; 1387)          |
-| A8. Maria Clara (macla3010; 1629)  | A16.      
+| A6. Leison (Quintero_05; 1689)     | A14. Andrew (wmass; 1500)            |
+| A7. Mauricio (twinsendell; 1687)   | A15. Neider (NeiderMT; 1417)         |
+| A8. Maria Clara (macla3010; 1629)  | A16. Israel (IAHMCOL; 1387)          | 
 
 ### Game's calendar and results record
 
