@@ -2,15 +2,17 @@
 ### Regulations
 
 |                                    |                                       |
-|------------------------------------|-------------------------------------- |
-| A1. ♝Asher (AsDaGo; 2140)          | A9. Joaquin (OseznoRaudo; 1552)      |
-| A2. Pei (pei12; 2052)              | A10.Alejandro (Alejandro-mesa; 1505) |
-| A3. Camilo (cgallego00; 1907)      | A11. Nicolas (CaballitodeMarr; 1500) |
-| A4. ♝Jorge Andres (kopalito; 1845) | A12. Carolina (Carolmar; 1500)       |
-| A5. ♝♝Andres (arandres; 1784)      | A13. Santiago (Ceras1998; 1500)      |
-| A6. Leison (Quintero_05; 1689)     | A14. Andrew (wmass; 1500)            |
-| A7. Mauricio (twinsendell; 1687)   | A15. Neider (NeiderMT; 1417)         |
-| A8. Maria Clara (macla3010; 1629)  | A16. Israel (IAHMCOL; 1387)          | 
+|------------------------------------|---------------------------------------|
+| A1. ♝Asher (AsDaGo; 2140)          | A11. Joaquin (OseznoRaudo; 1552)      |
+| A2. Pei (pei12; 2052)              | A12. Lautaro (Altaleff; 1522)         |
+| A3. Camilo (cgallego00; 1907)      | A13. Alejandro (Alejandro-mesa; 1505) |
+| A4. ♝Jorge Andres (kopalito; 1845) | A14. Nicolas (CaballitodeMarr; 1500)  |
+| A5. ♝♝Andres (arandres; 1784)      | A15. Carolina (Carolmar; 1500)        |
+| A6. Leison (Quintero_05; 1689)     | A16. Santiago (Ceras1998; 1500)       |
+| A7. Mauricio (twinsendell; 1687)   | A17. Andrew (wmass; 1500)             |
+| A8. Juan (deptozer; 1683)          | A18. Hector (Hector2311; 1476)        |
+| A9. Maria Clara (macla3010; 1629)  | A19. Neider (NeiderMT; 1417)          |
+| A10. Juli (kshulian; 1601)         | A20. Israel (IAHMCOL; 1387)           |
 
 ### Game's calendar and results record
 
