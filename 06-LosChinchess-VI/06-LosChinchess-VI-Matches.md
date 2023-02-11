@@ -1,6 +1,20 @@
 # Los Chinchess VI, Torneo de Ajedrez
 # Ronda Clasificatoria
 
+## Round 2
+|  # | White                   | Black                      | Result   |
+|----|-------------------------|----------------------------|----------|
+|  1 | Asher (AsDaGo)          | Andres (arandres)          |          |
+|  2 | Juan (deptozer)         | Camilo (cgallego00)        |          |
+|  3 | Jorge Andres (kopalito) | Maria Clara (macla3010)    |          |
+|  4 | Pei (pei12)             | Santiago (Ceras1998)       |          |
+|  5 | Juli (kshulian)         | Lautaro (Altaleff)         |          |
+|  6 | Neider (NeiderMT)       | Mauricio (twinsendell)     |          |
+|  7 | Leison (Quintero_05)    | Israel (IAHMCOL)           |          |
+|  8 | Joaquin (OseznoRaudo)   | Carolina (Carolmar)        |          |
+|  9 | Andrew (wmass)          | Alejandro (Alejandro-mesa) |          |
+| 10 | Hector (Hector2311)     | Nicolas (CaballitodeMarr)  |          |
+
 ## Round 1
 
 |  # | White                     | Black                      | Result |
@@ -10,11 +24,11 @@
 |  3 | Camilo (cgallego00)       | Alejandro (Alejandro-mesa) |    1-0 |
 |  4 | Nicolas (CaballitodeMarr) | Jorge Andres (kopalito)    |    0-1 |
 |  5 | Andres (arandres)         | Carolina (Carolmar)        |    1-0 |
-|  6 | Santiago (Ceras1998)      | Leison (Quintero_05)       |        |
+|  6 | Santiago (Ceras1998)      | Leison (Quintero_05)       |1/2-1/2 |
 |  7 | Mauricio (twinsendell)    | Andrew (wmass)             |    1-0 |
 |  8 | Hector (Hector2311)       | Juan (deptozer)            |    0-1 |
 |  9 | Maria Clara (macla3010)   | Neider (NeiderMT)          |    1-0 |
-| 10 | Israel (IAHMCOL)          | Juli (kshulian)            |        |
+| 10 | Israel (IAHMCOL)          | Juli (kshulian)            |1/2-1/2 |
 
 ***
 
