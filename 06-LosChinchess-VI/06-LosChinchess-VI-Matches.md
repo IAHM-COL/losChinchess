@@ -5,7 +5,7 @@
 |  # | White                   | Black                      | Result   |
 |----|-------------------------|----------------------------|----------|
 |  1 | Asher (AsDaGo)          | Andres (arandres)          |          |
-|  2 | Juan (deptozer)         | Camilo (cgallego00)        |          |
+|  2 | Juan (deptozer)         | Camilo (cgallego00)        |      0-1 |
 |  3 | Jorge Andres (kopalito) | Maria Clara (macla3010)    |          |
 |  4 | Pei (pei12)             | Santiago (Ceras1998)       |          |
 |  5 | Juli (kshulian)         | Lautaro (Altaleff)         |          |
