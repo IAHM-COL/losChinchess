@@ -9,11 +9,11 @@
 |  3 | Jorge Andres (kopalito) | Maria Clara (macla3010)    |      ½-½ |
 |  4 | Pei (pei12)             | Santiago (Ceras1998)       |      1-0 |
 |  5 | Juli (kshulian)         | Lautaro (Altaleff)         |          |
-|  6 | Neider (NeiderMT)       | Mauricio (twinsendell)     |          |
+|  6 | Neider (NeiderMT)       | Mauricio (twinsendell)     |      0-1 |
 |  7 | Leison (Quintero_05)    | Israel (IAHMCOL)           |      1-0 |
 |  8 | Joaquin (OseznoRaudo)   | Carolina (Carolmar)        |      1-0 |
 |  9 | Andrew (wmass)          | Alejandro (Alejandro-mesa) |      1-W |
-| 10 | Hector (Hector2311)     | Nicolas (CaballitodeMarr)  |          |
+| 10 | Hector (Hector2311)     | Nicolas (CaballitodeMarr)  |      0-1 |
 
 ## Round 1
 
