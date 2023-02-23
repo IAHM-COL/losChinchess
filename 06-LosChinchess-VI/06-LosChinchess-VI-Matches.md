@@ -5,14 +5,14 @@
 |  # | White                      | Black                     | Result |
 |----|----------------------------|---------------------------|--------|
 |  1 | Camilo (cgallego00)        | Asher (AsDaGo)            |        |
-|  2 | Mauricio (twinsendell)     | Leison (Quintero_05)      |        |
+|  2 | Mauricio (twinsendell)     | Leison (Quintero_05)      |    1-0 |
 |  3 | Maria Clara (macla3010)    | Pei (pei12)               |        |
 |  4 | Lautaro (Altaleff)         | Jorge Andres (kopalito)   |        |
 |  5 | Joaquin (OseznoRaudo)      | Andres (arandres)         |        |
 |  6 | Juan (deptozer)            | Nicolas (CaballitodeMarr) |        |
-|  7 | Andrew (wmass)             | Israel (IAHMCOL)          |        |
+|  7 | Andrew (wmass)             | Israel (IAHMCOL)          |    1-0 |
 |  8 | Juli (kshulian)            | Santiago (Ceras1998)      |        |
-|  9 | Alejandro (Alejandro-mesa) | Hector (Hector2311)       |        |
+|  9 | Alejandro (Alejandro-mesa) | Hector (Hector2311)       |    1-0 |
 | 10 | Carolina (Carolmar)        | Neider (NeiderMT)         |        |
 
 ## Round 2
