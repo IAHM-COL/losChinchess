@@ -7,8 +7,8 @@
 |  1 | Camilo (cgallego00)        | Asher (AsDaGo)            |        |
 |  2 | Mauricio (twinsendell)     | Leison (Quintero_05)      |    1-0 |
 |  3 | Maria Clara (macla3010)    | Pei (pei12)               |        |
-|  4 | Lautaro (Altaleff)         | Jorge Andres (kopalito)   |        |
-|  5 | Joaquin (OseznoRaudo)      | Andres (arandres)         |        |
+|  4 | Lautaro (Altaleff)         | Jorge Andres (kopalito)   |    ½-½ |
+|  5 | Joaquin (OseznoRaudo)      | Andres (arandres)         |    0-1 |
 |  6 | Juan (deptozer)            | Nicolas (CaballitodeMarr) |        |
 |  7 | Andrew (wmass)             | Israel (IAHMCOL)          |    1-0 |
 |  8 | Juli (kshulian)            | Santiago (Ceras1998)      |        |
