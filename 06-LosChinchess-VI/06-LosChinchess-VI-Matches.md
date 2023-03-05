@@ -1,19 +1,33 @@
 # Los Chinchess VI, Torneo de Ajedrez
 # Ronda Clasificatoria
 
+## Round 5
+|  # | White                      | Black                     | Result |
+|----|----------------------------|---------------------------|--------|
+|  1 | Camilo (cgallego00)        | Andres (arandres)         |        |
+|  2 | Asher (AsDaGo)             | Santiago (Ceras1998)      |        |
+|  3 | Juan (deptozer)            | Pei (pei12)               |        |
+|  4 | Leison (Quintero_05)       | Jorge Andres (kopalito)   |        |
+|  5 | Alejandro (Alejandro-mesa) | Mauricio (twinsendell)    |        |
+|  6 | Carolina (Carolmar)        | Lautaro (Altaleff)        |        |
+|  7 | Andrew (wmass)             | Joaquin (OseznoRaudo)     |        |
+|  8 | Maria Clara (macla3010)    | Juli (kshulian)           |        |
+|  9 | Neider (NeiderMT)          | Nicolas (CaballitodeMarr) |        |
+| 10 | Israel (IAHMCOL)           | Hector (Hector2311)       |        |
+
 ## Round 4
 |  # | White                     | Black                      | Result |
 |----|---------------------------|----------------------------|--------|
-|  1 | Mauricio (twinsendell)    | Asher (AsDaGo)             |        |
-|  2 | Pei (pei12)               | Camilo (cgallego00)        |        |
-|  3 | Jorge Andres (kopalito)   | Juan (deptozer)            |        |
-|  4 | Andres (arandres)         | Andrew (wmass)             |        |
-|  5 | Santiago (Ceras1998)      | Lautaro (Altaleff)         |        |
-|  6 | Leison (Quintero_05)      | Maria Clara (macla3010)    |        |
-|  7 | Nicolas (CaballitodeMarr) | Joaquin (OseznoRaudo)      |        |
-|  8 | Carolina (Carolmar)       | Alejandro (Alejandro-mesa) |        |
-|  9 | Hector (Hector2311)       | Juli (kshulian)            |        |
-| 10 | Israel (IAHMCOL)          | Neider (NeiderMT)          |        |
+|  1 | Mauricio (twinsendell)    | Asher (AsDaGo)             |    ½-½ |
+|  2 | Pei (pei12)               | Camilo (cgallego00)        |    0-1 |
+|  3 | Jorge Andres (kopalito)   | Juan (deptozer)            |    ½-½ |
+|  4 | Andres (arandres)         | Andrew (wmass)             |    1-0 |
+|  5 | Santiago (Ceras1998)      | Lautaro (Altaleff)         |    1-0 |
+|  6 | Leison (Quintero_05)      | Maria Clara (macla3010)    |    1-0 |
+|  7 | Nicolas (CaballitodeMarr) | Joaquin (OseznoRaudo)      |    W-1 |
+|  8 | Carolina (Carolmar)       | Alejandro (Alejandro-mesa) |    1-0 |
+|  9 | Hector (Hector2311)       | Juli (kshulian)            |    0-1 |
+| 10 | Israel (IAHMCOL)          | Neider (NeiderMT)          |    0-1 |
 
 ## Round 3
 |  # | White                      | Black                     | Result |
