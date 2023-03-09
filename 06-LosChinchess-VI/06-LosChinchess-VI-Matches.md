@@ -4,16 +4,16 @@
 ## Round 5
 |  # | White                      | Black                     | Result |
 |----|----------------------------|---------------------------|--------|
-|  1 | Camilo (cgallego00)        | Andres (arandres)         |        |
+|  1 | Camilo (cgallego00)        | Andres (arandres)         |    ½-½ |
 |  2 | Asher (AsDaGo)             | Santiago (Ceras1998)      |        |
 |  3 | Juan (deptozer)            | Pei (pei12)               |        |
 |  4 | Leison (Quintero_05)       | Jorge Andres (kopalito)   |        |
 |  5 | Alejandro (Alejandro-mesa) | Mauricio (twinsendell)    |        |
 |  6 | Carolina (Carolmar)        | Lautaro (Altaleff)        |        |
-|  7 | Andrew (wmass)             | Joaquin (OseznoRaudo)     |        |
+|  7 | Andrew (wmass)             | Joaquin (OseznoRaudo)     |    0-1 |
 |  8 | Maria Clara (macla3010)    | Juli (kshulian)           |        |
 |  9 | Neider (NeiderMT)          | Nicolas (CaballitodeMarr) |        |
-| 10 | Israel (IAHMCOL)           | Hector (Hector2311)       |        |
+| 10 | Israel (IAHMCOL)           | Hector (Hector2311)       |    0-1 |
 
 ## Round 4
 |  # | White                     | Black                      | Result |
