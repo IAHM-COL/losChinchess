@@ -1986,3 +1986,493 @@ b4 cxb4 13. axb4 Qxb4 14. Rc2 Be6 15. cxb5 Qxb5 16. Rc5 Qb2 17. Rxc6 Rfc8 18.
 Rxc8+ Rxc8 19. Nbd2 a5 20. Ng5 Rc1 21. Qxc1 Qb5 22. Nxe6 fxe6 23. Qc8+ Ne8 24.
 Qxe6+ Kh8 25. Nc4 a4 26. Qe7 Bf6 27. Qf8# {  White wins by checkmate.}   1-0
 
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/F5FKmjyY"]
+[Date "2023.03.09"]
+[Round "5"]
+[White "cgallego00"]
+[Black "arandres"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1804"]
+[BlackRatingDiff "-12"]
+[ECO "A15"]
+[EventDate "2023.03.09"]
+[Opening "English Opening: Agincourt Defense"]
+[Termination "Normal"]
+[UTCDate "2023.03.09"]
+[UTCTime "03:01:57"]
+[Variant "Standard"]
+[WhiteElo "1905"]
+[WhiteRatingDiff "+14"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 c6 4. Nc3 Bb4 5. d3 Bxc3+ 6. bxc3 O-O 7. e3 Qa5 8. Bd2
+Qc7 9. Ne2 c5 10. O-O d5 11. cxd5 exd5 12. Nf4 Rd8 13. d4 Na6 14. Nh5 Nxh5 15.
+Qxh5 Be6 16. e4 dxe4 17. Bxe4 g6 18. Qh4 f5 19. Bg2 Bd5 20. Bg5 Rd7 21. Rfe1
+Bxg2 22. Kxg2 cxd4 23. cxd4 Qd6 24. Re7 Rxe7 25. Bxe7 Qd5+ 26. Kg1 Re8 27. Bf6
+Nc7 28. Qh6 Qf7 29. Be5 Nd5 30. Rc1 Qf8 31. Qd2 Rc8 32. Rb1 b6 33. Qb2 Qf7 34.
+Qb3 Qd7 35. h4 h5 36. a4 Kh7 37. Qa3 Nc3 38. Re1 Nxa4 39. Ra1 Nc3 40. Qxa7 Qxa7
+41. Rxa7+ Kg8 42. d5 Nxd5 43. Rg7+ Kf8 44. Rxg6 b5 45. Bd6+ Kf7 46. Rh6 b4 47.
+Rh7+ Ke6 48. Rh6+ Kd7 49. Be5 b3 50. Rh7+ Kc6 51. Rxh5 Ra8 52. Rxf5 Ra1+ 53.
+Kg2 Rb1 54. h5 Ne7 55. Rf3 Kd5 56. Bf6 Ng8 57. Bg7 Kc4 58. Rc3+ Kb4 59. Rc8 Ne7
+60. Rb8+ Ka3 61. h6 Ng6 62. Rb6 b2 63. Ra6+ Kb3 64. Rb6+ Kc2 65. Bxb2 Rxb2 66.
+Rxg6 Rb8 67. Rf6 Rh8 68. g4 Kd3 69. g5 Ke4 70. Kg3 Ke5 71. f4+ Kd5 72. Kg4 Rh7
+73. Kh5 Ke4 74. Kg6 Rh8 75. h7 Kf3 76. Kg7 Rc8 77. h8=Q Rxh8 78. Kxh8 Kg4  1-0
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/BoUuTkYE"]
+[Date "2023.03.08"]
+[Round "5"]
+[White "AsDaGo"]
+[Black "Ceras1998"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1832"]
+[BlackRatingDiff "-34"]
+[ECO "D53"]
+[EventDate "2023.03.08"]
+[Opening "Queen's Gambit Declined"]
+[Termination "Normal"]
+[UTCDate "2023.03.08"]
+[UTCTime "19:59:14"]
+[Variant "Standard"]
+[WhiteElo "2104"]
+[WhiteRatingDiff "+12"]
+
+1. d4 e6 2. c4 d5 3. Nc3 Nf6 4. Bg5 Be7 {  D53 Queen's Gambit Declined}  5. e3
+b6 6. Nf3 Bb7 7. cxd5 Nxd5 8. Bxe7 Qxe7 9. Bd3 Na6 10. Bxa6 Bxa6 11. Qa4+ { 
+Black resigns.}   1-0
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/27SQSpSB"]
+[Date "2023.03.13"]
+[Round "5"]
+[White "deptozer"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1973"]
+[BlackRatingDiff "+6"]
+[ECO "C00"]
+[EventDate "2023.03.13"]
+[Opening "French Defense: Steiner Variation"]
+[Termination "Normal"]
+[UTCDate "2023.03.13"]
+[UTCTime "00:11:26"]
+[Variant "Standard"]
+[WhiteElo "1622"]
+[WhiteRatingDiff "-2"]
+
+1. e4 e6 2. c4 {  C00 French Defense: Steiner Variation}  2... d5 3. cxd5 exd5
+4. exd5 Nf6 5. Bc4 Nxd5 6. Qb3 c6 7. Bxd5 cxd5 8. Nc3 Be6 9. d4 Nc6 10. Bg5
+Qxg5 11. Nf3 Qd8 12. Qb5 Qb6 13. Ne5 Qxb5 14. Nxb5 Rc8 15. Rc1 a6 16. Nxc6 bxc6
+17. Na7 Bb4+ 18. Ke2 O-O 19. a3 Bd6 20. f4 Bxf4 21. Rxc6 Rxc6 22. Nxc6 Rc8 23.
+Rc1 Bxc1 {  White resigns.}   0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/nGjJlvRZ"]
+[Date "2023.03.11"]
+[Round "5"]
+[White "Quintero_05"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1914"]
+[BlackRatingDiff "+4"]
+[ECO "E90"]
+[EventDate "2023.03.11"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[Termination "Normal"]
+[UTCDate "2023.03.11"]
+[UTCTime "01:36:52"]
+[Variant "Standard"]
+[WhiteElo "1745"]
+[WhiteRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 {  E60 King's Indian Defense: Normal Variation, King's
+Knight Variation}  3... Bg7 4. Nc3 O-O 5. e4 d6 6. h3 Nbd7 7. e5 dxe5 8. dxe5
+Nh5 9. g4 Ng3 10. fxg3 c5 11. e6 fxe6 12. Be2 Qc7 13. Ne4 Nf6 14. Bf4 Qb6 15.
+O-O Nxe4 16. Bd3 e5 17. Nxe5 Nd6 18. Qc2 Be6 19. Rae1 Rad8 20. Nxg6 hxg6 21.
+Rxe6 Bxb2 22. Rb1 Bd4+ 23. Kh2 Qc6 24. Rxg6+ Bg7 25. Bh6 Rf7 26. Qc3 Rf2+ { 
+White resigns.}   0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/A29UlRcf"]
+[Date "2023.03.12"]
+[Round "5"]
+[White "Alejandro-mesa"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1786"]
+[BlackRatingDiff "+3"]
+[ECO "A06"]
+[EventDate "2023.03.12"]
+[Opening "Zukertort Opening: Old Indian Attack"]
+[Termination "Normal"]
+[UTCDate "2023.03.12"]
+[UTCTime "00:41:39"]
+[Variant "Standard"]
+[WhiteElo "1430"]
+[WhiteRatingDiff "-6"]
+
+1. Nf3 d5 2. d3 c5 3. g3 Nf6 4. Bg2 e6 5. O-O Nc6 6. Nbd2 Be7 7. c4 O-O 8. cxd5
+exd5 9. b3 b6 10. Bb2 Bb7 11. a4 Re8 12. Qb1 Bd6 13. d4 Nxd4 14. Ng5 h6 15. e3
+hxg5 16. exd4 Ne4 17. Nxe4 dxe4 18. dxc5 Bxc5 19. Re1 e3 20. fxe3 Bxg2 21. Kxg2
+g4 22. Rd1 Qg5 23. Qd3 Rad8 24. Qc3 Bxe3 25. Rxd8 Rxd8 26. h4 Qd5+ 27. Kf1 Qf3+
+28. Ke1 Qf2#  0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/fGCx7b9C"]
+[Date "2023.03.12"]
+[Round "5"]
+[White "carolmar"]
+[Black "Altaleff"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1624"]
+[BlackRatingDiff "+3"]
+[ECO "B20"]
+[EventDate "2023.03.12"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+[UTCDate "2023.03.12"]
+[UTCTime "00:04:46"]
+[Variant "Standard"]
+[WhiteElo "1149"]
+[WhiteRatingDiff "-2"]
+
+1. e4 c5 {  B20 Sicilian Defense}  2. Qh5 Nf6 3. Qxc5 Nxe4 4. Qe3 d5 5. f3 Nf6
+6. d4 Nc6 7. Nc3 Bf5 8. g4 Bxc2 9. Nb5 a6 10. Na3 Bg6 11. Nh3 e6 12. Nf4 Qb6
+13. Nxg6 hxg6 14. g5 Nd7 15. f4 Nxd4 16. Bg2 Bxa3 17. Kf1 Bxb2 18. Rb1 Bxc1 19.
+Rxb6 Bxe3 20. Rxb7 Nc5 21. Rb4 Nd3 22. Rxd4 Bxd4 23. Ke2 Nxf4+ 24. Kf3 Nxg2 25.
+Kxg2 Rc8 26. a4 Rc2+ 27. Kf3 Rhxh2 28. Rxh2 Rxh2 29. Kg3 Ra2 30. Kf3 e5 31. Kg4
+e4 32. Kf4 e3 33. Kf3 e2 {  White resigns.}   0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/1cYWmbmW"]
+[Date "2023.03.08"]
+[Round "5"]
+[White "wmass"]
+[Black "OseznoRaudo"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1575"]
+[BlackRatingDiff "+3"]
+[ECO "B32"]
+[EventDate "2023.03.08"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+[Termination "Normal"]
+[UTCDate "2023.03.08"]
+[UTCTime "00:09:17"]
+[Variant "Standard"]
+[WhiteElo "1394"]
+[WhiteRatingDiff "-34"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nxc6 bxc6 6. Nc3 Nf6 7. Bg5 h6 8.
+Bh4 Be7 9. Bc4 O-O 10. O-O Bb4 11. Bxf6 Qxf6 12. Qd3 Rd8 13. a3 Bxc3 14. Qxc3
+d5 15. exd5 cxd5 16. Bb3 Bb7 17. Rad1 Qg5 18. Qc7 Rab8 19. Bxd5 Bxd5 20. Rxd5
+Rxd5 21. Qxb8+ Qd8 22. Qxa7 Rd2 23. Qc5 Qg5 24. Qe3 Qxe3 25. fxe3 Rxc2 26. b4
+Rc3 27. a4 Rxe3 28. Rb1 Ra3 29. a5 Ra4 30. b5 Rxa5 31. Rb4 f5 32. b6 e4 33. b7
+e3 34. b8=Q+ Kh7 35. Qc7 Ra1+ 36. Rb1 Rxb1+ 37. Qc1 Rxc1#  0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/OQL9DfYq"]
+[Date "2023.03.11"]
+[Round "5"]
+[White "NeiderMT"]
+[Black "CaballitodeMarr"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1661"]
+[BlackRatingDiff "+31"]
+[ECO "A20"]
+[EventDate "2023.03.11"]
+[Opening "English Opening: The Whale"]
+[Termination "Normal"]
+[UTCDate "2023.03.11"]
+[UTCTime "19:39:11"]
+[Variant "Standard"]
+[WhiteElo "1414"]
+[WhiteRatingDiff "-6"]
+
+1. c4 e5 2. e4 Nf6 3. d3 Bb4+ 4. Bd2 Nc6 5. a3 Bxd2+ 6. Qxd2 O-O 7. h3 Nd4 8.
+Qd1 c6 9. Nc3 d5 10. exd5 cxd5 11. cxd5 Nxd5 12. Be2 Be6 13. Nf3 Qa5 14. O-O
+Nxc3 15. bxc3 Qxc3 16. Nxe5 Nb3 17. Rb1 Qxe5 18. d4 Nxd4 19. Bd3 Bd5 20. Re1
+Qg5 21. f3 Nxf3+ 22. Kf2 Nxe1 23. Qxe1 Qxg2+ 24. Ke3 Rfe8+ 25. Kd4 Rxe1 26.
+Rxe1 Qf2+ 27. Re3 Qf4+ 28. Kc3 Qxe3 29. a4 Rc8+ 30. Kb4 Qb6+ 31. Ka3 Qb3#  0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/QHHaLdz2"]
+[Date "2023.03.09"]
+[Round "5"]
+[White "IAHMCOL"]
+[Black "Hector2311"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1292"]
+[BlackRatingDiff "+34"]
+[ECO "C41"]
+[EventDate "2023.03.09"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+[UTCDate "2023.03.09"]
+[UTCTime "02:07:58"]
+[Variant "Standard"]
+[WhiteElo "1292"]
+[WhiteRatingDiff "-22"]
+
+1. e4 e5 2. Nf3 d6 {  C41 Philidor Defense}  3. g3 Bg4 4. Bg2 Nf6 5. b3 Nxe4 6.
+O-O Nc6 7. Bb2 Qg5 8. Nxg5 Bxd1 9. Rxd1 Nxg5 10. d4 Nxd4 11. Bxd4 exd4 12. Rxd4
+O-O-O 13. c4 Be7 14. Nc3 Bf6 15. Rd3 Rhe8 16. Nd5 Bxa1 17. Re3 Bd4 18. Rxe8
+Rxe8 19. h4 Re1+ 20. Bf1 Nf3+ 21. Kg2 h6 22. Kxf3 Rxf1 23. g4 Rxf2+ 24. Kg3
+Rxa2 25. Ne7+ Kd7 26. Nf5 Be5+ 27. Kf3 Ra3 28. Nxg7 Rxb3+ 29. Ke4 Rb4 30. Kd5
+c6+ 31. Ke4 Rxc4+ 32. Kf5 Bxg7 33. g5 Rc5+ 34. Kg4 hxg5 35. hxg5 a5 {  White
+resigns.}   0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/JQD0ZzNX"]
+[Date "2023.03.09"]
+[Round "5"]
+[White "arandres"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1919"]
+[BlackRatingDiff "-24"]
+[ECO "B13"]
+[EventDate "2023.03.09"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+[UTCDate "2023.03.09"]
+[UTCTime "03:28:09"]
+[Variant "Standard"]
+[WhiteElo "1792"]
+[WhiteRatingDiff "+22"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nf6 5. Nc3 e6 6. Bg5 Be7 7. Be2 Bd7 8. O-O
+O-O 9. a3 Nc6 10. Re1 a6 11. Bf1 h6 12. Bh4 Nh7 13. Bg3 Ng5 14. Nxg5 Bxg5 15.
+Na4 Bf6 16. c3 Be7 17. Nc5 Qc8 18. Nxd7 Qxd7 19. Bd3 Bd6 20. f4 Qc7 21. Qg4 Ne7
+22. Rf1 f5 23. Qe2 Ng6 24. Qxe6+ Kh8 25. Qxg6 Rf6 26. Qh5 Raf8 27. Rae1 Kh7 28.
+Re8 g6 29. Qe2 R8f7 30. Re6 Be7 31. Rxf6 Bxf6 32. h4 Re7 33. Qf2 Qb6 34. h5 Bg7
+35. hxg6+ Qxg6 36. Qf3 Kh8 37. Re1 Rd7 38. Bf2 Qf6 39. Re8+ Kh7 40. Qh3 Rf7 41.
+Bh4 Qg6 42. Re7 Rxe7 43. Bxe7 Kh8 44. Qxf5 Qxf5 45. Bxf5 h5 46. Be6 b5 47. Bxd5
+a5 48. Bf7 h4 49. Bxh4 Kh7 50. Be8 b4 51. axb4 axb4 52. Be1 Kg8 53. Kf2 Kf8 54.
+Ba4 Ke7 55. Ke3 bxc3 56. bxc3 Kd6 57. c4 Kc7 58. g4 Bf6 59. g5 Be7 60. Bf2 Kb6
+61. Ke4 Kc7 62. Bh4 Bf8 63. f5 Kd6 64. f6 Ke6 65. d5+ Kf7 66. Ke5 Kg6 67. Bc2+
+Kf7 68. g6+ Kg8 69. f7+ Kg7 70. Bf6+ Kh6 71. d6 Kh5 72. d7 Kh6 73. d8=Q Bd6+
+74. Kxd6 Kh5 75. Qh8+ Kg4 76. Qh4+ Kf3 77. Bd1+ Ke3 78. Qg5+ Kd3 79. Qf5+ Kxc4
+80. f8=Q Kb4 81. Ke6+ Kc4 82. Qd5#  1-0
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/m1rpAUNy"]
+[Date "2023.03.10"]
+[Round "5"]
+[White "Ceras1998"]
+[Black "AsDaGo"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "2116"]
+[BlackRatingDiff "+9"]
+[ECO "B21"]
+[EventDate "2023.03.10"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense"]
+[Termination "Normal"]
+[UTCDate "2023.03.10"]
+[UTCTime "20:01:30"]
+[Variant "Standard"]
+[WhiteElo "1798"]
+[WhiteRatingDiff "-24"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Bc4 e6 6. Nf3 Bb4 {  B21 Sicilian
+Defense: Smith-Morra Gambit Accepted, Pin Defense}  7. O-O Nge7 8. Bf4 O-O 9.
+Nb5 d5 10. exd5 exd5 11. Bb3 Be6 12. Rc1 Rc8 13. a3 Ba5 14. Nd6 Ng6 15. Bg3 Rc7
+16. Nb5 Rd7 17. Nfd4 a6 18. Nxe6 fxe6 19. Nd4 Nge7 20. Nxe6 Qb6 21. Bxd5 Rxd5
+22. Qxd5 Nxd5 23. Nxf8 Kxf8 24. b4 Ndxb4 25. Bd6+ Kf7 26. axb4 Nxb4 27. Rfd1
+Qb5 28. Rb1 Qc4 29. Rdc1 Qd4 30. Rd1 Qe4 31. Re1 Qd4 32. Red1 Qc4 33. Rbc1 Qe6
+34. Rb1 Qg4 35. h3 Qc4 36. Rbc1 Qe4 37. Rc8 Nc6 38. Rf8+ Kg6 39. Bf4 Bb4 40.
+Rg8 Qxf4 41. Rd7 Qf6 42. g3 Bc5 43. Rd2 Ne5 44. Kg2 Qf3+ 45. Kf1 Nd3 46. Rd8
+Nxf2 47. R8d5 Ne4+ 48. Ke1 Nxd2 49. Rxd2 Bb4 {  White resigns.}   0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/kbaM4Pjl"]
+[Date "2023.03.13"]
+[Round "5"]
+[White "pei12"]
+[Black "deptozer"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1620"]
+[BlackRatingDiff "+13"]
+[ECO "C40"]
+[EventDate "2023.03.13"]
+[Opening "Elephant Gambit"]
+[Termination "Normal"]
+[UTCDate "2023.03.13"]
+[UTCTime "00:20:40"]
+[Variant "Standard"]
+[WhiteElo "1979"]
+[WhiteRatingDiff "-38"]
+
+1. e4 e5 2. Nf3 d5 {  C40 Elephant Gambit}  3. d3 Bg4 4. exd5 Qxd5 5. d4 Nc6 6.
+Nc3 Nxd4 7. Qxd4 exd4 8. Ne2 Bxf3 9. gxf3 {  White resigns.}   0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/ZTF3hAbR"]
+[Date "2023.03.11"]
+[Round "5"]
+[White "kopalito"]
+[Black "Quintero_05"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1738"]
+[BlackRatingDiff "-7"]
+[ECO "C50"]
+[EventDate "2023.03.11"]
+[Opening "Italian Game: Two Knights Defense"]
+[Termination "Normal"]
+[UTCDate "2023.03.11"]
+[UTCTime "01:53:02"]
+[Variant "Standard"]
+[WhiteElo "1918"]
+[WhiteRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 {  C55 Italian Game: Two Knights Defense}  4. O-O
+Bc5 5. Re1 O-O 6. c3 a6 7. d4 Ba7 8. Nxe5 d6 9. Nf3 h6 10. Bf4 Re8 11. Nbd2 Nh5
+12. Be3 Nf6 13. e5 dxe5 14. dxe5 Bxe3 15. exf6 Bxf2+ 16. Kxf2 Rxe1 17. Qxe1
+Qxf6 18. Qe8+ Kh7 19. Bxf7 Ne5 20. Qg8# {  White wins by checkmate.}   1-0
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/alJDySz3"]
+[Date "2023.03.12"]
+[Round "5"]
+[White "twinsendell"]
+[Black "Alejandro-mesa"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1424"]
+[BlackRatingDiff "-6"]
+[ECO "B32"]
+[EventDate "2023.03.12"]
+[Opening "Sicilian Defense: Franco-Sicilian Variation"]
+[Termination "Normal"]
+[UTCDate "2023.03.12"]
+[UTCTime "01:07:33"]
+[Variant "Standard"]
+[WhiteElo "1789"]
+[WhiteRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 e6 4. d5 exd5 5. exd5 Nce7 6. c4 Nf6 7. Bg5 h6 8. Bxf6
+gxf6 9. Nc3 Bg7 10. Bd3 a6 11. O-O b5 12. b3 b4 13. Ne2 f5 14. Rb1 d6 15. Ng3
+f4 16. Nh5 Be5 17. Re1 O-O 18. Nxe5 dxe5 19. Rxe5 Ng6 20. Bxg6 fxg6 21. g3 fxg3
+22. Nxg3 Bh3 23. Qd2 g5 24. Qd3 Qf6 25. Qe4 Qxf2+ 26. Kh1 Rf6 27. Re7 Kf8 28.
+Re1 Qf3+ 29. Qxf3 Rxf3 30. R7e6 Rf2 31. Rxh6 Kg7 32. Rxh3 Rxa2 33. Ne4 g4 34.
+Rg3 Re8 35. Rxg4+ Kh6 36. Re3 Kh5 37. Nf6+ Kh6 38. Rh3#  1-0
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/FkOZAVlc"]
+[Date "2023.03.12"]
+[Round "5"]
+[White "Altaleff"]
+[Black "carolmar"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1147"]
+[BlackRatingDiff "-2"]
+[ECO "C50"]
+[EventDate "2023.03.12"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+[UTCDate "2023.03.12"]
+[UTCTime "00:22:16"]
+[Variant "Standard"]
+[WhiteElo "1627"]
+[WhiteRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 {  C50 Italian Game}  3... Qf6 4. c3 Na5 5. Bb5 a6 6.
+Ba4 b5 7. Bc2 Nc4 8. b3 Nd6 9. d4 exd4 10. cxd4 Qg6 11. e5 Qxg2 12. Rg1 Qh3 13.
+exd6 Bxd6 14. Qe2+ Qe6 15. Qxe6+ dxe6 16. Rxg7 h5 17. Nc3 Bb7 18. Ng5 Nh6 19.
+Nce4 Bxe4 20. Bxe4 O-O-O 21. Nxf7 Nxf7 22. Rxf7 Bxh2 23. Be3 Bd6 24. Rc1 Bb4+
+25. Ke2 Bd6 26. Rc6 a5 27. Ra6 c5 28. Ra8+ Bb8 29. Bf4 Rd7 30. Rxb8# {  White
+wins by checkmate.}   1-0
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/wZ75yBVx"]
+[Date "2023.03.08"]
+[Round "5"]
+[White "OseznoRaudo"]
+[Black "wmass"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1360"]
+[BlackRatingDiff "-25"]
+[ECO "C68"]
+[EventDate "2023.03.08"]
+[Opening "Ruy Lopez: Exchange Variation, Lutikov Variation"]
+[Termination "Normal"]
+[UTCDate "2023.03.08"]
+[UTCTime "00:35:47"]
+[Variant "Standard"]
+[WhiteElo "1578"]
+[WhiteRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 bxc6 {  C68 Ruy Lopez: Exchange Variation,
+Lutikov Variation}  5. Nxe5 Bd6 6. d4 Bb7 7. Nf3 Ne7 8. c3 Ng6 9. O-O O-O 10.
+Be3 f6 11. Nbd2 Qe7 12. Re1 c5 13. d5 Ne5 14. c4 Nd3 15. Re2 Nxb2 16. Qc2 Be5
+17. Rb1 Rab8 18. Nxe5 Qxe5 19. Rxb2 d6 20. Qb1 Qe8 21. Rxb7 Qc8 22. Rxb8 Qxb8
+23. Qxb8 Rxb8 24. g3 Rb2 25. Re1 Rxa2 26. Rb1 a5 27. Rb7 a4 28. Ra7 a3 29. Kg2
+Kf7 30. Nb1 Ra1 31. Nxa3 Rxa3 32. Rxa3 {  Black resigns.}   1-0
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/n9gHYEBa"]
+[Date "2023.03.12"]
+[Round "5"]
+[White "CaballitodeMarr"]
+[Black "NeiderMT"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1418"]
+[BlackRatingDiff "+22"]
+[ECO "C00"]
+[EventDate "2023.03.12"]
+[Opening "French Defense: St. George Defense"]
+[Termination "Normal"]
+[UTCDate "2023.03.12"]
+[UTCTime "18:43:34"]
+[Variant "Standard"]
+[WhiteElo "1692"]
+[WhiteRatingDiff "-111"]
+
+1. e4 a6 2. d4 e6 {  C00 French Defense: St. George Defense}  3. Nf3 Nc6 4. Bc4
+h6 5. O-O Be7 6. Re1 Bg5 7. d5 Na5 8. Qd4 f6 9. dxe6 Nxc4 10. Qxc4 dxe6 11. Nc3
+c6 12. e5 f5 13. Na4 b5 14. Qxc6+ Bd7 15. Qc3 bxa4 16. Rd1 Rc8 17. Qd3 Rc7 18.
+Qxa6 Rxc2 19. Bxg5 hxg5 20. Nxg5 Qxg5 21. Qa8+ Rc8 22. Qa6 Ne7 23. g3 f4 24. h4
+Rxh4 25. Kf1 fxg3 26. fxg3 Qf5+ 27. Ke2 Rh2+ 28. Ke3 Qxe5+ 29. Kf3 Bc6+ 30. Kg4
+Qf5# {  Black wins by checkmate.}   0-1
+
+[Event "Los Chinchess VI"]
+[Site "https://lichess.org/PVmOMiBX"]
+[Date "2023.03.09"]
+[Round "5"]
+[White "Hector2311"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1270"]
+[BlackRatingDiff "-18"]
+[ECO "B21"]
+[EventDate "2023.03.09"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[Termination "Normal"]
+[UTCDate "2023.03.09"]
+[UTCTime "02:15:29"]
+[Variant "Standard"]
+[WhiteElo "1326"]
+[WhiteRatingDiff "+27"]
+
+1. e4 c5 2. d4 {  B21 Sicilian Defense: Smith-Morra Gambit}  2... cxd4 3. Qxd4
+Nc6 4. Qd5 e6 5. Qd1 Qa5+ 6. Bd2 Qe5 7. Nc3 Bb4 8. f4 Qd4 9. e5 Bxc3 10. bxc3
+Qe4+ 11. Be2 Nge7 12. c4 Nd4 13. Nf3 Nxf3+ 14. gxf3 Qg6 15. Bd3 f5 16. exf6
+gxf6 17. Bxg6+ Nxg6 18. Bb4 d5 19. cxd5 exd5 20. Qe2+ Be6 21. Qxe6+ Ne7 22.
+Qxe7# {  White wins by checkmate.}   1-0
+

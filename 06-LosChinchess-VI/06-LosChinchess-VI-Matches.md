@@ -6,19 +6,19 @@
 | 1 | Asher (AsDaGo) | Mauricio (twinsendell) |           |
 
 ## Bronce
-| # | Blancas | Negras | Resultado |
-|---|---------|--------|-----------|
-| 2 |         |        |           |
+| # | Blancas             | Negras            | Resultado |
+|---|---------------------|-------------------|-----------|
+| 2 | Camilo (cgallego00) | Andres (arandres) |           |
 
 ## Final, categoria pulgas
-| # | Blancas | Negras | Resultado |
-|---|---------|--------|-----------|
-| 3 |         |        |           |
+| # | Blancas                 | Negras      | Resultado |
+|---|-------------------------|-------------|-----------|
+| 3 | Jorge Andres (kopalito) | Pei (pei12) |           |
 
 ## Bronce, categoria pulgas
-| # | Blancas | Negras | Resultado |
-|---|---------|--------|-----------|
-| 4 |         |        |           |
+| # | Blancas               | Negras             | Resultado |
+|---|-----------------------|--------------------|-----------|
+| 4 | Joaquin (OseznoRaudo) | Lautaro (Altaleff) |           |
 
 # Rondas clasificatorias
 ## Ronda 5
@@ -26,13 +26,13 @@
 |----|----------------------------|---------------------------|------------|
 |  1 | Camilo (cgallego00)        | Andres (arandres)         |        ½-½ |
 |  2 | Asher (AsDaGo)             | Santiago (Ceras1998)      |        1-0 |
-|  3 | Juan (deptozer)            | Pei (pei12)               |            |
+|  3 | Juan (deptozer)            | Pei (pei12)               |        ½-½ |
 |  4 | Leison (Quintero_05)       | Jorge Andres (kopalito)   |        0-1 |
 |  5 | Alejandro (Alejandro-mesa) | Mauricio (twinsendell)    |        0-1 |
 |  6 | Carolina (Carolmar)        | Lautaro (Altaleff)        |        0-1 |
 |  7 | Andrew (wmass)             | Joaquin (OseznoRaudo)     |        0-1 |
 |  8 | Maria Clara (macla3010)    | Juli (kshulian)           |        W-1 |
-|  9 | Neider (NeiderMT)          | Nicolas (CaballitodeMarr) |            |
+|  9 | Neider (NeiderMT)          | Nicolas (CaballitodeMarr) |        ½-½ |
 | 10 | Israel (IAHMCOL)           | Hector (Hector2311)       |        0-1 |
 
 ## Ronda 4
