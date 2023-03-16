@@ -11,14 +11,19 @@
 | 2 | Camilo (cgallego00) | Andres (arandres) |           |
 
 ## Final, categoria pulgas
-| # | Blancas                 | Negras      | Resultado |
-|---|-------------------------|-------------|-----------|
-| 3 | Jorge Andres (kopalito) | Pei (pei12) |           |
+| # | Blancas                 | Negras                | Resultado |
+|---|-------------------------|-----------------------|-----------|
+| 3 | Jorge Andres (kopalito) | Joaquin (OseznoRaudo) |           |
+
 
 ## Bronce, categoria pulgas
-| # | Blancas               | Negras             | Resultado |
-|---|-----------------------|--------------------|-----------|
-| 4 | Joaquin (OseznoRaudo) | Lautaro (Altaleff) |           |
+| # | Blancas            | Negras          | Resultado |
+|---|--------------------|-----------------|-----------|
+| 4 | Lautaro (Altaleff) | Juan (deptozer) |           |
+
+*Nota:* Pei (pei12) abandona torneo dando paso al jugador en ranking 9no, Juan
+(deptozer) para participar en la partida de Bronce por categoria
+pulgas. Joaquin (OzesnoRaudo) entra a la disputa por medalla de Oro.
 
 # Rondas clasificatorias
 ## Ronda 5
