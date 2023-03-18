@@ -3,18 +3,17 @@
 ## Final
 | # | Blancas        | Negras                 | Resultado |
 |---|----------------|------------------------|-----------|
-| 1 | Asher (AsDaGo) | Mauricio (twinsendell) |           |
+| 1 | Asher (AsDaGo) | Mauricio (twinsendell) |       1-0 |
 
 ## Bronce
 | # | Blancas             | Negras            | Resultado |
 |---|---------------------|-------------------|-----------|
-| 2 | Camilo (cgallego00) | Andres (arandres) |           |
+| 2 | Camilo (cgallego00) | Andres (arandres) |       1-0 |
 
 ## Final, categoria pulgas
 | # | Blancas                 | Negras                | Resultado |
 |---|-------------------------|-----------------------|-----------|
-| 3 | Jorge Andres (kopalito) | Joaquin (OseznoRaudo) |           |
-
+| 3 | Jorge Andres (kopalito) | Joaquin (OseznoRaudo) |       1-0 |
 
 ## Bronce, categoria pulgas
 | # | Blancas            | Negras          | Resultado |
