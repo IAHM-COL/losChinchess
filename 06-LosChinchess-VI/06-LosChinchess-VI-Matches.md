@@ -16,13 +16,14 @@
 | 3 | Jorge Andres (kopalito) | Joaquin (OseznoRaudo) |       1-0 |
 
 ## Bronce, categoria pulgas
-| # | Blancas            | Negras          | Resultado |
-|---|--------------------|-----------------|-----------|
-| 4 | Lautaro (Altaleff) | Juan (deptozer) |           |
+| # | Blancas            | Negras      | Resultado |
+|---|--------------------|-------------|-----------|
+| 4 | Lautaro (Altaleff) | Pei (pei12) | 1-W       |
 
-*Nota:* Pei (pei12) abandona torneo dando paso al jugador en ranking 9no, Juan
-(deptozer) para participar en la partida de Bronce por categoria
-pulgas. Joaquin (OzesnoRaudo) entra a la disputa por medalla de Oro.
+
+*Nota:* Pei (pei12) abandona torneo en la final Pulgas, permitiendo a Joaquin (OseznoRaudo) disputar por la Medalla de Plata.
+Juan (deptozer) recibio invitacion para disputar la Medalla de Bronce, pero esta no fue respondida, concediendo la
+Medalla de bronce a Lautaro (Altaleff) por W.
 
 # Rondas clasificatorias
 ## Ronda 5
