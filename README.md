@@ -16,7 +16,7 @@ El Campeon de cada edicion es reconocido con el titulo del "Alfil de Oro".
 | Los Chinchess I   | 04/24/2021 - 06/04/2021 | **Andres  ([arandres](https://lichess.org/@/arandres))**      | Camilo ([cgallego00](https://lichess.org/@/cgallego00))     | Maria Clara ([mc3010](https://lichess.org/@/mc3010))       |
 
 ***
-:copyright: 2021-2022, IAHM-COL
+:copyright: 2021-2023, IAHM-COL
 
 **COPYING**
 
