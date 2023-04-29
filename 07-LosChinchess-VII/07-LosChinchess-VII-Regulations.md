@@ -1,4 +1,4 @@
-## Los Chinchess V – Chess Tournament
+## Los Chinchess VII – Chess Tournament
 ### Regulations
 
 | Group A                                                                           | Group B                                                                            |
@@ -11,7 +11,7 @@
 | A6. Andrew  ([@wmass](https://lichess.org/?user=wmass#friend);  1335)             | B6. Neider  ([@NeiderMT](https://lichess.org/?user=NeiderMT#friend);  1529)        |
 | A7. ♝♝ Andres ([@arandres](https://lichess.org/?user=arandres#friend); 1812)      | B7. Joaquin  ([@OseznoRaudo](https://lichess.org/?user=OseznoRaudo#friend); 1615)  |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| Average Glicko: *1671*                                                            | Average Glicko: *1624*                                                             |
+| Average Glicko: **1671**                                                          | Average Glicko: **1624**                                                           |
 
 ### Game's calendar and results record
 
@@ -51,11 +51,11 @@ league 'Las Pulgas VII'.
 The player in fourth place of each group shall face on
 play-off to the player on fifth place of the other group for a placement on
 the league. They shall place two games, alternating colors, first game, fourth
-place plays White, during the week June 3rd to June 9th. *If after the
+place plays White, during the week June 3rd to June 9th. **If after the
 second game, a draw is kept, a third game, with fourth place playing white
 again is completed. The winners of the play-off joining third places to the
 League. If a draw is persistent, after three games, the player on fourth
-placement takes the spot on the league.*
+placement takes the spot on the league.**
 
 ## A2	The League 'Las Pulgas VII'
 
@@ -66,11 +66,11 @@ June 10th to June 23rd. Podium is awarded Gold, Silver and Bronze Medal.
 
 B1. The tournament plays in  Lichess (https://lichess.org/)
 
-B2. Every games is timed,  10 minutes, 5 Sec increment (*10+5*). 
+B2. Every games is timed,  10 minutes, 5 Sec increment (**10+5**). 
 
 B3. *Important*: Every game shall be rated
 
-B4. Every game is played as registered user (*not anonymous*)
+B4. Every game is played as registered user (**not anonymous**)
 
 B5. White player shall create a challenge. Black player shall accept.
 
@@ -97,14 +97,14 @@ be done promptly and without help by other players or automatic analysis.
 
 C3: Tie-breaking: Neudstadtl score is used for tie-breaking, followed by
 the result between the players in the tie-break. If a tie persist,  
-Glicko-2 score registered *at the beginning of tournament*, is used, higher
+Glicko-2 score registered **at the beginning of tournament**, is used, higher
 score placed best.  
 
 ## D	Match programming and abandonment
 
 D1. Every week, each player has a schedule of either 2, 3 or 4 games
 
-D2. Using Whats-App, *or Lichess messaging*, each player communicates with the
+D2. Using Whats-App, **or Lichess messaging**, each player communicates with the
 opponents to determine an agreeable date/time to program the match. 
 
 D3. White player has responsibility to update the calendar spreadsheet with
