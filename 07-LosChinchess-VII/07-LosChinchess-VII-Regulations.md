@@ -23,12 +23,11 @@ The tournament consists of 14 players, seeded in two groups (A and B). Random
 placement of players was achieved by seeding all players in two cups, using
 the initial Glicko-2 scores, and randomly chosing to complete B1, A3, B3, A5
 etc from the highest ranked cup, and A2, B2, A4, etc, from the lowest scores
-cup. The 'Golden Bishop' of Chinchess IV tournament (@AsDaGo) was directly
+cup. The 'Golden Bishop' of Chinchess VI tournament (@AsDaGo) was directly
 placed on A1.  For the first four weeks,
 each group shall play a doble round-robin tournament (every player against
-each other, colors alternating), played between May 6th and June 2nd, 2022.
-The Bye games gives one point each. Games asigned for a given week
-cannot be played on a different week. 
+each other, colors alternating), played between May 6th and June 2nd, 2023.
+Games asigned for a given week cannot be played on a different week. 
 
 The winner of every group classifies, along the second placement, to the final
 round. The final round, consists of 4 players. These will play a doble
