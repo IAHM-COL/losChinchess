@@ -1,0 +1,36 @@
+# Torneo de Ajedrez Los Chinchess
+
+## Crosstable
+
+### Group A
+| # | Name                 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Score | Neudstadtl | Initial rating |
+|---+----------------------+---+---+---+---+---+---+---+-------+------------+----------------|
+| 1 | Asher (AsDaGo)       | x |   |   |   |   |   |   |     0 |          0 |           2141 |
+| 2 | Harry (marinvahos)   |   | x |   |   |   |   |   |     0 |          0 |           1497 |
+| 3 | Camilo (cgallego00)  |   |   | x |   |   |   |   |     0 |          0 |           1829 |
+| 4 | Hector (Hector2311)  |   |   |   | x |   |   |   |     0 |          0 |           1353 |
+| 5 | Leison (Quintero_05) |   |   |   |   | x |   |   |     0 |          0 |           1733 |
+| 6 | Andrew (wmass)       |   |   |   |   |   | x |   |     0 |          0 |           1335 |
+| 7 | Andres (arandres)    |   |   |   |   |   |   | x |     0 |          0 |           1812 |
+
+### Group B
+| # | Name                    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Score | Neudstadtl | Initial rating |
+|---+-------------------------+---+---+---+---+---+---+---+-------+------------+----------------|
+| 1 | Mauricio (twinsendell)  | x |   |   |   |   |   |   |     0 |          0 |           1785 |
+| 2 | Israel (IAHMCOL)        |   | x |   |   |   |   |   |     0 |          0 |           1252 |
+| 3 | Jorge Andres (kopalito) |   |   | x |   |   |   |   |     0 |          0 |           1958 |
+| 4 | Maria Clara (macla3010) |   |   |   | x |   |   |   |     0 |          0 |           1600 |
+| 5 | Lautaro (Altaleff)      |   |   |   |   | x |   |   |     0 |          0 |           1630 |
+| 6 | Neider (NeiderMT)       |   |   |   |   |   | x |   |     0 |          0 |           1529 |
+| 7 | Joaquin (OseznoRaudo)   |   |   |   |   |   |   | x |     0 |          0 |           1615 |
+
+### Final
+| # | Name | 1 | 2 | 3 | 4 | Score | Neudstadtl | Initial rating |
+|---+------+---+---+---+---+-------+------------+----------------|
+| 1 | A1   | x |   |   |   |     0 |          0 |                |
+| 2 | B1   |   | x |   |   |     0 |          0 |                |
+| 3 | A2   |   |   | x |   |     0 |          0 |                |
+| 4 | B2   |   |   |   | x |     0 |          0 |                |
+
+
+

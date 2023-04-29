@@ -1,0 +1,25 @@
+# Torneo de Ajedrez Los Chinchess
+
+## Crosstable
+
+### Play-offs
+| # | Name | 1 | 2 | Score | Neudstadtl | Initial rating |
+|---+------+---+---+-------+------------+----------------|
+| 1 | A4   | x |   |     0 |          0 |                |
+| 2 | B5   |   | x |     0 |          0 |                |
+
+| # | Name | 1 | 2 | Score | Neudstadtl | Initial rating |
+|---+------+---+---+-------+------------+----------------|
+| 1 | B4   | x |   |     0 |          0 |                |
+| 2 | A5   |   | x |     0 |          0 |                |
+
+### Final
+| # | Name  | 1 | 2 | 3 | 4 | Score | Neudstadtl | Initial rating |
+|---+-------+---+---+---+---+-------+------------+----------------|
+| 1 | A3    | x |   |   |   |     0 |          0 |                |
+| 2 | B3    |   | x |   |   |     0 |          0 |                |
+| 3 | A4vB5 |   |   | x |   |     0 |          0 |                |
+| 4 | B4vA5 |   |   |   | x |     0 |          0 |                |
+
+
+
