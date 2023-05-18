@@ -3,26 +3,26 @@
 ** Crosstable
 
 *** Group A
-| # | Name                         | Asher | Camilo | Leison | Andres | Hector | Andrew | Harry | Score | Neudstadtl | Initial rating |
-|---+------------------------------+-------+--------+--------+--------+--------+--------+-------+-------+------------+----------------|
-| 1 | Asher (AsDaGo)               |     x |        |        |      1 |      1 |      1 |     2 |     5 |          7 |           2141 |
-| 3 | Camilo (cgallego00)          |       |      x |        |      1 |      1 |      1 |     2 |     5 |          7 |           1829 |
-| 5 | Leison (Quintero_05)         |       |        |      x |        |      1 |      1 |     2 |     4 |          4 |           1733 |
-| 7 | Andres (arandres)            |     0 |      0 |        |      x |      1 |        |     2 |     3 |          2 |           1812 |
-| 4 | Hector (Hector2311)          |     0 |      0 |      0 |      0 |      x |        |     2 |     2 |          0 |           1353 |
-| 6 | Andrew (wmass)               |     0 |      0 |      0 |        |        |      x |     2 |     2 |          0 |           1335 |
-| 2 | Harry (marinvahos; abandono) |     0 |      0 |      0 |      0 |      0 |      0 |     x |     0 |          0 |           1497 |
+| # | Name                         | Camilo | Asher | Andres | Leison | Hector | Andrew | Harry | Score | Neudstadtl | Initial rating |
+|---+------------------------------+--------+-------+--------+--------+--------+--------+-------+-------+------------+----------------|
+| 3 | Camilo (cgallego00)          |      x |     1 |      1 |        |      1 |      1 |     2 |     6 |         14 |           1829 |
+| 1 | Asher (AsDaGo)               |      0 |     x |      1 |      1 |      1 |      1 |     2 |     6 |         12 |           2141 |
+| 7 | Andres (arandres)            |      0 |     0 |      x |        |      1 |      1 |     2 |     4 |          4 |           1812 |
+| 5 | Leison (Quintero_05)         |        |     0 |        |      x |      1 |      1 |     2 |     4 |          4 |           1733 |
+| 4 | Hector (Hector2311)          |      0 |     0 |      0 |      0 |      x |        |     2 |     2 |          0 |           1353 |
+| 6 | Andrew (wmass)               |      0 |     0 |      0 |      0 |        |      x |     2 |     2 |          0 |           1335 |
+| 2 | Harry (marinvahos; abandono) |      0 |     0 |      0 |      0 |      0 |      0 |     x |     0 |          0 |           1497 |
 
 *** Group B
-| # | Name                    | Lautaro | Mauricio | Jorge Andres | Maria Clara | Joaquin | Neider | Israel | Score | Neudstadtl | Initial rating |
-|---+-------------------------+---------+----------+--------------+-------------+---------+--------+--------+-------+------------+----------------|
-| 5 | Lautaro (Altaleff)      |       x |          |            1 |           0 |       1 |      1 |      1 |     4 |          4 |           1630 |
-| 1 | Mauricio (twinsendell)  |         |        x |              |           1 |       1 |      1 |        |     3 |          3 |           1785 |
-| 3 | Jorge Andres (kopalito) |       0 |          |            x |             |       1 |      1 |      1 |     3 |          1 |           1958 |
-| 4 | Maria Clara (macla3010) |       1 |        0 |              |           x |       1 |        |        |     2 |          5 |           1600 |
-| 7 | Joaquin (OseznoRaudo)   |       0 |        0 |            0 |           0 |       x |        |      1 |     1 |          0 |           1615 |
-| 6 | Neider (NeiderMT)       |       0 |        0 |            0 |             |         |      x |        |     0 |          0 |           1529 |
-| 2 | Israel (IAHMCOL)        |       0 |          |            0 |             |       0 |        |      x |     0 |          0 |           1252 |
+| # | Name                    | Lautaro | Mauricio | Maria Clara | Jorge Andres | Joaquin | Neider | Israel | Score | Neudstadtl | Initial rating |
+|---+-------------------------+---------+----------+-------------+--------------+---------+--------+--------+-------+------------+----------------|
+| 5 | Lautaro (Altaleff)      |       x |        1 |           0 |            1 |       1 |      1 |      1 |     5 |          9 |           1630 |
+| 1 | Mauricio (twinsendell)  |       0 |        x |           1 |              |       1 |      1 |      1 |     4 |          5 |           1785 |
+| 4 | Maria Clara (macla3010) |       1 |        0 |           x |              |       1 |        |      1 |     3 |          6 |           1600 |
+| 3 | Jorge Andres (kopalito) |       0 |          |             |            x |       1 |      1 |      1 |     3 |          2 |           1958 |
+| 7 | Joaquin (OseznoRaudo)   |       0 |        0 |           0 |            0 |       x |        |      1 |     1 |          0 |           1615 |
+| 6 | Neider (NeiderMT)       |       0 |        0 |             |            0 |         |      x |      1 |     1 |          0 |           1529 |
+| 2 | Israel (IAHMCOL)        |       0 |        0 |           0 |            0 |       0 |      0 |      x |     0 |          0 |           1252 |
 
 *** Final
 | # | Name | 1 | 2 | 3 | 4 | Score | Neudstadtl | Initial rating |
