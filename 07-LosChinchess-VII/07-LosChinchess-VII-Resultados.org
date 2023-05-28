@@ -14,16 +14,17 @@
 | 2 | Harry (marinvahos; abandono)   |      0 |     0 |      0 |      0 |      0 |      0 |     x |     0 |          0 |           1497 |
 
 *** Group B
-| # | Name                    | Jorge Andres | Lautaro | Mauricio | Maria Clara | Joaquin | Neider | Israel | Score | Neudstadtl | Initial rating |
-|---+-------------------------+--------------+---------+----------+-------------+---------+--------+--------+-------+------------+----------------|
-| 3 | Jorge Andres (kopalito) |            x |       0 |        1 |           1 |       2 |      2 |      2 |     8 |         19 |           1958 |
-| 5 | Lautaro (Altaleff)      |            1 |       x |        1 |           0 |       1 |      2 |      2 |     7 |       20.5 |           1630 |
-| 1 | Mauricio (twinsendell)  |            0 |       0 |        x |           1 |       2 |      1 |      1 |     5 |       11.5 |           1785 |
-| 4 | Maria Clara (macla3010) |            0 |       1 |        0 |           x |       1 |      1 |      1 |     4 |         12 |           1600 |
-| 7 | Joaquin (OseznoRaudo)   |            0 |       0 |        0 |           0 |       x |      1 |    1.5 |   2.5 |       2.75 |           1615 |
-| 6 | Neider (NeiderMT)       |            0 |       0 |        1 |           0 |       0 |      x |      1 |     2 |        5.5 |           1529 |
-| 2 | Israel (IAHMCOL)        |            0 |       0 |        0 |           0 |     0.5 |      0 |      x |   0.5 |       1.25 |           1252 |
+| # | Name                    | Lautaro | Jorge Andres | Mauricio | Maria Clara | Neider | Joaquin | Israel | Score | Neudstadtl | Initial rating |
+|---+-------------------------+---------+--------------+----------+-------------+--------+---------+--------+-------+------------+----------------|
+| 5 | Lautaro (Altaleff)      |       x |            1 |        1 |           1 |      2 |       1 |      2 |     8 |       30.5 |           1630 |
+| 3 | Jorge Andres (kopalito) |       0 |            x |        1 |           1 |      2 |       2 |      2 |     8 |         25 |           1958 |
+| 1 | Mauricio (twinsendell)  |       0 |            0 |        x |           2 |      1 |       2 |      1 |     6 |       19.5 |           1785 |
+| 4 | Maria Clara (macla3010) |       1 |            0 |        0 |           x |      1 |       2 |      1 |     5 |       17.5 |           1600 |
+| 6 | Neider (NeiderMT)       |       0 |            0 |        1 |           0 |      x |       0 |      2 |     3 |          9 |           1529 |
+| 7 | Joaquin (OseznoRaudo)   |       0 |            0 |        0 |           0 |      1 |       x |    1.5 |   2.5 |       5.25 |           1615 |
+| 2 | Israel (IAHMCOL)        |       0 |            0 |        0 |           1 |      0 |     0.5 |      x |   1.5 |       6.25 |           1252 |
 
+    
 *** Final
 | # | Name | 1 | 2 | 3 | 4 | Score | Neudstadtl | Initial rating |
 |---+------+---+---+---+---+-------+------------+----------------|
