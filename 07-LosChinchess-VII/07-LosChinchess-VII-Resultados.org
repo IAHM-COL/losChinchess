@@ -1,7 +1,15 @@
-* Torneo de Ajedrez Los Chinchess
+* Torneo de Ajedrez Los Chinchess VII
 
 ** Crosstable
 
+*** Final
+| # | Name                    | 1 | Lautaro | 3 | Jorge Andres | Score | Neudstadtl | Initial rating |
+|---+-------------------------+---+---------+---+--------------+-------+------------+----------------|
+| 1 | A1                      | x |         |   |              |     0 |          0 |                |
+| 2 | Lautaro (Altaleff)      |   | x       |   |              |     0 |          0 |           1630 |
+| 3 | A2                      |   |         | x |              |     0 |          0 |                |
+| 4 | Jorge Andres (kopalito) |   |         |   | x            |     0 |          0 |           1958 |
+   
 *** Group A
 | # | Name                         | Camilo | Asher | Andres | Hector | Andrew | Leison | Harry | Score | Neudstadtl | Direct | Initial rating |
 |---+------------------------------+--------+-------+--------+--------+--------+--------+-------+-------+------------+--------+----------------|
@@ -16,21 +24,10 @@
 *** Group B
 | # | Name                    | Lautaro | Jorge Andres | Mauricio | Maria Clara | Joaquin | Neider | Israel | Score | Neudstadtl | Initial rating |
 |---+-------------------------+---------+--------------+----------+-------------+---------+--------+--------+-------+------------+----------------|
-|   | Lautaro (Altaleff)      |       x |            1 |        2 |           1 |       1 |      2 |      2 |     9 |       40.5 |           1630 |
-|   | Jorge Andres (kopalito) |       0 |            x |        1 |           2 |       2 |      2 |      2 |     9 |         33 |           1958 |
-| 3 | Mauricio (twinsendell)  |       0 |            0 |        x |           2 |       2 |      1 |      2 |     7 |         23 |           1785 |
-| 4 | Maria Clara (macla3010) |       1 |            0 |        0 |           x |       2 |      1 |      1 |     5 |       20.5 |           1600 |
+| 1 | Lautaro (Altaleff)      |       x |            2 |        2 |           1 |       2 |      2 |      2 |    11 |         55 |           1630 |
+| 2 | Jorge Andres (kopalito) |       0 |            x |        1 |           2 |       2 |      2 |      2 |     9 |         34 |           1958 |
+| 3 | Mauricio (twinsendell)  |       0 |            1 |        x |           2 |       2 |      1 |      2 |     8 |         32 |           1785 |
+| 4 | Maria Clara (macla3010) |       1 |            0 |        0 |           x |       2 |      1 |      1 |     5 |       22.5 |           1600 |
 |   | Joaquin (OseznoRaudo)   |       0 |            0 |        0 |           0 |       x |      2 |    1.5 |   3.5 |       8.25 |           1615 |
-|   | Neider (NeiderMT)       |       0 |            0 |        1 |           0 |       0 |      x |      2 |     3 |         10 |           1529 |
+|   | Neider (NeiderMT)       |       0 |            0 |        1 |           0 |       0 |      x |      2 |     3 |         11 |           1529 |
 | 7 | Israel (IAHMCOL)        |       0 |            0 |        0 |           1 |     0.5 |      0 |      x |   1.5 |       6.75 |           1252 |
-    
-*** Final
-| # | Name | 1 | 2 | 3 | 4 | Score | Neudstadtl | Initial rating |
-|---+------+---+---+---+---+-------+------------+----------------|
-| 1 | A1   | x |   |   |   |     0 |          0 |                |
-| 2 | B1   |   | x |   |   |     0 |          0 |                |
-| 3 | A2   |   |   | x |   |     0 |          0 |                |
-| 4 | B2   |   |   |   | x |     0 |          0 |                |
-
-
-

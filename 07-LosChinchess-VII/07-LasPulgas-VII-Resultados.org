@@ -3,21 +3,21 @@
 ** Crosstable
 
 *** Play-offs
-| # | Name                | Hector | 2 | Score | Neudstadtl | Initial rating |
-|---+---------------------+--------+---+-------+------------+----------------|
-| 1 | Hector (Hector2311) | x      |   |     0 |          0 |                |
-| 2 | B5                  |        | x |     0 |          0 |                |
+| #  | Name                | Hector | 2 | Score | Neudstadtl | Initial rating |
+|----+---------------------+--------+---+-------+------------+----------------|
+| A4 | Hector (Hector2311) | x      |   |     0 |          0 |           1353 |
+| B5 | B5                  |        | x |     0 |          0 |                |
 
-| # | Name                    | Maria Clara | Andrew | Score | Neudstadtl | Initial rating |
-|---+-------------------------+-------------+--------+-------+------------+----------------|
-| 1 | Maria Clara (macla3010) | x           |        |     0 |          0 |                |
-| 2 | Andrew (wmass)          |             | x      |     0 |          0 |                |
+| #  | Name                    | Maria Clara | Andrew | Score | Neudstadtl | Initial rating |
+|----+-------------------------+-------------+--------+-------+------------+----------------|
+| B4 | Maria Clara (macla3010) | x           |        |     0 |          0 |           1600 |
+| A5 | Andrew (wmass)          |             | x      |     0 |          0 |           1335 |
 
 *** Final
-| # | Name                   | Andres | Mauricio | 3 | 4 | Score | Neudstadtl | Initial rating |
-|---+------------------------+--------+----------+---+---+-------+------------+----------------|
-| 1 | Andres (arandres)      | x      |          |   |   |     0 |          0 |                |
-| 2 | Mauricio (twinsendell) |        | x        |   |   |     0 |          0 |                |
-| 3 | A4vB5                  |        |          | x |   |     0 |          0 |                |
-| 4 | B4vA5                  |        |          |   | x |     0 |          0 |                |
+| #     | Name                   | Andres | Mauricio | 3 | 4 | Score | Neudstadtl | Initial rating |
+|-------+------------------------+--------+----------+---+---+-------+------------+----------------|
+| A3    | Andres (arandres)      | x      |          |   |   |     0 |          0 |           1812 |
+| B3    | Mauricio (twinsendell) |        | x        |   |   |     0 |          0 |           1785 |
+| A4vB5 | A4vB5                  |        |          | x |   |     0 |          0 |                |
+| B4vA5 | B4vA5                  |        |          |   | x |     0 |          0 |                |
 
