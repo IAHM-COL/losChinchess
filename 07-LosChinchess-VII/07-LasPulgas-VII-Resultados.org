@@ -3,10 +3,10 @@
 ** Crosstable
 
 *** Play-offs
-| #  | Name                | Hector | 2 | Score | Neudstadtl | Initial rating |
-|----+---------------------+--------+---+-------+------------+----------------|
-| A4 | Hector (Hector2311) | x      |   |     0 |          0 |           1353 |
-| B5 | B5                  |        | x |     0 |          0 |                |
+| #  | Name                | Hector | Neider | Score | Neudstadtl | Initial rating |
+|----+---------------------+--------+--------+-------+------------+----------------|
+| A4 | Hector (Hector2311) | x      |        |     0 |          0 |           1353 |
+| B5 | Neider (NeiderMT)   |        | x      |     0 |          0 |           1529 |
 
 | #  | Name                    | Maria Clara | Andrew | Score | Neudstadtl | Initial rating |
 |----+-------------------------+-------------+--------+-------+------------+----------------|
@@ -14,10 +14,10 @@
 | A5 | Andrew (wmass)          |             | x      |     0 |          0 |           1335 |
 
 *** Final
-| #     | Name                   | Andres | Mauricio | 3 | 4 | Score | Neudstadtl | Initial rating |
-|-------+------------------------+--------+----------+---+---+-------+------------+----------------|
-| A3    | Andres (arandres)      | x      |          |   |   |     0 |          0 |           1812 |
-| B3    | Mauricio (twinsendell) |        | x        |   |   |     0 |          0 |           1785 |
-| A4vB5 | A4vB5                  |        |          | x |   |     0 |          0 |                |
-| B4vA5 | B4vA5                  |        |          |   | x |     0 |          0 |                |
+| #     | Name                   | Andres | Mauricio | A4vB5 | B4vA5 | Score | Neudstadtl | Initial rating |
+|-------+------------------------+--------+----------+-------+-------+-------+------------+----------------|
+| A3    | Andres (arandres)      | x      |          |       |       |     0 |          0 |           1812 |
+| B3    | Mauricio (twinsendell) |        | x        |       |       |     0 |          0 |           1785 |
+| A4vB5 | TBD                    |        |          | x     |       |     0 |          0 |                |
+| B4vA5 | TBD                    |        |          |       | x     |     0 |          0 |                |
 
