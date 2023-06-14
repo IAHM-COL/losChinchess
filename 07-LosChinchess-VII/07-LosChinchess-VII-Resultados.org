@@ -3,12 +3,12 @@
 ** Crosstable
 
 *** Final
-| # | Name                                    | Asher | Jorge Andres | Camilo | Lautaro | Score | Neudstadtl | Initial rating | Final rating |  +/- |
-|---+-----------------------------------------+-------+--------------+--------+---------+-------+------------+----------------+--------------+------|
-| 1 | Alfil de Oro: Asher (AsDaGo)            |     x |            1 |    1.5 |     1.5 |     4 |      10.25 |           2141 |         2083 |  -58 |
-| 2 | Alfil de Plata: Jorge Andres (kopalito) |     1 |            x |    1.5 |       1 |   3.5 |         10 |           1958 |         1933 |  -25 |
-| 3 | Alfil de Bronce: Camilo (cgallego00)    |   0.5 |          0.5 |      x |       2 |     3 |       6.75 |           1829 |         1890 |  +61 |
-| 4 | Lautaro (Altaleff)                      |   0.5 |            1 |      0 |       x |   1.5 |        5.5 |           1630 |         1812 | +182 |
+| #               | Name                    | Asher | Jorge Andres | Camilo | Lautaro | Score | Neudstadtl | Initial rating | Final rating |  +/- |
+|-----------------+-------------------------+-------+--------------+--------+---------+-------+------------+----------------+--------------+------|
+| Alfil de Oro    | Asher (AsDaGo)          |     x |            1 |    1.5 |     1.5 |     4 |      10.25 |           2141 |         2083 |  -58 |
+| Alfil de Plata  | Jorge Andres (kopalito) |     1 |            x |    1.5 |       1 |   3.5 |         10 |           1958 |         1933 |  -25 |
+| Alfil de Bronce | Camilo (cgallego00)     |   0.5 |          0.5 |      x |       2 |     3 |       6.75 |           1829 |         1890 |  +61 |
+| 4               | Lautaro (Altaleff)      |   0.5 |            1 |      0 |       x |   1.5 |        5.5 |           1630 |         1812 | +182 |
    
 *** Group A
 | # | Name                           | Asher | Camilo | Andres | Hector | Andrew | Leison | Harry | Score | Neudstadtl | Direct | Initial rating | Final rating |  +/- |
