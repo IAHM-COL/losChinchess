@@ -3,20 +3,20 @@
 ** Crosstable
 
 *** Final
-| #     | Name                    | Andres | Mauricio | Neider | Maria Clara | Score | Neudstadtl | Initial rating |
-|-------+-------------------------+--------+----------+--------+-------------+-------+------------+----------------|
-| A3    | Andres (arandres)       | x      |          |        |             |     0 |          0 |           1812 |
-| B3    | Mauricio (twinsendell)  |        | x        |        |             |     0 |          0 |           1785 |
-| A4vB5 | Neider (NeiderMT)       |        |          | x      |             |     0 |          0 |           1529 |
-| B4vA5 | Maria Clara (macla3010) |        |          |        | x           |     0 |          0 |           1600 |
+| # | Name                    | Mauricio | Andres | Neider | Maria Clara | Score | Neudstadtl | Direct | Initial rating |
+|---+-------------------------+----------+--------+--------+-------------+-------+------------+--------+----------------|
+| 1 | Mauricio (twinsendell)  |        x |      1 |      1 |             |     2 |          4 |        |           1785 |
+| 2 | Andres (arandres)       |        0 |      x |      1 |           1 |     2 |          2 |      1 |           1812 |
+| 3 | Neider (NeiderMT)       |        0 |      1 |      x |           1 |     2 |          2 |      1 |           1529 |
+| 4 | Maria Clara (macla3010) |          |      0 |      0 |           x |     0 |          0 |        |           1600 |
 
 *** Play-offs
-| #  | Name                | Neider | Hector | Score | Neudstadtl | Initial rating |
-|----+---------------------+--------+--------+-------+------------+----------------|
-| B5 | Neider (NeiderMT)   | x      | 2      |     2 |          0 |           1529 |
-| A4 | Hector (Hector2311) | 0      | x      |     0 |          0 |           1353 |
+| #  | Name                | Neider | Hector | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|----+---------------------+--------+--------+-------+------------+----------------+--------------+-----|
+| B5 | Neider (NeiderMT)   | x      | 2      |     2 |          0 |           1529 |              |     |
+| A4 | Hector (Hector2311) | 0      | x      |     0 |          0 |           1353 |         1361 |  +8 |
 
-| #  | Name                    | Maria Clara | Andrew | Score | Neudstadtl | Initial rating |
-|----+-------------------------+-------------+--------+-------+------------+----------------|
-| B4 | Maria Clara (macla3010) | x           | 2      |     2 |          0 |           1600 |
-| A5 | Andrew (wmass)          | 0           | x      |     0 |          0 |           1335 |
+| #  | Name                    | Maria Clara | Andrew | Score | Neudstadtl | Initial rating | Final rating |  +/- |
+|----+-------------------------+-------------+--------+-------+------------+----------------+--------------+------|
+| B4 | Maria Clara (macla3010) | x           | 2      |     2 |          0 |           1600 |              |      |
+| A5 | Andrew (wmass)          | 0           | x      |     0 |          0 |           1335 |         1230 | -105 |
