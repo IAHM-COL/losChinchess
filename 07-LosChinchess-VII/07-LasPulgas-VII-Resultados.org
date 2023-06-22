@@ -5,10 +5,10 @@
 *** Final
 | # | Name                    | Mauricio | Andres | Neider | Maria Clara | Score | Neudstadtl | Direct | Initial rating |
 |---+-------------------------+----------+--------+--------+-------------+-------+------------+--------+----------------|
-| 1 | Mauricio (twinsendell)  |        x |      1 |      1 |             |     2 |          4 |        |           1785 |
-| 2 | Andres (arandres)       |        0 |      x |      1 |           1 |     2 |          2 |      1 |           1812 |
-| 3 | Neider (NeiderMT)       |        0 |      1 |      x |           1 |     2 |          2 |      1 |           1529 |
-| 4 | Maria Clara (macla3010) |          |      0 |      0 |           x |     0 |          0 |        |           1600 |
+| 1 | Mauricio (twinsendell)  |        x |      1 |      2 |           1 |     4 |          7 |        |           1785 |
+| 2 | Andres (arandres)       |        0 |      x |      1 |           1 |     2 |          3 |      1 |           1812 |
+| 3 | Neider (NeiderMT)       |        0 |      1 |      x |           1 |     2 |          3 |      1 |           1529 |
+| 4 | Maria Clara (macla3010) |        1 |      0 |      0 |           x |     1 |          4 |        |           1600 |
 
 *** Play-offs
 | #  | Name                | Neider | Hector | Score | Neudstadtl | Initial rating | Final rating | +/- |
