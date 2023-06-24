@@ -1114,7 +1114,7 @@ O-O 9. f4 d5 10. exd5 Nxd5 11. Nxd5 exd5 12. Bb3 Na5 13. Ba4 Nc4 14. Bc1 Qb6
 21. Bd2 Qc6 22. Qd4 Bf5 23. Rc1 Qb6 24. Qa4 Rac8 25. Rd1 Bc2 26. Qa3 Bxd1 27.
 Be3 Qb1 28. h3 Bf3+ 29. Kh2 Qc2 30. Bd4 Qxg2#  0-1
 
-[Event "Rated Rapid game"]
+[Event "Los Chinchess VII"]
 [Site "https://lichess.org/9LyJfHce"]
 [Date "2023.05.21"]
 [Round "3"]
@@ -2381,4 +2381,176 @@ O-O-O c5 9. g4 Nc6 10. Ne5 Nxe5 11. dxe5 Nd7 12. e4 Qc7 13. exd5 exd5 14. Rxd5
 b6 15. Rg1 Bb7 16. Rd6 Rae8 17. Bc4 Nxe5 18. Rxh6 gxh6 19. Qxh6 Nxc4 20. b3 Qd6
 21. bxc4 Qxh6+ 22. Kb2 Qxh3 23. Rd1 Bf3 24. Rd3 Qg2 25. Nb5 Qxf2 26. Nd6 Rd8
 27. a4 Bxg4 28. Kc3 Qf6+ 29. Kb3 Rxd6 30. Rg3 Rd4 31. c3 Rf4  0-1
+
+[Event "Las Pulgas VII"]
+[Site "https://lichess.org/cLGhOv3t"]
+[Date "2023.06.24"]
+[Round "3"]
+[White "macla3010"]
+[Black "arandres"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1748"]
+[BlackRatingDiff "+6"]
+[ECO "C02"]
+[EventDate "2023.06.24"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+[UTCDate "2023.06.24"]
+[UTCTime "20:41:30"]
+[Variant "Standard"]
+[WhiteElo "1551"]
+[WhiteRatingDiff "-9"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. f4 Qb6 6. Nf3 Nge7 7. Be2 Nf5 8. O-O
+cxd4 9. cxd4 Ncxd4 10. Bd3 Nxf3+ 11. Kh1 N3d4 12. Nc3 Nc6 13. Na4 Qd8 14. Nc5
+Bxc5 15. Bb5 O-O 16. Rf3 a6 17. Ba4 b5 18. Bc2 Ncd4 19. Rh3 Nxc2 20. Qxc2 Qe7
+21. Qd1 g6 22. g4 Nd4 23. g5 Kg7 24. Qe1 Rh8 25. Qh4 Nf5 26. Qg4 Bb7 27. Bd2
+d4+ 28. Kg1 Rad8 29. Rd3 Ba8 30. Rc1 Ba7 31. Ba5 Rc8 32. Rdd1 Ne3 33. Qe2 Qb7
+34. Re1 Qh1+ 35. Kf2 Qg2#  0-1
+
+[Event "Las Pulgas VII"]
+[Site "https://lichess.org/FjwaTgsw"]
+[Date "2023.06.16"]
+[Round "3"]
+[White "NeiderMT"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1800"]
+[BlackRatingDiff "+7"]
+[ECO "A53"]
+[EventDate "2023.06.16"]
+[Opening "Old Indian Defense"]
+[Termination "Normal"]
+[UTCDate "2023.06.16"]
+[UTCTime "02:49:12"]
+[Variant "Standard"]
+[WhiteElo "1567"]
+[WhiteRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 d6 {  A53 Old Indian Defense}  3. h3 g6 4. Nf3 Bg7 5. e3 O-O 6.
+Be2 Bf5 7. Nc3 a6 8. Nh4 Bd7 9. Bd3 Bc6 10. Nf3 b6 11. d5 Bb7 12. b3 c6 13. e4
+e6 14. Bb2 exd5 15. exd5 cxd5 16. O-O dxc4 17. Bxc4 d5 18. Bd3 Nbd7 19. Ne2 Nc5
+20. Bc2 Rc8 21. Rc1 Nce4 22. Nfd4 Nd7 23. f3 Nec5 24. Re1 Qh4 25. b4 Ne6 26.
+Kf1 Rc4 27. Bd3 Rxc1 28. Qxc1 Nxd4 29. Nxd4 Bxd4 30. Bxd4 Qxd4 31. Rd1 Qxb4 32.
+Qc7 Nc5 33. Rb1 Qd2 34. Bxg6 hxg6 35. Rxb6 Nd3 36. Kg1 Qf2+ 37. Kh2 Ne1 38. Qg3
+Qxg3+ 39. Kxg3 Bc8 40. Rd6 Be6 41. Rxa6 d4 42. Rd6 d3 43. Kf2 Nc2 44. Rxd3 Nb4
+45. Rd2 Nxa2 46. g4 Ra8 47. Kg3 Nc3 48. h4 Ra3 49. g5 Ne4+ 50. Kf4 Nxd2 51. Ke5
+Nc4+ 52. Kf6 Rxf3+ 53. Ke7 Rh3 54. Kf6 Kf8 55. h5 Rf3# {  Black wins by
+checkmate.}   0-1
+
+[Event "Las Pulgas VII"]
+[Site "https://lichess.org/zZC6UJlN"]
+[Date "2023.06.24"]
+[Round "3"]
+[White "arandres"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1807"]
+[BlackRatingDiff "-17"]
+[ECO "B51"]
+[EventDate "2023.06.24"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[Termination "Normal"]
+[UTCDate "2023.06.24"]
+[UTCTime "16:27:36"]
+[Variant "Standard"]
+[WhiteElo "1735"]
+[WhiteRatingDiff "+13"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O a6 5. Bxc6+ bxc6 6. c3 Nf6 7. d3 g6 8. h3
+Bg7 9. Be3 O-O 10. Qa4 Qb6 11. Qc2 Rb8 12. Bc1 d5 13. b3 Nd7 14. Bf4 e5 15. Bg3
+Ra8 16. Nbd2 d4 17. cxd4 cxd4 18. Nc4 Qc5 19. Rac1 Qe7 20. Bh4 Bf6 21. Bxf6
+Qxf6 22. Na5 c5 23. Nc4 Nb8 24. Ncxe5 Nc6 25. Qxc5 Nxe5 26. Qxe5 Qxe5 27. Nxe5
+Be6 28. Nf3 Rac8 29. Rxc8 Rxc8 30. Nxd4 Rc3 31. Rd1 a5 32. Nxe6 fxe6 33. Kf1
+Rc2 34. d4 Rxa2 35. d5 exd5 36. exd5 Kf8 37. d6 Ke8 38. g3 Rb2 39. Rd3 Rb1+ 40.
+Kg2 Kd7 41. Kf3 Rh1 42. Kg4 Re1 43. Kg5 Re5+ 44. Kh6 Rh5+ 45. Kg7 Rxh3 46. Kf6
+Rh2 47. f4 Re2 48. Kg7 Rh2 49. Kf6 Re2 50. Kg5 Re6 51. Kh6 g5+ 52. Kxg5 Rg6+
+53. Kh4 Rh6+ 54. Kg4 Rg6+ 55. Kf3 Re6 56. f5 Rf6 57. g4 h5 58. Kf4 h4 59. g5
+Rf8 60. f6 Rh8 61. Kg4 Rh7 62. g6 Rh6 63. Kg5 Rh8 64. g7 Rg8 65. Kg6  1-0
+
+[Event "Las Pulgas VII"]
+[Site "https://lichess.org/pV0wtZJ7"]
+[Date "2023.06.23"]
+[Round "3"]
+[White "macla3010"]
+[Black "NeiderMT"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1595"]
+[BlackRatingDiff "+11"]
+[ECO "C02"]
+[EventDate "2023.06.23"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[Termination "Normal"]
+[UTCDate "2023.06.23"]
+[UTCTime "16:23:35"]
+[Variant "Standard"]
+[WhiteElo "1569"]
+[WhiteRatingDiff "-18"]
+
+1. e4 c5 2. Nf3 e6 3. d4 d5 4. e5 {  C02 French Defense: Advance Variation,
+Nimzowitsch System}  4... c4 5. Nc3 Be7 6. Be2 Bd7 7. O-O Nc6 8. Ne1 Bb4 9. f4
+Nge7 10. Bg4 Ng6 11. f5 exf5 12. Bxf5 Bxf5 13. Rxf5 O-O 14. Ne2 Bxe1 15. Qxe1
+Nxd4 16. Nxd4 Qb6 17. c3 Rae8 18. Rh5 f6 19. Qg3 fxe5 20. Kh1 exd4 21. Bg5 dxc3
+22. bxc3 Qb2 23. Rc1 Qxc1+ 24. Bxc1 Rf1# {  Black wins by checkmate.}   0-1
+
+[Event "Las Pulgas VII"]
+[Site "https://lichess.org/7xliuuRx"]
+[Date "2023.06.22"]
+[Round "3"]
+[White "twinsendell"]
+[Black "macla3010"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1535"]
+[BlackRatingDiff "+34"]
+[ECO "A45"]
+[EventDate "2023.06.22"]
+[Opening "Indian Defense"]
+[Termination "Normal"]
+[UTCDate "2023.06.22"]
+[UTCTime "16:11:04"]
+[Variant "Standard"]
+[WhiteElo "1830"]
+[WhiteRatingDiff "-23"]
+
+1. d4 Nf6 {  A45 Indian Defense}  2. Nc3 g6 3. e4 Bg7 4. Bf4 O-O 5. Qd2 d6 6.
+Bh6 e5 7. Bxg7 Kxg7 8. d5 Nbd7 9. O-O-O Nc5 10. f3 Bd7 11. g4 b5 12. Bxb5 Bxb5
+13. Nxb5 Qb8 14. Na3 Na4 15. b3 Nc5 16. g5 Nh5 17. h4 a5 18. Nc4 a4 19. Qc3
+axb3 20. axb3 Ra2 21. Ne2 Qb5 22. Rdg1 Rfa8 23. Kd2 Nxb3+ 24. Ke1 Nc5 25. Kf2
+R8a4 26. Ne3 R4a3 27. Qd2 Nf4 28. Nxf4 exf4 29. Ng4 Qc4 30. Qxf4 Rxc2+ 31. Kg3
+Nxe4+ 32. Kh3 Nf2+ 33. Kg3 Ne4+ 34. Kh3 Nxg5+ 35. Kg3 Ne4+ 36. Kh3 Rcc3 37.
+Qh6+ Kg8 38. Kg2 Rxf3 39. Re1 Qc2+ 40. Kg1 Rg3+ 41. Kf1 Raf3+ 42. Nf2 Qxf2# { 
+Black wins by checkmate.}   0-1
+
+[Event "Las Pulgas VII"]
+[Site "https://lichess.org/rbebC2go"]
+[Date "2023.06.17"]
+[Round "3"]
+[White "arandres"]
+[Black "NeiderMT"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1555"]
+[BlackRatingDiff "+18"]
+[ECO "B29"]
+[EventDate "2023.06.17"]
+[Opening "Sicilian Defense: Nimzowitsch Variation"]
+[Termination "Normal"]
+[UTCDate "2023.06.17"]
+[UTCTime "00:06:37"]
+[Variant "Standard"]
+[WhiteElo "1745"]
+[WhiteRatingDiff "-16"]
+
+1. e4 c5 2. Nf3 Nf6 3. d3 d6 4. Nc3 e5 5. Be2 Be7 6. O-O O-O 7. Be3 a6 8. a3 b5
+9. Re1 Bg4 10. Qd2 Nc6 11. Rab1 Kh8 12. h3 Bh5 13. Nh2 Bg6 14. Ng4 Nxg4 15.
+Bxg4 f6 16. Nd5 Bf7 17. Nxe7 Qxe7 18. f4 exf4 19. Bxf4 Ne5 20. Be2 Rg8 21. d4
+cxd4 22. Qxd4 g5 23. Bh2 Rg7 24. Rbd1 Rd8 25. Bxe5 fxe5 26. Qb6 h5 27. Qxa6 Be6
+28. Bxh5 Qc7 29. Qxb5 g4 30. Bxg4 Bxg4 31. hxg4 Rxg4 32. Qd3 Qb6+ 33. Re3 Rdg8
+34. Rd2 Rg3 35. Re2 Rh3 36. Kf1 Rh1+ 37. Kf2 Rf8+ 38. Kg3 Qd8 39. Rf3 Qg5+ 40.
+Kf2 Qh4+ 41. Ke3 Qg5+ 42. Kf2 Qh4+ 43. Ke3 Rxf3+ 44. Kxf3 Qf4#  0-1
 
