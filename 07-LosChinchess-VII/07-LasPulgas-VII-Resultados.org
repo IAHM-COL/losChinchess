@@ -1,0 +1,22 @@
+* Liga de Ajedrez Las Pulgas VII
+
+** Crosstable
+
+*** Final
+| #                 | Name                    | Mauricio | Andres | Neider | Maria Clara | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|-------------------+-------------------------+----------+--------+--------+-------------+-------+------------+----------------+--------------+-----|
+| Medalla de Oro    | Mauricio (twinsendell)  |        x |      1 |      2 |           1 |     4 |         11 |           1785 |         1790 | + 5 |
+| Medalla de Plata  | Andres (arandres)       |        1 |      x |      1 |           2 |     4 |          9 |           1812 |         1754 | -58 |
+| Medalla de Bronce | Neider (NeiderMT)       |        0 |      1 |      x |           2 |     3 |          6 |           1529 |         1606 | +77 |
+| 4                 | Maria Clara (macla3010) |        1 |      0 |      0 |           x |     1 |          4 |           1600 |         1542 | -58 |
+
+*** Play-offs
+| #                 | Name                | Neider | Hector | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|-------------------+---------------------+--------+--------+-------+------------+----------------+--------------+-----|
+| Medalla de Bronce | Neider (NeiderMT)   | x      | 2      |     2 |          0 |           1529 |         1606 | +77 |
+| 5                 | Hector (Hector2311) | 0      | x      |     0 |          0 |           1353 |         1361 |  +8 |
+
+| #  | Name                    | Maria Clara | Andrew | Score | Neudstadtl | Initial rating | Final rating |  +/- |
+|----+-------------------------+-------------+--------+-------+------------+----------------+--------------+------|
+| 4  | Maria Clara (macla3010) | x           | 2      |     2 |          0 |           1600 |         1542 |  -58 |
+| 6  | Andrew (wmass)          | 0           | x      |     0 |          0 |           1335 |         1230 | -105 |
