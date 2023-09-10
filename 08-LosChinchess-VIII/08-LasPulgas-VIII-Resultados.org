@@ -1,0 +1,22 @@
+* Liga de Ajedrez Las Pulgas VIII
+
+** Crosstable
+
+*** Final
+| #     | Name | A3 | B3 | A4vB5 | B4vA5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|-------+------+----+----+-------+-------+-------+------------+----------------+--------------+-----|
+| A3    |      | x  |    |       |       |     0 |          0 |                |              |     |
+| B3    |      |    | x  |       |       |     0 |          0 |                |              |     |
+| A4vB5 |      |    |    | x     |       |     0 |          0 |                |              |     |
+| B4vA5 |      |    |    |       | x     |     0 |          0 |                |              |     |
+
+*** Play-offs
+| #  | Name | A4 | B5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|----+------+----+----+-------+------------+----------------+--------------+-----|
+| A4 |      | x  |    |     0 |          0 |                |              |     |
+| B5 |      |    | x  |     0 |          0 |                |              |     |
+
+| #  | Name | B4 | A5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|----+------+----+----+-------+------------+----------------+--------------+-----|
+| B4 |      | x  |    |     0 |          0 |                |              |     |
+| A5 |      |    | x  |     0 |          0 |                |              |     |

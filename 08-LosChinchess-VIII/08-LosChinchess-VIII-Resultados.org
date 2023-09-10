@@ -1,0 +1,34 @@
+* Torneo de Ajedrez Los Chinchess VIII
+  
+** Crosstable
+   
+*** Group A
+| # | Name                       | Asher | Alejandro | Leison | Andrew | Jorge Andres | Israel | Camilo | Score | Neudstadtl | Initial rating |
+|---+----------------------------+-------+-----------+--------+--------+--------------+--------+--------+-------+------------+----------------|
+| 1 | Asher (AsDaGo)             | x     |           |        |        |              |        |        |     0 |          0 |           2083 |
+| 2 | Alejandro (Alejandro-mesa) |       | x         |        |        |              |        |        |     0 |          0 |           1418 |
+| 3 | Leison (Quintero_05)       |       |           | x      |        |              |        |        |     0 |          0 |           1716 |
+| 4 | Andrew (wmass)             |       |           |        | x      |              |        |        |     0 |          0 |           1230 |
+| 5 | Jorge Andres (kopalito)    |       |           |        |        | x            |        |        |     0 |          0 |           1901 |
+| 6 | Israel (IAHMCOL)           |       |           |        |        |              | x      |        |     0 |          0 |           1250 |
+| 7 | Camilo (cgallego00)        |       |           |        |        |              |        | x      |     0 |          0 |           1890 |
+
+*** Group B
+| # | Name                    | Mauricio | Maria Clara | Andres | Alejo | Neider | Duvian | Hector | Score | Neudstadtl | Initial rating |
+|---+-------------------------+----------+-------------+--------+-------+--------+--------+--------+-------+------------+----------------|
+| 1 | Mauricio (twinsendell)  | x        |             |        |       |        |        |        |     0 |          0 |           1790 |
+| 2 | Maria Clara (macla3010) |          | x           |        |       |        |        |        |     0 |          0 |           1542 |
+| 3 | Andres (arandres)       |          |             | x      |       |        |        |        |     0 |          0 |           1754 |
+| 4 | Alejo (Alexxnunez)      |          |             |        | x     |        |        |        |     0 |          0 |           1500 |
+| 5 | Neider (NeiderMT)       |          |             |        |       | x      |        |        |     0 |          0 |           1606 |
+| 6 | Duvian (Duvian)         |          |             |        |       |        | x      |        |     0 |          0 |           1561 |
+| 7 | Hector (Hector2311)     |          |             |        |       |        |        | x      |     0 |          0 |           1361 |
+
+*** Final
+| #  | Name | A1 | B1 | A2 | B2 | Score | Neudstadtl |
+|----+------+----+----+----+----+-------+------------|
+| A1 |      |    |    |    |    |     0 |          0 |
+| B1 |      |    |    |    |    |     0 |          0 |
+| A2 |      |    |    |    |    |     0 |          0 |
+| B2 |      |    |    |    |    |     0 |          0 |
+
