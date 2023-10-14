@@ -3,32 +3,33 @@
 ** Crosstable
    
 *** Group A
-| # | Name                       | Asher | Camilo | Alejandro | Andrew | Jorge Andres | Leison | Israel | Score | Neudstadtl | Forfeits | Initial rating |
-|---+----------------------------+-------+--------+-----------+--------+--------------+--------+--------+-------+------------+----------+----------------|
-| 1 | Asher (AsDaGo)             |     x |      2 |         1 |      1 |            2 |      2 |      2 |    10 |         37 |          |           2083 |
-| 7 | Camilo (cgallego00)        |     0 |      x |         2 |      1 |            1 |      2 |      2 |     8 |         23 |          |           1890 |
-| 2 | Alejandro (Alejandro-Mesa) |     0 |      0 |         x |      2 |            1 |      1 |      1 |     5 |         14 |          |           1418 |
-| 4 | Andrew (wmass)             |     0 |      0 |         0 |      x |            1 |      2 |      1 |     4 |          9 |          |           1230 |
-| 5 | Jorge Andres (kopalito)    |     0 |      0 |         1 |    0.5 |            x |      1 |      1 |   3.5 |          8 |        1 |           1901 |
-| 3 | Leison (Quintero_05)       |  -0.5 |   -0.5 |       0.5 |     -1 |          0.5 |      x |      2 |     1 |          5 |        6 |           1716 |
-| 6 | Israel (IAHMCOL)           |     0 |      0 |         0 |      0 |            0 |      0 |      x |     0 |          0 |          |           1250 |
+| # | Name                       | Asher | Camilo | Alejandro | Jorge Andres | Andrew | Leison | Israel | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
+|---+----------------------------+-------+--------+-----------+--------------+--------+--------+--------+-------+------------+----------+----------------+--------------+-----|
+| 1 | Asher (AsDaGo)             |     x |      2 |         2 |            2 |      2 |      2 |      2 |    12 |         58 |          |           2083 |              |     |
+| 2 | Camilo (cgallego00)        |     0 |      x |         2 |            2 |      2 |      2 |      2 |    10 |         38 |          |           1890 |              |     |
+| 3 | Alejandro (Alejandro-Mesa) |  -0.5 |      0 |         x |            1 |      2 |      1 |      2 |   5.5 |         18 |          |           1418 |              |     |
+| 4 | Jorge Andres (kopalito)    |     0 |      0 |         1 |            x |    0.5 |      1 |      2 |   4.5 |         15 |        1 |           1901 |              |     |
+| 5 | Andrew (wmass)             |     0 |      0 |         0 |            1 |      x |      2 |      1 |     4 |         12 |          |           1230 |              |     |
+| 6 | Leison (Quintero_05)       |  -0.5 |   -0.5 |       0.5 |          0.5 |     -1 |      x |      2 |     1 |          7 |        6 |           1716 |         1730 | +14 |
+| 7 | Israel (IAHMCOL)           |     0 |      0 |         0 |            0 |      1 |      0 |      x |     1 |          4 |          |           1250 |         1219 | -31 |
 
 *** Group B
-| # | Name                    | Andres | Mauricio | Duvian | Neider | Maria Clara | Hector | Alejo | Score | Neudstadtl | Forfeits | Initial rating |
-|---+-------------------------+--------+----------+--------+--------+-------------+--------+-------+-------+------------+----------+----------------|
-| 3 | Andres (arandres)       |      x |        1 |      2 |      2 |           1 |      2 |     2 |    10 |         35 |          |           1754 |
-| 1 | Mauricio (twinsendell)  |      0 |        x |      1 |      2 |           1 |      2 |     2 |     8 |         28 |          |           1790 |
-| 6 | Duvian (Duvian)         |      0 |        1 |      x |      1 |           1 |      1 |     2 |     6 |         21 |          |           1561 |
-| 5 | Neider (NeiderMT)       |      0 |        0 |      0 |      x |         1.5 |      2 |     2 |   5.5 |      19.25 |          |           1606 |
-| 2 | Maria Clara (macla3010) |   -0.5 |        0 |      0 |    0.5 |           x |      1 |     2 |     3 |      12.25 |        1 |           1542 |
-| 7 | Hector (Hector2311)     |   -0.5 |     -0.5 |    0.5 |   -0.5 |         0.5 |      x |   1.5 |     1 |          7 |        6 |           1361 |
-| 4 | Alejo (Alexxnunez)      |     -1 |       -1 |     -1 |     -1 |          -1 |     -1 |     x |    -6 |          0 |       12 |           1500 |
+| # | Name                    | Mauricio | Maria Clara | Andres | Alejo | Neider | Duvian | Hector | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
+|---+-------------------------+----------+-------------+--------+-------+--------+--------+--------+-------+------------+----------+----------------+--------------+-----|
+| 1 | Andres (arandres)       |      1.5 |           2 |      x |     2 |      2 |      2 |      2 |  11.5 |      51.75 |          |           1754 |              |     |
+| 2 | Mauricio (twinsendell)  |        x |           2 |    0.5 |     2 |      2 |      1 |      2 |   9.5 |      42.75 |          |           1790 |              |     |
+| 3 | Duvian (Duvian)         |        1 |           1 |      0 |     2 |      2 |      x |      1 |     7 |       31.5 |          |           1561 |              |     |
+| 4 | Neider (NeiderMT)       |        0 |         1.5 |      0 |     2 |      x |      0 |      2 |   5.5 |      24.75 |          |           1606 |              |     |
+| 5 | Maria Clara (macla3010) |        0 |           x |   -0.5 |     2 |    0.5 |      1 |      1 |     4 |      20.25 |        1 |           1542 |              |     |
+| 6 | Hector (Hector2311)     |     -0.5 |         0.5 |   -0.5 |   1.5 |   -0.5 |    0.5 |      x |     1 |      11.25 |        6 |           1361 |         1459 | +98 |
+| 7 | Alejo (Alexxnunez)      |       -1 |          -1 |     -1 |     x |     -1 |     -1 |     -1 |    -6 |          0 |       12 |           1500 |         1500 |   0 |
+
 
 *** Final
-| #  | Name | A1 | B1 | A2 | B2 | Score | Neudstadtl |
-|----+------+----+----+----+----+-------+------------|
-| A1 |      |    |    |    |    |     0 |          0 |
-| B1 |      |    |    |    |    |     0 |          0 |
-| A2 |      |    |    |    |    |     0 |          0 |
-| B2 |      |    |    |    |    |     0 |          0 |
+| #                      | Asher | Andres | Camilo | Mauricio | Score | Neudstadtl | Initial rating | Forfeits |
+|------------------------+-------+--------+--------+----------+-------+------------+----------------+----------|
+| Asher (AsDaGo)         | x     |        |        |          |     0 |          0 |                |          |
+| Andres (arandres)      |       | x      |        |          |     0 |          0 |                |          |
+| Camilo (cgallego00)    |       |        | x      |          |     0 |          0 |                |          |
+| Mauricio (twinsendell) |       |        |        | x        |     0 |          0 |                |          |
 

@@ -3,20 +3,20 @@
 ** Crosstable
 
 *** Final
-| #     | Name | A3 | B3 | A4vB5 | B4vA5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
-|-------+------+----+----+-------+-------+-------+------------+----------------+--------------+-----|
-| A3    |      | x  |    |       |       |     0 |          0 |                |              |     |
-| B3    |      |    | x  |       |       |     0 |          0 |                |              |     |
-| A4vB5 |      |    |    | x     |       |     0 |          0 |                |              |     |
-| B4vA5 |      |    |    |       | x     |     0 |          0 |                |              |     |
+| #                          | Alejandro | Duvian | A4vB5 | B4vA5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|----------------------------+-----------+--------+-------+-------+-------+------------+----------------+--------------+-----|
+| Alejandro (Alejandro-mesa) | x         |        |       |       |     0 |          0 |           1418 |              |     |
+| Duvian (Duvian)            |           | x      |       |       |     0 |          0 |           1561 |              |     |
+| A4vB5                      |           |        | x     |       |     0 |          0 |                |              |     |
+| B4vA5                      |           |        |       | x     |     0 |          0 |                |              |     |
 
 *** Play-offs
-| #  | Name | A4 | B5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
-|----+------+----+----+-------+------------+----------------+--------------+-----|
-| A4 |      | x  |    |     0 |          0 |                |              |     |
-| B5 |      |    | x  |     0 |          0 |                |              |     |
+| # A4vB5                 | Jorge Andres | Maria Clara | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|-------------------------+--------------+-------------+-------+------------+----------------+--------------+-----|
+| Jorge Andres (kopalito) | x            |             |     0 |          0 |           1901 |              |     |
+| Maria Clara (macla3010) |              | x           |     0 |          0 |           1542 |              |     |
 
-| #  | Name | B4 | A5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
-|----+------+----+----+-------+------------+----------------+--------------+-----|
-| B4 |      | x  |    |     0 |          0 |                |              |     |
-| A5 |      |    | x  |     0 |          0 |                |              |     |
+| # B4vA5           | Neider | Andrew | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|-------------------+--------+--------+-------+------------+----------------+--------------+-----|
+| Neider (NeiderMT) | x      |        |     0 |          0 |           1606 |              |     |
+| Andrew (wmass)    |        | x      |     0 |          0 |           1230 |              |     |
