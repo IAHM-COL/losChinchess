@@ -1,6 +1,14 @@
 * Torneo de Ajedrez Los Chinchess VIII
   
 ** Crosstable
+
+*** Final
+| #                      | Asher | Andres | Camilo | Mauricio | Score | Neudstadtl | Initial rating | Forfeits |
+|------------------------+-------+--------+--------+----------+-------+------------+----------------+----------|
+| Asher (AsDaGo)         | x     |        |        |          |     0 |          0 |                |          |
+| Andres (arandres)      |       | x      |        |          |     0 |          0 |                |          |
+| Camilo (cgallego00)    |       |        | x      |          |     0 |          0 |                |          |
+| Mauricio (twinsendell) |       |        |        | x        |     0 |          0 |                |          |
    
 *** Group A
 | # | Name                       | Asher | Camilo | Alejandro | Jorge Andres | Andrew | Leison | Israel | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
@@ -23,13 +31,3 @@
 | 5 | Maria Clara (macla3010) |        0 |           x |   -0.5 |     2 |    0.5 |      1 |      1 |     4 |      20.25 |        1 |           1542 |              |     |
 | 6 | Hector (Hector2311)     |     -0.5 |         0.5 |   -0.5 |   1.5 |   -0.5 |    0.5 |      x |     1 |      11.25 |        6 |           1361 |         1459 | +98 |
 | 7 | Alejo (Alexxnunez)      |       -1 |          -1 |     -1 |     x |     -1 |     -1 |     -1 |    -6 |          0 |       12 |           1500 |         1500 |   0 |
-
-
-*** Final
-| #                      | Asher | Andres | Camilo | Mauricio | Score | Neudstadtl | Initial rating | Forfeits |
-|------------------------+-------+--------+--------+----------+-------+------------+----------------+----------|
-| Asher (AsDaGo)         | x     |        |        |          |     0 |          0 |                |          |
-| Andres (arandres)      |       | x      |        |          |     0 |          0 |                |          |
-| Camilo (cgallego00)    |       |        | x      |          |     0 |          0 |                |          |
-| Mauricio (twinsendell) |       |        |        | x        |     0 |          0 |                |          |
-
