@@ -3,20 +3,20 @@
 ** Crosstable
 
 *** Final
-| #                          | Alejandro | Duvian | A4vB5 | B4vA5 | Score | Neudstadtl | Initial rating | Final rating | +/- |
-|----------------------------+-----------+--------+-------+-------+-------+------------+----------------+--------------+-----|
-| Alejandro (Alejandro-mesa) | x         |        |       |       |     0 |          0 |           1418 |              |     |
-| Duvian (Duvian)            |           | x      |       |       |     0 |          0 |           1561 |              |     |
-| A4vB5                      |           |        | x     |       |     0 |          0 |                |              |     |
-| B4vA5                      |           |        |       | x     |     0 |          0 |                |              |     |
+| #                          | Alejandro | Duvian | A4vB5 | B4vA5 | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
+|----------------------------+-----------+--------+-------+-------+-------+------------+----------+----------------+--------------+-----|
+| Alejandro (Alejandro-mesa) | x         |        |       |       |     0 |          0 |        1 |           1418 |              |     |
+| Duvian (Duvian)            |           | x      |       |       |     0 |          0 |          |           1561 |              |     |
+| A4vB5                      |           |        | x     |       |     0 |          0 |          |                |              |     |
+| B4vA5                      |           |        |       | x     |     0 |          0 |          |                |              |     |
 
 *** Play-offs
-| # A4vB5                 | Jorge Andres | Maria Clara | Score | Neudstadtl | Initial rating | Final rating | +/- |
-|-------------------------+--------------+-------------+-------+------------+----------------+--------------+-----|
-| Jorge Andres (kopalito) | x            |             |     0 |          0 |           1901 |              |     |
-| Maria Clara (macla3010) |              | x           |     0 |          0 |           1542 |              |     |
+| # A4vB5                 | Jorge Andres | Maria Clara | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
+|-------------------------+--------------+-------------+-------+------------+----------+----------------+--------------+-----|
+| Jorge Andres (kopalito) | x            |             |     0 |          0 |        1 |           1901 |              |     |
+| Maria Clara (macla3010) |              | x           |     0 |          0 |        1 |           1542 |              |     |
 
-| # B4vA5           | Neider | Andrew | Score | Neudstadtl | Initial rating | Final rating | +/- |
-|-------------------+--------+--------+-------+------------+----------------+--------------+-----|
-| Neider (NeiderMT) | x      |        |     0 |          0 |           1606 |              |     |
-| Andrew (wmass)    |        | x      |     0 |          0 |           1230 |              |     |
+| # B4vA5           | Neider | Andrew | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
+|-------------------+--------+--------+-------+------------+----------+----------------+--------------+-----|
+| Neider (NeiderMT) | x      |        |     0 |          0 |          |           1606 |              |     |
+| Andrew (wmass)    |        | x      |     0 |          0 |          |           1230 |              |     |
