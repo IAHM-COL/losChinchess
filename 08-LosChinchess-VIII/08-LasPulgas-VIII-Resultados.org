@@ -1,23 +1,23 @@
 * Liga de Ajedrez Las Pulgas VIII
 
 ** Crosstable
+*** Final
+| # | Name                       | Alejandro | Duvian | Jorge Andres | Neider | Score | Neudstadtl | Forfeits | Initial rating |
+|---+----------------------------+-----------+--------+--------------+--------+-------+------------+----------+----------------|
+| 1 | Alejandro (Alejandro-mesa) | x         |        |              |        |     0 |          0 |        1 |           1418 |
+| 2 | Duvian (Duvian)            |           | x      |              |        |     0 |          0 |          |           1561 |
+| 3 | Jorge Andres (kopalito)    |           |        | x            |        |     0 |          0 |        1 |           1901 |
+| 4 | Neider (NeiderMT)          |           |        |              | x      |     0 |          0 |          |           1606 |
 
 *** Play-offs
 | # A4vB5                 | Jorge Andres | Maria Clara | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
 |-------------------------+--------------+-------------+-------+------------+----------+----------------+--------------+-----|
-| Jorge Andres (kopalito) | x            |             |     0 |          0 |        1 |           1901 |              |     |
-| Maria Clara (macla3010) |              | x           |     0 |          0 |        1 |           1542 |              |     |
+| Jorge Andres (kopalito) | x            | 2           |     2 |          0 |        1 |           1901 |              |     |
+| Maria Clara (macla3010) | 0            | x           |     0 |          0 |        1 |           1542 |         1449 | +93 |
 
 | # B4vA5           | Neider | Andrew | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
 |-------------------+--------+--------+-------+------------+----------+----------------+--------------+-----|
-| Neider (NeiderMT) | x      |        |     0 |          0 |          |           1606 |              |     |
-| Andrew (wmass)    |        | x      |     0 |          0 |          |           1230 |              |     |
-   
-*** Final
-| #                          | Alejandro | Duvian | A4vB5 | B4vA5 | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
-|----------------------------+-----------+--------+-------+-------+-------+------------+----------+----------------+--------------+-----|
-| Alejandro (Alejandro-mesa) | x         |        |       |       |     0 |          0 |        1 |           1418 |              |     |
-| Duvian (Duvian)            |           | x      |       |       |     0 |          0 |          |           1561 |              |     |
-| A4vB5                      |           |        | x     |       |     0 |          0 |          |                |              |     |
-| B4vA5                      |           |        |       | x     |     0 |          0 |          |                |              |     |
+| Neider (NeiderMT) | x      | 2      |     2 |          2 |          |           1606 |              |     |
+| Andrew (wmass)    | 1      | x      |     1 |          2 |          |           1230 |         1233 |  +3 |
+
 
