@@ -2,22 +2,22 @@
 
 ** Crosstable
 *** Final
-|              # | Name                       | Duvian | Jorge Andres | Neider | Alejandro | Score | Neudstadtl | Forfeits | Initial rating | Final rating |  +/- |
-|----------------+----------------------------+--------+--------------+--------+-----------+-------+------------+----------+----------------+--------------+------|
-| Medalla de Oro | Duvian (Duvian)            |      x |            1 |      2 |         2 |     5 |          9 |          |           1561 |         1822 | +261 |
-|              2 | Jorge Andres (kopalito)    |      1 |            x |      0 |         2 |     3 |          5 |        1 |           1901 |              |      |
-|              3 | Neider (NeiderMT)          |      0 |            1 |      x |         2 |     3 |          3 |          |           1606 |              |      |
-|              4 | Alejandro (Alejandro-mesa) |     -1 |           -1 |     -1 |         x |    -3 |          0 |        7 |           1418 |         1528 | +110 |
+| #                 | Name                       | Duvian | Neider | Jorge Andres | Alejandro | Score | Neudstadtl | Forfeits | Initial rating | Final rating |  +/- |
+|-------------------+----------------------------+--------+--------+--------------+-----------+-------+------------+----------+----------------+--------------+------|
+| Medalla de Oro    | Duvian (Duvian)            |      x |      2 |            1 |         2 |     5 |         11 |          |           1561 |         1822 | +261 |
+| Medalla de Plata  | Neider (NeiderMT)          |      0 |      x |            2 |         2 |     4 |          6 |          |           1606 |         1610 |   +4 |
+| Medalla de Bronce | Jorge Andres (kopalito)    |      1 |      0 |            x |         2 |     3 |          5 |        1 |           1901 |         1812 |  -89 |
+| 4 (Abandono)      | Alejandro (Alejandro-mesa) |     -1 |     -1 |           -1 |         x |     0 |        -12 |        7 |           1418 |         1528 | +110 |
 
 *** Play-offs
 | # A4vB5                 | Jorge Andres | Maria Clara | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
 |-------------------------+--------------+-------------+-------+------------+----------+----------------+--------------+-----|
-| Jorge Andres (kopalito) | x            | 2           |     2 |          0 |        1 |           1901 |              |     |
+| Jorge Andres (kopalito) | x            | 2           |     2 |          0 |        1 |           1901 |         1812 | -89 |
 | Maria Clara (macla3010) | 0            | x           |     0 |          0 |        1 |           1542 |         1449 | +93 |
 
 | # B4vA5           | Neider | Andrew | Score | Neudstadtl | Forfeits | Initial rating | Final rating | +/- |
 |-------------------+--------+--------+-------+------------+----------+----------------+--------------+-----|
-| Neider (NeiderMT) | x      | 2      |     2 |          2 |          |           1606 |              |     |
+| Neider (NeiderMT) | x      | 2      |     2 |          2 |          |           1606 |         1610 |  +4 |
 | Andrew (wmass)    | 1      | x      |     1 |          2 |          |           1230 |         1233 |  +3 |
 
 
