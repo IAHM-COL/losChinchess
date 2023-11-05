@@ -1,0 +1,32 @@
+* Torneo de Ajedrez Los Chinchess VIII
+  
+** Crosstable
+*** Final
+| #               | Name                   | Asher | Camilo | Mauricio | Andres | Score | Neudstadtl | Initial rating | Final rating | +/- |
+|-----------------+------------------------+-------+--------+----------+--------+-------+------------+----------------+--------------+-----|
+| Alfil de Oro    | Asher (AsDaGo)         |     x |    1.5 |        2 |      2 |   5.5 |      11.75 |           2083 |         2175 | +92 |
+| Alfil de Plata  | Camilo (cgallego00)    |   0.5 |      x |      1.5 |    0.5 |   2.5 |       7.25 |           1890 |         1874 | -16 |
+| Alfil de Bronce | Mauricio (twinsendell) |     0 |    0.5 |        x |      2 |   2.5 |       4.25 |           1790 |         1811 | +21 |
+| 4               | Andres (arandres)      |     0 |    1.5 |        0 |      x |   1.5 |       3.75 |           1754 |         1794 | +40 |
+
+*** Group A
+| # | Name                       | Asher | Camilo | Alejandro | Jorge Andres | Andrew | Leison | Israel | Score | Neudstadtl | Forfeits | Initial rating | Final rating |  +/- |
+|---+----------------------------+-------+--------+-----------+--------------+--------+--------+--------+-------+------------+----------+----------------+--------------+------|
+| 1 | Asher (AsDaGo)             |     x |      2 |         2 |            2 |      2 |      2 |      2 |    12 |         58 |          |           2083 |         2175 |  +92 |
+| 2 | Camilo (cgallego00)        |     0 |      x |         2 |            2 |      2 |      2 |      2 |    10 |         38 |          |           1890 |         1874 |  -16 |
+| 3 | Alejandro (Alejandro-Mesa) |  -0.5 |      0 |         x |            1 |      2 |      1 |      2 |   5.5 |         18 |        1 |           1418 |         1528 | +110 |
+| 4 | Jorge Andres (kopalito)    |     0 |      0 |         1 |            x |    0.5 |      1 |      2 |   4.5 |         15 |        1 |           1901 |         1812 |  -89 |
+| 5 | Andrew (wmass)             |     0 |      0 |         0 |            1 |      x |      2 |      1 |     4 |         12 |          |           1230 |         1233 |   +3 |
+| 6 | Leison (Quintero_05)       |  -0.5 |   -0.5 |       0.5 |          0.5 |     -1 |      x |      2 |     1 |          7 |        6 |           1716 |         1730 |  +14 |
+| 7 | Israel (IAHMCOL)           |     0 |      0 |         0 |            0 |      1 |      0 |      x |     1 |          4 |          |           1250 |         1219 |  -31 |
+
+*** Group B
+| # | Name                    | Mauricio | Maria Clara | Andres | Alejo | Neider | Duvian | Hector | Score | Neudstadtl | Forfeits | Initial rating | Final rating |  +/- |
+|---+-------------------------+----------+-------------+--------+-------+--------+--------+--------+-------+------------+----------+----------------+--------------+------|
+| 1 | Andres (arandres)       |      1.5 |           2 |      x |     2 |      2 |      2 |      2 |  11.5 |      51.75 |          |           1754 |         1794 |  +40 |
+| 2 | Mauricio (twinsendell)  |        x |           2 |    0.5 |     2 |      2 |      1 |      2 |   9.5 |      42.75 |          |           1790 |         1811 |  +21 |
+| 3 | Duvian (Duvian)         |        1 |           1 |      0 |     2 |      2 |      x |      1 |     7 |       31.5 |          |           1561 |         1822 | +261 |
+| 4 | Neider (NeiderMT)       |        0 |         1.5 |      0 |     2 |      x |      0 |      2 |   5.5 |      24.75 |          |           1606 |         1610 |   +4 |
+| 5 | Maria Clara (macla3010) |        0 |           x |   -0.5 |     2 |    0.5 |      1 |      1 |     4 |      20.25 |        1 |           1542 |         1449 |  +93 |
+| 6 | Hector (Hector2311)     |     -0.5 |         0.5 |   -0.5 |   1.5 |   -0.5 |    0.5 |      x |     1 |      11.25 |        6 |           1361 |         1459 |  +98 |
+| 7 | Alejo (Alexxnunez)      |       -1 |          -1 |     -1 |     x |     -1 |     -1 |     -1 |    -6 |          0 |       12 |           1500 |         1500 |    0 |
