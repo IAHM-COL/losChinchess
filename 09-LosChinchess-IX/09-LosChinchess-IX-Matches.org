@@ -1,0 +1,38 @@
+# Los Chinchess VI, Torneo de Ajedrez
+
+# Rondas clasificatorias
+## Ronda 1
+| # | Blancas                   | Negras                   | Resultados |
+|---+---------------------------+--------------------------+------------|
+| 1 | Camilo (cgallego00)       | Neider (NeiderMT)        |            |
+| 2 | Christian (Christian1323) | Andres (arandres)        |            |
+| 3 | Duvian (Duvian)           | Hector (Hector2311)      |            |
+| 4 | Mauricio (twinsendell)    | Maria Clara (macla3010)  |            |
+| 5 | Israel (IAHMCOL)          | Jairo (jajajairoramirez) |            |
+
+# Ronda Final
+## Final
+| # | Blancas | Negras | Resultado |
+|---+---------+--------+-----------|
+| 1 |         |        |           |
+
+## Bronce
+| # | Blancas | Negras | Resultado |
+|---+---------+--------+-----------|
+| 2 |         |        |           |
+
+
+## Final, categoria pulgas
+| # | Blancas | Negras | Resultado |
+|---+---------+--------+-----------|
+| 3 |         |        |           |
+
+## Bronce, categoria pulgas
+| # | Blancas | Negras | Resultado |
+|---+---------+--------+-----------|
+| 4 |         |        |           |
+
+
+***
+
+Sistema Swiss organizado con [coronate](https://coronate.netlify.app/)
