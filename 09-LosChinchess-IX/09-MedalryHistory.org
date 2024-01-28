@@ -1,0 +1,32 @@
+** Conteo historico de trofeos 'Chinchess' y rango de competidores
+
+| Rango | Jugador                 | Alfiles de Oro | Alfiles de Plata | Alfiles de Bronce | Totales |
+|-------+-------------------------+----------------+------------------+-------------------+---------|
+|     1 | Asher (AsDaGo)          |              4 |                0 |                 0 |       4 |
+|     2 | Andres (arandres)       |              2 |                0 |                 0 |       2 |
+|     3 | Jorge Andres (kopalito) |              1 |                2 |                 0 |       3 |
+|     4 | Edison (Ear512)         |              1 |                1 |                 0 |       2 |
+|     5 | Camilo (cgallego00)     |              0 |                3 |                 5 |       8 |
+|     6 | Mauricio (twinsendell)  |              0 |                1 |                 1 |       2 |
+|     7 | Pei (pei12)             |              0 |                1 |                 0 |       1 |
+|     8 | Maria Clara (mc3010)    |              0 |                0 |                 2 |       2 |
+
+** Conteo historico de medallas 'Pulgas' y rango de competidores
+
+| Rango | Jugador                  | Medallas de Oro | Medallas de Plata | Medallas de Bronce | Totales |
+|-------+--------------------------+-----------------+-------------------+--------------------+---------|
+|     1 | Jorge Andres (kopalito)  |               2 |                 1 |                  1 |       4 |
+|     2 | Israel (IAHMCOL)         |               2 |                 0 |                  0 |       2 |
+|     3 | Mauricio (twinsedell)    |               1 |                 2 |                  0 |       3 |
+|     4 | Leison (Quintero_05)     |               1 |                 0 |                  0 |       1 |
+|     5 | Duvian                   |               1 |                 0 |                  0 |       1 |
+|     6 | Jairo (jajajairoramirez) |               0 |                 1 |                  1 |       2 |
+|     7 | Neider (NeiderMT)        |               0 |                 1 |                  1 |       2 |
+|     8 | Joaquin (OseznoRaudo)    |               0 |                 1 |                  0 |       1 |
+|     9 | Andres (arandres)        |               0 |                 1 |                  0 |       1 |
+|    10 | Lautaro (Altaleff)       |               0 |                 0 |                  1 |       1 |
+|    11 | Harry (marinvahos)       |               0 |                 0 |                  1 |       1 |
+
+
+
+
