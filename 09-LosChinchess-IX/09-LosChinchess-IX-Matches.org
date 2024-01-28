@@ -1,7 +1,7 @@
-# Los Chinchess VI, Torneo de Ajedrez
+* Los Chinchess IX, Torneo de Ajedrez
 
-# Rondas clasificatorias
-## Ronda 1
+* Rondas clasificatorias
+** Ronda 1
 | # | Blancas                   | Negras                   | Resultados |
 |---+---------------------------+--------------------------+------------|
 | 1 | Camilo (cgallego00)       | Neider (NeiderMT)        |            |
@@ -10,29 +10,29 @@
 | 4 | Mauricio (twinsendell)    | Maria Clara (macla3010)  |            |
 | 5 | Israel (IAHMCOL)          | Jairo (jajajairoramirez) |            |
 
-# Ronda Final
-## Final
+* Ronda Final
+** Final
 | # | Blancas | Negras | Resultado |
 |---+---------+--------+-----------|
 | 1 |         |        |           |
 
-## Bronce
+** Bronce
 | # | Blancas | Negras | Resultado |
 |---+---------+--------+-----------|
 | 2 |         |        |           |
 
 
-## Final, categoria pulgas
+** Final, categoria pulgas
 | # | Blancas | Negras | Resultado |
 |---+---------+--------+-----------|
 | 3 |         |        |           |
 
-## Bronce, categoria pulgas
+** Bronce, categoria pulgas
 | # | Blancas | Negras | Resultado |
 |---+---------+--------+-----------|
 | 4 |         |        |           |
 
 
-***
+----------
 
-Sistema Swiss organizado con [coronate](https://coronate.netlify.app/)
+Sistema Swiss organizado con [[https://coronate.netlify.app/][coronate]]
