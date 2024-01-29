@@ -2,11 +2,12 @@
 
 ** Regulaciones
 
-| A1. Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1874)      | A6. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1610)         |
-| A2. ♝♝Andres ([[https://lichess.org/?user=arandres#friend][arandres]]; 1837)      | A7. Christian ([[https://lichess.org/?user=Christian1323#friend][Christian1323]]; 1528) |
-| A3. Duvian ([[https://lichess.org/?user=Duvian#friend][Duvian]]; 1822)          | A8. Hector ([[https://lichess.org/?user=Hector2311#friend][Hector2311]]; 1459)       |
-| A4. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1811)   | A9. Maria Clara ([[https://lichess.org/?user=macla3010#friend][macla3010]]; 1449)   |
-| A5. Jairo ([[https://lichess.org/?user=jajajairoramirez#friend][jajajairoramirez]]; 1701) | A10. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1219)         |
+| A1. Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1874)      | A7. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1610)          |
+| A2. ♝♝Andres ([[https://lichess.org/?user=arandres#friend][arandres]]; 1837)      | A8. Alejandro ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1528) |
+| A3. Duvian ([[https://lichess.org/?user=Duvian#friend][Duvian]]; 1822)          | A9. Christian ([[https://lichess.org/?user=Christian1323#friend][Christian1323]]; 1528)  |
+| A4. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1811)   | A10. Hector ([[https://lichess.org/?user=Hector2311#friend][Hector2311]]; 1459)       |
+| A5. ♝Jorge Andres ([[https://lichess.org/?user=kopalito#friend][kopalito]]; 1787) | A11. Maria Clara ([[https://lichess.org/?user=macla3010#friend][macla3010]]; 1449)   |
+| A6. Jairo ([[https://lichess.org/?user=jajajairoramirez#friend][jajajairoramirez]]; 1701) | A12. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1219)          |
 
 ** Game's calendar and results record
 
@@ -25,7 +26,7 @@
 *** A1	Clasificatorias
 
     El Alfil de oro de Chinchess VIII no participara en esta edicion, y por lo
-    tanto no hay jugador defensor del titulo. Los 10 jugadores participantes han sido
+    tanto no hay jugador defensor del titulo. Los 12 jugadores participantes han sido
     sembrados siguiendo el score Glicko-2 en lichess para categoria 'rapida'
     al momento del cierre del registro. El software [[https://coronate.netlify.app/][coronate]] es usado para
     manejar los apareamientos y el computo de resultados en la fase Swiss. El

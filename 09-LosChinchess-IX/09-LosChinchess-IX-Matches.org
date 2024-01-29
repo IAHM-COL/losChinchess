@@ -2,13 +2,14 @@
 
 * Rondas clasificatorias
 ** Ronda 1
-| # | Blancas                   | Negras                   | Resultados |
-|---+---------------------------+--------------------------+------------|
-| 1 | Camilo (cgallego00)       | Neider (NeiderMT)        |            |
-| 2 | Christian (Christian1323) | Andres (arandres)        |            |
-| 3 | Duvian (Duvian)           | Hector (Hector2311)      |            |
-| 4 | Mauricio (twinsendell)    | Maria Clara (macla3010)  |            |
-| 5 | Israel (IAHMCOL)          | Jairo (jajajairoramirez) |            |
+| # | Blancas                    | Negras                    | Resultados |
+|---+----------------------------+---------------------------+------------|
+| 1 | Camilo (cgallego00)        | Neider (NeiderMT)         |            |
+| 2 | Alejandro (Alejandro-mesa) | Andres (arandres)         |            |
+| 3 | Duvian (Duvian)            | Christian (Christian1323) |            |
+| 4 | Mauricio (twinsendell)     | Hector (Hector2311)       |            |
+| 5 | Maria Clara (macla3010)    | Jorge Andres (kopalito)   |            |
+| 6 | Israel (IAHMCOL)           | Jairo (jajajairoramirez)  |            |
 
 * Ronda Final
 ** Final
