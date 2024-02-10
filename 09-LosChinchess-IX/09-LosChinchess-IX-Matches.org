@@ -1,15 +1,25 @@
 * Los Chinchess IX, Torneo de Ajedrez
 
 * Rondas clasificatorias
+** Ronda 2
+| # | Blancas                   | Negras                     | Resultados |
+|---+---------------------------+----------------------------+------------|
+| 1 | Christian (Christian1323) | Mauricio (twinsendell)     |            |
+| 2 | Neider (NeiderMT)         | Israel (IAHMCOL)           |            |
+| 3 | Jorge Andres (kopalito)   | Alejandro (Alejandro-mesa) |            |
+| 4 | Andres (arandres)         | Maria Clara (macla3010)    |            |
+| 5 | Hector (Hector2311)       | Camilo (cgallego00)        |            |
+| 6 | Jairo (jajajairoramirez)  | Duvian (Duvian)            |            |
+
 ** Ronda 1
 | # | Blancas                    | Negras                    | Resultados |
 |---+----------------------------+---------------------------+------------|
-| 1 | Camilo (cgallego00)        | Neider (NeiderMT)         |            |
-| 2 | Alejandro (Alejandro-mesa) | Andres (arandres)         |            |
-| 3 | Duvian (Duvian)            | Christian (Christian1323) |            |
-| 4 | Mauricio (twinsendell)     | Hector (Hector2311)       |            |
-| 5 | Maria Clara (macla3010)    | Jorge Andres (kopalito)   |            |
-| 6 | Israel (IAHMCOL)           | Jairo (jajajairoramirez)  |            |
+| 1 | Camilo (cgallego00)        | Neider (NeiderMT)         |   1/2-1/2  |
+| 2 | Alejandro (Alejandro-mesa) | Andres (arandres)         |   1/2-1/2  |
+| 3 | Duvian (Duvian)            | Christian (Christian1323) |   0-1      |
+| 4 | Mauricio (twinsendell)     | Hector (Hector2311)       |   1-W      |
+| 5 | Maria Clara (macla3010)    | Jorge Andres (kopalito)   |   1/2-1/2  |
+| 6 | Israel (IAHMCOL)           | Jairo (jajajairoramirez)  |   1-0      |
 
 * Ronda Final
 ** Final
