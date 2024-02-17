@@ -2,21 +2,21 @@
 
 ** Crosstable
 *** Ranking Final
-|  # | Name                       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Score | Rating | G/L | Ws |
-|----+----------------------------+---+---+---+---+---+---+---+---+---+----+----+----+-------+--------+-----+----|
-|  1 | Christian (Christian1323)  | x |   |   |   |   |   |   |   |   |    |    |  1 | 1     |   1562 | +34 |    |
-|  2 | Israel (IAHMCOL)           |   | x |   |   |   |   |   |   |   |  1 |    |    | 1     |   1257 | +38 |    |
-|  3 | Mauricio (twinsendell)     |   |   | x |   |   |   |   |   |   |    |  1 |    | 1     |   1811 |  +0 |    |
-|  4 | Neider (NeiderMT)          |   |   |   | x |   |   |   |   | ½ |    |    |    | ½     |   1623 | +13 |    |
-|  5 | Andres (arandres)          |   |   |   |   | x |   | ½ |   |   |    |    |    | ½     |   1823 | -14 |    |
-|  6 | Jorge Andres (kopalito)    |   |   |   |   |   | x |   | ½ |   |    |    |    | ½     |   1772 | -15 |    |
-|  7 | Alejandro (Alejandro-mesa) |   |   |   |   | ½ |   | x |   |   |    |    |    | ½     |   1542 | +14 |    |
-|  8 | Maria Clara (macla3010)    |   |   |   |   |   | ½ |   | x |   |    |    |    | ½     |   1464 | +15 |    |
-|  9 | Camilo (cgallego00)        |   |   |   | ½ |   |   |   |   | x |    |    |    | ½     |   1861 | -13 |    |
-| 10 | Jairo (jajajairoramirez)   |   | 0 |   |   |   |   |   |   |   |  x |    |    | 0     |   1663 | -38 |  1 |
-| 11 | Hector (Hector2311)        |   |   | 0 |   |   |   |   |   |   |    |  x |    | 0     |   1459 |  +0 |  2 |
-| 12 | Duvian (Duvian)            | 0 |   |   |   |   |   |   |   |   |    |    |  x | 0     |   1788 | -34 |    |
-    
+|  # | Name                       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Score | Ws | Solkoff | Rating | G/L |
+|----+----------------------------+---+---+---+---+---+---+---+---+---+----+----+----+-------+----+---------+--------+-----|
+|  1 | Christian (Christian1323)  | x |   |   |   |   |   | 1 |   |   |    |  1 |    |     2 |    | 1       |   1594 | +66 |
+|  2 | Israel (IAHMCOL)           |   | x |   |   |   |   |   |   | 1 |    |    |  1 |     2 |    | ½       |   1293 | +74 |
+|  3 | Jorge Andres (kopalito)    |   |   | x |   | ½ |   |   | 1 |   |    |    |    |    1½ |    | 1½      |   1780 |  -7 |
+|  4 | Camilo (cgallego00)        |   |   |   | x |   |   |   |   | ½ |  1 |    |    |    1½ |    | ½       |   1865 |  -9 |
+|  5 | Maria Clara (macla3010)    |   |   | ½ |   | x | ½ |   |   |   |    |    |    |     1 |    | 2½      |   1480 | +31 |
+|  6 | Andres (arandres)          |   |   |   |   | ½ | x |   | ½ |   |    |    |    |     1 |    | 1½      |   1807 | -30 |
+|  7 | Mauricio (twinsendell)     | 0 |   |   |   |   |   | x |   |   |  1 |    |    |     1 |  2 | 2       |   1779 | -32 |
+|  8 | Alejandro (Alejandro-mesa) |   |   | 0 |   |   | ½ |   | x |   |    |    |    |     ½ |    | 2½      |   1534 |  +6 |
+|  9 | Neider (NeiderMT)          |   | 0 |   | ½ |   |   |   |   | x |    |    |    |     ½ |  1 | 3½      |   1587 | -23 |
+| 10 | Hector (Hector2311)        |   |   |   | 0 |   |   | 0 |   |   |  x |    |    |     0 |  2 | 2½      |   1455 |  -4 |
+| 11 | Duvian (Duvian)            | 0 |   |   |   |   |   |   |   |   |    |  x |  0 |     0 |  2 | 2       |   1788 | -34 |
+| 12 | Jairo (jajajairoramirez)   |   | 0 |   |   |   |   |   |   |   |    |  0 |  x |     0 |  3 | 2       |   1663 | -38 |
+
 -----------
 
 Sistema Swiss organizado con [[https://coronate.netlify.app/][coronate]]
