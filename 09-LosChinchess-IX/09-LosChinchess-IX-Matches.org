@@ -1,15 +1,25 @@
 * Los Chinchess IX, Torneo de Ajedrez
 
 * Rondas clasificatorias
+** Ronda 4
+| # | White                     | Black                      | Resultados |
+|---+---------------------------+----------------------------+------------|
+| 1 | Christian (Christian1323) | Jorge Andres (kopalito)    |            |
+| 2 | Andres (arandres)         | Israel (IAHMCOL)           |            |
+| 3 | Hector (Hector2311)       | Neider (NeiderMT)          |            |
+| 4 | Mauricio (twinsendell)    | Maria Clara (macla3010)    |            |
+| 5 | Jairo (jajajairoramirez)  | Camilo (cgallego00)        |            |
+| 6 | Duvian (Duvian)           | Alejandro (Alejandro-mesa) | Bye-1      |
+   
 ** Ronda 3
 | # | White                      | Black                     | Resultados |
 |---+----------------------------+---------------------------+------------|
-| 1 | Israel (IAHMCOL)           | Christian (Christian1323) |            |
-| 2 | Camilo (cgallego00)        | Jorge Andres (kopalito)   |            |
-| 3 | Mauricio (twinsendell)     | Andres (arandres)         |            |
-| 4 | Maria Clara (macla3010)    | Jairo (jajajairoramirez)  |            |
-| 5 | Alejandro (Alejandro-mesa) | Neider (NeiderMT)         |            |
-| 6 | Duvian (Duvian)            | Hector (Hector2311)       |            |
+| 1 | Israel (IAHMCOL)           | Christian (Christian1323) |        0-1 |
+| 2 | Camilo (cgallego00)        | Jorge Andres (kopalito)   |        0-1 |
+| 3 | Mauricio (twinsendell)     | Andres (arandres)         |        0-1 |
+| 4 | Maria Clara (macla3010)    | Jairo (jajajairoramirez)  |        W-W |
+| 5 | Alejandro (Alejandro-mesa) | Neider (NeiderMT)         |        0-1 |
+| 6 | Duvian (Duvian)            | Hector (Hector2311)       |      Bye-1 |
 
 ** Ronda 2
 | # | Blancas                   | Negras                     | Resultados |
