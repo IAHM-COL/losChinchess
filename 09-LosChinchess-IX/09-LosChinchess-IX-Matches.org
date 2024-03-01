@@ -1,14 +1,24 @@
 * Los Chinchess IX, Torneo de Ajedrez
 
 * Rondas clasificatorias
+** Ronda 5
+| # | White                      | Black                     | Match result |
+|---+----------------------------+---------------------------+--------------|
+| 1 | Jorge Andres (kopalito)    | Andres (arandres)         |              |
+| 2 | Neider (NeiderMT)          | Christian (Christian1323) |              |
+| 3 | Israel (IAHMCOL)           | Camilo (cgallego00)       |              |
+| 4 | Alejandro (Alejandro-mesa) | Mauricio (twinsendell)    |              |
+| 5 | Maria Clara (macla3010)    | Duvian (Duvian)           | 1-Bye        |
+| 6 | Hector (Hector2311)        | Jairo (jajajairoramirez)  |              |
+  
 ** Ronda 4
 | # | White                     | Black                      | Resultados |
 |---+---------------------------+----------------------------+------------|
-| 1 | Christian (Christian1323) | Jorge Andres (kopalito)    |            |
-| 2 | Andres (arandres)         | Israel (IAHMCOL)           |            |
-| 3 | Hector (Hector2311)       | Neider (NeiderMT)          |            |
-| 4 | Mauricio (twinsendell)    | Maria Clara (macla3010)    |            |
-| 5 | Jairo (jajajairoramirez)  | Camilo (cgallego00)        |            |
+| 1 | Christian (Christian1323) | Jorge Andres (kopalito)    | ½-½        |
+| 2 | Andres (arandres)         | Israel (IAHMCOL)           | 1-0        |
+| 3 | Hector (Hector2311)       | Neider (NeiderMT)          | 0-1        |
+| 4 | Mauricio (twinsendell)    | Maria Clara (macla3010)    | ½-½        |
+| 5 | Jairo (jajajairoramirez)  | Camilo (cgallego00)        | 0-1        |
 | 6 | Duvian (Duvian)           | Alejandro (Alejandro-mesa) | Bye-1      |
    
 ** Ronda 3
