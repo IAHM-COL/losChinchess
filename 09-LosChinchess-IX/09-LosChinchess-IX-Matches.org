@@ -5,23 +5,22 @@
 ** Final
 | # | Blancas                   | Negras                  | Resultado |
 |---+---------------------------+-------------------------+-----------|
-| 1 | Christian (Christian1323) | Jorge Andres (kopalito) |           |
+| 1 | Christian (Christian1323) | Jorge Andres (kopalito) | 1-W       |
 
 ** Bronce
 | # | Blancas             | Negras            | Resultado |
 |---+---------------------+-------------------+-----------|
-| 2 | Camilo (cgallego00) | Andres (arandres) |           |
-
+| 2 | Camilo (cgallego00) | Andres (arandres) |  1-0      |
 
 ** Final, categoria pulgas
 | # | Blancas           | Negras                 | Resultado |
 |---+-------------------+------------------------+-----------|
-| 3 | Neider (NeiderMT) | Mauricio (twinsendell) |           |
+| 3 | Neider (NeiderMT) | Mauricio (twinsendell) |       0-1 |
 
 ** Bronce, categoria pulgas
 | # | Blancas                 | Negras           | Resultado |
 |---+-------------------------+------------------+-----------|
-| 4 | Maria Clara (macla3010) | Israel (IAHMCOL) |           |
+| 4 | Maria Clara (macla3010) | Israel (IAHMCOL) | W-1       |
 
 ** Ronda 5
 | # | White                      | Black                     | Match result |
