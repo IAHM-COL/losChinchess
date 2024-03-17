@@ -1,0 +1,77 @@
+* Los Chinchess IX, Torneo de Ajedrez
+
+* Rondas clasificatorias
+* Ronda Final
+** Final
+| # | Blancas                   | Negras                  | Resultado |
+|---+---------------------------+-------------------------+-----------|
+| 1 | Christian (Christian1323) | Jorge Andres (kopalito) | 1-W       |
+
+** Bronce
+| # | Blancas             | Negras            | Resultado |
+|---+---------------------+-------------------+-----------|
+| 2 | Camilo (cgallego00) | Andres (arandres) |  1-0      |
+
+** Final, categoria pulgas
+| # | Blancas           | Negras                 | Resultado |
+|---+-------------------+------------------------+-----------|
+| 3 | Neider (NeiderMT) | Mauricio (twinsendell) |       0-1 |
+
+** Bronce, categoria pulgas
+| # | Blancas                 | Negras           | Resultado |
+|---+-------------------------+------------------+-----------|
+| 4 | Maria Clara (macla3010) | Israel (IAHMCOL) | W-1       |
+
+** Ronda 5
+| # | White                      | Black                     | Match result |
+|---+----------------------------+---------------------------+--------------|
+| 1 | Jorge Andres (kopalito)    | Andres (arandres)         |          1-0 |
+| 2 | Neider (NeiderMT)          | Christian (Christian1323) |          0-1 |
+| 3 | Israel (IAHMCOL)           | Camilo (cgallego00)       |          0-1 |
+| 4 | Alejandro (Alejandro-mesa) | Mauricio (twinsendell)    |          0-1 |
+| 5 | Maria Clara (macla3010)    | Duvian (Duvian)           |        1-Bye |
+| 6 | Hector (Hector2311)        | Jairo (jajajairoramirez)  |          1-W |
+  
+** Ronda 4
+| # | White                     | Black                      | Resultados |
+|---+---------------------------+----------------------------+------------|
+| 1 | Christian (Christian1323) | Jorge Andres (kopalito)    | ½-½        |
+| 2 | Andres (arandres)         | Israel (IAHMCOL)           | 1-0        |
+| 3 | Hector (Hector2311)       | Neider (NeiderMT)          | 0-1        |
+| 4 | Mauricio (twinsendell)    | Maria Clara (macla3010)    | ½-½        |
+| 5 | Jairo (jajajairoramirez)  | Camilo (cgallego00)        | 0-1        |
+| 6 | Duvian (Duvian)           | Alejandro (Alejandro-mesa) | Bye-1      |
+   
+** Ronda 3
+| # | White                      | Black                     | Resultados |
+|---+----------------------------+---------------------------+------------|
+| 1 | Israel (IAHMCOL)           | Christian (Christian1323) |        0-1 |
+| 2 | Camilo (cgallego00)        | Jorge Andres (kopalito)   |        0-1 |
+| 3 | Mauricio (twinsendell)     | Andres (arandres)         |        0-1 |
+| 4 | Maria Clara (macla3010)    | Jairo (jajajairoramirez)  |        W-W |
+| 5 | Alejandro (Alejandro-mesa) | Neider (NeiderMT)         |        0-1 |
+| 6 | Duvian (Duvian)            | Hector (Hector2311)       |      Bye-1 |
+
+** Ronda 2
+| # | Blancas                   | Negras                     | Resultados |
+|---+---------------------------+----------------------------+------------|
+| 1 | Christian (Christian1323) | Mauricio (twinsendell)     | W-1        |
+| 2 | Neider (NeiderMT)         | Israel (IAHMCOL)           | 0-1        |
+| 3 | Jorge Andres (kopalito)   | Alejandro (Alejandro-mesa) | 1-0        |
+| 4 | Andres (arandres)         | Maria Clara (macla3010)    | ½-½        |
+| 5 | Hector (Hector2311)       | Camilo (cgallego00)        | 0-1        |
+| 6 | Jairo (jajajairoramirez)  | Duvian (Duvian)            | W-W        |
+
+** Ronda 1
+| # | Blancas                    | Negras                    | Resultados |
+|---+----------------------------+---------------------------+------------|
+| 1 | Camilo (cgallego00)        | Neider (NeiderMT)         | ½-½        |
+| 2 | Alejandro (Alejandro-mesa) | Andres (arandres)         | ½-½        |
+| 3 | Duvian (Duvian)            | Christian (Christian1323) | 0-1        |
+| 4 | Mauricio (twinsendell)     | Hector (Hector2311)       | 1-W        |
+| 5 | Maria Clara (macla3010)    | Jorge Andres (kopalito)   | ½-½        |
+| 6 | Israel (IAHMCOL)           | Jairo (jajajairoramirez)  | 1-0        |
+
+----------
+
+Sistema Swiss organizado con [[https://coronate.netlify.app/][coronate]]

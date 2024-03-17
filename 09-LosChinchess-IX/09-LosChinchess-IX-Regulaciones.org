@@ -1,0 +1,209 @@
+* Los Chinchess IX – Torneo de Ajedrez
+
+** Regulaciones
+
+| A1. Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1874)      | A7. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1610)          |
+| A2. ♝♝Andres ([[https://lichess.org/?user=arandres#friend][arandres]]; 1837)      | A8. Alejandro ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1528) |
+| A3. Duvian ([[https://lichess.org/?user=Duvian#friend][Duvian]]; 1822)          | A9. Christian ([[https://lichess.org/?user=Christian1323#friend][Christian1323]]; 1528)  |
+| A4. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1811)   | A10. Hector ([[https://lichess.org/?user=Hector2311#friend][Hector2311]]; 1459)       |
+| A5. ♝Jorge Andres ([[https://lichess.org/?user=kopalito#friend][kopalito]]; 1787) | A11. Maria Clara ([[https://lichess.org/?user=macla3010#friend][macla3010]]; 1449)   |
+| A6. Jairo ([[https://lichess.org/?user=jajajairoramirez#friend][jajajairoramirez]]; 1701) | A12. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1219)          |
+
+** Game's calendar and results record
+
+   Contacte a IAHMCOL para obtener el link de el calendario, or encuentrelo
+   directamente en la descripcion del grupo de Whats-App. 
+
+** A Formato
+
+   Las clasificatorias en la novena edicion de el torneo de Chinchess seran
+   jugadas con un formato Swiss a cinco rondas. La primera ronda se asigna
+   usando el sistema Holandes (Dutch). Terminadas las rondas clasificatorias,
+   en la sexta semana, las finales son jugadas; estas consisten en una serie
+   cara-cara con enfrentamiento directo entre los jugadores mejor ubicados en
+   la fase Swiss.
+
+*** A1	Clasificatorias
+
+    El Alfil de oro de Chinchess VIII no participara en esta edicion, y por lo
+    tanto no hay jugador defensor del titulo. Los 12 jugadores participantes han sido
+    sembrados siguiendo el score Glicko-2 en lichess para categoria 'rapida'
+    al momento del cierre del registro. El software [[https://coronate.netlify.app/][coronate]] es usado para
+    manejar los apareamientos y el computo de resultados en la fase Swiss. El
+    [[09-LosChinchess-IX-coronate.json][archivo de configuracion]] en formato json se hace disponible una vez se
+    introducen los resultados de cada ronda y se computan los nuevos
+    apareamientos.
+
+    Cada semana, los jugadores apareados deberan completar dos partidas. El
+    jugador que es asignado Blancas, debera comenzar el primer juego, con
+    Blancas, y comenzara el segundo juego con Negras. El puntaje acumulativo
+    se usara para determinar el resultado de el encuentro, como blancas ganan
+    1-0, negras ganan 0-1, or tablas ½ – ½. Las tablas ocurren cuando el
+    resultado acumulado en ambos juegos es empate, por ejemplo cada jugador
+    gana uno de los juegos, o ambas partidas resultan en tablas. No habra,
+    durante las clasificatorias, una tercera partida.
+
+    Los aparemiantos de cada semana seran creados y publicados por IAHMCOL
+    cada Sabado. Los jugadores deben contactarse y programar las fechas y las
+    horas en que jugaran ambos partidos. Ambos juegos deberan ser jugados o el
+    resultado asignado a mas tardar el Viernes a media noche, de la semana
+    correspondiente. No hay regla indicando quien debe establecer contacto
+    para programar un juego, primero; se espera que la respuesta a este
+    contacto ocurra dentro de las primeras 24 horas.
+    
+*** A2 	Finales
+
+    Las finales se jugaran en la sexta semana, y determinaran las posiciones
+    de podio, a seguir.
+
+    
+    + *Final, Categoria Chinchess*: La partida Final del torneo se jugara
+      entre los jugadores clasificados en posicion primera y segunda en el
+      sistema Swiss. El ganador de la final obtendra el Alfil de Oro de la
+      novena edicion. El otro jugador obtendar el Alfil de Plata.
+
+    + *3ero/4to, Categoria Chinchess*: El Alfil de bronce se entregara al
+      ganador del enfrentamiento directo entre los jugadores clasificados en
+      tercera y cuarta posicion de la fase clasificatoria.
+
+    + *Final, Categoria Pulgas*: El partido Final por categoria Pulgas se
+      jugara entre los jugadores en quinta y sexta posicion de las
+      clasificatorias. El ganador de este enfrentamiento directo obtendra
+      Medalla de Oro, y  el perdedor obtendra Medalla de Plata.
+
+    + *3ero/4to, Categoria Pulgas*: La Medalla de Bronce, por la ultima
+      posicion de podios se disputa entre los Jugadores en rangos septimo y
+      octavo de la ronda Swiss. 
+
+    Los dos jugadores restantes seran eliminados en la fase clasificatoria y
+    no jugaran en la sexta semana.
+
+    *Los enfrentamientos directos* se resuelven como se describe a
+    continuacion: El jugador de mal alto rango Jugara con Blancas la primera
+    partida. Una segunda partida se jugara con colores alternados. Si el
+    resultado cumulativo de ambas partidas es empate, se jugara un tercer
+    partido, nuevamente cambiando colores (el jugador que clasifica con mejor
+    rango empieza con Blancas, nuevamente). *De persistir empate despues de
+    tres partidas*, el jugador que empezo con mayor rango se declarara ganador
+    del enfrentamiento directo, por victoria tecnica, y obtendra la posicion
+    de podio correspondiente.
+
+*** A3	Desempate
+
+    Para desempate en la fase clasificatoria se usara el siguiente sistema: i)
+    menor numero de partidas partidas por W, de persistir el empate, se usara
+    ii) el mayor score Solkoff y iii) Mayor cumulativo de los oponentes como
+    ultimo recurso. De persistir el empate, el mayor rango se asignara al
+    jugador con el Glicko-2 mas elevado al inicio del torneo.
+    
+** B Plataforma
+
+   + B1. El torneo se juega en [[https://lichess.org/][lichess.org]]
+   + B2. Todos los juegos deberan ser jugados con tiempo, 10 minutos,
+     incremento 5 segundos por movida (10+5)
+   + B3. *Importante*: Todos los partidos deben completarse *Por Puntos/rated*,
+     y no amistosos/casual
+   + B4. Todos los partidos se jugaran con usuario registrado (no anonimo)
+   + B5. El jugador que empieza con las Blancas creara el reto, y lo
+     compartira. El Jugador con negras aceptara.
+   + B6. *Importante*: El jugador que inicia con Blancas tiene la
+     responsabilidad de actualizar el calendario del torneo con la fecha y
+     horas acordadas, el link de lichess, y el resultado de cada partida,
+     prontamente, apenas la partida termina.
+   + B7. Una vez una partida empieza no puede ser reprogramada,
+     recomenzada, cambiada, o alterada.
+
+** C Resultados
+
+*** C1. Los resultados se registran de forma estandard para el ajedrez;
+
+1-0 : Ganan blancas (Mate, resignacion, tiempo, abandono)
+
+½ – ½ : Tablas (En acuerdo a todas las regulaciones de el ajedrez)
+
+0-1 : Ganan Negras (Mate, resignacion, tiempo, abandono)
+
+*** C2
+
+    Un jugador podra pedir al director de Torneo (IAHMCOL) que sea dada
+    victoria, aun si lichess asigna perdida por tiempo, si, inmediatamente
+    perdida la partida, el jugador puede demostrar que la posicion es de mate
+    forzado a su favor. Esta solicitud debe realizarse de inmediato al acabar
+    la partida, debe explicarse el porque es mate forzado, y no puede usarse
+    analisis de computador.
+
+** D Programacion de Juegos y Perdida por W o Abandono
+
+   + D1. Cada semana, un jugador tendra 2 or 3 partidas con su oponente
+     directo.
+   + D2. Se usara Whats-App, or directamente mensajes por Lichess, para
+     comunicarse con el oponente para determinar una fecha y hora aceptable
+     para completar el o los juegos correspondientes. Es posible jugar ambas
+     partidas una inmediatamente despues de la otra, o es posible programar
+     dos fechas y horas distintas, si ambas partidas se completan durante la semana.
+   + D3. El jugador que empieza la partida con las Blancas, tiene la
+     responsabilidad de indicar la fecha y la hora determinada en el
+     calendario, tan pronto como un acuerdo se haya obtenido. Partidas que no
+     se hayan acordado y jugado a mas tardar Viernes a media noche seran
+     adjudicadas por el director del torneo (IAHMCOL) como W, con Blancas o
+     Negras, o ambos abandonando. Para obtener extension, contactar el
+     director del torneo prontamente.
+   + D4 Si un jugador llega 15 minutos tarde a una partida se declarara
+     perdida en W. La reprogramacion de una partida perdida por retraso, solo
+     se podra reprogramar si i) ambos jugadores estan de acuerdo, ii) El
+     director del torneo esta de acuerdo, y iii) el jugador perdiendo por
+     retraso no ha perdido el mismo juego por retraso, en una ocasion
+     anterior.
+   + D5. Cada juego debera completarse durante la semana correspondiente (no
+     antes ni despues), entre el Sabado en la manana, y el viernes a media
+     noche. Los juegos tendran que jugarse una vez los apareamientos sean
+     publicados para la semana.
+   + D6. Si hay un jugador que no responde al contacto, y no facilita la
+     programacion de las partidas se le considerara perdida por W, y el
+     jugador opuesto obtendra el punto.
+   + D7 *Doble abandono*: Si ninguno de los dos oponentes intentan de manera
+     activa de encontrar un calendario para las partidas, se considerara
+     doble-abandono, y ambos jugadores obtienen 0 para el juego.
+   + D8: *Abandono de Torneo*: Si algun jugador se haya en abandono de torneo,
+     se le asignara abandono para todas las partidas que le hubieren quedado
+     por completar. Un jugador en abandono de torneo no podra obtener posicion
+     de Podio en ninguna de las categorias.
+   + D9: Si ambos jugadores de una partida se encuentran en abanodono de
+     Torneo, se seguira D7 para ambos.
+     
+** E Honestidad y Comportamiento deportivo
+
+   + E1. Se requiere absoluta honestidad y comportamiento deportivo de cada
+     competidor
+   + E2. Todas las regulaciones de el ajedrez aplican
+   + E3. Todos los participates estan obligados a respetar el codigo de
+     conducta de lichess.
+   + E4. Durante la partida, ninguno de los dos oponentes podra consultar
+     otras personas, software, libros, o algun otro recurso. Cada jugador
+     debera obteners sus movimientos basadonse en su propia determinacion, en
+     tiempo real.
+   + E5. No se permite devolver jugada, vajo ninguna circumstancia. 'Ficha
+     tocada, ficha movida'
+   + E6. No se permite extension de tiempo
+   + E7. Comentario y analisis de las partidas via WhatsApp, directamente en
+     Lichess, u otra plataforma es permitido y motivado, pero esto ocurrira
+     solamente una partida haya acabado.
+   + E8. Casting de las partidas esta permitido, pero los oponentes directos
+     no podran participar del casting hasta que la partida haya terminado
+   + E9. Las anotaciones de las partidas estan permitidas, una vez la partida
+     haya concluido.
+   + E10. Comentario critico y recomendaciones para cualquier participante
+     estan permitidas, unicamente si este no se encuentra directamente en un juego. 
+
+** F Historia del Torneo
+   
+   F1. La historia del torneo sera almacenada en un archivo formato PGN, que
+   el director del torneo hara disponible para todos los competidores, una vez
+   termine el torneo. Esta informacion sera publica en:
+
+   [[https://github.com/IAHM-COL/losChinchess]]
+
+   F2. La Medalleria historica de los torneos Chinchess y las liguillas Pulgas
+   pasadas esta disponible en
+
+   [[09-MedalryHistory.org][Medalleria Historica]]
