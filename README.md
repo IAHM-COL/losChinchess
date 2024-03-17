@@ -7,7 +7,8 @@ El Campeon de cada edicion es reconocido con el titulo del "Alfil de Oro".
 
 | Edicion            | Fechas                  | Alfil de Oro                                                  | Alfil de Plata                                              | Alfil de Bronce                                            |
 |--------------------|-------------------------|---------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------------------------|
-| Los Chinchess IX   | 02/03/2024 - 03/15/2024 |                                                               |                                                             |                                                        	  |
+| Los Chinchess X    | 05/04/2024 - 06/16/2024 |                                                               |                                                             |                                                        	  |
+| Los Chinchess IX   | 02/03/2024 - 03/15/2024 | **Christian ([Christian1323](https://lichess.org/@/Christian1323))** | Jorge Andres ([kopalito](https://lichess.org/@/kopalito))   | Camilo ([cgallego00](https://lichess.org/@/cgallego00))	  |
 | Los Chinchess VIII | 09/16/2023 - 11/03/2023 | **Asher ([AsDaGo](https://lichess.org/@/AsDaGo))**            | Camilo ([cgallego00](https://lichess.org/@/cgallego00))     | Mauricio ([twinsendell](https://lichess.org/@/twinsendell))|
 | Los Chinchess VII  | 05/05/2023 - 06/19/2023 | **Asher ([AsDaGo](https://lichess.org/@/AsDaGo))**            | Jorge Andres ([kopalito](https://lichess.org/@/kopalito))   | Camilo ([cgallego00](https://lichess.org/@/cgallego00))    |
 | Los Chinchess VI   | 02/04/2023 - 03/16/2023 | **Asher ([AsDaGo](https://lichess.org/@/AsDaGo))**            | Mauricio ([twinsendell](https://lichess.org/@/twinsendell)) | Camilo ([cgallego00](https://lichess.org/@/cgallego00))    |
@@ -18,7 +19,7 @@ El Campeon de cada edicion es reconocido con el titulo del "Alfil de Oro".
 | Los Chinchess I    | 04/24/2021 - 06/04/2021 | **Andres  ([arandres](https://lichess.org/@/arandres))**      | Camilo ([cgallego00](https://lichess.org/@/cgallego00))     | Maria Clara ([mc3010](https://lichess.org/@/mc3010))       |
 
 ***
-:copyright: 2021-2023, IAHM-COL
+:copyright: 2021-2024, IAHM-COL
 
 **COPYING**
 
