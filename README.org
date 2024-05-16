@@ -7,7 +7,7 @@ El Campeon de cada edicion es reconocido con el titulo de *El Alfil de Oro*.
 
 | Edicion            | Fechas                  | Alfil de Oro                | Alfil de Plata          | Alfil de Bronce         |
 |--------------------+-------------------------+-----------------------------+-------------------------+-------------------------|
-| Los Chinchess X    | 05/24/2024 - 07/06/2024 |                             |                         |                         |
+| Los Chinchess X    | 05/24/2024 - 07/12/2024 |                             |                         |                         |
 | Los Chinchess IX   | 02/03/2024 - 03/15/2024 | *Christian [[https://lichess.org/@/Christian1323][(Christian1323)]]* | Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]] | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
 | Los Chinchess VIII | 09/16/2023 - 11/03/2023 | *Asher [[https://lichess.org/@/AsDaGo][(AsDaGo)]]*            | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     | Mauricio [[https://lichess.org/@/twinsendell][(twinsendell)]]  |
 | Los Chinchess VII  | 05/05/2023 - 06/19/2023 | *Asher [[https://lichess.org/@/AsDaGo][(AsDaGo)]]*            | Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]] | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |

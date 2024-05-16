@@ -3,10 +3,13 @@
 * Regulaciones
 
 ** Participantes
-  
-| A1. Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1835)    | A4. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1693)          |
-| A2. Duvian ([[https://lichess.org/?user=Duvian#friend][Duvian]]; 1766)        | A5. Alejandro ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1529) |
-| A3. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1764) | A6. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1244)           |
+
+| A1. Duvian ([[https://lichess.org/?user=Duvian#friend][Duvian]]; 1766)            | B1. ♝Jorge Andres ([[https://lichess.org/?user=kopalito#friend][kopalito]]; 1850) |
+| A2. Joaquin ([[https://lichess.org/?user=OseznoRaudo#friend][OseznoRaudo]]; 1620)      | B2. ♝♝Andres ([[https://lichess.org/?user=arandres#friend][arandres]]; 1686)      |
+| A3. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1693)          | B3. Pei ([[https://lichess.org/?user=pei12#friend][pei12]]; 1941)              |
+| A4. Alejandro ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1529) | B4. Maria Clara ([[https://lichess.org/?user=macla3010#friend][macla3010]]; 1529)  |
+| A5. Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1835)        | B5. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1764)   |
+| A6. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1244)           | B6. Sergio ([[https://lichess.org/?user=SershMo#friend][SershMo]]; 1500)         |
 
 ** Calendario y regristro de juegos
 
@@ -21,19 +24,36 @@
 *** A1	Fase clasificatoria
 
     El Alfil de oro de Chinchess IX no participara en esta edicion, y por lo
-    tanto no hay jugador defensor del titulo. En la primera fase, todos los 6
-    participantes participaran en doble ronda robin, durante cinco semanas,
-    (05/24/2024 - 06/28/2024). Cada semana los jugadores tendran 2 juegos.
+    tanto no hay jugador defensor del titulo. En la primera fase, los
+    jugadores fueron sorteados en 2 grupos, A y B de la siguiente forma:
 
-    A1 ha sido asignado al
-    jugador con el score glicko-2 mas alto. Los demas jugadores se han
-    sembrado en orden descendiente.
+    Usando el score glicko-2 inicial, los jugadores fueron separados en dos
+    bombonas, una con los seis mejores jugadores, y la otra con los seis
+    restantes. Aleatoriamente, los jugadores fueron sembrados desde la bombona
+    de mejor glicko-2 en posiciones A1, B1, A3, B3, A5 y B5. Subsecuentemente,
+    de manera aleatoria, los jugadores restantes fueron sembrados en
+    posiciones A2, B2, A4, B4, A6 y finalmente B6. Jugadores sin glicko-2
+    inicial fueron asignados 1500.
 
-    Al terminar la fase, los tres jugadores liderando la tabla
-    de posiciones, clasificaran a la fase final Chinchess. Los tres jugadores
-    en que obtengan las posiciones inferiores, clasificaran a la liguilla Las
-    Pulgas X.
+    Durante las primeras cinco semanas (05/24 - 06/28/2024), los jugadores participaran en doble
+    ronda robin dentro de el grupo correspondiente. El jugador que lidera la
+    tabla de posicion del grupo, al final, clasifica a el cuadrangular final
+    Chinchess X, junto con el jugador en segunda posicion. El cuadrangular
+    final se juega en la septima semana.
 
+    El jugador en tercera posicion, clasificara directamente a el cuadrangular
+    Pulgas X. Los jugadores en cuarta y quinta posicion, disputaran un
+    repechaje para obtener un cupo a la Liguilla pulgas durante la sexta
+    semana (06/29 - 07/05/2024).
+
+    El repechaje consistira de un enfrentamiento directo entre 4A v 5B; y 4B v
+    5A. El jugador con mejor rango empezara Blancas. Para el segundo juego, se
+    alternara el color. De haber empate a 2 juegos, se jugara un tercer juego,
+    nuevamente colores alternados (4ta posicion, blancos). De persistir empate
+    a tres juegos, el jugador con el mejor rango clasificara.
+
+    Los jugadores en sexta posicion son eliminados.
+    
     El jugador que es asignado Blancas, debera comenzar el primer juego, y
     sera responsable de iniciar un reto, o juego en Lichess. Tambien sera
     responsable de actualizar la tabla de resultados y el calendario.
@@ -43,24 +63,14 @@
     
 *** A2 Fase Final
 
-    Las finales se jugaran en la sexta semana (06/29/2024-07/06/2024), y determinaran las posiciones
-    de podio. Los tres jugadores clasificados jugaran en formato doble ronda
-    robin, jugando cuatro partidas en la semana final, dos contra cada
-    oponente, con colores alternos. *La tabla de posiciones de la ronda inicial
-    no se usara durante la ronda final*. El orden de la tabla clasificatoria
-    de la ronda final determina las posiciones de podio, y los titulos de
-    Alfil de Oro, Plata y Bronce, respectivamente. 
+    La fase final para Chinchess X, y pulgas X, se jugaran simultaneamente
+    durante la septima semana (07/06 - 07/12/2024). La fase final consiste de
+    cuadrangulares doble ronda robin, respectivamente.
+
+    El podio de Chinchess X asigna los titulos Alfil de Oro, Plata y Bronce.
+
+    El podio de la liguilla Pulgas X, asigna Medallas de Oro, Plata y Bronce.
     
-*** A3 Liguilla las Pulgas X
-
-    Durante la sexta semana (06/29/2024-07/06/2024), se jugara la liguilla
-    *Las Pulgas X* con los tres jugadores eliminados de la fase final de
-    Chinchess, durante la fase clasificatoria. El formato de la liguilla,
-    similarmente, se juega como doble ronda robin. Cada jugador enfrentando a
-    los dos oponentes 2 veces durante la semana, con colores alternados. El
-    orden de la tabla clasificatoria de la liguilla determinara las Medallas
-    de Oro, Plata y Bronce, respectivamente.
-
 *** A3	Desempate
 
     Como metodo de desempate se usara, en orden:
