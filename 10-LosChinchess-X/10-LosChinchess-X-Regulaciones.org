@@ -64,7 +64,7 @@
 *** A2 Fase Final
 
     La fase final para Chinchess X, y pulgas X, se jugaran simultaneamente
-    durante la septima semana (07/06 - 07/12/2024). La fase final consiste de
+    durante la septima y octava semana (07/06 - 07/19/2024). La fase final consiste de
     cuadrangulares doble ronda robin, respectivamente.
 
     El podio de Chinchess X asigna los titulos Alfil de Oro, Plata y Bronce.
