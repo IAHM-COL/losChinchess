@@ -1,0 +1,25 @@
+* Liguilla de Ajedrez Las Pulgas X
+
+** Crosstable
+
+*** Repechaje 
+|    | A4   | B5   |   points |   w |   neudstadtl |   glicko_2 |
+|----+------+------+----------+-----+--------------+------------|
+| A4 | x    |      |        0 |   0 |            0 |          0 |
+| B5 |      | x    |        0 |   0 |            0 |          0 |
+
+|    | B4   | A5   |   points |   w |   neudstadtl |   glicko_2 |
+|----+------+------+----------+-----+--------------+------------|
+| B4 | x    |      |        0 |   0 |            0 |          0 |
+| A5 |      | x    |        0 |   0 |            0 |          0 |
+
+*** Final
+|       | A3   | B3   | A4vB5   | B4vA5   |   points |   w |   neudstadtl |   glicko_2 |
+|-------+------+------+---------+---------+----------+-----+--------------+------------|
+| A3    | x    |      |         |         |        0 |   0 |            0 |          0 |
+| B3    |      | x    |         |         |        0 |   0 |            0 |          0 |
+| A4vB5 |      |      | x       |         |        0 |   0 |            0 |          0 |
+| B4vA5 |      |      |         | x       |        0 |   0 |            0 |          0 |
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
