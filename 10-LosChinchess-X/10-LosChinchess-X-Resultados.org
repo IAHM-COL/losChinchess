@@ -3,14 +3,14 @@
 ** Crosstable
 
 *** Group A
-|                | Duvian   | cgallego00   | OseznoRaudo   | NeiderMT   | Alejandro-mesa   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
-|----------------+----------+--------------+---------------+------------+------------------+-----------+----------+-----+--------------+------------|
-| Duvian         | x        | 1.0          | 1.0           | 1.0        | 1.0              | 1.0       |        5 |   0 |           15 |       1766 |
-| cgallego00     | 0        | x            | 1.0           | 1.0        | 1.0              | 2.0       |        5 |   0 |           10 |       1835 |
-| OseznoRaudo    | 0        | 1.0          | x             | 0          | 1.0              | 2.0       |        4 |   0 |            7 |       1620 |
-| NeiderMT       | 0        | 0            | 1.0           | x          | 1.0              | 2.0       |        4 |   0 |            6 |       1693 |
-| Alejandro-mesa | 1.0      | 0            | 0             | 0          | x                | 1.0       |        2 |   0 |            5 |       1529 |
-| IAHMCOL        | 0        | 0            | 0             | 0          | 0                | x         |        0 |   0 |            0 |       1244 |
+|                | Duvian   | cgallego00   | NeiderMT   | OseznoRaudo   | Alejandro-mesa   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+----------+--------------+------------+---------------+------------------+-----------+----------+-----+--------------+------------|
+| Duvian         | x        | 1.0          | 1.0        | 2.0           | 1.0              | 1.0       |        6 |   0 |           21 |       1766 |
+| cgallego00     | 0        | x            | 1.0        | 1.0           | 1.0              | 2.0       |        5 |   0 |           12 |       1835 |
+| NeiderMT       | 0        | 0            | x          | 1.0           | 2.0              | 2.0       |        5 |   0 |           10 |       1693 |
+| OseznoRaudo    | 0        | 1.0          | 0          | x             | 1.0              | 2.0       |        4 |   0 |            8 |       1620 |
+| Alejandro-mesa | 1.0      | 1.0          | 0          | 0             | x                | 1.0       |        3 |   0 |           11 |       1529 |
+| IAHMCOL        | 0        | 0            | 0          | 0             | 0                | x         |        0 |   0 |            0 |       1244 |
 
 *** Group B
 |              | pei12   | arandres0510   | twinsendell   | kopalito   | macla3010   | SershMo   |   points |   w |   neudstadtl |   glicko_2 |
