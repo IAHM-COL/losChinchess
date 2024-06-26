@@ -16,12 +16,12 @@
 [Variant "Standard"]
 [WhiteElo "1766"]
 
-1.d4 Nf6 2.Nf3 d5 3.e3 e6 4.Bd3 {D05 Queen's Pawn Game: Colle System}4...Nc6
+1.d4 Nf6 2.Nf3 d5 3.e3 e6 4.Bd3{D05 Queen's Pawn Game: Colle System}4...Nc6
 5.O-O Nb4 6.Be2 Ne4 7.c3 Nc6 8.Nbd2 Bd6 9.Qc2 f5 10.c4 Nb4 11.Qb3 g5 12.c5 g4
 13.cxd6 gxf3 14.dxc7 Qxc7 15.Bb5+ Nc6 16.Nxf3 Bd7 17.Bd2 O-O-O 18.Rac1 Rhg8
 19.Qa4 a6 20.Bxc6 Bxc6 21.Qa5 Qg7 22.g3 h5 23.Ne5 Ng5 24.Rxc6+ bxc6 25.Qxa6+
 Qb7 26.Qa4 Ne4 27.Ba5 Qa6 28.Rc1 Rd6 29.Qb4 Qe2 30.Qxd6 Nxd6 31.Rxc6+ Kb7
-32.Rb6+ Ka7 33.Nc6+ Ka8 {Black wins on time.} 0-1
+32.Rb6+ Ka7 33.Nc6+ Ka8{Black wins on time.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/QjH6NeQf"]
@@ -43,14 +43,14 @@ Qb7 26.Qa4 Ne4 27.Ba5 Qa6 28.Rc1 Rd6 29.Qb4 Qe2 30.Qxd6 Nxd6 31.Rxc6+ Kb7
 [WhiteElo "1605"]
 [WhiteRatingDiff "+9"]
 
-1.e4 d6 2.d4 g6 3.Nc3 Bg7 4.Nf3 {B06 Modern Defense: Two Knights
-Variation}4...e6 5.Bc4 Ne7 6.O-O O-O 7.b3 a6 8.Ba3 b5 9.Bd3 Nbc6 10.Ne2 Bb7
-11.c4 b4 12.Bb2 Qd7 13.Qd2 a5 14.d5 Nd8 15.Bxg7 Kxg7 16.Ng3 e5 17.Be2 c6 18.Nh4
-cxd5 19.cxd5 f6 20.h3 Ba6 21.Bxa6 Rxa6 22.f4 h5 23.f5 g5 24.Nxh5+ Kh6 25.Ng3
-Qa7+ 26.Kh1 Kg7 27.Nf3 g4 28.Ng5 gxh3 29.gxh3 Rh8 30.Kg2 fxg5 31.Qxg5+ Kf8
-32.f6 Nf7 33.Qg7+ Ke8 34.fxe7 Qxe7 35.Rxf7 Qxf7 36.Qxh8+ Qf8 37.Qxf8+ Kxf8
-38.Rf1+ Ke7 39.Nf5+ Kf6 40.Kg3 Ra8 41.Rc1 Rg8+ 42.Kh2 Rd8 43.Rc6 a4 44.Rxd6+
-Kg5 45.Rxd8 {Black resigns.} 1-0
+1.e4 d6 2.d4 g6 3.Nc3 Bg7 4.Nf3{B06 Modern Defense: Two Knights Variation}4...e6
+5.Bc4 Ne7 6.O-O O-O 7.b3 a6 8.Ba3 b5 9.Bd3 Nbc6 10.Ne2 Bb7 11.c4 b4 12.Bb2 Qd7
+13.Qd2 a5 14.d5 Nd8 15.Bxg7 Kxg7 16.Ng3 e5 17.Be2 c6 18.Nh4 cxd5 19.cxd5 f6
+20.h3 Ba6 21.Bxa6 Rxa6 22.f4 h5 23.f5 g5 24.Nxh5+ Kh6 25.Ng3 Qa7+ 26.Kh1 Kg7
+27.Nf3 g4 28.Ng5 gxh3 29.gxh3 Rh8 30.Kg2 fxg5 31.Qxg5+ Kf8 32.f6 Nf7 33.Qg7+
+Ke8 34.fxe7 Qxe7 35.Rxf7 Qxf7 36.Qxh8+ Qf8 37.Qxf8+ Kxf8 38.Rf1+ Ke7 39.Nf5+
+Kf6 40.Kg3 Ra8 41.Rc1 Rg8+ 42.Kh2 Rd8 43.Rc6 a4 44.Rxd6+ Kg5 45.Rxd8{Black
+resigns.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/1Hnc1JOn"]
@@ -72,9 +72,9 @@ Kg5 45.Rxd8 {Black resigns.} 1-0
 [WhiteElo "1870"]
 [WhiteRatingDiff "+7"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 {B32 Sicilian Defense: Open}3...Nxd4 4.Nxd4 cxd4 5.Qxd4
-e6 6.c4 b6 7.Nc3 Bb7 8.Bd3 Bc5 9.Qxg7 Qf6 10.Qxf6 Nxf6 11.Nb5 O-O-O 12.Bf4 Nxe4
-13.Nxa7# {White wins by checkmate.} 1-0
+1.e4 c5 2.Nf3 Nc6 3.d4{B32 Sicilian Defense: Open}3...Nxd4 4.Nxd4 cxd4 5.Qxd4 e6
+6.c4 b6 7.Nc3 Bb7 8.Bd3 Bc5 9.Qxg7 Qf6 10.Qxf6 Nxf6 11.Nb5 O-O-O 12.Bf4 Nxe4
+13.Nxa7#{White wins by checkmate.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/KXCJDgGj"]
@@ -96,12 +96,12 @@ e6 6.c4 b6 7.Nc3 Bb7 8.Bd3 Bc5 9.Qxg7 Qf6 10.Qxf6 Nxf6 11.Nb5 O-O-O 12.Bf4 Nxe4
 [WhiteElo "1789"]
 [WhiteRatingDiff "+3"]
 
-1.d4 Nf6 2.Nf3 b6 {A47 Pseudo Queen's Indian Defense}3.e3 Bb7 4.Be2 g6 5.b3 Bg7
+1.d4 Nf6 2.Nf3 b6{A47 Pseudo Queen's Indian Defense}3.e3 Bb7 4.Be2 g6 5.b3 Bg7
 6.O-O d5 7.Bb2 Nbd7 8.Nbd2 O-O 9.Rc1 Re8 10.c4 Nf8 11.Ne5 Ne4 12.Bf3 Nxd2
 13.Qxd2 c6 14.Rfd1 Bc8 15.Nxc6 Qd6 16.cxd5 a5 17.e4 Bb7 18.e5 Qc7 19.Nxa5 bxa5
 20.Rxc7 Bxd5 21.Bxd5 Bxe5 22.dxe5 Rec8 23.Rdc1 Rxc7 24.Rxc7 e6 25.Bxa8 Nd7
 26.Qxd7 Kg7 27.Qxf7+ Kh6 28.Bc1+ Kh5 29.Qxh7+ Kg4 30.f3+ Kf5 31.Qf7+ Kxe5
-32.Bf4+ Kd4 33.Qd7# {White wins by checkmate.} 1-0
+32.Bf4+ Kd4 33.Qd7#{White wins by checkmate.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/4PrrYt0t"]
@@ -147,7 +147,7 @@ Nbd7 10.Kh1 Re8 11.Ng1 e5 12.Ndf3 e4 13.Nh4 Bg6 14.Nxg6 hxg6 15.f4 Nh5 16.e3 c5
 [WhiteElo "1510"]
 [WhiteRatingDiff "-27"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 {B32 Sicilian Defense: Löwenthal
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5{B32 Sicilian Defense: Löwenthal
 Variation}5.Nxc6 bxc6 6.Bc4 Nf6 7.Nc3 Bb4 8.Bd2 O-O 9.Qf3 d6 10.h3 Re8 11.O-O-O
 Be6 12.Bxe6 Rxe6 13.a3 Bc5 14.g4 Nd7 15.g5 g6 16.h4 Nb6 17.h5 Qe7 18.hxg6 fxg6
 19.Qh3 Rf8 20.Rdf1 Nc4 21.Be1 Rf7 22.b3 Nxa3 23.Na4 Qxg5+ 24.Kb2 Ref6 25.Nxc5
@@ -157,7 +157,7 @@ c5 39.Rf1 Rf6 40.b4 Rxf2+ 41.Rxf2 Nxf2 42.b5 Rb7 43.b6 Kd5 44.Kb3 Kc6 45.Ra2
 Rxb6+ 46.Kc2 Ne4 47.Kd3 Ng5 48.Rg2 Ne6 49.Rg6 Nf4+ 50.Ke4 Nxg6 51.c4 Rb4 52.Kd3
 Nf4+ 53.Kc3 e4 54.Kd2 Rxc4 55.Ke3 Ne6 56.Ke2 Nd4+ 57.Ke3 Ra4 58.Kxe4 Ra8 59.Kd3
 Rc8 60.Kc4 d5+ 61.Kd3 Kd6 62.Kc3 Ke5 63.Kd3 c4+ 64.Kc3 Ke4 65.Kd2 c3+ 66.Kc1
-Rh8 67.Kd1 Ke3 68.Kc1 Rh1# {Black wins by checkmate.} 0-1
+Rh8 67.Kd1 Ke3 68.Kc1 Rh1#{Black wins by checkmate.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/KcLjgAtc"]
@@ -179,11 +179,11 @@ Rh8 67.Kd1 Ke3 68.Kc1 Rh1# {Black wins by checkmate.} 0-1
 [WhiteElo "1827"]
 [WhiteRatingDiff "-10"]
 
-1.e4 c5 2.Nf3 d6 {B50 Sicilian Defense: Modern Variations}3.Bc4 e6 4.c3 Nf6 5.d3
+1.e4 c5 2.Nf3 d6{B50 Sicilian Defense: Modern Variations}3.Bc4 e6 4.c3 Nf6 5.d3
 a6 6.Bg5 Be7 7.Nbd2 b5 8.Bb3 Bb7 9.O-O O-O 10.Re1 h6 11.Bh4 Nbd7 12.d4 cxd4
 13.cxd4 Rc8 14.Rc1 Rxc1 15.Qxc1 Re8 16.Bg3 Qb6 17.Qd1 Rc8 18.e5 dxe5 19.dxe5
-Nd5 20.Ne4 Nc5 21.Nd6 Bxd6 22.exd6 Nxb3 23.Qxb3 Qc6 24.h3 Nf6 25.Ne5 Qxg2#
-{Black wins by checkmate.} 0-1
+Nd5 20.Ne4 Nc5 21.Nd6 Bxd6 22.exd6 Nxb3 23.Qxb3 Qc6 24.h3 Nf6 25.Ne5
+Qxg2#{Black wins by checkmate.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/oSUUCVDo"]
@@ -195,7 +195,7 @@ Nd5 20.Ne4 Nc5 21.Nd6 Bxd6 22.exd6 Nxb3 23.Qxb3 Qc6 24.h3 Nf6 25.Ne5 Qxg2#
 [Annotator "lichess.org"]
 [BlackElo "1239"]
 [BlackRatingDiff "-58"]
-[ECO "B01"]
+[ECO "C00"]
 [EventDate "2024.06.07"]
 [Opening "Scandinavian Defense"]
 [Termination "Normal"]
@@ -276,7 +276,7 @@ Rb2 29.Qxa6 Rxc2 30.Qa7 Rbb2 31.Kg3 Rc3+ 32.Kh2 Rcc2 33.Kg3 Rc3+ 34.Kh2 Ra3
 [Annotator "lichess.org"]
 [BlackElo "1642"]
 [BlackRatingDiff "+126"]
-[ECO "D40"]
+[ECO "D50"]
 [EventDate "2024.06.07"]
 [Opening "Queen's Gambit Declined: Semi-Tarrasch Defense, Pillsbury Variation"]
 [Termination "Normal"]
@@ -286,12 +286,12 @@ Rb2 29.Qxa6 Rxc2 30.Qa7 Rbb2 31.Kg3 Rc3+ 32.Kh2 Rcc2 33.Kg3 Rc3+ 34.Kh2 Ra3
 [WhiteElo "1501"]
 [WhiteRatingDiff "-19"]
 
-1.d4 d5 2.Nf3 e6 3.c4 c5 4.Nc3 Nf6 5.Bg5 {D40 Queen's Gambit Declined:
+1.d4 d5 2.Nf3 e6 3.c4 c5 4.Nc3 Nf6 5.Bg5{D40 Queen's Gambit Declined:
 Semi-Tarrasch Defense, Pillsbury Variation}5...h6 6.Bh4 Be7 7.e3 Nc6 8.cxd5
 exd5 9.Bxf6 Bxf6 10.dxc5 O-O 11.Bb5 Be6 12.O-O a6 13.Ba4 Bxc3 14.bxc3 Qa5
 15.Bxc6 bxc6 16.Qd4 Rfe8 17.Ne5 Qc7 18.Rab1 Bf5 19.Rb6 Qxe5 20.Rxc6 Qxd4
 21.cxd4 Rab8 22.Rd6 Be4 23.Rxa6 Bd3 24.Rd6 Bxf1 25.Kxf1 Red8 26.Ra6 Rbc8 27.a4
-Ra8 28.Rb6 Rxa4 29.c6 Raa8 30.c7 Rdc8 31.Rd6 Rxc7 {White resigns.} 0-1
+Ra8 28.Rb6 Rxa4 29.c6 Raa8 30.c7 Rdc8 31.Rd6 Rxc7{White resigns.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/NRWbTF5H"]
@@ -313,15 +313,15 @@ Ra8 28.Rb6 Rxa4 29.c6 Raa8 30.c7 Rdc8 31.Rd6 Rxc7 {White resigns.} 0-1
 [WhiteElo "1826"]
 [WhiteRatingDiff "+1"]
 
-1.e4 d5 2.exd5 Qxd5 {B01 Scandinavian Defense: Mieses-Kotroc Variation}3.Nc3
-Qe6+ 4.Be2 Nc6 5.Nf3 Bd7 6.O-O O-O-O 7.Re1 Nf6 8.b3 Ne4 9.Bd3 f5 10.Nxe4 fxe4
+1.e4 d5 2.exd5 Qxd5{B01 Scandinavian Defense: Mieses-Kotroc Variation}3.Nc3 Qe6+
+4.Be2 Nc6 5.Nf3 Bd7 6.O-O O-O-O 7.Re1 Nf6 8.b3 Ne4 9.Bd3 f5 10.Nxe4 fxe4
 11.Bxe4 g6 12.Bb2 Rg8 13.c4 Nb4 14.a3 Na6 15.Bd5 Qg4 16.Bxg8 Bh6 17.Ne5 Qxd1
 18.Raxd1 Rxg8 19.Nxd7 Kxd7 20.d4 c6 21.d5 c5 22.d6 exd6 23.Be5 Bf8 24.Rd3 Nb8
 25.Red1 Ke6 26.Bxd6 Bxd6 27.Rxd6+ Kf5 28.R1d5+ Ke4 29.f3+ Ke3 30.Re5+ Kf4
 31.Rxc5 b6 32.Rd4+ Ke3 33.Re4+ Kd3 34.Rd5+ Kc3 35.Re3+ Kb2 36.Rd2+ Kxa3 37.b4+
 Kxb4 38.Re7 Nc6 39.Rxh7 Rd8 40.Rxd8 Nxd8 41.Rxa7 Nc6 42.Rg7 Ne5 43.f4 Nxc4
 44.Rxg6 b5 45.f5 Ka4 46.f6 b4 47.f7 b3 48.f8=Q b2 49.Qb8 Ka3 50.Ra6+ Na5
-51.Rxa5# {White wins by checkmate.} 1-0
+51.Rxa5#{White wins by checkmate.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/XriCZYXR"]
@@ -343,15 +343,15 @@ Kxb4 38.Re7 Nc6 39.Rxh7 Rd8 40.Rxd8 Nxd8 41.Rxa7 Nc6 42.Rg7 Ne5 43.f4 Nxc4
 [WhiteElo "1792"]
 [WhiteRatingDiff "+29"]
 
-1.d4 d5 2.Nf3 {D02 Queen's Pawn Game: Zukertort Variation}2...g6 3.e3 Bg7 4.b3
+1.d4 d5 2.Nf3{D02 Queen's Pawn Game: Zukertort Variation}2...g6 3.e3 Bg7 4.b3
 Nf6 5.Bd3 a6 6.Bb2 c5 7.O-O O-O 8.Nbd2 Nbd7 9.c4 b6 10.cxd5 Nxd5 11.Qc2 f5
 12.Nc4 Bb7 13.Ng5 Nb4 14.Qd2 Bd5 15.a3 Nxd3 16.Qxd3 e5 17.dxe5 Nxe5 18.Nxe5
 Qxg5 19.Qxd5+ Kh8 20.Rad1 Qe7 21.Nc6 Qc7 22.Bxg7+ Qxg7 23.Qd7 Rf7 24.Qe6 h5
 25.Rd8+ Rxd8 26.Nxd8 Rf6 27.Qc4 Rd6 28.Nf7+ Kh7 29.Nxd6 Qe7 30.Qf7+ Qxf7
 31.Nxf7 Kg7 32.Ne5 Kf6 33.Nd7+ Ke6 34.Nxb6 Kd6 35.Nc4+ Kd5 36.Rd1+ Ke6 37.f4
 Kf7 38.h4 g5 39.hxg5 h4 40.Kf2 a5 41.Nxa5 c4 42.Nxc4 h3 43.gxh3 Ke6 44.Kf3 Kf7
-45.e4 fxe4+ 46.Kxe4 Kg6 47.Ne3 Kh5 48.Ng2 Kg6 49.Rd6+ Kh5 50.Rh6# {White wins
-by checkmate.} 1-0
+45.e4 fxe4+ 46.Kxe4 Kg6 47.Ne3 Kh5 48.Ng2 Kg6 49.Rd6+ Kh5 50.Rh6#{White wins by
+checkmate.} 1-0
 
 [Event "Rated rapid game"]
 [Site "https://lichess.org/hVWSzqHv"]
@@ -401,10 +401,10 @@ Ra3 36.Qxf7 Rb5 37.g4 Nf6 38.Qc4 Raa5 39.a4 Rc5 40.Qd3 Rxa4 41.e5+ Ne4 42.e6
 [WhiteElo "1693"]
 [WhiteRatingDiff "+5"]
 
-1.d4 Nf6 2.c4 d6 3.Nc3 g6 4.e4 Bg7 5.Be2 O-O 6.Nf3 {E91 King's Indian Defense:
+1.d4 Nf6 2.c4 d6 3.Nc3 g6 4.e4 Bg7 5.Be2 O-O 6.Nf3{E91 King's Indian Defense:
 Orthodox Variation}6...Re8 7.O-O e6 8.Bg5 Nbd7 9.Nh4 c5 10.d5 exd5 11.exd5 Re5
 12.Qd2 h6 13.Bxf6 Bxf6 14.Nf3 Bg5 15.Nxg5 Rxg5 16.Ne4 Re5 17.Bd3 Kh7 18.Nxd6 f5
-19.Nf7 Qe8 20.Qxh6+ Kg8 21.Qxg6+ Kf8 22.Nxe5 Qxe5 23.Rfe1 Qf6 24.Re8# {White
+19.Nf7 Qe8 20.Qxh6+ Kg8 21.Qxg6+ Kf8 22.Nxe5 Qxe5 23.Rfe1 Qf6 24.Re8#{White
 wins by checkmate.} 1-0
 
 [Event "Los Chinchess X"]
@@ -452,12 +452,12 @@ dxc4 23.Nxc4 Rd3 24.Rd2 Bxf4 25.Rxd3 Bxd3 26.Ne5 Be4 27.Rf1 f5  1-0
 [WhiteElo "1529"]
 [WhiteRatingDiff "-19"]
 
-1.e4 c5 2.Nf3 e6 3.d4 d5 4.e5 {C02 French Defense: Advance Variation,
-Nimzowitsch System}4...c4 5.Nc3 h6 6.g3 Ne7 7.Bg2 Ng6 8.O-O Be7 9.b3 cxb3
-10.axb3 Bd7 11.Bb2 Qc7 12.Qd3 a6 13.Ba3 Nc6 14.b4 b5 15.Rab1 O-O 16.Nd2 Be8
-17.Nb3 f6 18.Nc5 Bxc5 19.bxc5 fxe5 20.dxe5 Ncxe5 21.Qe3 Rc8 22.Bh3 Bd7 23.c6
-Nc4 24.Qc5 Nxa3 25.Qxa3 Qxc6 26.Rfe1 Qxc3 27.Qd6 Qc6 28.Qa3 Qb6 29.Qd3 Qxf2+
-30.Kh1 Rxc2 {White resigns.} 0-1
+1.e4 c5 2.Nf3 e6 3.d4 d5 4.e5{C02 French Defense: Advance Variation, Nimzowitsch
+System}4...c4 5.Nc3 h6 6.g3 Ne7 7.Bg2 Ng6 8.O-O Be7 9.b3 cxb3 10.axb3 Bd7
+11.Bb2 Qc7 12.Qd3 a6 13.Ba3 Nc6 14.b4 b5 15.Rab1 O-O 16.Nd2 Be8 17.Nb3 f6
+18.Nc5 Bxc5 19.bxc5 fxe5 20.dxe5 Ncxe5 21.Qe3 Rc8 22.Bh3 Bd7 23.c6 Nc4 24.Qc5
+Nxa3 25.Qxa3 Qxc6 26.Rfe1 Qxc3 27.Qd6 Qc6 28.Qa3 Qb6 29.Qd3 Qxf2+ 30.Kh1
+Rxc2{White resigns.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/gduoM3U4"]
@@ -505,12 +505,12 @@ Bxb4 23.e5 fxe5 24.fxe5 Bc5+ 25.Rf2 Ra2 26.Be2 Rxe2 27.Kf1 Rxf2+ 28.Ke1 Rxh2
 [WhiteElo "1839"]
 [WhiteRatingDiff "+4"]
 
-1.e4 c5 2.Nf3 Nc6 {B30 Sicilian Defense: Old Sicilian}3.Nc3 g6 4.Bc4 Bg7 5.d3 d6
+1.e4 c5 2.Nf3 Nc6{B30 Sicilian Defense: Old Sicilian}3.Nc3 g6 4.Bc4 Bg7 5.d3 d6
 6.Be3 Nf6 7.Qd2 O-O 8.h4 Ng4 9.Bf4 Na5 10.Bd5 Nf6 11.Bh6 Nxd5 12.Nxd5 Bg4
 13.Bxg7 Kxg7 14.Nh2 Bc8 15.g4 e6 16.Ne3 Nc6 17.h5 g5 18.Nc4 h6 19.f4 f6 20.fxg5
 fxg5 21.O-O-O d5 22.exd5 exd5 23.Ne3 Ne5 24.Qc3 Kh7 25.Qxe5 Re8 26.Qxd5 Bd7
 27.Qf7+ Kh8 28.Nf5 Rg8 29.Nxh6 Rg7 30.Qd5 Bc6 31.Qxd8+ Rxd8 32.Rhf1 b5 33.Nf7+
-Rxf7 34.Rxf7 Kg8 {Black resigns.} 1-0
+Rxf7 34.Rxf7 Kg8{Black resigns.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/ABglWSXe"]
@@ -522,7 +522,7 @@ Rxf7 34.Rxf7 Kg8 {Black resigns.} 1-0
 [Annotator "lichess.org"]
 [BlackElo "1686"]
 [BlackRatingDiff "+3"]
-[ECO "D01"]
+[ECO "D00"]
 [EventDate "2024.05.31"]
 [Opening "Rapport-Jobava System, with e6"]
 [Termination "Normal"]
@@ -557,12 +557,12 @@ Be8 17.Qg3 Qb6 18.O-O-O cxd4 19.exd4 Rc8 20.Bd3 Qxd4 21.Bg6 Qc5 22.Bxe8 Kxe8
 [WhiteElo "1941"]
 [WhiteRatingDiff "+4"]
 
-1.e4 d5 2.exd5 Qxd5 {B01 Scandinavian Defense: Mieses-Kotroc Variation}3.Nc3
-Qe6+ 4.Be2 Nc6 5.Nf3 Nf6 6.O-O Bd7 7.Re1 O-O-O 8.d4 Ne4 9.d5 Qg6 10.Nxe4 Bf5
-11.Nh4 Rxd5 12.Qxd5 e6 13.Nxg6 exd5 14.Nxh8 Bxe4 15.Nxf7 Bc5 16.Be3 b6 17.Bxc5
-bxc5 18.Ng5 Bxc2 19.Rac1 Bf5 20.Rxc5 Nd4 21.Rxd5 Nc6 22.Rxf5 g6 23.Rf8+ Kb7
-24.Bf3 h6 25.Bxc6+ Kxc6 26.Nf3 a5 27.Rf6+ Kb7 28.Rxg6 h5 29.Rg5 c6 30.Rxa5 Kb6
-31.Rxh5 c5 32.Ree5 Kb5 33.Rxc5+ Kb6 34.Nd4 Kb7 35.Rcg5 {Black resigns.} 1-0
+1.e4 d5 2.exd5 Qxd5{B01 Scandinavian Defense: Mieses-Kotroc Variation}3.Nc3 Qe6+
+4.Be2 Nc6 5.Nf3 Nf6 6.O-O Bd7 7.Re1 O-O-O 8.d4 Ne4 9.d5 Qg6 10.Nxe4 Bf5 11.Nh4
+Rxd5 12.Qxd5 e6 13.Nxg6 exd5 14.Nxh8 Bxe4 15.Nxf7 Bc5 16.Be3 b6 17.Bxc5 bxc5
+18.Ng5 Bxc2 19.Rac1 Bf5 20.Rxc5 Nd4 21.Rxd5 Nc6 22.Rxf5 g6 23.Rf8+ Kb7 24.Bf3
+h6 25.Bxc6+ Kxc6 26.Nf3 a5 27.Rf6+ Kb7 28.Rxg6 h5 29.Rg5 c6 30.Rxa5 Kb6 31.Rxh5
+c5 32.Ree5 Kb5 33.Rxc5+ Kb6 34.Nd4 Kb7 35.Rcg5{Black resigns.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/YnTMKxsj"]
@@ -610,14 +610,14 @@ Bxd3 37.Nxd3 Rd2 38.Nc5 b6 39.Nd7 Qg6 40.Nxb6 Qxg3 41.fxg3 Re8 42.Nd7 Ree2
 [Variant "Standard"]
 [WhiteElo "1529"]
 
-1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.cxd5 exd5 {D58
+1.d4 Nf6 2.Nf3 e6 3.c4 d5 4.Nc3 Be7 5.Bg5 h6 6.Bh4 O-O 7.e3 b6 8.cxd5 exd5{D58
 Queen's Gambit Declined: Tartakower Defense, Exchange Variation}9.Bd3 Bb7
 10.O-O c5 11.Rc1 Nc6 12.Be2 c4 13.Re1 a6 14.a4 Nb4 15.Ne5 Ne4 16.Bxe7 Nxc3
 17.Bxd8 Nxd1 18.Be7 Nxb2 19.Bxb4 Rfc8 20.Ra1 c3 21.Rec1 c2 22.Ra2 Nc4 23.Nxc4
 dxc4 24.Raxc2 b5 25.axb5 axb5 26.Bc3 Be4 27.Rb2 Rab8 28.f3 Bc6 29.Rb4 Ra8
 30.Rcb1 Ra5 31.f4 Ra3 32.Be1 Rxe3 33.Kf2 Rce8 34.Bf1 R3e4 35.Rd1 Rxf4+ 36.Kg3
 Rxf1 37.Rbb1 Re3+ 38.Kg4 Bd7+ 39.Kh4 Rf4+ 40.Kh5 Bg4+ 41.Kh4 Bf3+ 42.g4 Rxg4+
-43.Kh3 Bxd1+ 44.Bg3 Rgxg3+ 45.Kh4 Rh3# {Black wins by checkmate.} 0-1
+43.Kh3 Bxd1+ 44.Bg3 Rgxg3+ 45.Kh4 Rh3#{Black wins by checkmate.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/haEUoI3Z"]
@@ -691,7 +691,7 @@ Kc8 23.Qc5+ Kd7 24.Qc7+ Ke8 25.Qxb7 Qb2+ 26.Ke3 Qd2#  0-1
 [WhiteElo "1221"]
 [WhiteRatingDiff "-15"]
 
-1.e4 c5 2.d4 {B21 Sicilian Defense: Smith-Morra Gambit}2...cxd4 3.Qxd4 Nc6 4.Qd1
+1.e4 c5 2.d4{B21 Sicilian Defense: Smith-Morra Gambit}2...cxd4 3.Qxd4 Nc6 4.Qd1
 e6 5.Nc3 Bb4 6.Bd2 d5 7.f3 d4 8.Nb5 Bxd2+ 9.Qxd2 a6 10.Na3 Nf6 11.Ne2 e5 12.Nc4
 O-O 13.O-O-O b5 14.Na3 Be6 15.b3 b4 16.Nc4 Rc8 17.Qe1 Qc7 18.f4 Na5 19.fxe5
 Nxe4 20.Nxd4 Bxc4 21.Bxc4 Nxc4 22.Qxe4 Nxe5 23.Nf3 Ng4 24.Qe2 Rfe8 25.Qd2 Ne3
@@ -699,7 +699,7 @@ Nxe4 20.Nxd4 Bxc4 21.Bxc4 Nxc4 22.Qxe4 Nxe5 23.Nf3 Ng4 24.Qe2 Rfe8 25.Qd2 Ne3
 32.Nxe8 Rxe8 33.Rxe3 Rxe3 34.Rf1 g6 35.Rc1 a5 36.Rc5 Re2 37.h3 Rh2 38.Rxa5 Rxh3
 39.Rc5 Rh4 40.a3 bxa3 41.Ka2 f4 42.Kxa3 f3 43.Rc1 f2 44.Rf1 Rh2 45.b4 Rh5
 46.Ka4 g5 47.b5 Rh4+ 48.Ka5 Rf4 49.b6 g4 50.b7 Rf8 51.Ka6 g3 52.Ka7 g2 53.Rxf2
-g1=Q {White resigns.} 0-1
+g1=Q{White resigns.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/8cEXV4ka"]
@@ -721,11 +721,11 @@ g1=Q {White resigns.} 0-1
 [WhiteElo "1677"]
 [WhiteRatingDiff "-35"]
 
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Bc5 {B40 Sicilian Defense: Paulsen-Basman
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Bc5{B40 Sicilian Defense: Paulsen-Basman
 Defense}5.Be3 e5 6.Nf5 Bxe3 7.Nxe3 Nf6 8.Nc3 O-O 9.Bc4 Nc6 10.Ncd5 d6 11.f3
 Nxd5 12.Bxd5 Kh8 13.O-O f5 14.Kh1 f4 15.Nc4 Rf6 16.c3 Ne7 17.Kg1 Rg6 18.Kf2 Rb8
 19.b4 b5 20.Nb2 Qb6+ 21.Ke1 Rxg2 22.Qd3 Rxb2 23.Rd1 Bh3 24.Rd2 Rxd2 25.Kxd2
-Bxf1 26.Qxf1 Qe3+ 27.Kd1 Nxd5 28.exd5 Qxc3 29.Qxb5 Rxb5 {White resigns.} 0-1
+Bxf1 26.Qxf1 Qe3+ 27.Kd1 Nxd5 28.exd5 Qxc3 29.Qxb5 Rxb5{White resigns.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/KJca1xsY"]
@@ -747,12 +747,12 @@ Bxf1 26.Qxf1 Qe3+ 27.Kd1 Nxd5 28.exd5 Qxc3 29.Qxb5 Rxb5 {White resigns.} 0-1
 [WhiteElo "1489"]
 [WhiteRatingDiff "-7"]
 
-1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 {B32 Sicilian Defense: Open}4...d6 5.Nxc6
-bxc6 6.Nc3 e5 7.Bd2 Nf6 8.Be2 Be7 9.Bc4 O-O 10.Qe2 Rb8 11.O-O-O Qb6 12.Na4 Qc7
-13.h4 h5 14.Bg5 g6 15.Bh6 Rd8 16.f4 Bg4 17.Qd2 Bxd1 18.Qxd1 d5 19.exd5 cxd5
-20.Bb3 d4 21.f5 Kh7 22.Bxf7 gxf5 23.Bg5 Ng4 24.Qd3 Bxg5+ 25.hxg5 Qxf7 26.Rxh5+
-Qxh5 27.Qxf5+ Qg6 28.Qxg4 Rbc8 29.Qh3+ Kg7 30.Qb3 Qxg5+ 31.Kb1 Rb8 32.Qc4 Qf6
-33.a3 Rdc8 34.Qd3 Qg6 35.Qf1 {White resigns.} 0-1
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4{B32 Sicilian Defense: Open}4...d6 5.Nxc6 bxc6
+6.Nc3 e5 7.Bd2 Nf6 8.Be2 Be7 9.Bc4 O-O 10.Qe2 Rb8 11.O-O-O Qb6 12.Na4 Qc7 13.h4
+h5 14.Bg5 g6 15.Bh6 Rd8 16.f4 Bg4 17.Qd2 Bxd1 18.Qxd1 d5 19.exd5 cxd5 20.Bb3 d4
+21.f5 Kh7 22.Bxf7 gxf5 23.Bg5 Ng4 24.Qd3 Bxg5+ 25.hxg5 Qxf7 26.Rxh5+ Qxh5
+27.Qxf5+ Qg6 28.Qxg4 Rbc8 29.Qh3+ Kg7 30.Qb3 Qxg5+ 31.Kb1 Rb8 32.Qc4 Qf6 33.a3
+Rdc8 34.Qd3 Qg6 35.Qf1{White resigns.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/Nf32umI8"]
@@ -774,14 +774,14 @@ Qxh5 27.Qxf5+ Qg6 28.Qxg4 Rbc8 29.Qh3+ Kg7 30.Qb3 Qxg5+ 31.Kb1 Rb8 32.Qc4 Qf6
 [WhiteElo "1614"]
 [WhiteRatingDiff "+63"]
 
-1.e4 e5 2.Nf3 Nc6 3.Bb5 d6 {C62 Ruy Lopez: Steinitz Defense}4.d4 exd4 5.Nxd4 Bd7
+1.e4 e5 2.Nf3 Nc6 3.Bb5 d6{C62 Ruy Lopez: Steinitz Defense}4.d4 exd4 5.Nxd4 Bd7
 6.Bxc6 Bxc6 7.Nc3 Qh4 8.Nxc6 bxc6 9.g3 Qh3 10.Qf3 Nf6 11.Ne2 Be7 12.Nf4 Qg4
 13.Qxg4 Nxg4 14.O-O h5 15.b3 h4 16.Bb2 f6 17.Ne6 Kd7 18.Nxg7 hxg3 19.hxg3 Rh7
 20.Nf5 Rah8 21.Kg2 Rh2+ 22.Kf3 Ne5+ 23.Bxe5 fxe5 24.Rad1 Rf8 25.Ke3 Ke6 26.Rd3
 d5 27.Ng7+ Kf7 28.Nf5 Bc5+ 29.Kf3 Kf6 30.Ne3 d4 31.Nf5 Kg5 32.Rdd1 Rfh8 33.Ke2
 R8h3 34.Kd3 Rg2 35.Kc4 Bf8 36.Nh4 Rgh2 37.Nf3+ Kg4 38.Nxh2+ Rxh2 39.Kd3 Kf3
 40.Rd2 Bh6 41.Re2 Kg2 42.Rfe1 Kf3 43.Rf1 Kg2 44.f3+ Kxg3 45.Rxh2 Kxh2 46.a4 Kg2
-47.Ke2 Bf4 48.Ra1 Be3 49.a5 Kg3 50.a6 Kg2 51.Ra5 Bf4 52.Rc5 d3+ 53.cxd3 {Black
+47.Ke2 Bf4 48.Ra1 Be3 49.a5 Kg3 50.a6 Kg2 51.Ra5 Bf4 52.Rc5 d3+ 53.cxd3{Black
 resigns.} 1-0
 
 [Event "Los Chinchess X"]
@@ -794,7 +794,7 @@ resigns.} 1-0
 [Annotator "lichess.org"]
 [BlackElo "1677"]
 [BlackRatingDiff "+4"]
-[ECO "B32"]
+[ECO "B40"]
 [EventDate "2024.06.12"]
 [Opening "Sicilian Defense: Franco-Sicilian Variation"]
 [Termination "Normal"]
@@ -804,10 +804,10 @@ resigns.} 1-0
 [WhiteElo "1206"]
 [WhiteRatingDiff "-6"]
 
-1.e4 c5 2.Nf3 e6 3.d4 Nc6 {B32 Sicilian Defense: Franco-Sicilian Variation}4.d5
+1.e4 c5 2.Nf3 e6 3.d4 Nc6{B32 Sicilian Defense: Franco-Sicilian Variation}4.d5
 Nb4 5.dxe6 fxe6 6.Bd2 Nc6 7.Bc4 Be7 8.O-O Nf6 9.Nc3 O-O 10.Re1 d6 11.Be3 Kh8
 12.e5 Ng4 13.Ne4 d5 14.Nfd2 Nxe3 15.Rxe3 dxc4 16.Nxc4 Qe8 17.Qg4 Nd4 18.Rg3 Qf7
-19.Ncd6 Bxd6 20.Nxd6 Qxf2+ 21.Kh1 Qf1+ 22.Rxf1 Rxf1# {Black wins by checkmate.}
+19.Ncd6 Bxd6 20.Nxd6 Qxf2+ 21.Kh1 Qf1+ 22.Rxf1 Rxf1#{Black wins by checkmate.}
 0-1
 
 [Event "Los Chinchess X"]
@@ -820,7 +820,7 @@ Nb4 5.dxe6 fxe6 6.Bd2 Nc6 7.Bc4 Be7 8.O-O Nf6 9.Nc3 O-O 10.Re1 d6 11.Be3 Kh8
 [Annotator "lichess.org"]
 [BlackElo "1796"]
 [BlackRatingDiff "+31"]
-[ECO "B13"]
+[ECO "B10"]
 [EventDate "2024.06.22"]
 [Opening "Caro-Kann Defense: Exchange Variation"]
 [Termination "Normal"]
@@ -848,7 +848,7 @@ bxa5 44.Bc6 Rxc6 45.Rb2 Rxg4 46.Rb8+ Bxb8  0-1
 [Annotator "lichess.org"]
 [BlackElo "1955"]
 [BlackRatingDiff "+19"]
-[ECO "C00"]
+[ECO "C01"]
 [EventDate "2024.06.13"]
 [Opening "French Defense: Knight Variation"]
 [Termination "Normal"]
@@ -874,7 +874,7 @@ Bf5 30.Qe3 Qxe3 31.Rxe3 Rc1 32.g3 Bxh3  0-1
 [Annotator "lichess.org"]
 [BlackElo "1817"]
 [BlackRatingDiff "+4"]
-[ECO "E62"]
+[ECO "E67"]
 [EventDate "2024.06.15"]
 [Opening "King's Indian Defense: Fianchetto Variation, Delayed Fianchetto"]
 [Termination "Normal"]
@@ -884,12 +884,12 @@ Bf5 30.Qe3 Qxe3 31.Rxe3 Rc1 32.g3 Bxh3  0-1
 [WhiteElo "1482"]
 [WhiteRatingDiff "-10"]
 
-1.d4 Nf6 2.Nf3 g6 3.c4 d6 4.Nc3 Bg7 5.g3 {E62 King's Indian Defense: Fianchetto
+1.d4 Nf6 2.Nf3 g6 3.c4 d6 4.Nc3 Bg7 5.g3{E62 King's Indian Defense: Fianchetto
 Variation, Delayed Fianchetto}5...O-O 6.Bg2 c6 7.O-O Nbd7 8.e4 e5 9.dxe5 dxe5
 10.Bg5 Qb6 11.b3 Re8 12.Be3 Qb4 13.Qd2 Ng4 14.Rad1 Nxe3 15.fxe3 Nf6 16.Ng5 Bg4
 17.Rc1 Rad8 18.Qb2 Rd6 19.Bf3 Bc8 20.Bg2 h6 21.Nf3 Red8 22.Rfd1 Bg4 23.Rxd6
 Qxd6 24.Ne2 Nxe4 25.h3 Bc8 26.Nh2 Nc5 27.Ng4 Nd3 28.c5 Qc7 29.Qb1 Nxc1 30.Nxc1
-Rd1+ 31.Kh2 Bxg4 32.Qc2 {White resigns.} 0-1
+Rd1+ 31.Kh2 Bxg4 32.Qc2{White resigns.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/SN8qU6PA"]
@@ -911,7 +911,7 @@ Rd1+ 31.Kh2 Bxg4 32.Qc2 {White resigns.} 0-1
 [WhiteElo "1172"]
 [WhiteRatingDiff "-4"]
 
-1.e4 e6 2.e5 d5 3.d4 c5 {C02 French Defense: Advance Variation}4.Be3 cxd4 5.Bxd4
+1.e4 e6 2.e5 d5 3.d4 c5{C02 French Defense: Advance Variation}4.Be3 cxd4 5.Bxd4
 Nc6 6.Nf3 Nxd4 7.Nxd4 Qb6 8.Nc3 Bd7 9.b3 Bb4 10.Qd3 Rc8 11.Ne2 d4 12.Qxd4 Qxd4
 13.Nxd4 Bxc3+ 14.Kd1 Bxa1 15.Be2 Bxd4 16.Bc4 Ne7 17.f4 O-O 18.Re1 Ng6 19.g3
 Rfd8 20.Re4 Bc6 21.h4 Bxe4 22.a4 Rxc4 23.bxc4 Nxe5 24.fxe5 Bxe5+ 25.Ke2 Rd2+
@@ -923,7 +923,7 @@ Rfd8 20.Re4 Bc6 21.h4 Bxe4 22.a4 Rxc4 23.bxc4 Nxe5 24.fxe5 Bxe5+ 25.Ke2 Rd2+
 61.Kd2 a2 62.Kd3 a1=N $5 63.Ke4 b5 64.Kf4 b4 65.Kg5 Bc4 66.Kg6 b3 67.Kh6 b2
 68.Kg6 b1=N $5 69.Kh6 Bd3 70.Kg5 Be5 71.Kh6 Nf3 72.Kh5 Ng3+ 73.Kh6 Nef5+ 74.Kg6
 N3h4+ 75.Kg5 Nf3+ 76.Kg4 Ng1 77.Kg5 Nce3 78.Kg6 Nd2 79.Kg5 Nab3 80.Kg6 Nbd4
-81.Kg5 Nc6 82.Kg6 Nce7+ 83.Kg5 Ngf3# {Black wins by checkmate.} 0-1
+81.Kg5 Nc6 82.Kg6 Nce7+ 83.Kg5 Ngf3#{Black wins by checkmate.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/xWuqyWxj"]
@@ -935,7 +935,7 @@ N3h4+ 75.Kg5 Nf3+ 76.Kg4 Ng1 77.Kg5 Nce3 78.Kg6 Nd2 79.Kg5 Nab3 80.Kg6 Nbd4
 [Annotator "lichess.org"]
 [BlackElo "1865"]
 [BlackRatingDiff "+15"]
-[ECO "B23"]
+[ECO "B40"]
 [EventDate "2024.06.21"]
 [Opening "Sicilian Defense: Closed, Traditional"]
 [Termination "Normal"]
@@ -973,12 +973,12 @@ Bxe3 31.fxe3 Rxe3 32.Rxe3 Qxe3+ 33.Qf2 Qe5 34.Kh1 b5 35.axb5 axb5 36.Qd4 Qxg3
 [WhiteElo "1707"]
 [WhiteRatingDiff "+14"]
 
-1.d4 d5 {D00 Queen's Pawn Game}2.g3 e6 3.Bg2 Nf6 4.c3 Bd6 5.Nf3 O-O 6.O-O Re8
+1.d4 d5{D00 Queen's Pawn Game}2.g3 e6 3.Bg2 Nf6 4.c3 Bd6 5.Nf3 O-O 6.O-O Re8
 7.Nbd2 b6 8.Kh1 Bb7 9.Ng1 e5 10.f3 e4 11.fxe4 dxe4 12.e3 Ba6 13.c4 Bb4 14.b3
 Nc6 15.Bb2 b5 16.Rf4 bxc4 17.Nxc4 Bxc4 18.bxc4 Rb8 19.d5 Bd6 20.Bxf6 gxf6
 21.Rg4+ Kh8 22.dxc6 Rg8 23.Bxe4 Be5 24.Rc1 Qxd1 25.Rxg8+ Kxg8 26.Rxd1 Rb4
 27.Bd5 Ra4 28.Rb1 Rxa2 29.Nf3 Bd6 30.Nd4 Bc5 31.Rf1 Kg7 32.Nb5 Bxe3 33.Nxc7 a5
-34.Nb5 a4 35.c7 {Black resigns.} 1-0
+34.Nb5 a4 35.c7{Black resigns.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/qFWnKol1"]
@@ -1027,13 +1027,13 @@ Ne6 37.Rd6 Kf6 38.Bd5 Ke5 39.Rxe6+  1-0
 [WhiteElo "1200"]
 [WhiteRatingDiff "-6"]
 
-1.c4 e5 2.Nc3 Nf6 3.g3 c6 {A23 English Opening: King's English Variation, Two
+1.c4 e5 2.Nc3 Nf6 3.g3 c6{A23 English Opening: King's English Variation, Two
 Knights Variation, Keres Variation}4.Bg2 d5 5.d3 Bc5 6.e3 Be6 7.Nge2 Nbd7 8.O-O
 d4 9.exd4 Bxd4 10.Nxd4 exd4 11.Ne4 c5 12.Nd6+ Ke7 13.Nxb7 Qb6 14.Nxc5 Nxc5
 15.Bxa8 Rxa8 16.a3 Qc6 17.Re1 Kf8 18.f3 h6 19.b4 Ncd7 20.b5 Qb7 21.Bf4 Bh3
 22.Bd6+ Kg8 23.Kf2 Ng4+ 24.Kg1 Ne3 25.Qe2 a6 26.Rab1 axb5 27.Rxb5 Qc6 28.Rc5
 Nxc5 29.Bxc5 Qxc5 30.Kf2 Qxa3 31.f4 Qa2 32.Qxa2 Rxa2+ 33.Kf3 Ra3 34.Ke4 f5+
-35.Kxd4 Nc2+ 36.Kc5 Nxe1 {White resigns.} 0-1
+35.Kxd4 Nc2+ 36.Kc5 Nxe1{White resigns.} 0-1
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/epe828TE"]
@@ -1045,7 +1045,7 @@ Nxc5 29.Bxc5 Qxc5 30.Kf2 Qxa3 31.f4 Qa2 32.Qxa2 Rxa2+ 33.Kf3 Ra3 34.Ke4 f5+
 [Annotator "lichess.org"]
 [BlackElo "1806"]
 [BlackRatingDiff "-47"]
-[ECO "C44"]
+[ECO "C45"]
 [EventDate "2024.06.21"]
 [Opening "Scotch Game: Lolli Variation"]
 [Termination "Normal"]
@@ -1055,7 +1055,7 @@ Nxc5 29.Bxc5 Qxc5 30.Kf2 Qxa3 31.f4 Qa2 32.Qxa2 Rxa2+ 33.Kf3 Ra3 34.Ke4 f5+
 [WhiteElo "1482"]
 [WhiteRatingDiff "+51"]
 
-1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 {C44 Scotch Game: Lolli
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4{C44 Scotch Game: Lolli
 Variation}5...Qf6 6.Qxf6 Nxf6 7.e5 Nd5 8.Bc4 Nb4 9.Bb3 a5 10.a3 Nc6 11.Bf4 Nd4
 12.Nc3 d6 13.O-O-O Nxb3+ 14.cxb3 Be6 15.exd6 Bxd6 16.Bxd6 cxd6 17.Nb5 O-O
 18.Nd4 Rac8+ 19.Kb1 Bg4 20.f3 Bd7 21.Rc1 Bc6 22.Rhe1 Bd5 23.Rxc8 Rxc8 24.Re7 h6
@@ -1063,7 +1063,7 @@ Variation}5...Qf6 6.Qxf6 Nxf6 7.e5 Nd5 8.Bc4 Nb4 9.Bb3 a5 10.a3 Nc6 11.Bf4 Nd4
 32.Nc5 Bg2 33.f4 f5 34.Kc2 Kf7 35.Kc3 Bf1 36.Kb4 g5 37.fxg5 hxg5 38.b3 axb3
 39.Nxb3 f4 40.gxf4 gxf4 41.Nd4 Kf6 42.h4 Ke5 43.Nf3+ Ke4 44.Nd2+ Ke3 45.Nxf1+
 Kf2 46.Nd2 Ke2 47.Ne4 f3 48.h5 Ke3 49.Ng3 f2 50.h6 Kf3 51.Nf1 Kg2 52.h7 Kxf1
-53.h8=Q Ke1 54.Qe5+ Kd1 55.Qh5+ Ke1 56.Qh1+ Kd2 {Black resigns.} 1-0
+53.h8=Q Ke1 54.Qe5+ Kd1 55.Qh5+ Ke1 56.Qh1+ Kd2{Black resigns.} 1-0
 
 [Event "Los Chinchess X"]
 [Site "https://lichess.org/8x5riq2M"]
@@ -1128,7 +1128,7 @@ Qd3 43.fxe3  1-0
 [Annotator "lichess.org"]
 [BlackElo "1168"]
 [BlackRatingDiff "-8"]
-[ECO "D01"]
+[ECO "D00"]
 [EventDate "2024.06.22"]
 [Opening "Rapport-Jobava System"]
 [Termination "Normal"]
@@ -1166,4 +1166,170 @@ fxg6 10.Qxg6+ Kd7 11.Nxe4 dxe4 12.Bc4 Qa5+ 13.c3 c5 14.Qe6+ Kd8 15.Qd5+ Nd7
 Bxf3 10.Bxf3 Rd8 11.Nc3 e5 12.dxe5 dxe5 13.Nd5 Nc5 14.Bxe5 Nxd5 15.Bxg7 Nxe3
 16.Qe1 Nxf1 17.Bf6 Nd2 18.Rd1 Nxf3+ 19.gxf3 Rxd1 20.Qxd1 Qxh3 21.Qd4 Ne6 22.Qb2
 Qxf3 23.a4 Nf4 24.Kf1 Qh1#  0-1
+
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/tGOYFTPU"]
+[Date "2024.06.26"]
+[Round "3"]
+[White "arandres0510"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1829"]
+[BlackRatingDiff "-25"]
+[ECO "B12"]
+[EventDate "2024.06.26"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Termination "Normal"]
+[UTCDate "2024.06.26"]
+[UTCTime "21:26:05"]
+[Variant "Standard"]
+[WhiteElo "1828"]
+[WhiteRatingDiff "+58"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bg4 6.Bb5 e6 7.Bxc6+ bxc6 8.h3 Bxf3
+9.Qxf3 f6 10.O-O Qc7 11.Bf4 fxe5 12.Bxe5 Qd7 13.Nd2 Bd6 14.Qh5+ g6 15.Qg5 Bxe5
+16.Qxe5 Nf6 17.Qxf6 Rf8 18.Qe5 O-O-O 19.Nb3 cxd4 20.Nxd4 Rde8 21.a4 c5 22.Nb5
+Rd8 23.c4 a6 24.Na3 Rf5 25.Qe3 d4 26.Qe4 d3 27.Qa8+ Kc7 28.Qxa6 d2 29.Nb5+ Kb8
+30.Rfd1 Re5 31.Kh2 Qb7 32.Qa5 Rd7 33.Rxd2 Rxd2 34.Qxd2 Re4 35.Qd8+ Qc8 36.Qb6+
+Qb7 37.Qxc5 Re2 38.Rd1 Qe7 39.Qxe7  1-0
+
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/v4PdElEh"]
+[Date "2024.06.24"]
+[Round "4"]
+[White "pei12"]
+[Black "kopalito"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1794"]
+[BlackRatingDiff "-7"]
+[ECO "B33"]
+[EventDate "2024.06.24"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+[Termination "Normal"]
+[UTCDate "2024.06.24"]
+[UTCTime "02:02:15"]
+[Variant "Standard"]
+[WhiteElo "1980"]
+[WhiteRatingDiff "+18"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5{B33 Sicilian Defense:
+Lasker-Pelikan Variation}6.Nf5 Bb4 7.Nd6+ Bxd6 8.Qxd6 Qe7 9.Qxe7+ Nxe7 10.Bd3
+d6 11.O-O O-O 12.f4 exf4 13.Bxf4 d5 14.Bd6 Re8 15.e5 Nh5 16.Bb5 Nc6 17.Nxd5 Be6
+18.Nc7 a6 19.Nxa8 Rxa8 20.Be2{Black resigns.} 1-0
+
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/vBJcAXhp"]
+[Date "2024.06.26"]
+[Round "4"]
+[White "SershMo"]
+[Black "arandres0510"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1823"]
+[BlackRatingDiff "+5"]
+[ECO "C02"]
+[EventDate "2024.06.26"]
+[Opening "French Defense: Advance Variation, Nimzowitsch System"]
+[Termination "Normal"]
+[UTCDate "2024.06.26"]
+[UTCTime "03:34:22"]
+[Variant "Standard"]
+[WhiteElo "1160"]
+[WhiteRatingDiff "-8"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3 Nc6 5.Bb5 Qb6 6.a4 a6 7.Bxc6+ bxc6 8.c3 cxd4
+9.Qxd4 Bc5 10.Qf4 Bxf2+ 11.Kd1 Bc5 12.Rf1 Ne7 13.Nd4 Nf5 14.Nxf5 exf5 15.h3 O-O
+16.g4 fxg4 17.hxg4 Qb3+ 18.Kd2 Qc4 19.Kc2 Qxf4 20.Bxf4 Bxg4 21.b4 Ba7 22.a5
+Rae8 23.Nd2 d4 24.Ne4 Bf5 25.Rae1 Rd8 26.Bg5 d3+ 27.Kd2 f6 28.Bf4 Bg6 29.exf6
+gxf6 30.Bh6 Rf7 31.Nxf6+ Kh8 32.Re8+ Rxe8 33.Nxe8 Rxf1 34.Bg7+ Kg8 35.c4 Rf2+
+36.Kc3 d2 37.Bd4 Bxd4+ 38.Kxd4 d1=Q+ 39.Kc5 Rf5+ 40.Kxc6 Qf3+ 41.Kd7 Bxe8+
+42.Kxe8 Qe3+ 43.Kd7 Qd4+ 44.Kc6 Qxc4+ 45.Kb6 Qe6+ 46.Ka7 Rf7+ 47.Ka8 Qe8#  0-1
+
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/zUpFvHdp"]
+[Date "2024.06.26"]
+[Round "5"]
+[White "OseznoRaudo"]
+[Black "Alejandro-mesa"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1518"]
+[BlackRatingDiff "+37"]
+[ECO "B21"]
+[EventDate "2024.06.26"]
+[Opening "French Defense: Franco-Sicilian Defense"]
+[Termination "Normal"]
+[UTCDate "2024.06.26"]
+[UTCTime "01:43:15"]
+[Variant "Standard"]
+[WhiteElo "1671"]
+[WhiteRatingDiff "-40"]
+
+1.e4 c5 2.d4 e6{C00 French Defense: Franco-Sicilian Defense}3.Be3 Nc6 4.dxc5
+Qa5+ 5.Nc3 Bxc5 6.Bxc5 Qxc5 7.Bd3 Nf6 8.Nge2 O-O 9.a3 b6 10.h3 Bb7 11.O-O Rad8
+12.Ng3 d5 13.exd5 exd5 14.b4 Qxc3 15.b5 Ne5 16.Re1 Nxd3 17.cxd3 Rfe8 18.Ne2 Qc5
+19.a4 d4 20.Rc1 Qd5 21.f3 Nh5 22.Rc4 Qe5 23.Kf2 Qe3+ 24.Kf1 Bxf3 25.gxf3 Qxf3+
+26.Kg1 Qe3+ 27.Kf1 Qxh3+ 28.Kf2 Qh2+ 29.Kf1 Qh3+ 30.Kf2 Qe3+ 31.Kf1 Ng3+
+32.Nxg3 Qxg3 33.Rxe8+ Rxe8 34.Rc2 Qh3+ 35.Rg2 Qh1+ 36.Rg1 Qh3+ 37.Rg2 f5 38.Kg1
+Qe3+ 39.Rf2 Qe1+ 40.Rf1 Qe3+ 41.Rf2 g5 42.Qb3+ Kh8 43.Qd5 Qg3+ 44.Rg2
+Re1#{Black wins by checkmate.} 0-1
+
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/dP5U2C5K"]
+[Date "2024.06.24"]
+[Round "5"]
+[White "NeiderMT"]
+[Black "OseznoRaudo"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1633"]
+[BlackRatingDiff "+38"]
+[ECO "D00"]
+[EventDate "2024.06.24"]
+[Opening "Queen's Pawn Game: Chigorin Variation, Alburt Defense"]
+[Termination "Time forfeit"]
+[UTCDate "2024.06.24"]
+[UTCTime "18:34:26"]
+[Variant "Standard"]
+[WhiteElo "1721"]
+[WhiteRatingDiff "-30"]
+
+1.d4 d5 2.Nc3 Bf5{D00 Queen's Pawn Game: Chigorin Variation, Alburt Defense}3.g3
+Nf6 4.Bg5 Ne4 5.Nxe4 Bxe4 6.f3 Bg6 7.Bg2 f6 8.Bd2 e6 9.Nh3 Nc6 10.O-O Nxd4
+11.Rc1 Bc5 12.Kh1 O-O 13.Bc3 Nf5 14.Nf4 Qe8 15.Bd2 Be3 16.g4 Bxf4 17.Bxf4 Nh4
+18.Bh3 f5 19.Bg3 fxg4 20.Bxg4 Nf5 21.Bxf5 Rxf5 22.Bf4 Rxf4 23.Rg1 Rh4 24.Qe1
+Rh6 25.Rg3 c5 26.c4 d4 27.e4 dxe3 28.Qxe3 b6 29.f4 Bf5 30.Rg5 Rg6 31.h4 h6
+32.Rxg6 Qxg6 33.Rg1 Qh5 34.Qg3 g6 35.Kg2 Rd8 36.Qf2 Rd4 37.b3 Kf7 38.Re1 Qg4+
+39.Kh1 Rxf4 40.Qh2 Be4+ 41.Rxe4 Rxe4 42.Qc7+ Kf6 43.Qd8+ Ke5 44.Qh8+ Kf5
+45.Qf8+ Ke5 46.Qh8+ Kf4 47.Qxh6+ Kg3 48.Qd2 Qh3+ 49.Kg1 Rxh4 50.Qg5+ Kf3
+51.Qf6+ Ke3 52.Qg5+ Kd3 53.Qd8+ Rd4 54.Qg5 Qe3+{Black wins on time.} 0-1
+
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/2ie981cc"]
+[Date "2024.06.26"]
+[Round "5"]
+[White "pei12"]
+[Black "arandres0510"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1868"]
+[BlackRatingDiff "-45"]
+[ECO "C01"]
+[EventDate "2024.06.26"]
+[Opening "French Defense: Exchange Variation"]
+[Termination "Normal"]
+[UTCDate "2024.06.26"]
+[UTCTime "03:04:25"]
+[Variant "Standard"]
+[WhiteElo "1998"]
+[WhiteRatingDiff "+21"]
+
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Nf6 5.c4 c6 6.Nc3 Bg4 7.Be2 Be7 8.O-O O-O 9.h3
+Be6 10.cxd5 cxd5 11.Qb3 b6 12.Ne5 Nbd7 13.Bf4 Nxe5 14.Bxe5 Nd7 15.Bg3 Nf6
+16.Bf3 a5 17.Be5 a4 18.Qb5 Bd7 19.Qd3 Bc6 20.Rac1 Rc8 21.a3 Re8 22.Rc2 Qd7
+23.Rfc1 Bb7 24.Bxf6 Bxf6 25.Bg4 Qd6 26.Bxc8 Bxc8 27.Nxd5 Qxd5 28.Rxc8 Rxc8
+29.Rxc8+ Bd8 30.Qc4 Qd7 31.Qc6 Qe7 32.Qxb6 Qe1+ 33.Kh2 Qe5+ 34.g3 g6 35.dxe5 
+1-0
 
