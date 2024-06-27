@@ -1333,3 +1333,62 @@ Be6 10.cxd5 cxd5 11.Qb3 b6 12.Ne5 Nbd7 13.Bf4 Nxe5 14.Bxe5 Nd7 15.Bg3 Nf6
 29.Rxc8+ Bd8 30.Qc4 Qd7 31.Qc6 Qe7 32.Qxb6 Qe1+ 33.Kh2 Qe5+ 34.g3 g6 35.dxe5 
 1-0
 
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/lXKEN9I5"]
+[Date "2024.06.27"]
+[Round "5"]
+[White "Alejandro-mesa"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1191"]
+[BlackRatingDiff "-8"]
+[ECO "C02"]
+[EventDate "2024.06.27"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+[UTCDate "2024.06.27"]
+[UTCTime "19:56:36"]
+[Variant "Standard"]
+[WhiteElo "1555"]
+[WhiteRatingDiff "+7"]
+
+1.e4 e6 2.d4 d5 3.e5 c5{C02 French Defense: Advance Variation}4.Bb5+ Bd7 5.Qe2
+a6 6.Bxd7+ Qxd7 7.dxc5 Bxc5 8.Be3 Bxe3 9.Qxe3 Ne7 10.Nf3 Nf5 11.Qd3 O-O 12.Nbd2
+b5 13.O-O Nc6 14.Ne4 Nb4 15.Nc5 Qc6 16.Qc3 a5 17.a3 Na6 18.b4 a4 19.g4 Nh6
+20.Nd4 Qc7 21.Nxb5 Qe7 22.h3 Rac8 23.Qe3 Nxc5 24.Nd6 Nxg4 25.hxg4 Qh4 26.Nxc8
+Qxg4+ 27.Qg3 Qxg3+ 28.fxg3 Rxc8 29.bxc5 Rxc5 30.Rab1 Rxc2 31.Rb8+{Black
+resigns.} 1-0
+
+[Event "Los Chinchess X"]
+[Site "https://lichess.org/Q6Tk055z"]
+[Date "2024.06.27"]
+[Round "5"]
+[White "twinsendell"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "2019"]
+[BlackRatingDiff "+15"]
+[ECO "D00"]
+[EventDate "2024.06.27"]
+[Opening "Rapport-Jobava System"]
+[Termination "Normal"]
+[UTCDate "2024.06.27"]
+[UTCTime "19:02:38"]
+[Variant "Standard"]
+[WhiteElo "1804"]
+[WhiteRatingDiff "-11"]
+
+1.d4 Nf6 2.Nc3 d5 3.Bf4 a6 4.e3 e6 5.g4 h6 6.Qf3 c5 7.h4 Nc6 8.Nge2 cxd4 9.exd4
+Bd6 10.Bxd6 Qxd6 11.g5 hxg5 12.hxg5 Rxh1 13.Qxh1 Ne4 14.Nxe4 dxe4 15.Qh8+ Qf8
+16.Qxf8+ Kxf8 17.Bg2 Bd7 18.Bxe4 e5 19.dxe5 Nxe5 20.Bxb7 Rb8 21.Bxa6 Rxb2
+22.Nd4 Rb4 23.c3 Ra4 24.Bb5 Rxd4 $3 25.cxd4 Nf3+ 26.Kd1 Bxb5 27.d5 Nxg5 28.a4
+Bc4 29.d6 Ne4 30.a5 Ba6 31.Rc1 Nxf2+ 32.Kd2 Ne4+ 33.Ke3 Nxd6 34.Rc6 Nc4+ 35.Kd4
+Nxa5 36.Rxa6 Nb3+ 37.Kd5 g6 38.Ke5 Kg7 39.Ra7 Nc5 40.Kf4 Ne6+ 41.Kg4 Kf6 42.Rb7
+Nc5 43.Rb6+ Kg7 44.Rc6 Nd7 45.Kg5 Nf8 46.Kf4 Ne6+ 47.Ke5 g5 48.Rd6 Kg6 49.Rd7
+Nf4 50.Ra7 f6+ 51.Ke4 Ne6 52.Ra6 Nc5+ 53.Kf3 Nxa6 54.Kg4 Nc5 55.Kg3 Ne6 56.Kf3
+Kf5 57.Ke3 Kg4 58.Kf2 Kh3 59.Kg1 g4 60.Kh1 f5 61.Kg1 f4 62.Kh1 f3 63.Kg1 g3
+64.Kf1 Kh2 65.Ke1 g2 66.Kf2 Ng5 67.Ke1 g1=Q+ 68.Kd2 f2 69.Ke3 f1=Q+ 70.Kd2 Nf3+
+71.Kc2 Qc4+ 72.Kb2 Qf2+ 73.Ka3 Qe3+ 74.Kb2 Qec3+ 75.Kb1 Q4b3#  0-1
+
