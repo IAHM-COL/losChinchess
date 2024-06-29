@@ -3,23 +3,23 @@
 ** Crosstable
 
 *** Repechaje 
-|           | macla3010   | A4   |   points |   w |   neudstadtl |   glicko_2 |
-|-----------+-------------+------+----------+-----+--------------+------------|
-| macla3010 | x           |      |        0 |   0 |            0 |       1529 |
-| A4        |             | x    |        0 |   0 |            0 |          0 |
+|             | OseznoRaudo   | macla3010   |   points |   w |   neudstadtl |   glicko_2 |
+|-------------+---------------+-------------+----------+-----+--------------+------------|
+| OseznoRaudo | x             |             |        0 |   0 |            0 |       1620 |
+| macla3010   |               | x           |        0 |   0 |            0 |       1529 |
 
-|          | kopalito   | A5   |   points |   w |   neudstadtl |   glicko_2 |
-|----------+------------+------+----------+-----+--------------+------------|
-| kopalito | x          |      |        0 |   0 |            0 |       1850 |
-| A5       |            | x    |        0 |   0 |            0 |          0 |
+|          | kopalito   | NeiderMT   |   points |   w |   neudstadtl |   glicko_2 |
+|----------+------------+------------+----------+-----+--------------+------------|
+| kopalito | x          |            |        0 |   0 |            0 |       1850 |
+| NeiderMT |            | x          |        0 |   0 |            0 |       1693 |
 
 *** Final
-|             | twinsendell   | A3   | A4vB5   | B4vA5   |   points |   w |   neudstadtl |   glicko_2 |
-|-------------+---------------+------+---------+---------+----------+-----+--------------+------------|
-| twinsendell | x             |      |         |         |        0 |   0 |            0 |       1764 |
-| A3          |               | x    |         |         |        0 |   0 |            0 |          0 |
-| A4vB5       |               |      | x       |         |        0 |   0 |            0 |          0 |
-| B4vA5       |               |      |         | x       |        0 |   0 |            0 |          0 |
+|                | twinsendell   | Alejandro-mesa   | A4vB5   | B4vA5   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+---------------+------------------+---------+---------+----------+-----+--------------+------------|
+| twinsendell    | x             |                  |         |         |        0 |   0 |            0 |       1764 |
+| Alejandro-mesa |               | x                |         |         |        0 |   0 |            0 |       1529 |
+| A4vB5          |               |                  | x       |         |        0 |   0 |            0 |          0 |
+| B4vA5          |               |                  |         | x       |        0 |   0 |            0 |          0 |
 
 -------
 Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]

@@ -2,6 +2,14 @@
 
 ** Crosstable
 
+*** Final
+|              | pei12   | cgallego00   | Duvian   | arandres0510   |   points |   w |   neudstadtl |   glicko_2 |
+|--------------+---------+--------------+----------+----------------+----------+-----+--------------+------------|
+| pei12        | x       |              |          |                |        0 |   0 |            0 |       1941 |
+| cgallego00   |         | x            |          |                |        0 |   0 |            0 |       1835 |
+| Duvian       |         |              | x        |                |        0 |   0 |            0 |       1766 |
+| arandres0510 |         |              |          | x              |        0 |   0 |            0 |       1686 |
+
 *** Group A
 |                | Duvian   | cgallego00   | Alejandro-mesa   | OseznoRaudo   | NeiderMT   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
 |----------------+----------+--------------+------------------+---------------+------------+-----------+----------+-----+--------------+------------|
@@ -21,14 +29,6 @@
 | kopalito     | 0       | 0              | 1.0           | x          | 2.0         | 1.0       |      4   |   0 |           11 |       1850 |
 | macla3010    | 0       | 0              | 0             | 0          | x           | 2.0       |      2   |   0 |            2 |       1529 |
 | SershMo      | 0       | 0              | 0             | 1.0        | 0           | x         |      1   |   1 |            4 |       1500 |
-
-*** Final
-|              | pei12   | arandres0510   | A1   | A2   |   points |   w |   neudstadtl |   glicko_2 |
-|--------------+---------+----------------+------+------+----------+-----+--------------+------------|
-| pei12        | x       |                |      |      |        0 |   0 |            0 |       1941 |
-| arandres0510 |         | x              |      |      |        0 |   0 |            0 |       1686 |
-| A1           |         |                | x    |      |        0 |   0 |            0 |          0 |
-| A2           |         |                |      | x    |        0 |   0 |            0 |          0 |
 
 -------
 Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
