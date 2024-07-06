@@ -353,7 +353,7 @@ Kf7 38.h4 g5 39.hxg5 h4 40.Kf2 a5 41.Nxa5 c4 42.Nxc4 h3 43.gxh3 Ke6 44.Kf3 Kf7
 45.e4 fxe4+ 46.Kxe4 Kg6 47.Ne3 Kh5 48.Ng2 Kg6 49.Rd6+ Kh5 50.Rh6# {White wins
 by checkmate.} 1-0
 
-[Event "Rated rapid game"]
+[Event "Los Chinchess X"]
 [Site "https://lichess.org/hVWSzqHv"]
 [Date "2024.05.28"]
 [Round "1"]
@@ -671,7 +671,7 @@ Kc8 23.Qc5+ Kd7 24.Qc7+ Ke8 25.Qxb7 Qb2+ 26.Ke3 Qd2#  0-1
 30.exf6 gxf6 31.Qd2 Kg7 32.Nd4 Qd7 33.Nxb5 Ne5 34.Nd4 Nc4 35.Qe2 e5 36.c6 Qd6
 37.Nf5+ Kf7 38.Nxd6+ Nxd6  1-0
 
-[Event "Rated rapid game"]
+[Event "Los Chinchess X"]
 [Site "https://lichess.org/b1YpbkDb"]
 [Date "2024.06.10"]
 [Round "3"]
@@ -1604,4 +1604,86 @@ Nc6 11.Rd1 Bd6 12.O-O O-O 13.Bxc5 Bxc5 14.Rxd8 Rfxd8 15.Bb5 Bd4 16.Bxc6 Bxc3
 16.Ne5 Nd5 17.Bd2 Rfc8 18.Nc4 Qc7 19.Ne5 Na7 20.Ba4 Nxc3 21.Bxc3 Qxc3 22.Qe4 b5
 23.Rac1 Qxa3 24.Bc2 Bg6 25.Nxg6 hxg6 26.Qxb7 Qxb4 27.Rb1 Qd6 28.Be4 Nc6 29.Red1
 Rab8 30.Qa6 b4 31.Qa4 Ne7 32.Bf3 Nf5 33.d5 exd5 34.Bxd5 Qe7 35.Qb3  1-0
+
+[Event "Las Pulgas X"]
+[Site "https://lichess.org/4jV8KyeN"]
+[Date "2024.07.05"]
+[Round "1"]
+[White "NeiderMT"]
+[Black "kopalito"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1808"]
+[BlackRatingDiff "-13"]
+[ECO "D02"]
+[EventDate "2024.07.05"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[Termination "Normal"]
+[UTCDate "2024.07.05"]
+[UTCTime "02:46:09"]
+[Variant "Standard"]
+[WhiteElo "1659"]
+[WhiteRatingDiff "+33"]
+
+1.d4 d5 2.Nf3 Nf6 3.h3 c5 4.dxc5 Nc6 5.Bg5 h6 6.Bh4 e6 7.Nc3 Bxc5 8.e3 O-O 9.Bd3
+Be7 10.O-O e5 11.e4 dxe4 12.Bxf6 Bxf6 13.Nxe4 Be7 14.Nh2 Qb6 15.b3 Be6 16.Kh1
+Rad8 17.Qf3 Nd4 18.Qd1 Bf5 19.Ng3 Be6 20.f4 exf4 21.Rxf4 Bd6 22.Rg4 Bxg4
+23.Qxg4 Be5 24.Nf5 Qf6 25.Rf1 Bxh2 26.Kxh2 Qe5+ 27.Kh1 g6 28.Nxh6+ Kg7 29.Qh4
+Rh8 30.Rxf7#  1-0
+
+[Event "Las Pulgas X"]
+[Site "https://lichess.org/HAmGVar5"]
+[Date "2024.07.06"]
+[Round "1"]
+[White "kopalito"]
+[Black "NeiderMT"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1692"]
+[BlackRatingDiff "-16"]
+[ECO "B40"]
+[EventDate "2024.07.06"]
+[Opening "Sicilian Defense: French Variation"]
+[Termination "Normal"]
+[UTCDate "2024.07.06"]
+[UTCTime "17:07:27"]
+[Variant "Standard"]
+[WhiteElo "1795"]
+[WhiteRatingDiff "+7"]
+
+1.e4 c5 2.Nf3 e6 {B40 Sicilian Defense: French Variation}3.Bc4 Bd6 4.O-O e5
+5.Nc3 Nf6 6.Re1 O-O 7.Nd5 Nxd5 8.Bxd5 Be7 9.c3 d6 10.d4 cxd4 11.cxd4 Nc6 12.Be3
+Bf6 13.Rc1 Ne7 14.Bb3 Bg4 15.d5 Ng6 16.h3 Bd7 17.Qd2 Rc8 18.Bxa7 Nh4 19.Nxh4
+Bxh4 20.Be3 f5 21.exf5 Bxf5 22.Qb4 Qd7 23.Qxh4 Rf6 24.Rxc8+ Qxc8 25.Rc1 Qd7
+26.Qc4 Rg6 27.Kf1 h5 28.Qc7 Qb5+ 29.Bc4 Qxb2 30.Qd8+ Kh7 31.Qh4 Kg8 32.Qxh5 Rf6
+33.Bb3 Bg6 34.Qg4 Qa3 35.Rc8+ Kf7 36.Qd7# {White wins by checkmate.} 1-0
+
+[Event "Las Pulgas X"]
+[Site "https://lichess.org/8WJdcufm"]
+[Date "2024.07.06"]
+[Round "1"]
+[White "kopalito"]
+[Black "NeiderMT"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1676"]
+[BlackRatingDiff "-13"]
+[ECO "B50"]
+[EventDate "2024.07.06"]
+[Opening "Sicilian Defense: Modern Variations"]
+[Termination "Normal"]
+[UTCDate "2024.07.06"]
+[UTCTime "17:38:00"]
+[Variant "Standard"]
+[WhiteElo "1802"]
+[WhiteRatingDiff "+6"]
+
+1.e4 c5 2.Nf3 d6 {B50 Sicilian Defense: Modern Variations}3.Bc4 e5 4.Nc3 Nf6
+5.O-O Be7 6.Re1 O-O 7.d3 Nc6 8.Nd5 Be6 9.Nxf6+ Bxf6 10.Be3 Nd4 11.c3 Nxf3+
+12.Qxf3 Bxc4 13.dxc4 Bg5 14.Rad1 Bxe3 15.Rxe3 f5 16.exf5 Rf6 17.Qxb7 Rxf5
+18.Qd5+ Kh8 19.Qxd6 Qb6 20.Qxb6 axb6 21.a3 Raf8 22.f3 h5 23.Rd6 Rb8 24.Re6 Rf4
+25.R6xe5 Rxc4 26.Rxh5+ Kg8 27.Rhe5 Kh7 28.R3e4 Rxe4 29.Rxe4 b5 30.Kf2 Rd8
+31.Ke2 Rd5 32.c4 bxc4 33.Rxc4 Kg6 34.a4 Kf6 35.a5 Rd6 36.Rxc5 Ra6 37.b4 Ke6
+38.Ke3 Kd7 39.h4 Rd6 40.b5 Rd1 41.a6 Ra1 42.Rg5 Ra5 43.Rxg7+ Kc8 44.a7 {Black
+resigns.} 1-0
 
