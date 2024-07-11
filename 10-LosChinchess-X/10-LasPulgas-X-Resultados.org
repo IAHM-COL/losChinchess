@@ -2,6 +2,16 @@
 
 ** Crosstable
 
+
+
+*** Final
+|                | twinsendell   | OseznoRaudo   | kopalito   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+---------------+---------------+------------+------------------+----------+-----+--------------+------------|
+| twinsendell    | x             | 1.0           |            |                  |        1 |   0 |            1 |       1764 |
+| OseznoRaudo    | 0             | x             | 1.0        |                  |        1 |   0 |            0 |       1620 |
+| kopalito       |               | 0             | x          |                  |        0 |   0 |            0 |       1850 |
+| Alejandro-mesa |               |               |            | x                |        0 |   0 |            0 |       1529 |
+
 *** Repechaje 
 |             | OseznoRaudo   | macla3010   |   points |   w |   neudstadtl |   glicko_2 |
 |-------------+---------------+-------------+----------+-----+--------------+------------|
@@ -12,14 +22,6 @@
 |----------+------------+------------+----------+-----+--------------+------------|
 | kopalito | x          | 2.0        |        2 |   0 |            2 |       1850 |
 | NeiderMT | 1.0        | x          |        1 |   0 |            2 |       1693 |
-
-*** Final
-|                | kopalito   | twinsendell   | OseznoRaudo   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
-|----------------+------------+---------------+---------------+------------------+----------+-----+--------------+------------|
-| kopalito       | x          |               |               |                  |        0 |   0 |            0 |       1850 |
-| twinsendell    |            | x             |               |                  |        0 |   0 |            0 |       1764 |
-| OseznoRaudo    |            |               | x             |                  |        0 |   0 |            0 |       1620 |
-| Alejandro-mesa |            |               |               | x                |        0 |   0 |            0 |       1529 |
 
 -------
 Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
