@@ -7,10 +7,10 @@
 *** Final
 |                | twinsendell   | OseznoRaudo   | kopalito   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
 |----------------+---------------+---------------+------------+------------------+----------+-----+--------------+------------|
-| twinsendell    | x             | 1.0           |            |                  |        1 |   0 |            1 |       1764 |
-| OseznoRaudo    | 0             | x             | 1.0        |                  |        1 |   0 |            0 |       1620 |
-| kopalito       |               | 0             | x          |                  |        0 |   0 |            0 |       1850 |
-| Alejandro-mesa |               |               |            | x                |        0 |   0 |            0 |       1529 |
+| twinsendell    | x             | 1.0           | 2.0        |                  |        3 |   0 |            2 |       1764 |
+| OseznoRaudo    | 0             | x             | 1.0        | 1.0              |        2 |   0 |            0 |       1620 |
+| kopalito       | 0             | 0             | x          |                  |        0 |   0 |            0 |       1850 |
+| Alejandro-mesa |               | 0             |            | x                |        0 |   0 |            0 |       1529 |
 
 *** Repechaje 
 |             | OseznoRaudo   | macla3010   |   points |   w |   neudstadtl |   glicko_2 |

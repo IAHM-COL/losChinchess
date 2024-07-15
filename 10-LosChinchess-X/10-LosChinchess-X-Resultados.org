@@ -3,12 +3,12 @@
 ** Crosstable
 
 *** Final
-|              | pei12   | cgallego00   | Duvian   | arandres0510   |   points |   w |   neudstadtl |   glicko_2 |
-|--------------+---------+--------------+----------+----------------+----------+-----+--------------+------------|
-| pei12        | x       | 1.0          |          |                |        1 |   0 |            0 |       1941 |
-| cgallego00   | 0       | x            |          |                |        0 |   0 |            0 |       1835 |
-| Duvian       |         |              | x        |                |        0 |   0 |            0 |       1766 |
-| arandres0510 |         |              |          | x              |        0 |   0 |            0 |       1686 |
+|              | pei12   | arandres0510   | cgallego00   | Duvian   |   points |   w |   neudstadtl |   glicko_2 |
+|--------------+---------+----------------+--------------+----------+----------+-----+--------------+------------|
+| pei12        | x       | 1.0            | 1.0          |          |        2 |   0 |            1 |       1941 |
+| arandres0510 | 0       | x              | 1.0          |          |        1 |   0 |            0 |       1686 |
+| cgallego00   | 0       | 0              | x            |          |        0 |   0 |            0 |       1835 |
+| Duvian       |         |                |              | x        |        0 |   0 |            0 |       1766 |
 
 *** Group A
 |                | Duvian   | cgallego00   | Alejandro-mesa   | OseznoRaudo   | NeiderMT   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
