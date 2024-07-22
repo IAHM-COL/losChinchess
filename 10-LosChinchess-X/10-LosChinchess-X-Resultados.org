@@ -1,0 +1,34 @@
+* Torneo de Ajedrez Los Chinchess X
+
+** Crosstable
+
+*** Final
+|              | pei12   | cgallego00   | arandres0510   | Duvian   |   points |   w |   neudstadtl |   glicko_2 |
+|--------------+---------+--------------+----------------+----------+----------+-----+--------------+------------|
+| pei12        | x       | 2.0          | 2.0            | 2.0      |        6 |   0 |           12 |       1941 |
+| cgallego00   | 0       | x            | 1.0            | 2.0      |        3 |   0 |            3 |       1835 |
+| arandres0510 | 0       | 1.0          | x              | 2.0      |        3 |   1 |            3 |       1686 |
+| Duvian       | 0       | 0            | 0              | x        |        0 |   6 |            0 |       1766 |
+
+*** Group A
+|                | Duvian   | cgallego00   | Alejandro-mesa   | OseznoRaudo   | NeiderMT   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+----------+--------------+------------------+---------------+------------+-----------+----------+-----+--------------+------------|
+| Duvian         | x        | 1.0          | 1.0              | 2.0           | 2.0        | 2.0       |        8 |   0 |           32 |       1766 |
+| cgallego00     | 1.0      | x            | 1.0              | 1.0           | 2.0        | 2.0       |        7 |   0 |           28 |       1835 |
+| Alejandro-mesa | 1.0      | 1.0          | x                | 1.0           | 0          | 2.0       |        5 |   0 |           20 |       1529 |
+| OseznoRaudo    | 0        | 1.0          | 1.0              | x             | 1.0        | 2.0       |        5 |   0 |           17 |       1620 |
+| NeiderMT       | 0        | 0            | 2.0              | 1.0           | x          | 2.0       |        5 |   0 |           15 |       1693 |
+| IAHMCOL        | 0        | 0            | 0                | 0             | 0          | x         |        0 |   0 |            0 |       1244 |
+
+*** Group B
+|              | pei12   | arandres0510   | twinsendell   | kopalito   | macla3010   | SershMo   |   points |   w |   neudstadtl |   glicko_2 |
+|--------------+---------+----------------+---------------+------------+-------------+-----------+----------+-----+--------------+------------|
+| pei12        | x       | 2.0            | 1.5           | 2.0        | 2.0         | 2.0       |      9.5 |   0 |         38   |       1941 |
+| arandres0510 | 0       | x              | 1.5           | 2.0        | 2.0         | 2.0       |      7.5 |   0 |         23   |       1686 |
+| twinsendell  | 0.5     | 0.5            | x             | 1.0        | 2.0         | 2.0       |      6   |   0 |         18.5 |       1764 |
+| kopalito     | 0       | 0              | 1.0           | x          | 2.0         | 1.0       |      4   |   0 |         11   |       1850 |
+| macla3010    | 0       | 0              | 0             | 0          | x           | 2.0       |      2   |   0 |          2   |       1529 |
+| SershMo      | 0       | 0              | 0             | 1.0        | 0           | x         |      1   |   1 |          4   |       1500 |
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]

@@ -1,0 +1,27 @@
+* Liguilla de Ajedrez Las Pulgas X
+
+** Crosstable
+
+
+
+*** Final
+|                | twinsendell   | OseznoRaudo   | kopalito   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+---------------+---------------+------------+------------------+----------+-----+--------------+------------|
+| twinsendell    | x             | 1.0           | 2.0        | 2.0              |        5 |   0 |           10 |       1764 |
+| OseznoRaudo    | 1.0           | x             | 1.0        | 2.0              |        4 |   0 |            8 |       1620 |
+| kopalito       | 0             | 1.0           | x          | 2.0              |        3 |   0 |            4 |       1850 |
+| Alejandro-mesa | 0             | 0             | 0          | x                |        0 |   0 |            0 |       1529 |
+
+*** Repechaje 
+|             | OseznoRaudo   | macla3010   |   points |   w |   neudstadtl |   glicko_2 |
+|-------------+---------------+-------------+----------+-----+--------------+------------|
+| OseznoRaudo | x             | 2.0         |        2 |   0 |            0 |       1620 |
+| macla3010   | 0             | x           |        0 |   2 |            0 |       1529 |
+
+|          | kopalito   | NeiderMT   |   points |   w |   neudstadtl |   glicko_2 |
+|----------+------------+------------+----------+-----+--------------+------------|
+| kopalito | x          | 2.0        |        2 |   0 |            2 |       1850 |
+| NeiderMT | 1.0        | x          |        1 |   0 |            2 |       1693 |
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]

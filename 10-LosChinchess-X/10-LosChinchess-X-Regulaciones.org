@@ -1,0 +1,187 @@
+* Los Chinchess X – Torneo de Ajedrez
+
+* Regulaciones
+
+** Participantes
+
+| A1. Duvian ([[https://lichess.org/?user=Duvian#friend][Duvian]]; 1766)            | B1. ♝Jorge Andres ([[https://lichess.org/?user=kopalito#friend][kopalito]]; 1850) |
+| A2. Joaquin ([[https://lichess.org/?user=OseznoRaudo#friend][OseznoRaudo]]; 1620)      | B2. ♝♝Andres ([[https://lichess.org/?user=arandres0510#friend][arandres0510]]; 1686)      |
+| A3. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1693)          | B3. Pei ([[https://lichess.org/?user=pei12#friend][pei12]]; 1941)              |
+| A4. Alejandro ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1529) | B4. Maria Clara ([[https://lichess.org/?user=macla3010#friend][macla3010]]; 1529)  |
+| A5. Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1835)        | B5. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1764)   |
+| A6. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1244)           | B6. Sergio ([[https://lichess.org/?user=SershMo#friend][SershMo]]; 1500)         |
+
+** Calendario y regristro de juegos
+
+   Contacte a IAHMCOL para obtener el link de el calendario, or encuentrelo
+   directamente en la descripcion del grupo de Whats-App. 
+
+** A Formato
+
+   Las clasificatorias en la decima edicion de el torneo de Chinchess seran
+   jugadas con un formato doble ronda Robin en 2 fases. 
+
+*** A1	Fase clasificatoria
+
+    El Alfil de oro de Chinchess IX no participara en esta edicion, y por lo
+    tanto no hay jugador defensor del titulo. En la primera fase, los
+    jugadores fueron sorteados en 2 grupos, A y B de la siguiente forma:
+
+    Usando el score glicko-2 inicial, los jugadores fueron separados en dos
+    bombonas, una con los seis mejores jugadores, y la otra con los seis
+    restantes. Aleatoriamente, los jugadores fueron sembrados desde la bombona
+    de mejor glicko-2 en posiciones A1, B1, A3, B3, A5 y B5. Subsecuentemente,
+    de manera aleatoria, los jugadores restantes fueron sembrados en
+    posiciones A2, B2, A4, B4, A6 y finalmente B6. Jugadores sin glicko-2
+    inicial fueron asignados 1500.
+
+    Durante las primeras cinco semanas (05/24 - 06/28/2024), los jugadores participaran en doble
+    ronda robin dentro de el grupo correspondiente. El jugador que lidera la
+    tabla de posicion del grupo, al final, clasifica a el cuadrangular final
+    Chinchess X, junto con el jugador en segunda posicion. El cuadrangular
+    final se juega en la septima semana.
+
+    El jugador en tercera posicion, clasificara directamente a el cuadrangular
+    Pulgas X. Los jugadores en cuarta y quinta posicion, disputaran un
+    repechaje para obtener un cupo a la Liguilla pulgas durante la sexta
+    semana (06/29 - 07/05/2024).
+
+    El repechaje consistira de un enfrentamiento directo entre 4A v 5B; y 4B v
+    5A. El jugador con mejor rango empezara Blancas. Para el segundo juego, se
+    alternara el color. De haber empate a 2 juegos, se jugara un tercer juego,
+    nuevamente colores alternados (4ta posicion, blancos). De persistir empate
+    a tres juegos, el jugador con el mejor rango clasificara.
+
+    Los jugadores en sexta posicion son eliminados.
+    
+    El jugador que es asignado Blancas, debera comenzar el primer juego, y
+    sera responsable de iniciar un reto, o juego en Lichess. Tambien sera
+    responsable de actualizar la tabla de resultados y el calendario.
+    No hay regla indicando quien debe establecer contacto
+    para programar un juego, primero; se espera que la respuesta a este
+    contacto ocurra dentro de las primeras 24 horas.
+    
+*** A2 Fase Final
+
+    La fase final para Chinchess X, y pulgas X, se jugaran simultaneamente
+    durante la septima y octava semana (07/06 - 07/19/2024). La fase final consiste de
+    cuadrangulares doble ronda robin, respectivamente.
+
+    El podio de Chinchess X asigna los titulos Alfil de Oro, Plata y Bronce.
+
+    El podio de la liguilla Pulgas X, asigna Medallas de Oro, Plata y Bronce.
+    
+*** A3	Desempate
+
+    Como metodo de desempate se usara, en orden:
+
+    + Menor numero de partidas abandonadas o por w
+    + Score Neudstadtl
+    + Enfrentamiento  directo entre oponentes empatados
+    + Mejor Glicko-2 al inicio de Torneo
+    
+** B Plataforma
+
+   + B1. El torneo se juega en [[https://lichess.org/][lichess.org]]
+   + B2. Todos los juegos deberan ser jugados con tiempo, 10 minutos,
+     incremento 5 segundos por movida (10+5)
+   + B3. *Importante*: Todos los partidos deben completarse *Por Puntos/rated*,
+     y no amistosos/casual
+   + B4. Todos los partidos se jugaran con usuario registrado (no anonimo)
+   + B5. El jugador que empieza con las Blancas creara el reto, y lo
+     compartira. El Jugador con negras aceptara.
+   + B6. *Importante*: El jugador que inicia con Blancas tiene la
+     responsabilidad de actualizar el calendario del torneo con la fecha y
+     horas acordadas, el link de lichess, y el resultado de cada partida,
+     prontamente, apenas la partida termina.
+   + B7. Una vez una partida empieza no puede ser reprogramada,
+     recomenzada, cambiada, o alterada.
+
+** C Resultados
+
+*** C1. Los resultados se registran de forma estandard para el ajedrez;
+
+1-0 : Ganan blancas (Mate, resignacion, tiempo, abandono)
+
+½ – ½ : Tablas (En acuerdo a todas las regulaciones de el ajedrez)
+
+0-1 : Ganan Negras (Mate, resignacion, tiempo, abandono)
+
+** D Programacion de Juegos y Perdida por W o Abandono
+
+   + D1. Cada semana, un jugador tendra 2 o 4 partidas.
+   + D2. Se usara Whats-App  para
+     comunicarse con el oponente para determinar una fecha y hora aceptable
+     para completar el o los juegos correspondientes. En la fase final, es posible jugar ambas
+     partidas una inmediatamente despues de la otra, o es posible programar
+     dos fechas y horas distintas, si ambas partidas se completan durante la semana.
+   + D3. El jugador que empieza la partida con las Blancas, tiene la
+     responsabilidad de indicar la fecha y la hora determinada en el
+     calendario, tan pronto como un acuerdo se haya obtenido. Partidas que no
+     se hayan acordado y jugado a mas tardar Viernes a media noche seran
+     adjudicadas por el director del torneo (IAHMCOL) como W, con Blancas o
+     Negras, o ambos abandonando. Para obtener extension, contactar el
+     director del torneo prontamente.
+   + D4 La asignacion de partida abandonada o por W, se hara por comun
+     acuerdo, y/o peticion a el director de torneo (IAHMCOL) por parte de el
+     jugador que asiste a la hora determinada. El Jugador que asiste tiene
+     potestad para determinar si acepta reprogramacion, en caso de que el
+     oponente no se comunique durante los primeros 15 minutos. 
+   + D5. Cada juego debera completarse durante la semana correspondiente (no
+     antes ni despues), entre el Sabado en la manana, y el viernes a media
+     noche. Los juegos tendran que jugarse una vez los apareamientos sean
+     publicados para la semana.
+   + D6. Si hay un jugador que no responde al contacto, y no facilita la
+     programacion de las partidas se le considerara perdida por W, y el
+     jugador opuesto obtendra el punto.
+   + D7 *Doble abandono*: Si ninguno de los dos oponentes intentan de manera
+     activa de encontrar un calendario para las partidas, se considerara
+     doble-abandono, y ambos jugadores obtienen 0 para el juego.
+   + D8: *Abandono de Torneo*: Un jugador se determinara en abandono si pierde
+     dos juegos por W, o por peticion personal. Los partidos siguientes de ese
+     jugador se asignaran como victoria por W al oponente, si embargo los
+     resultados previos no se modificaran. Un jugador en abandono en la fase
+     clasificatoria no clasificara a la fase final. Un jugador en abandono en
+     cualquier fase de torneo, no podra aceptar podio, medalla, o Alfil.
+   + D9: Si ambos jugadores de una partida se encuentran en abanodono de
+     Torneo, se seguira D7 para ambos.
+   + D10: *Inadmisibilidad*: Todo jugador en Abandono de Torneo sera
+     inadmisible para participar en la edicion subsecuente, en este caso, no
+     podra participar en Chinchess-XI.
+     
+** E Honestidad y Comportamiento deportivo
+
+   + E1. Se requiere absoluta honestidad y comportamiento deportivo de cada
+     competidor
+   + E2. Todas las regulaciones de el ajedrez aplican
+   + E3. Todos los participates estan obligados a respetar el codigo de
+     conducta de lichess.
+   + E4. Durante la partida, ninguno de los dos oponentes podra consultar
+     otras personas, software, libros, o algun otro recurso. Cada jugador
+     debera obteners sus movimientos basadonse en su propia determinacion, en
+     tiempo real.
+   + E5. No se permite devolver jugada, vajo ninguna circumstancia. 'Ficha
+     tocada, ficha movida'
+   + E6. No se permite extension de tiempo
+   + E7. Comentario y analisis de las partidas via WhatsApp, directamente en
+     Lichess, u otra plataforma es permitido y motivado, pero esto ocurrira
+     solamente una partida haya acabado.
+   + E8. Casting de las partidas esta permitido, pero los oponentes directos
+     no podran participar del casting hasta que la partida haya terminado
+   + E9. Las anotaciones de las partidas estan permitidas, una vez la partida
+     haya concluido.
+   + E10. Comentario critico y recomendaciones para cualquier participante
+     estan permitidas, unicamente si este no se encuentra directamente en un juego. 
+
+** F Historia del Torneo
+   
+   F1. La historia del torneo sera almacenada en un archivo formato PGN, que
+   el director del torneo hara disponible para todos los competidores, una vez
+   termine el torneo. Esta informacion sera publica en:
+
+   [[https://github.com/IAHM-COL/losChinchess]]
+
+   F2. La Medalleria historica de los torneos Chinchess y las liguillas Pulgas
+   pasadas esta disponible en
+
+   [[https://github.com/IAHM-COL/losChinchess/blob/losChinchess-x/10-LosChinchess-X/10-MedalryHistory.org][Tabla Historica de Trofeos y Medalleria]]
