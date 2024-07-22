@@ -7,12 +7,13 @@ El Campeon de cada edicion es reconocido con el titulo de *El Alfil de Oro*.
 
 | Edicion            | Fechas                  | Alfil de Oro                | Alfil de Plata          | Alfil de Bronce         |
 |--------------------+-------------------------+-----------------------------+-------------------------+-------------------------|
-| Los Chinchess X    | 05/24/2024 - 07/12/2024 |                             |                         |                         |
+| Los Chinchess XI   | 09/14/2024 - 11/02/2024 |                             |                         |                         |
+| Los Chinchess X    | 05/24/2024 - 07/12/2024 | *Pei [[https://lichess.org/@/pei12][(pei12)]]*               | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     | Andres [[https://lichess.org/@/arandres][(arandres0510)]]   |
 | Los Chinchess IX   | 02/03/2024 - 03/15/2024 | *Christian [[https://lichess.org/@/Christian1323][(Christian1323)]]* | Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]] | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
 | Los Chinchess VIII | 09/16/2023 - 11/03/2023 | *Asher [[https://lichess.org/@/AsDaGo][(AsDaGo)]]*            | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     | Mauricio [[https://lichess.org/@/twinsendell][(twinsendell)]]  |
 | Los Chinchess VII  | 05/05/2023 - 06/19/2023 | *Asher [[https://lichess.org/@/AsDaGo][(AsDaGo)]]*            | Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]] | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
 | Los Chinchess VI   | 02/04/2023 - 03/16/2023 | *Asher [[https://lichess.org/@/AsDaGo][(AsDaGo)]]*            | Mauricio [[https://lichess.org/@/twinsendell][(twinsendell)]]  | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
-| Los Chinchess V    | 09/17/2022 - 11/04/2022 | *Asher [[https://lichess.org/@/AsDaGo][(AsDaGo)]]*            | Pei12 [[https://lichess.org/@/pei12][(pei12)]]           | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
+| Los Chinchess V    | 09/17/2022 - 11/04/2022 | *Asher [[https://lichess.org/@/AsDaGo][(AsDaGo)]]*            | Pei [[https://lichess.org/@/pei12][(pei12)]]             | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
 | Los Chinchess IV   | 05/06/2022 - 06/17/2022 | *Andres [[https://lichess.org/@/arandres][(arandres)]]*         | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     | Maria Clara [[https://lichess.org/@/macla3010][(macla3010)]] |
 | Los Chinchess III  | 01/25/2022 - 03/09/2022 | *Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]]*   | Edison [[https://lichess.org/@/Ear512][(Ear512)]]         | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
 | Los Chinchess II   | 09/04/2021 - 10/14/2021 | *Edison [[https://lichess.org/@/Ear512][(Ear512)]]*           | Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]] | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
