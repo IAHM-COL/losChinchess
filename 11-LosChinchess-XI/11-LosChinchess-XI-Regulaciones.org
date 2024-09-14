@@ -1,0 +1,195 @@
+* Los Chinchess X – Torneo de Ajedrez
+
+* Regulaciones
+
+** Participantes
+
+| A1. ♝Pei ([[https://lichess.org/?user=pei12#friend][pei12]]; 2088)            |
+| A2. ♝♝Andres ([[https://lichess.org/?user=arandres0510#friend][arandres0510]]; 1842) |
+| A3. Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1836)     |
+| A4. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1816)  |
+| A5. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1181)        |
+
+** Calendario y regristro de juegos
+
+   Contacte a IAHMCOL para obtener el link de el calendario, or encuentrelo
+   directamente en la descripcion del grupo de Whats-App. 
+
+** A Formato
+
+   Las clasificatorias en la decima edicion de el torneo de Chinchess seran
+   jugadas con un formato doble ronda Robin, durante cinco semanas; y juegos
+   final y por tercero,  en la sexta semana.
+
+   No habra competencia por Pulgas XI.
+
+   Piojos I, se continuara programando cada 15 dias, Sabados a las 6 pm
+   (COL). Esta hora esta sujeta a cambios.
+
+*** A1	Fase clasificatoria
+
+    Cinco participantes competiran por El Alfil de oro (Golden Bishop) de Chinchess XI. Pei,
+    defendera su titulo de Alfil de Oro de la decima edicion, y es sembrado en
+    la posicion cabecera. Los otros cuatro participantes son asignados en
+    posicion de acuerdo a el rango Glicko-2 inicial.
+    
+    Todos los jugadores participaran en un torneo doble robin, entre 09/14 y
+    10/18/2024, con colores alternados. Basado en los resultados de esta fase
+    clasificatoria los jugadores seran rankeados.
+    
+*** A2 Fase Final
+
+    La fase final se jugara en forma de repechaje. Los jugadores en primera y
+    segunda posicion se enfrentan por el Alfil de Oro, y el Alfil de
+    Plata. Los jugadores en tercera y cuarta posicion se enfrentan para
+    disputar el Alfil de Bronce.
+
+    El jugador en quinta posicion es eliminado.
+
+    Los repechajes se juegan a dos partidos. El jugador de mas alto rango
+    (1ero o 3ero respectivamente) empieza con blancas. Luego se alternan
+    colores.
+
+    De persistir empate a dos juegos, un tercer juego se realiza, de muerte
+    subita, nuevamente alternando colores. Si al tercer juego persiste el
+    empate, el jugador de mejor rango tomara la victoria de los juegos de
+    contracara.
+
+*** A4	Categoria Piojos
+
+    La Categoria Piojos se juega cada 15 dias, programado Sabados, a las 18:00
+    horas, Zona Horaria Colombia (UTC-5); continuando desde 09/21/2024. Esta
+    hora esta sujeta a cambios.
+
+    Los torneos categoria Pulgas son organizados por los sistemas ofrecidos
+    por Lichess, en forma Swiss, con tiempo 5+3. Los partidos son rated (por
+    puntos).
+
+    Para inscribirse a los torneos Piojos, es necesario ser miembro de [[https://lichess.org/team/chinchess][el
+    grupo Chinchess]],  en [[https://lichess.org/][Lichess]]. Para registrarse, envie un mensaje por
+    Lichess al administrador de el grupo (IAHMCOL)
+
+    Cada campeon de un torneo Categoria Piojos, ganara un titulo de Peon
+    Coronado (Crowned pawn). Los  torneos Piojos no tendran podio.
+    
+*** A4	Desempate
+
+    Como metodo de desempate se usara, en orden:
+
+    + Menor numero de partidas abandonadas o por w
+    + Score Neudstadtl
+    + Enfrentamiento  directo entre oponentes empatados
+    + Mejor Glicko-2 al inicio de Torneo
+    
+** B Plataforma
+
+   + B1. El torneo se juega en [[https://lichess.org/][lichess.org]]
+   + B2. Todos los juegos Chinchess deberan ser jugados con tiempo, 10 minutos,
+     incremento 5 segundos por movida (10+5)
+   + B3. *Importante*: Todos los partidos deben completarse *Por Puntos/rated*,
+     y no amistosos/casual
+   + B4. Todos los partidos se jugaran con usuario registrado (no anonimo)
+   + B5. El jugador que empieza con las Blancas creara el reto, y lo
+     compartira. El Jugador con negras aceptara.
+   + B6. *Importante*: El jugador que inicia con Blancas tiene la
+     responsabilidad de actualizar el calendario del torneo con la fecha y
+     horas acordadas, el link de lichess, y el resultado de cada partida,
+     prontamente, apenas la partida termina.
+   + B7. Una vez una partida empieza no puede ser reprogramada,
+     recomenzada, cambiada, o alterada.
+
+** C Resultados
+
+*** C1. Los resultados se registran de forma estandard para el ajedrez;
+
+1-0 : Ganan blancas (Mate, resignacion, tiempo, abandono)
+
+½ – ½ : Tablas (En acuerdo a todas las regulaciones de el ajedrez)
+
+0-1 : Ganan Negras (Mate, resignacion, tiempo, abandono)
+
+1-W: Ganan blancas por W (forfeit)
+
+W-1: Ganan negras por W
+
+W-W: Juego cancelado por ambos jugadores
+
+** D Programacion de Juegos y Perdida por W o Abandono
+
+   + D1. Cada semana, un jugador tendra 1 a 3 partidas.
+   + D2. Se usara Whats-App  para
+     comunicarse con el oponente para determinar una fecha y hora aceptable
+     para completar el o los juegos correspondientes. En la fase final, es posible jugar ambas
+     partidas una inmediatamente despues de la otra, o es posible programar
+     dos fechas y horas distintas, si ambas partidas se completan durante la semana.
+   + D3. El jugador que empieza la partida con las Blancas, tiene la
+     responsabilidad de indicar la fecha y la hora determinada en el
+     calendario, tan pronto como un acuerdo se haya obtenido. Partidas que no
+     se hayan acordado y jugado a mas tardar Viernes a media noche seran
+     adjudicadas por el director del torneo (IAHMCOL) como W, con Blancas o
+     Negras, o ambos abandonando. Para obtener extension, contactar el
+     director del torneo prontamente.
+   + D4 La asignacion de partida abandonada o por W, se hara por comun
+     acuerdo, y/o peticion a el director de torneo (IAHMCOL) por parte de el
+     jugador que asiste a la hora determinada. El Jugador que asiste tiene
+     potestad para determinar si acepta reprogramacion, en caso de que el
+     oponente no se comunique durante los primeros 15 minutos. 
+   + D5. Cada juego debera completarse durante la semana correspondiente (no
+     antes ni despues), entre el Sabado en la manana, y el viernes a media
+     noche. Los juegos tendran que jugarse una vez los apareamientos sean
+     publicados para la semana.
+   + D6. Si hay un jugador que no responde al contacto, y no facilita la
+     programacion de las partidas se le considerara perdida por W, y el
+     jugador opuesto obtendra el punto.
+   + D7 *Doble abandono*: Si ninguno de los dos oponentes intentan de manera
+     activa de encontrar un calendario para las partidas, se considerara
+     doble-abandono, y ambos jugadores obtienen 0 para el juego.
+   + D8: *Abandono de Torneo*: Un jugador se determinara en abandono si pierde
+     dos juegos por W, o por peticion personal. Los partidos siguientes de ese
+     jugador se asignaran como victoria por W al oponente, si embargo los
+     resultados previos no se modificaran. Un jugador en abandono en la fase
+     clasificatoria no clasificara a la fase final. Un jugador en abandono en
+     cualquier fase de torneo, no podra aceptar podio, medalla, o Alfil.
+   + D9: Si ambos jugadores de una partida se encuentran en abanodono de
+     Torneo, se seguira D7 para ambos.
+   + D10: *Inadmisibilidad*: Todo jugador en Abandono de Torneo sera
+     inadmisible para participar en la edicion subsecuente, en este caso, no
+     podra participar en Chinchess-XII.
+     
+** E Honestidad y Comportamiento deportivo
+
+   + E1. Se requiere absoluta honestidad y comportamiento deportivo de cada
+     competidor
+   + E2. Todas las regulaciones de el ajedrez aplican
+   + E3. Todos los participates estan obligados a respetar el codigo de
+     conducta de lichess.
+   + E4. Durante la partida, ninguno de los dos oponentes podra consultar
+     otras personas, software, libros, o algun otro recurso. Cada jugador
+     debera obteners sus movimientos basadonse en su propia determinacion, en
+     tiempo real.
+   + E5. No se permite devolver jugada, vajo ninguna circumstancia. 'Ficha
+     tocada, ficha movida'
+   + E6. No se permite extension de tiempo
+   + E7. Comentario y analisis de las partidas via WhatsApp, directamente en
+     Lichess, u otra plataforma es permitido y motivado, pero esto ocurrira
+     solamente una partida haya acabado.
+   + E8. Casting de las partidas esta permitido, pero los oponentes directos
+     no podran participar del casting hasta que la partida haya terminado
+   + E9. Las anotaciones de las partidas estan permitidas, una vez la partida
+     haya concluido.
+   + E10. Comentario critico y recomendaciones para cualquier participante
+     estan permitidas, unicamente si este no se encuentra directamente en un juego. 
+
+** F Historia del Torneo
+   
+   F1. La historia del torneo sera almacenada en un archivo formato PGN, que
+   el director del torneo hara disponible para todos los competidores, una vez
+   termine el torneo. Esta informacion sera publica en:
+
+   [[https://github.com/IAHM-COL/losChinchess]]
+
+   F2. La Medalleria historica de los torneos Chinchess y las liguillas Pulgas
+   pasadas esta disponible en
+   
+   [[https://github.com/IAHM-COL/losChinchess/blob/master/10-LosChinchess-X/10-MedalryHistory.org][Tabla Historica de Trofeos y Medalleria]]
+   
