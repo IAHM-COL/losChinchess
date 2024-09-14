@@ -191,5 +191,5 @@ W-W: Juego cancelado por ambos jugadores
    F2. La Medalleria historica de los torneos Chinchess y las liguillas Pulgas
    pasadas esta disponible en
    
-   [[https://github.com/IAHM-COL/losChinchess/blob/master/10-LosChinchess-X/10-MedalryHistory.org][Tabla Historica de Trofeos y Medalleria]]
+   [[https://github.com/IAHM-COL/losChinchess/blob/los-chinchess-xi/11-LosChinchess-XI/11-MedalryHistory.org][Tabla Historica de Trofeos y Medalleria]]
    
