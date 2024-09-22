@@ -33,3 +33,5 @@
 | Rango | Jugador                | Peones Coronados |
 |     1 | Pei (pei12)            |                1 |
 |     2 | Mauricio (twinsendell) |                1 |
+|     3 | Andres (arandres0510)  |                1 |
+
