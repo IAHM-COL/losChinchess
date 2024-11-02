@@ -1,0 +1,28 @@
+* Torneo de Ajedrez Los Chinchess XI
+
+** Crosstable
+
+*** Final
+|                                | cgallego00 | arandres0510 | points | w | neudstadtl | glicko_2 |
+|--------------------------------+------------+--------------+--------+---+------------+----------|
+| cgallego00 (Alfil de Oro)      | x          | 2.0          |      2 | 0 |          0 |     1836 |
+| arandres0510 (Alfil de Plata) | 0          | x            |      0 | 0 |          0 |     1842 |
+
+
+*** Tercero
+|                               | twinsendell | IAHMCOL | points | w | neudstadtl | glicko_2 |
+|-------------------------------+-------------+---------+--------+---+------------+----------|
+| twinsendell (Alfil de Bronce) | x           | 2.0     |      2 | 0 |          0 |     1816 |
+| IAHMCOL                       | 0           | x       |      0 | 0 |          0 |     1181 |
+
+*** Group A
+|                   | arandres0510 | cgallego00 | twinsendell | IAHMCOL | pei12 | points | w | neudstadtl | glicko_2 |
+|-------------------+--------------+------------+-------------+---------+-------+--------+---+------------+----------|
+| arandres0510      |            x |        1.0 |         1.0 |     2.0 |   1.5 |    5.5 | 0 |      17.25 |     1842 |
+| cgallego00        |          1.0 |          x |         2.0 |     2.0 |     0 |      5 | 0 |       17.5 |     1836 |
+| twinsendell       |          1.0 |          0 |           x |     2.0 |   2.0 |      5 | 0 |       14.5 |     1816 |
+| IAHMCOL           |            0 |          0 |           0 |       x |   1.0 |      1 | 0 |        3.5 |     1181 |
+| pei12  (Abandono) |          0.5 |        2.0 |           0 |     1.0 |     x |    3.5 | 2 |      13.75 |     2088 |
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
