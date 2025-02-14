@@ -1,0 +1,27 @@
+* Torneo de Ajedrez Los Chinchess XII
+
+** Crosstable
+
+*** Final
+|    | A1   | A2   |   points |   w |   neudstadtl |   glicko_2 |
+|----+------+------+----------+-----+--------------+------------|
+| A1 | x    |      |        0 |   0 |            0 |       1500 |
+| A2 |      | x    |        0 |   0 |            0 |       1500 |
+
+*** Tercero
+|    | A3   | A4   |   points |   w |   neudstadtl |   glicko_2 |
+|----+------+------+----------+-----+--------------+------------|
+| A3 | x    |      |        0 |   0 |            0 |       1500 |
+| A4 |      | x    |        0 |   0 |            0 |       1500 |
+
+*** Group A
+|                | pei12   | cgallego00   | twinsendell   | arandres0510   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+---------+--------------+---------------+----------------+------------------+----------+-----+--------------+------------|
+| pei12          | x       |              |               |                |                  |        0 |   0 |            0 |       2008 |
+| cgallego00     |         | x            |               |                |                  |        0 |   0 |            0 |       1882 |
+| twinsendell    |         |              | x             |                |                  |        0 |   0 |            0 |       1821 |
+| arandres0510   |         |              |               | x              |                  |        0 |   0 |            0 |       1747 |
+| Alejandro-mesa |         |              |               |                | x                |        0 |   0 |            0 |       1493 |
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
