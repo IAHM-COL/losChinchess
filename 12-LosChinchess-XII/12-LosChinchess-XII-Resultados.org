@@ -3,14 +3,14 @@
 ** Crosstable
 
 *** Group A
-|                | cgallego00   | pei12   | twinsendell   | arandres0510   | Alejandro-mesa   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
-|----------------+--------------+---------+---------------+----------------+------------------+-----------+----------+-----+--------------+------------|
-| cgallego00     | x            |         | 1.0           |                | 1.0              |           |        2 |   0 |            1 |       1882 |
-| pei12          |              | x       |               |                |                  | 1.0       |        1 |   0 |            0 |       2008 |
-| twinsendell    | 0            |         | x             |                |                  | 1.0       |        1 |   0 |            0 |       1821 |
-| arandres0510   |              |         |               | x              |                  |           |        0 |   0 |            0 |       1747 |
-| Alejandro-mesa | 0            |         |               |                | x                |           |        0 |   0 |            0 |       1493 |
-| IAHMCOL        |              | 0       | 0             |                |                  | x         |        0 |   0 |            0 |       1255 |
+|                | cgallego00   | arandres0510   | pei12   | twinsendell   | Alejandro-mesa   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+--------------+----------------+---------+---------------+------------------+-----------+----------+-----+--------------+------------|
+| cgallego00     | x            |                |         | 1.0           | 1.0              |           |        2 |   0 |            1 |       1882 |
+| arandres0510   |              | x              |         |               | 1.0              | 1.0       |        2 |   0 |            0 |       1747 |
+| pei12          |              |                | x       |               |                  | 1.0       |        1 |   0 |            0 |       2008 |
+| twinsendell    | 0            |                |         | x             |                  | 1.0       |        1 |   0 |            0 |       1821 |
+| Alejandro-mesa | 0            | 0              |         |               | x                |           |        0 |   0 |            0 |       1493 |
+| IAHMCOL        |              | 0              | 0       | 0             |                  | x         |        0 |   0 |            0 |       1255 |
 
 *** Final
 |    | A1   | A2   |   points |   w |   neudstadtl |   glicko_2 |
