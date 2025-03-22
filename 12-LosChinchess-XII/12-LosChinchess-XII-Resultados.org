@@ -15,8 +15,8 @@
 *** Final
 |             | pei12   | twinsendell   |   points |   w |   neudstadtl |   glicko_2 |
 |-------------+---------+---------------+----------+-----+--------------+------------|
-| pei12       | x       |               |        0 |   0 |            0 |       2008 |
-| twinsendell |         | x             |        0 |   0 |            0 |       1821 |
+| pei12       | x       | 2.0           |        2 |   0 |            0 |       2008 |
+| twinsendell | 0       | x             |        0 |   0 |            0 |       1821 |
 
 *** Tercero
 |              | cgallego00   | arandres0510   |   points |   w |   neudstadtl |   glicko_2 |
