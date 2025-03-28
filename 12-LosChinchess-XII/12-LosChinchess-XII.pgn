@@ -203,3 +203,464 @@ Sicilian Defense: Bowdler Attack}2...a6 {[%clk 0:09:55]}3.a3 {[%clk
 0:08:59]}39...Qe7 {[%clk 0:09:17]}40.Qc8+ {[%clk 0:09:00]}40...Qd8 {[%clk
 0:09:19]}41.Qxd8+ {[%clk 0:06:41]} { White resigns.} 0-1
 
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/Hb9k1pWL"]
+[Date "2025.02.18"]
+[Round "2"]
+[White "cgallego00"]
+[Black "arandres0510"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1761"]
+[BlackRatingDiff "+35"]
+[ECO "C00"]
+[EventDate "2025.02.18"]
+[GameId "Hb9k1pWL"]
+[Opening "French Defense: Steiner Variation"]
+[Termination "Normal"]
+[UTCDate "2025.02.18"]
+[UTCTime "02:14:52"]
+[Variant "Standard"]
+[WhiteElo "1911"]
+[WhiteRatingDiff "-37"]
+
+1.e4 e6 2.c4 c6 3.d4 d5 4.exd5 cxd5 5.c5 Nc6 6.Nf3 Nge7 7.Bb5 Nf5 8.O-O Be7
+9.Ne5 O-O 10.Nxc6 bxc6 11.Bxc6 Rb8 12.b3 Qa5 13.Bf4 Rb4 14.Be3 Nxe3 15.fxe3 Rb8
+16.e4 Qc7 17.exd5 exd5 18.Bxd5 Ba6 19.Rf2 Bf6 20.Be4 Rfd8 21.Rd2 Rb4 22.Na3
+Rbxd4 23.Rxd4 Bxd4+ 24.Kh1 Bxa1 25.Qxa1 Qxc5 26.Nc2 Qf2 27.a4 f5 28.Bf3 Qxc2
+29.h3 Be2 30.Bb7 Rd1+  0-1
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/ACyacHDP"]
+[Date "2025.02.26"]
+[Round "2"]
+[White "pei12"]
+[Black "twinsendell"]
+[Result "1/2-1/2"]
+[Annotator "lichess.org"]
+[BlackElo "1809"]
+[BlackRatingDiff "+18"]
+[ECO "B13"]
+[EventDate "2025.02.26"]
+[GameId "ACyacHDP"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+[UTCDate "2025.02.26"]
+[UTCTime "01:24:36"]
+[Variant "Standard"]
+[WhiteElo "2029"]
+[WhiteRatingDiff "-15"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nc6 5.c4 Bg4 6.Nc3 e6 7.Be2 Bd6 8.O-O Nf6
+9.cxd5 Nxd5 10.Nxd5 exd5 11.h3 Bxf3 12.Bxf3 O-O 13.Bxd5 Bh2+ 14.Kxh2 Qxd5
+15.Be3 Rfd8 16.Qb3 Qxb3 17.axb3 Nxd4 18.Rfd1 Nc2 19.Rxd8+ Rxd8 20.Rxa7 Nxe3
+21.fxe3 Rb8 22.Kg3 f6 23.Kf4 Kf7 24.Ke4 Ke6 25.Kd4 Kd6 26.Kc4 Kc6 27.Ra5 Re8
+28.Kd3 Re5 29.Rxe5 fxe5 30.Ke4 Kd6 31.b4 b5 32.g3 g6 33.h4 h5 34.Kd3 Kd5 35.e4+
+Ke6 36.Ke3 Kf6 37.Kf3 g5 38.hxg5+ Kxg5 39.b3 h4 40.Kg2 Kg4 41.gxh4 Kxh4 
+1/2-1/2
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/St4GY3kN"]
+[Date "2025.02.18"]
+[Round "2"]
+[White "IAHMCOL"]
+[Black "Alejandro-mesa"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1467"]
+[BlackRatingDiff "+19"]
+[ECO "A09"]
+[EventDate "2025.02.18"]
+[GameId "St4GY3kN"]
+[Opening "Réti Opening: Réti Accepted"]
+[Termination "Normal"]
+[UTCDate "2025.02.18"]
+[UTCTime "19:14:25"]
+[Variant "Standard"]
+[WhiteElo "1241"]
+[WhiteRatingDiff "-24"]
+
+1.Nf3 {[%clk 0:10:00]}1...d5 {[%clk 0:10:00]}2.c4 {[%clk 0:10:04]}2...dxc4
+{[%clk 0:10:03]} { A09 Réti Opening: Réti Accepted}3.e3 {[%clk 0:10:09]}3...Nf6
+{[%clk 0:10:07]}4.Bxc4 {[%clk 0:10:13]}4...Nc6 {[%clk 0:10:10]}5.O-O {[%clk
+0:10:17]}5...e6 {[%clk 0:10:13]}6.d4 {[%clk 0:10:21]}6...Be7 {[%clk
+0:10:14]}7.a3 {[%clk 0:10:22]}7...O-O {[%clk 0:10:17]}8.b4 {[%clk
+0:10:26]}8...a6 {[%clk 0:10:19]}9.Bb2 {[%clk 0:10:31]}9...b5 {[%clk
+0:10:22]}10.Ba2 {[%clk 0:10:33]}10...Bb7 {[%clk 0:10:23]}11.Nc3 {[%clk
+0:10:10]}11...Bd6 {[%clk 0:10:25]}12.g3 {[%clk 0:09:54]}12...Ne7 {[%clk
+0:10:26]}13.d5 {[%clk 0:09:42]}13...Nexd5 {[%clk 0:10:21]}14.Nxd5 {[%clk
+0:09:43]}14...Nxd5 {[%clk 0:10:24]}15.Bxd5 {[%clk 0:09:47]}15...Bxd5 {[%clk
+0:10:28]}16.e4 {[%clk 0:09:48]}16...Bxe4 {[%clk 0:10:21]}17.Ng5 {[%clk
+0:09:52]}17...Bb7 {[%clk 0:10:19]}18.Qh5 {[%clk 0:09:52]}18...h6 {[%clk
+0:10:20]}19.Qg4 {[%clk 0:09:43]}19...Qxg5 {[%clk 0:10:09]}20.Qxg5 {[%clk
+0:09:47]}20...hxg5 {[%clk 0:10:13]}21.Rfd1 {[%clk 0:09:44]}21...Bf3 {[%clk
+0:10:15]}22.Rd3 {[%clk 0:09:46]}22...Be4 {[%clk 0:10:17]}23.Re3 {[%clk
+0:09:46]}23...Bc6 {[%clk 0:10:15]}24.f3 {[%clk 0:09:45]}24...Rad8 {[%clk
+0:10:16]}25.Kf2 {[%clk 0:09:47]}25...f5 {[%clk 0:10:07]}26.Rxe6 {[%clk
+0:09:46]}26...Rde8 {[%clk 0:09:53]}27.Rxe8 {[%clk 0:09:44]}27...Rxe8 {[%clk
+0:09:57]}28.Re1 {[%clk 0:09:48]}28...Rd8 {[%clk 0:09:54]}29.h4 {[%clk
+0:09:41]}29...gxh4 {[%clk 0:09:53]}30.gxh4 {[%clk 0:09:45]}30...Kh7 {[%clk
+0:09:51]}31.Rg1 {[%clk 0:09:49]}31...Bd5 {[%clk 0:09:47]}32.Rxg7+ {[%clk
+0:09:50]}32...Kh6 {[%clk 0:09:47]}33.Rf7 {[%clk 0:09:48]}33...Bxf7 {[%clk
+0:09:50]} { White resigns.} 0-1
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/v2aSBmIg"]
+[Date "2025.02.19"]
+[Round "2"]
+[White "pei12"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1874"]
+[BlackRatingDiff "-15"]
+[ECO "C44"]
+[EventDate "2025.02.19"]
+[GameId "v2aSBmIg"]
+[Opening "Scotch Game: Benima Defense"]
+[Termination "Normal"]
+[UTCDate "2025.02.19"]
+[UTCTime "00:59:09"]
+[Variant "Standard"]
+[WhiteElo "2009"]
+[WhiteRatingDiff "+20"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Be7 5.Nxd4 Nf6 6.Nxc6 dxc6 7.Qxd8+ Bxd8 8.Nc3
+O-O 9.O-O Re8 10.Re1 b5 11.Bd3 a5 12.a3 Bb7 13.f4 h6 14.e5 Rb8 15.Bd2 Nd5
+16.Nxd5 cxd5 17.Bxa5 c6 18.Bxd8 Rbxd8 19.g3 Ba6 20.Kf2 c5 21.a4 c4 22.Be2 d4
+23.axb5 Bxb5 24.Ra5 Rb8 25.b3 d3 26.bxc4 dxe2 27.cxb5 Rec8 28.Rxe2 Rc5 29.Ke3
+Rbxb5 30.Rxb5 Rxb5 31.c4 Rb3+ 32.Kd4 Kf8 33.c5 Ke7 34.Kd5 Rd3+ 35.Kc6 g6 36.Kc7
+g5 37.c6 Rb3 38.Rd2 Rb2  1-0
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/OfKwoJ2P"]
+[Date "2025.02.17"]
+[Round "2"]
+[White "arandres0510"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1248"]
+[BlackRatingDiff "-7"]
+[ECO "B08"]
+[EventDate "2025.02.17"]
+[GameId "OfKwoJ2P"]
+[Opening "Pirc Defense: Classical Variation, Quiet System, Chigorin Line"]
+[Termination "Normal"]
+[UTCDate "2025.02.17"]
+[UTCTime "23:01:28"]
+[Variant "Standard"]
+[WhiteElo "1757"]
+[WhiteRatingDiff "+4"]
+
+1.e4 {[%clk 0:10:00]}1...g6 {[%clk 0:10:00]}2.d4 {[%clk 0:10:03]}2...Bg7 {[%clk
+0:10:03]}3.Nc3 {[%clk 0:10:05]}3...d6 {[%clk 0:10:07]}4.Nf3 {[%clk
+0:10:08]}4...Nf6 {[%clk 0:10:10]}5.Be2 {[%clk 0:10:08]}5...O-O {[%clk
+0:10:14]}6.O-O {[%clk 0:10:11]}6...Nc6 {[%clk 0:10:18]} { B08 Pirc Defense:
+Classical Variation, Quiet System, Chigorin Line}7.Be3 {[%clk 0:10:13]}7...Re8
+{[%clk 0:09:52]}8.h3 {[%clk 0:10:16]}8...e5 {[%clk 0:09:54]}9.d5 {[%clk
+0:10:19]}9...Ne7 {[%clk 0:09:56]}10.Qd2 {[%clk 0:10:18]}10...c6 {[%clk
+0:10:01]}11.Rad1 {[%clk 0:10:13]}11...b5 {[%clk 0:10:02]}12.a3 {[%clk
+0:10:16]}12...a5 {[%clk 0:10:06]}13.Rfe1 {[%clk 0:10:15]}13...b4 {[%clk
+0:10:09]}14.axb4 {[%clk 0:10:19]}14...axb4 {[%clk 0:10:13]}15.Nb1 {[%clk
+0:10:21]}15...c5 {[%clk 0:10:14]}16.c4 {[%clk 0:10:24]}16...Nxe4 {[%clk
+0:09:59]}17.Qc2 {[%clk 0:10:27]}17...Bf5 {[%clk 0:09:47]}18.Bd3 {[%clk
+0:10:30]}18...Nf6 {[%clk 0:09:38]}19.Bxf5 {[%clk 0:10:20]}19...Nxf5 {[%clk
+0:09:41]}20.Bg5 {[%clk 0:10:25]}20...e4 {[%clk 0:09:30]}21.Nfd2 {[%clk
+0:10:15]}21...e3 {[%clk 0:08:54]}22.fxe3 {[%clk 0:10:14]}22...Nxe3 {[%clk
+0:08:56]}23.Bxe3 {[%clk 0:10:16]}23...Ne4 {[%clk 0:08:52]}24.Nxe4 {[%clk
+0:10:18]}24...Qe7 {[%clk 0:08:48]}25.Nbd2 {[%clk 0:10:17]}25...Bd4 {[%clk
+0:08:49]}26.Bxd4 {[%clk 0:10:18]}26...cxd4 {[%clk 0:08:53]}27.Qd3 {[%clk
+0:09:59]}27...Ra3 {[%clk 0:08:55]}28.bxa3 {[%clk 0:10:02]} { Black resigns.}
+1-0
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/10wuqeor"]
+[Date "2025.02.22"]
+[Round "2"]
+[White "twinsendell"]
+[Black "Alejandro-mesa"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1486"]
+[BlackRatingDiff "-13"]
+[ECO "D01"]
+[EventDate "2025.05.22"]
+[GameId "10wuqeor"]
+[Opening "Rapport-Jobava System"]
+[Termination "Normal"]
+[UTCDate "2025.02.22"]
+[UTCTime "18:01:15"]
+[Variant "Standard"]
+[WhiteElo "1795"]
+[WhiteRatingDiff "+11"]
+
+1.d4 {[%clk 0:10:00]}1...d5 {[%clk 0:10:00]}2.Nc3 {[%clk 0:10:03]}2...Nf6 {[%clk
+0:10:02]}3.Bf4 {[%clk 0:10:03]} { D01 Rapport-Jobava System}3...a6 {[%clk
+0:10:05]}4.e3 {[%clk 0:10:06]}4...g6 {[%clk 0:10:02]}5.h4 {[%clk
+0:09:54]}5...b5 {[%clk 0:09:57]}6.Bd3 {[%clk 0:09:49]}6...Bg4 {[%clk
+0:09:52]}7.f3 {[%clk 0:09:52]}7...Be6 {[%clk 0:09:48]}8.g4 {[%clk
+0:09:54]}8...Bg7 {[%clk 0:09:49]}9.h5 {[%clk 0:09:52]}9...gxh5 {[%clk
+0:09:49]}10.gxh5 {[%clk 0:09:52]}10...Nbd7 {[%clk 0:09:46]}11.Qd2 {[%clk
+0:09:51]}11...Nb6 {[%clk 0:09:41]}12.h6 {[%clk 0:09:49]}12...Bf8 {[%clk
+0:09:43]}13.e4 {[%clk 0:09:45]}13...dxe4 {[%clk 0:09:40]}14.fxe4 {[%clk
+0:09:50]}14...Nc4 {[%clk 0:09:42]}15.Bxc4 {[%clk 0:09:40]}15...Bxc4 {[%clk
+0:09:47]}16.Nf3 {[%clk 0:08:49]}16...e6 {[%clk 0:09:43]}17.Ne5 {[%clk
+0:08:38]}17...Bb4 {[%clk 0:09:28]}18.Nxc4 {[%clk 0:07:49]}18...Nxe4 {[%clk
+0:09:26]}19.Qe3 {[%clk 0:07:23]}19...Nxc3 {[%clk 0:09:23]}20.bxc3 {[%clk
+0:07:28]}20...bxc4 {[%clk 0:08:25]}21.cxb4 {[%clk 0:07:30]}21...Qd5 {[%clk
+0:08:23]}22.O-O-O {[%clk 0:07:21]}22...Rb8 {[%clk 0:08:19]}23.a3 {[%clk
+0:07:23]}23...a5 {[%clk 0:08:18]}24.c3 {[%clk 0:07:27]}24...axb4 {[%clk
+0:08:21]}25.cxb4 {[%clk 0:07:31]}25...Ra8 {[%clk 0:08:25]}26.Be5 {[%clk
+0:07:32]}26...c3 {[%clk 0:08:23]}27.Bxh8 {[%clk 0:07:03]}27...Qb3 {[%clk
+0:08:24]}28.Qe2 {[%clk 0:06:58]}28...Rxa3 {[%clk 0:08:25]}29.Qb5+ {[%clk
+0:06:15]}29...Ke7 {[%clk 0:08:03]}30.Bf6+ {[%clk 0:05:10]}30...Kxf6 {[%clk
+0:06:26]}31.Rdf1+ {[%clk 0:04:51]}31...Ke7 {[%clk 0:06:27]}32.Qc5+ {[%clk
+0:04:52]}32...Kd7 {[%clk 0:06:19]}33.Rxf7+ {[%clk 0:04:52]}33...Kc8 {[%clk
+0:06:18]}34.Qxc7# {[%clk 0:04:51]} { White wins by checkmate.} 1-0
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/oEQmdQWQ"]
+[Date "2025.02.26"]
+[Round "3"]
+[White "cgallego00"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1213"]
+[BlackRatingDiff "-3"]
+[ECO "B01"]
+[EventDate "2025.02.26"]
+[GameId "oEQmdQWQ"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+[UTCDate "2025.02.26"]
+[UTCTime "16:47:23"]
+[Variant "Standard"]
+[WhiteElo "1859"]
+[WhiteRatingDiff "+1"]
+
+1.e4 {[%clk 0:10:00]}1...d5 {[%clk 0:10:00]} { B01 Scandinavian Defense}2.e5
+{[%clk 0:10:03]}2...Bf5 {[%clk 0:09:59]}3.d4 {[%clk 0:10:07]}3...e6 {[%clk
+0:10:02]}4.Nf3 {[%clk 0:10:07]}4...Nc6 {[%clk 0:10:04]}5.c4 {[%clk
+0:10:09]}5...Nge7 {[%clk 0:09:17]}6.c5 {[%clk 0:10:10]}6...b6 {[%clk
+0:09:12]}7.b4 {[%clk 0:10:12]}7...bxc5 {[%clk 0:09:16]}8.bxc5 {[%clk
+0:10:15]}8...Rb8 {[%clk 0:09:18]}9.Nc3 {[%clk 0:10:17]}9...Ng6 {[%clk
+0:09:14]}10.h3 {[%clk 0:10:14]}10...Be7 {[%clk 0:09:09]}11.Bd3 {[%clk
+0:10:14]}11...Bxd3 {[%clk 0:09:08]}12.Qxd3 {[%clk 0:10:19]}12...Nf4 {[%clk
+0:09:12]}13.Bxf4 {[%clk 0:10:18]}13...O-O {[%clk 0:09:12]}14.O-O {[%clk
+0:10:10]}14...Nb4 {[%clk 0:09:16]}15.Qd2 {[%clk 0:10:06]}15...f6 {[%clk
+0:09:12]}16.a3 {[%clk 0:10:08]}16...Nc6 {[%clk 0:09:14]}17.Rab1 {[%clk
+0:10:05]}17...fxe5 {[%clk 0:09:06]}18.Bxe5 {[%clk 0:10:02]}18...Nxe5 {[%clk
+0:09:08]}19.Nxe5 {[%clk 0:10:07]}19...Rxb1 {[%clk 0:09:09]}20.Rxb1 {[%clk
+0:10:09]}20...Rf4 {[%clk 0:09:10]}21.Nc6 {[%clk 0:10:05]}21...Rxd4 {[%clk
+0:09:04]}22.Nxe7+ {[%clk 0:09:56]}22...Qxe7 {[%clk 0:09:07]}23.Qxd4 {[%clk
+0:10:01]}23...c6 {[%clk 0:09:04]}24.Qf4 {[%clk 0:10:02]}24...Qf6 {[%clk
+0:09:05]}25.Rb8+ {[%clk 0:10:04]}25...Kf7 {[%clk 0:09:09]}26.Rb7+ {[%clk
+0:10:03]}26...Kg6 {[%clk 0:09:13]}27.Qg4+ {[%clk 0:10:05]}27...Qg5 {[%clk
+0:09:16]}28.Qxe6+ {[%clk 0:10:08]}28...Qf6 {[%clk 0:09:19]}29.Qg4+ {[%clk
+0:09:51]}29...Qg5 {[%clk 0:09:23]}30.Rxg7+ {[%clk 0:09:55]} { Black resigns.}
+1-0
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/dLqdga9D"]
+[Date "2025.03.02"]
+[Round "3"]
+[White "Alejandro-mesa"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "2038"]
+[BlackRatingDiff "+2"]
+[ECO "A45"]
+[EventDate "2025.03.02"]
+[GameId "dLqdga9D"]
+[Opening "Trompowsky Attack"]
+[Termination "Normal"]
+[UTCDate "2025.03.02"]
+[UTCTime "17:29:58"]
+[Variant "Standard"]
+[WhiteElo "1465"]
+[WhiteRatingDiff "-3"]
+
+1.d4 {[%clk 0:10:00]}1...Nf6 {[%clk 0:10:00]}2.Bg5 {[%clk 0:09:56]} { A45
+Trompowsky Attack}2...h6 {[%clk 0:10:03]}3.Bxf6 {[%clk 0:10:00]}3...gxf6 {[%clk
+0:10:06]}4.e4 {[%clk 0:10:03]}4...Bg7 {[%clk 0:10:10]}5.Nf3 {[%clk
+0:10:02]}5...e6 {[%clk 0:10:12]}6.g3 {[%clk 0:10:06]}6...b6 {[%clk
+0:10:12]}7.Bg2 {[%clk 0:10:10]}7...Bb7 {[%clk 0:10:16]}8.O-O {[%clk
+0:10:12]}8...Bxe4 {[%clk 0:10:19]}9.Qe1 {[%clk 0:10:08]}9...Bxc2 {[%clk
+0:10:13]}10.Nbd2 {[%clk 0:09:57]}10...Nc6 {[%clk 0:10:06]}11.Nh4 {[%clk
+0:09:54]}11...Bd3 {[%clk 0:10:08]}12.d5 {[%clk 0:09:55]}12...Ne5 {[%clk
+0:09:58]}13.dxe6 {[%clk 0:09:57]}13...fxe6 {[%clk 0:10:01]}14.Bxa8 {[%clk
+0:09:59]}14...Qxa8 {[%clk 0:10:06]}15.Qe3 {[%clk 0:09:42]}15...Bxf1 {[%clk
+0:10:06]}16.Rxf1 {[%clk 0:09:47]}16...Kf7 {[%clk 0:09:56]}17.Qe4 {[%clk
+0:09:47]}17...Qxe4 {[%clk 0:09:59]}18.Nxe4 {[%clk 0:09:52]}18...f5 {[%clk
+0:09:57]}19.Nc3 {[%clk 0:09:54]}19...Ng6 {[%clk 0:09:52]}20.Nf3 {[%clk
+0:09:52]}20...Bxc3 {[%clk 0:09:54]}21.bxc3 {[%clk 0:09:55]}21...d6 {[%clk
+0:09:59]}22.Nd4 {[%clk 0:09:56]}22...Ne5 {[%clk 0:09:47]}23.f4 {[%clk
+0:09:57]}23...Ng4 {[%clk 0:09:39]}24.Re1 {[%clk 0:09:56]}24...Re8 {[%clk
+0:09:43]}25.Nc6 {[%clk 0:09:59]}25...a5 {[%clk 0:09:42]}26.a4 {[%clk
+0:09:52]}26...Nf6 {[%clk 0:09:40]}27.c4 {[%clk 0:09:51]}27...Ne4 {[%clk
+0:09:33]}28.Kg2 {[%clk 0:09:43]}28...Nc5 {[%clk 0:09:32]}29.Ra1 {[%clk
+0:09:42]}29...e5 {[%clk 0:09:30]}30.fxe5 {[%clk 0:09:46]}30...dxe5 {[%clk
+0:09:35]}31.Re1 {[%clk 0:09:43]}31...e4 {[%clk 0:09:33]}32.g4 {[%clk
+0:09:43]}32...Rg8 {[%clk 0:09:33]}33.Ne5+ {[%clk 0:09:35]}33...Ke6 {[%clk
+0:09:30]}34.Nc6 {[%clk 0:09:36]}34...Rxg4+ {[%clk 0:09:32]}35.Kh3 {[%clk
+0:09:40]}35...Nd3 {[%clk 0:09:21]}36.Rf1 {[%clk 0:09:29]}36...Nf4+ {[%clk
+0:09:14]}37.Rxf4 {[%clk 0:09:32]}37...Rxf4 {[%clk 0:09:18]}38.Nd4+ {[%clk
+0:09:34]}38...Ke5 {[%clk 0:09:22]}39.Ne2 {[%clk 0:09:38]}39...Rf3+ {[%clk
+0:09:26]}40.Kg2 {[%clk 0:09:38]}40...Ra3 {[%clk 0:09:28]}41.h4 {[%clk
+0:09:38]}41...f4 {[%clk 0:09:24]}42.Nc3 {[%clk 0:09:41]} { White resigns.} 0-1
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/gwCEKWiw"]
+[Date "2025.03.15"]
+[Round "3"]
+[White "twinsendell"]
+[Black "arandres0510"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1768"]
+[BlackRatingDiff "-17"]
+[ECO "D01"]
+[EventDate "2025.03.15"]
+[GameId "gwCEKWiw"]
+[Opening "Rapport-Jobava System"]
+[Termination "Normal"]
+[UTCDate "2025.03.15"]
+[UTCTime "20:17:38"]
+[Variant "Standard"]
+[WhiteElo "1847"]
+[WhiteRatingDiff "+22"]
+
+1.d4 {[%clk 0:10:00]}1...d5 {[%clk 0:10:00]}2.Nc3 {[%clk 0:09:59]}2...e6 {[%clk
+0:10:04]}3.Bf4 {[%clk 0:10:02]}3...Nf6 {[%clk 0:10:07]} { D01 Rapport-Jobava
+System}4.e3 {[%clk 0:10:05]}4...c6 {[%clk 0:10:10]}5.Nf3 {[%clk
+0:10:05]}5...Nh5 {[%clk 0:10:12]}6.Ne5 {[%clk 0:10:02]}6...Nxf4 {[%clk
+0:10:15]}7.exf4 {[%clk 0:10:07]}7...Nd7 {[%clk 0:10:15]}8.g3 {[%clk
+0:10:11]}8...Nxe5 {[%clk 0:10:19]}9.fxe5 {[%clk 0:10:16]}9...c5 {[%clk
+0:10:23]}10.dxc5 {[%clk 0:10:18]}10...Bxc5 {[%clk 0:10:26]}11.Bg2 {[%clk
+0:10:19]}11...Qc7 {[%clk 0:10:27]}12.f4 {[%clk 0:09:30]}12...O-O {[%clk
+0:10:28]}13.Qd3 {[%clk 0:09:27]}13...a6 {[%clk 0:10:30]}14.O-O-O {[%clk
+0:09:12]}14...b5 {[%clk 0:10:32]}15.f5 {[%clk 0:08:54]}15...b4 {[%clk
+0:10:34]}16.Na4 {[%clk 0:08:51]}16...Ba7 {[%clk 0:10:36]}17.fxe6 {[%clk
+0:08:26]}17...Bxe6 {[%clk 0:10:39]}18.Bxd5 {[%clk 0:08:25]}18...Qxe5 {[%clk
+0:10:41]}19.Bxa8 {[%clk 0:08:06]}19...g6 {[%clk 0:10:23]}20.Qe4 {[%clk
+0:07:23]}20...Qg5+ {[%clk 0:10:13]}21.Kb1 {[%clk 0:07:23]}21...Bf5 {[%clk
+0:10:06]}22.Qd5 {[%clk 0:06:37]}22...Rc8 {[%clk 0:10:03]}23.Bc6 {[%clk
+0:05:58]}23...b3 {[%clk 0:09:53]}24.axb3 {[%clk 0:05:49]}24...Qe3 {[%clk
+0:09:43]}25.Rhe1 {[%clk 0:04:59]}25...Qf2 {[%clk 0:09:34]}26.Re8+ {[%clk
+0:04:15]}26...Kg7 {[%clk 0:09:37]}27.Qe5+ {[%clk 0:03:45]}27...Kh6 {[%clk
+0:09:29]}28.Qf4+ {[%clk 0:03:42]}28...Qxf4 {[%clk 0:09:32]}29.gxf4 {[%clk
+0:03:47]}29...Rxc6 {[%clk 0:09:31]}30.Nc3 {[%clk 0:03:39]}30...Bb6 {[%clk
+0:08:46]}31.Re2 {[%clk 0:02:45]}31...Bg4 {[%clk 0:08:45]}32.Red2 {[%clk
+0:02:47]}32...Bxd1 {[%clk 0:08:48]}33.Rxd1 {[%clk 0:02:52]}33...Be3 {[%clk
+0:08:46]}34.Nd5 {[%clk 0:02:52]}34...Rd6 {[%clk 0:08:25]}35.Nxe3 {[%clk
+0:02:55]}35...Re6 {[%clk 0:08:24]}36.Rd3 {[%clk 0:02:43]}36...Kh5 {[%clk
+0:08:24]}37.f5 {[%clk 0:02:45]}37...gxf5 {[%clk 0:08:25]}38.Nxf5 {[%clk
+0:02:43]}38...Re2 {[%clk 0:08:26]} { Black resigns.} 1-0
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/2fpMmL68"]
+[Date "2025.02.27"]
+[Round "3"]
+[White "Alejandro-mesa"]
+[Black "cgallego00"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1860"]
+[BlackRatingDiff "+6"]
+[ECO "C41"]
+[GameId "2fpMmL68"]
+[Opening "Philidor Defense"]
+[Termination "Normal"]
+[UTCDate "2025.02.27"]
+[UTCTime "01:10:03"]
+[Variant "Standard"]
+[WhiteElo "1473"]
+[WhiteRatingDiff "-8"]
+
+1.e4 {[%clk 0:10:00]}1...e5 {[%clk 0:10:00]}2.Nf3 {[%clk 0:09:57]}2...d6 {[%clk
+0:10:04]} { C41 Philidor Defense}3.Nc3 {[%clk 0:09:58]}3...Nf6 {[%clk
+0:10:07]}4.d3 {[%clk 0:09:48]}4...Be7 {[%clk 0:10:10]}5.Bg5 {[%clk
+0:09:39]}5...h6 {[%clk 0:10:08]}6.Be3 {[%clk 0:09:38]}6...Nc6 {[%clk
+0:10:09]}7.Nd5 {[%clk 0:09:40]}7...Nxd5 {[%clk 0:10:06]}8.exd5 {[%clk
+0:09:45]}8...Nb4 {[%clk 0:10:08]}9.c4 {[%clk 0:09:38]}9...Bf5 {[%clk
+0:10:01]}10.Qa4+ {[%clk 0:09:39]}10...Bd7 {[%clk 0:09:55]}11.Qxb4 {[%clk
+0:09:42]}11...O-O {[%clk 0:10:00]}12.Qxb7 {[%clk 0:09:45]}12...Rb8 {[%clk
+0:10:04]}13.Qxa7 {[%clk 0:09:43]}13...Rxb2 {[%clk 0:10:08]}14.Be2 {[%clk
+0:09:39]}14...c6 {[%clk 0:10:11]}15.O-O {[%clk 0:09:33]}15...cxd5 {[%clk
+0:10:15]}16.Bd1 {[%clk 0:09:24]}16...d4 {[%clk 0:10:15]}17.Bc1 {[%clk
+0:09:23]}17...Rb8 {[%clk 0:10:10]}18.Ba4 {[%clk 0:08:56]}18...Bf5 {[%clk
+0:10:02]}19.Bc2 {[%clk 0:08:26]}19...g5 {[%clk 0:09:54]}20.c5 {[%clk
+0:08:28]}20...g4 {[%clk 0:09:34]}21.Nd2 {[%clk 0:08:25]}21...dxc5 {[%clk
+0:09:34]}22.Ne4 {[%clk 0:08:21]}22...Bxe4 {[%clk 0:09:32]}23.dxe4 {[%clk
+0:08:24]}23...h5 {[%clk 0:09:29]}24.Bh6 {[%clk 0:08:16]}24...Re8 {[%clk
+0:09:30]}25.Bb3 {[%clk 0:07:39]}25...Qd6 {[%clk 0:09:13]}26.Bg5 {[%clk
+0:06:36]}26...Bxg5 {[%clk 0:07:34]}27.Qxf7+ {[%clk 0:06:35]}27...Kh8 {[%clk
+0:07:37]}28.Qxh5+ {[%clk 0:06:35]}28...Qh6 {[%clk 0:07:30]}29.Qxg4 {[%clk
+0:06:19]}29...Kg7 {[%clk 0:07:24]}30.Qd7+ {[%clk 0:06:16]}30...Re7 {[%clk
+0:07:17]}31.Qg4 {[%clk 0:05:01]}31...Rh8 {[%clk 0:07:12]}32.h3 {[%clk
+0:04:55]}32...Qg6 {[%clk 0:06:51]}33.Rac1 {[%clk 0:04:39]}33...Rh4 {[%clk
+0:06:34]}34.Qc8 {[%clk 0:03:56]}34...Bxc1 {[%clk 0:06:34]}35.Qg8+ {[%clk
+0:03:57]}35...Kh6 {[%clk 0:05:52]}36.Qh8+ {[%clk 0:03:42]}36...Kg5 {[%clk
+0:05:55]}37.Rxc1 {[%clk 0:03:30]}37...Rxh8 {[%clk 0:05:58]} { White resigns.}
+0-1
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/Ac8PFAtx"]
+[Date "2025.02.26"]
+[Round "3"]
+[White "IAHMCOL"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1806"]
+[BlackRatingDiff "+3"]
+[ECO "A45"]
+[EventDate "2025.02.26"]
+[GameId "Ac8PFAtx"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+[UTCDate "2025.02.26"]
+[UTCTime "00:03:14"]
+[Variant "Standard"]
+[WhiteElo "1217"]
+[WhiteRatingDiff "-4"]
+
+1.Nc3 d5 2.d4 Nf6 3.Nf3 c5 4.e3 Nc6 5.Bb5 Bg4 6.Bxc6+ bxc6 7.h3 Bxf3 8.Qxf3 cxd4
+9.exd4 e6 10.O-O c5 11.Rd1 cxd4 12.Rxd4 Be7 13.b3 O-O 14.Bb2 Qc7 15.Nb5 Qxc2
+16.Ba3 Bxa3 17.Nxa3 Qb2 18.Rdd1 Qxa3 19.g4 Rac8 20.Kg2 Rc2 21.h4 Ne4 22.Rf1 Nd2
+23.Qd3 Qb2 24.Rad1 Ne4 25.Kf3 Rxf2+ 26.Rxf2 Qxf2#  0-1
+
+[Event "Los Chinchess XII"]
+[Site "https://lichess.org/z77Jbycn"]
+[Date "2025.02.28"]
+[Round "3"]
+[White "pei12"]
+[Black "arandres0510"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1785"]
+[BlackRatingDiff "-11"]
+[ECO "C02"]
+[EventDate "2025.02.28"]
+[GameId "z77Jbycn"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[Termination "Normal"]
+[UTCDate "2025.02.28"]
+[UTCTime "03:12:55"]
+[Variant "Standard"]
+[WhiteElo "2027"]
+[WhiteRatingDiff "+11"]
+
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 a6 6.Be3 cxd4 7.cxd4 Nge7 8.Bd3 Qb6 9.Qd2
+Nb4 10.Na3 Nxd3+ 11.Qxd3 Nf5 12.O-O Bxa3 13.bxa3 O-O 14.Rab1 Qa5 15.Bd2 Qd8
+16.Ng5 Rb8 17.g4 h6 18.Nf3 Nh4 19.h3 Bd7 20.Nxh4 Qxh4 21.Qe3 Rfc8 22.Kh2 Rc2
+23.Rfc1 Rxa2 24.Rc7 Bc6 25.Rxc6 Qe7 26.Rcb6 Qxa3 27.Qxa3 Rxa3 28.Rxb7 Rxb7
+29.Rxb7 Ra2 30.Be3 a5 31.Ra7 a4 32.Kg2 Ra1 33.Kf3 a3 34.Ke2 Ra2+ 35.Kd1 Ra1+
+36.Kc2 a2 37.Kb2 Rh1 38.Rxa2 Rxh3 39.Ra7 Rh4 40.g5 h5 41.Ra1 g6 42.Kc3 Rg4
+43.Ra8+ Kg7 44.Kb4 h4 45.Kc5 h3 46.Ra1 h2 47.Rh1 Rh4 48.Kd6 Rh5 49.Kc5 Rh4
+50.Kb4 Kf8 51.Kc3 Ke8 52.Kd2 Kd7 53.Ke2 Kc6 54.Kf3 Kb5 55.Kg3 Rh5 56.Rxh2 Rxh2
+57.Kxh2 Kc4 58.Kg2 Kd3 59.Kf1 Ke4 60.Ke2 Kf5 61.Kd3 Kg4 62.Kc3 Kf5 63.Kb4  1-0
+
