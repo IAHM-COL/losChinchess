@@ -32,8 +32,8 @@
 
 | Rango | Jugador                    | Peones Coronados |
 |-------+----------------------------+------------------|
-|     1 | Andres (arandres0510)      |                2 |
-|     2 | Alejandro (Alejandro-Mesa) |                2 |
-|     3 | Pei (pei12)                |                1 |
-|     4 | Mauricio (twinsendell)     |                1 |
+|     1 | Mauricio (twinsendell)     |                2 |
+|     2 | Andres (arandres0510)      |                2 |
+|     3 | Alejandro (Alejandro-Mesa) |                2 |
+|     4 | Pei (pei12)                |                1 |
 
