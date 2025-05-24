@@ -1,0 +1,28 @@
+* Torneo de Ajedrez Los Chinchess XIII
+
+*** Group
+|                | pei12   | cgallego00   | kopalito   | twinsendell   | arandres0510   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+---------+--------------+------------+---------------+----------------+------------------+----------+-----+--------------+------------|
+| pei12          | x       |              |            |               |                |                  |        0 |   0 |            0 |       2051 |
+| cgallego00     |         | x            |            |               |                |                  |        0 |   0 |            0 |       1883 |
+| kopalito       |         |              | x          |               |                |                  |        0 |   0 |            0 |       1871 |
+| twinsendell    |         |              |            | x             |                |                  |        0 |   0 |            0 |       1863 |
+| arandres0510   |         |              |            |               | x              |                  |        0 |   0 |            0 |       1738 |
+| Alejandro-mesa |         |              |            |               |                | x                |        0 |   0 |            0 |       1476 |
+
+** Crosstable
+
+*** Final
+|    | A1   | A2   |   points |   w |   neudstadtl |   glicko_2 |
+|----+------+------+----------+-----+--------------+------------|
+| A1 | x    |      |        0 |   0 |            0 |       1500 |
+| A2 |      | x    |        0 |   0 |            0 |       1500 |
+
+*** Tercero
+|    | A3   | A4   |   points |   w |   neudstadtl |   glicko_2 |
+|----+------+------+----------+-----+--------------+------------|
+| A3 | x    |      |        0 |   0 |            0 |       1500 |
+| A4 |      | x    |        0 |   0 |            0 |       1500 |
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
