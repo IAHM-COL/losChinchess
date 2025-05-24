@@ -1,14 +1,15 @@
 * Torneo de Ajedrez Los Chinchess XIII
 
 *** Group
-|                | pei12   | cgallego00   | kopalito   | twinsendell   | arandres0510   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
-|----------------+---------+--------------+------------+---------------+----------------+------------------+----------+-----+--------------+------------|
-| pei12          | x       |              |            |               |                |                  |        0 |   0 |            0 |       2051 |
-| cgallego00     |         | x            |            |               |                |                  |        0 |   0 |            0 |       1883 |
-| kopalito       |         |              | x          |               |                |                  |        0 |   0 |            0 |       1871 |
-| twinsendell    |         |              |            | x             |                |                  |        0 |   0 |            0 |       1863 |
-| arandres0510   |         |              |            |               | x              |                  |        0 |   0 |            0 |       1738 |
-| Alejandro-mesa |         |              |            |               |                | x                |        0 |   0 |            0 |       1476 |
+|                | pei12   | cgallego00   | kopalito   | twinsendell   | arandres0510   | Alejandro-mesa   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+---------+--------------+------------+---------------+----------------+------------------+-----------+----------+-----+--------------+------------|
+| pei12          | x       |              |            |               |                |                  |           |        0 |   0 |            0 |       2051 |
+| cgallego00     |         | x            |            |               |                |                  |           |        0 |   0 |            0 |       1883 |
+| kopalito       |         |              | x          |               |                |                  |           |        0 |   0 |            0 |       1871 |
+| twinsendell    |         |              |            | x             |                |                  |           |        0 |   0 |            0 |       1863 |
+| arandres0510   |         |              |            |               | x              |                  |           |        0 |   0 |            0 |       1738 |
+| Alejandro-mesa |         |              |            |               |                | x                |           |        0 |   0 |            0 |       1476 |
+| IAHMCOL        |         |              |            |               |                |                  | x         |        0 |   0 |            0 |       1183 |
 
 ** Crosstable
 
