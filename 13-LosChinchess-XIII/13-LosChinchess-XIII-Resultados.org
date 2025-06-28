@@ -1,6 +1,20 @@
 * Torneo de Ajedrez Los Chinchess XIII
 
-*** Group
+** Crosstable
+
+*** Final
+|             | pei12   | twinsendell   |   points |   w |   neudstadtl |   glicko_2 |
+|-------------+---------+---------------+----------+-----+--------------+------------|
+| pei12       | x       |               |        0 |   0 |            0 |       2051 |
+| twinsendell |         | x             |        0 |   0 |            0 |       1863 |
+
+*** Tercero
+|            | cgallego00   | kopalito   |   points |   w |   neudstadtl |   glicko_2 |
+|------------+--------------+------------+----------+-----+--------------+------------|
+| cgallego00 | x            |            |        0 |   0 |            0 |       1883 |
+| kopalito   |              | x          |        0 |   0 |            0 |       1871 |
+
+*** Grupo
 |                | pei12   | twinsendell   | kopalito   | cgallego00   | arandres0510   | Alejandro-mesa   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
 |----------------+---------+---------------+------------+--------------+----------------+------------------+-----------+----------+-----+--------------+------------|
 | pei12          | x       | 0             | 2.0        | 2.0          | 2.0            | 0.5              | 2.0       |      8.5 |   0 |        41.5  |       2051 |
@@ -10,20 +24,6 @@
 | arandres0510   | 0       | 0             | 0          | 1.5          | x              | 0                | 2.0       |      3.5 |   0 |        13.25 |       1738 |
 | Alejandro-mesa | 0.5     | 0.5           | 0          | 0            | 1.0            | x                | 1.0       |      3   |   0 |        13    |       1476 |
 | IAHMCOL        | 0       | 0             | 0          | 0            | 0              | 1.0              | x         |      1   |   0 |         3    |       1183 |
-
-** Crosstable
-
-*** Final
-|    | A1   | A2   |   points |   w |   neudstadtl |   glicko_2 |
-|----+------+------+----------+-----+--------------+------------|
-| A1 | x    |      |        0 |   0 |            0 |       1500 |
-| A2 |      | x    |        0 |   0 |            0 |       1500 |
-
-*** Tercero
-|    | A3   | A4   |   points |   w |   neudstadtl |   glicko_2 |
-|----+------+------+----------+-----+--------------+------------|
-| A3 | x    |      |        0 |   0 |            0 |       1500 |
-| A4 |      | x    |        0 |   0 |            0 |       1500 |
 
 -------
 Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
