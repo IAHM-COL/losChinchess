@@ -9,10 +9,10 @@
 | twinsendell | 1.0     | x             |        1 |   0 |            2 |       1863 |
 
 *** Tercero
-|            | cgallego00   | kopalito   |   points |   w |   neudstadtl |   glicko_2 |
-|------------+--------------+------------+----------+-----+--------------+------------|
-| cgallego00 | x            |            |        0 |   0 |            0 |       1883 |
-| kopalito   |              | x          |        0 |   0 |            0 |       1871 |
+|            | kopalito   | cgallego00   |   points |   w |   neudstadtl |   glicko_2 |
+|------------+------------+--------------+----------+-----+--------------+------------|
+| kopalito   | x          | 2.0          |        2 |   0 |            0 |       1871 |
+| cgallego00 | 0          | x            |        0 |   0 |            0 |       1883 |
 
 *** Grupo
 |                | pei12   | twinsendell   | kopalito   | cgallego00   | Alejandro-mesa   | arandres0510   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
