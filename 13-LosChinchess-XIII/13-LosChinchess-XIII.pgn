@@ -1,0 +1,1604 @@
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/GmhE8kp3"]
+[Date "2025.05.31"]
+[Round "1"]
+[White "pei12"]
+[Black "arandres0510"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1205"]
+[BlackRatingDiff "-62"]
+[EventDate "2025.05.31"]
+[FEN "nqrbkrbn/pppppppp/8/8/8/8/PPPPPPPP/NQRBKRBN w KQkq - 0 1"]
+[GameId "GmhE8kp3"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.05.31"]
+[UTCTime "23:15:19"]
+[Variant "Chess960"]
+[WhiteElo "1500"]
+[WhiteRatingDiff "+132"]
+
+1.h3 Nb6 2.Bh2 Ng6 3.Nb3 a6 4.O-O h6 5.c3 Bh7 6.Bc2 O-O 7.f4 f5 8.Nf2 e6 9.e4
+Ne7 10.exf5 exf5 11.Nd4 Qa7 12.Kh1 c5 13.Nf3 d6 14.Rce1 Nbd5 15.d4 b5 16.dxc5
+Qxc5 17.Nd4 Re8 18.Nd3 Qb6 19.Bg1 Qb7 20.Nb4 Nxb4 21.cxb4 Kh8 22.Bxf5 Rc4
+23.Bxh7 Rxd4 24.Bxd4 Qd5 25.Bc3 Bb6 26.Be4 Qh5 27.Bf3 Qf7 28.Qd1 Qxf4 29.Bc6
+Qxf1+ 30.Rxf1 Nxc6 31.Qxd6 Rc8 32.Rf8+ Rxf8 33.Qxf8+ Kh7 34.Qxg7#  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/cnopIlrP"]
+[Date "2025.05.30"]
+[Round "1"]
+[White "cgallego00"]
+[Black "Alejandro-mesa"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1500"]
+[BlackRatingDiff "-120"]
+[EventDate "2025.05.30"]
+[FEN "qnnrkbbr/pppppppp/8/8/8/8/PPPPPPPP/QNNRKBBR w KQkq - 0 1"]
+[GameId "cnopIlrP"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.05.30"]
+[UTCTime "01:45:22"]
+[Variant "Chess960"]
+[WhiteElo "1677"]
+[WhiteRatingDiff "+3"]
+
+1.f3 {[%clk 0:10:00]}1...e5 {[%clk 0:10:00]}2.b3 {[%clk 0:09:56]}2...Nc6 {[%clk
+0:09:58]}3.Qc3 {[%clk 0:09:57]}3...Bb4 {[%clk 0:09:53]}4.Qd3 {[%clk
+0:09:53]}4...N8e7 {[%clk 0:09:09]}5.a3 {[%clk 0:09:56]}5...Bd6 {[%clk
+0:08:56]}6.Nc3 {[%clk 0:09:54]}6...Bxa3 {[%clk 0:08:55]}7.N1a2 {[%clk
+0:09:55]}7...Bb4 {[%clk 0:08:48]}8.Nxb4 {[%clk 0:09:55]}8...Nxb4 {[%clk
+0:08:52]}9.Qe4 {[%clk 0:09:45]}9...b6 {[%clk 0:08:30]}10.Qxb4 {[%clk
+0:09:41]}10...Nc6 {[%clk 0:08:13]}11.Qg4 {[%clk 0:09:41]}11...g6 {[%clk
+0:07:51]}12.Nd5 {[%clk 0:09:44]}12...f5 {[%clk 0:07:05]}13.Nf6+ {[%clk
+0:09:13]}13...Kf7 {[%clk 0:07:06]}14.Qg5 {[%clk 0:09:17]}14...Nd4 {[%clk
+0:07:02]}15.Bxd4 {[%clk 0:09:14]}15...exd4 {[%clk 0:07:05]}16.e3 {[%clk
+0:09:09]}16...Qc6 {[%clk 0:06:54]}17.Bc4+ {[%clk 0:09:03]}17...Kg7 {[%clk
+0:06:44]}18.Nxg8 {[%clk 0:08:58]}18...Rhxg8 {[%clk 0:06:48]}19.Bxg8 {[%clk
+0:09:01]}19...Rxg8 {[%clk 0:06:51]}20.Qe7+ {[%clk 0:09:03]}20...Kh8 {[%clk
+0:06:54]}21.O-O {[%clk 0:09:02]}21...Qxc2 {[%clk 0:06:54]}22.Qxd7 {[%clk
+0:08:57]}22...Qxb3 {[%clk 0:06:54]}23.Qxd4+ {[%clk 0:08:57]}23...Rg7 {[%clk
+0:06:56]}24.Rc1 {[%clk 0:08:55]}24...Kg8 {[%clk 0:06:55]}25.Qc4+ {[%clk
+0:08:56]}25...Qxc4 {[%clk 0:06:59]}26.Rxc4 {[%clk 0:09:01]}26...Rd7 {[%clk
+0:07:00]}27.d4 {[%clk 0:09:04]}27...b5 {[%clk 0:07:01]}28.Rc5 {[%clk
+0:09:05]}28...a6 {[%clk 0:07:04]}29.Ra1 {[%clk 0:09:09]}29...f4 {[%clk
+0:07:01]}30.Kf2 {[%clk 0:09:08]}30...fxe3+ {[%clk 0:07:00]}31.Kxe3 {[%clk
+0:09:13]}31...Re7+ {[%clk 0:07:03]}32.Kd3 {[%clk 0:09:15]} { Black resigns.}
+1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/CFrHX5ta"]
+[Date "2025.05.27"]
+[Round "1"]
+[White "kopalito"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1500"]
+[BlackRatingDiff "-242"]
+[EventDate "2025.05.27"]
+[FEN "rnbqnbkr/pppppppp/8/8/8/8/PPPPPPPP/RNBQNBKR w KQkq - 0 1"]
+[GameId "CFrHX5ta"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.05.27"]
+[UTCTime "20:05:57"]
+[Variant "Chess960"]
+[WhiteElo "1500"]
+[WhiteRatingDiff "+241"]
+
+1.e4 Nc6 2.Bc4 e6 3.Nc3 Be7 4.Nf3 O-O 5.O-O Nf6 6.d4 Qe8 7.Nb5 Qd8 8.Bf4 d6 9.e5
+Nh5 10.exd6 cxd6 11.Be3 a6 12.Nc3 b5 13.Bd3 Bb7 14.Nd2 Bg5 15.Qxh5 h6 16.Bxg5
+f6 17.Bxh6 gxh6 18.Qxh6 Rf7 19.Rfe1 Nxd4 20.Re3 Rg7 21.Nde4 Rxg2+ 22.Kxg2 Bxe4+
+23.Nxe4 f5 24.Rg3+ Kf7 25.Rg7+ Ke8 26.Qh8#  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/m8U36tts"]
+[Date "2025.06.09"]
+[Round "1"]
+[White "pei12"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1732"]
+[BlackRatingDiff "-5"]
+[EventDate "2025.06.09"]
+[FEN "rnnkrqbb/pppppppp/8/8/8/8/PPPPPPPP/RNNKRQBB w KQkq - 0 1"]
+[GameId "m8U36tts"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.09"]
+[UTCTime "01:57:17"]
+[Variant "Chess960"]
+[WhiteElo "1647"]
+[WhiteRatingDiff "+175"]
+
+1.g3 {[%clk 0:10:00]}1...Nc6 {[%clk 0:10:00]}2.Nc3 {[%clk 0:09:57]}2...Nb6
+{[%clk 0:10:04]}3.Nd3 {[%clk 0:09:59]}3...O-O-O {[%clk 0:10:07]}4.O-O-O {[%clk
+0:10:01]}4...Kb8 {[%clk 0:10:11]}5.f4 {[%clk 0:09:59]}5...f5 {[%clk
+0:10:15]}6.Qg2 {[%clk 0:10:03]}6...g6 {[%clk 0:10:18]}7.e4 {[%clk
+0:09:42]}7...Bxc3 {[%clk 0:10:19]}8.dxc3 {[%clk 0:09:45]}8...Qf7 {[%clk
+0:10:18]}9.b3 {[%clk 0:09:42]}9...fxe4 {[%clk 0:10:09]}10.Rxe4 {[%clk
+0:09:38]}10...d5 {[%clk 0:10:11]}11.Ree1 {[%clk 0:09:33]}11...Qf6 {[%clk
+0:10:13]}12.Ne5 {[%clk 0:09:34]}12...Nxe5 {[%clk 0:10:14]}13.Rxe5 {[%clk
+0:09:35]}13...e6 {[%clk 0:10:10]}14.Bxb6 {[%clk 0:09:31]}14...axb6 {[%clk
+0:10:12]}15.c4 {[%clk 0:09:35]}15...c6 {[%clk 0:10:16]}16.Qf2 {[%clk
+0:09:25]}16...Kc7 {[%clk 0:10:15]}17.cxd5 {[%clk 0:09:23]}17...exd5 {[%clk
+0:10:15]}18.Rde1 {[%clk 0:09:24]}18...Rxe5 {[%clk 0:10:08]}19.Rxe5 {[%clk
+0:09:28]}19...Rd7 {[%clk 0:10:01]}20.Qe3 {[%clk 0:09:21]}20...g5 {[%clk
+0:09:40]}21.fxg5 {[%clk 0:08:58]}21...Qf1+ {[%clk 0:09:42]}22.Qe1 {[%clk
+0:09:02]}22...Qh3 {[%clk 0:09:20]}23.Qf2 {[%clk 0:08:49]}23...Be6 {[%clk
+0:09:06]}24.Qf4 {[%clk 0:08:41]}24...Kb8 {[%clk 0:08:49]}25.Rxe6+ {[%clk
+0:08:43]}25...Ka7 {[%clk 0:08:50]}26.Qa4+ {[%clk 0:08:28]}26...Kb8 {[%clk
+0:08:49]}27.Re8+ {[%clk 0:08:32]}27...Kc7 {[%clk 0:08:48]}28.Qf4+ {[%clk
+0:08:36]}28...Rd6 {[%clk 0:08:50]}29.Re7+ {[%clk 0:08:39]}29...Kb8 {[%clk
+0:08:53]}30.Qxd6+ {[%clk 0:08:41]}30...Ka7 {[%clk 0:08:57]}31.Qa3+ {[%clk
+0:07:13]}31...Kb8 {[%clk 0:08:59]}32.Re8+ {[%clk 0:07:17]} { Black resigns.}
+1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/hSquurIW"]
+[Date "2025.05.31"]
+[Round "1"]
+[White "kopalito"]
+[Black "arandres0510"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1247"]
+[BlackRatingDiff "-42"]
+[EventDate "2025.05.31"]
+[FEN "rnqbbkrn/pppppppp/8/8/8/8/PPPPPPPP/RNQBBKRN w KQkq - 0 1"]
+[GameId "hSquurIW"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.05.31"]
+[UTCTime "02:33:15"]
+[Variant "Chess960"]
+[WhiteElo "1741"]
+[WhiteRatingDiff "+58"]
+
+1.c4 c5 2.Nc3 Nc6 3.Bc2 Ng6 4.Ng3 Bc7 5.d3 a6 6.Nce4 Bb6 7.Bc3 e6 8.Nh5 e5 9.Qg5
+Qc7 10.Nhg3 d6 11.Nf5 Nd4 12.Bxd4 cxd4 13.Nfxd6 Bc6 14.b4 Bxe4 15.Nxe4 Qd7
+16.c5 Bd8 17.Qg3 Bc7 18.Bb3 Ke7 19.Qf3 f6 20.Bxg8 Rxg8 21.O-O f5 22.Ng3 Rf8
+23.Qxb7 h5 24.c6 Qd6 25.Nxh5 e4 26.g3 f4 27.dxe4 fxg3 28.fxg3 Rb8 29.Qxa6 d3
+30.Qxd3 Qxc6 31.Qd5 Qe8 32.Nxg7 Qg8 33.Nf5+ Ke8 34.Qxg8+  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/qHsMbAMD"]
+[Date "2025.05.28"]
+[Round "1"]
+[White "twinsendell"]
+[Black "Alejandro-mesa"]
+[Result "1/2-1/2"]
+[Annotator "lichess.org"]
+[BlackElo "1500"]
+[BlackRatingDiff "+0"]
+[EventDate "2025.05.28"]
+[FEN "bnnbrkqr/pppppppp/8/8/8/8/PPPPPPPP/BNNBRKQR w KQkq - 0 1"]
+[GameId "qHsMbAMD"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.05.28"]
+[UTCTime "21:22:42"]
+[Variant "Chess960"]
+[WhiteElo "1500"]
+[WhiteRatingDiff "+0"]
+
+1.b3 {[%clk 0:10:00]}1...f6 {[%clk 0:10:00]}2.Nd3 {[%clk 0:09:57]}2...b6 {[%clk
+0:09:59]}3.Nc3 {[%clk 0:09:52]}3...Nd6 {[%clk 0:09:42]}4.e4 {[%clk
+0:09:55]}4...Bxe4 {[%clk 0:09:41]}5.Nxe4 {[%clk 0:09:58]}5...Nxe4 {[%clk
+0:09:29]}6.Rxe4 {[%clk 0:10:03]}6...Qd5 {[%clk 0:09:34]}7.Bf3 {[%clk
+0:09:52]}7...Qa5 {[%clk 0:09:26]}8.Ke2 {[%clk 0:07:33]}8...Qxa2 {[%clk
+0:09:16]}9.Qc1 {[%clk 0:07:36]}9...Nc6 {[%clk 0:09:09]}10.Qb2 {[%clk
+0:07:32]}10...Qa6 {[%clk 0:08:44]}11.Ra4 {[%clk 0:07:04]}11...Qb5 {[%clk
+0:07:44]}12.Re1 {[%clk 0:06:42]}12...O-O {[%clk 0:07:42]}13.Kf1 {[%clk
+0:06:43]}13...Qg5 {[%clk 0:07:11]}14.Qc3 {[%clk 0:05:16]}14...e5 {[%clk
+0:06:46]}15.Rg4 {[%clk 0:05:19]}15...Qh6 {[%clk 0:06:44]}16.Bd5+ {[%clk
+0:05:11]}16...Kh8 {[%clk 0:06:38]}17.Bxc6 {[%clk 0:05:03]}17...dxc6 {[%clk
+0:06:41]}18.Qxc6 {[%clk 0:05:08]}18...Qxh2 {[%clk 0:06:35]}19.f4 {[%clk
+0:04:02]}19...Qh1+ {[%clk 0:06:27]}20.Kf2 {[%clk 0:04:06]}20...Qh5 {[%clk
+0:06:22]}21.Rg3 {[%clk 0:03:40]}21...exf4 {[%clk 0:06:23]}22.Nxf4 {[%clk
+0:03:28]}22...Qc5+ {[%clk 0:05:38]}23.Qxc5 {[%clk 0:03:26]}23...bxc5 {[%clk
+0:05:43]}24.Rxe8 {[%clk 0:03:24]}24...Rxe8 {[%clk 0:05:48]}25.Re3 {[%clk
+0:03:26]}25...Rf8 {[%clk 0:05:48]}26.Ne6 {[%clk 0:03:29]}26...Re8 {[%clk
+0:05:48]}27.Nxd8 {[%clk 0:03:33]}27...Rxd8 {[%clk 0:05:53]}28.d3 {[%clk
+0:03:25]}28...h6 {[%clk 0:05:56]}29.Re7 {[%clk 0:03:28]}29...Rc8 {[%clk
+0:05:58]}30.Bc3 {[%clk 0:03:22]}30...Kg8 {[%clk 0:05:58]}31.Bd2 {[%clk
+0:03:26]}31...Kf8 {[%clk 0:06:00]}32.Rd7 {[%clk 0:03:30]}32...g5 {[%clk
+0:06:01]}33.Rh7 {[%clk 0:03:30]}33...Kg8 {[%clk 0:05:50]}34.Rxh6 {[%clk
+0:03:33]}34...Kg7 {[%clk 0:05:55]}35.Rh3 {[%clk 0:03:19]}35...a6 {[%clk
+0:05:45]}36.Be3 {[%clk 0:03:17]}36...c4 {[%clk 0:05:43]}37.dxc4 {[%clk
+0:03:17]}37...Rd8 {[%clk 0:05:47]}38.c3 {[%clk 0:03:10]}38...Rd3 {[%clk
+0:05:47]}39.Bd4 {[%clk 0:03:13]}39...Rd2+ {[%clk 0:05:49]}40.Kf3 {[%clk
+0:03:06]}40...Rb2 {[%clk 0:05:48]}41.b4 {[%clk 0:03:09]}41...Kg6 {[%clk
+0:05:49]}42.Ke4 {[%clk 0:02:59]}42...Rxg2 {[%clk 0:05:47]}43.Rf3 {[%clk
+0:03:01]}43...f5+ {[%clk 0:05:49]}44.Rxf5 {[%clk 0:03:05]}44...Rg4+ {[%clk
+0:05:51]}45.Kd5 {[%clk 0:02:59]}45...Kxf5 {[%clk 0:05:54]}46.Kc6 {[%clk
+0:03:03]}46...Rf4 {[%clk 0:05:54]}47.Kxc7 {[%clk 0:03:05]}47...g4 {[%clk
+0:05:58]}48.Kb6 {[%clk 0:03:10]}48...g3 {[%clk 0:06:02]}49.c5 {[%clk
+0:03:10]}49...g2 {[%clk 0:06:05]}50.c6 {[%clk 0:03:14]}50...Rxd4 {[%clk
+0:06:10]}51.cxd4 {[%clk 0:03:18]}51...g1=Q {[%clk 0:06:13]}52.c7 {[%clk
+0:03:22]}52...Qxd4+ {[%clk 0:06:17]}53.Kxa6 {[%clk 0:03:27]}53...Qd6+ {[%clk
+0:06:17]}54.Kb7 {[%clk 0:03:30]}54...Qxb4+ {[%clk 0:06:19]}55.Kc8 {[%clk
+0:03:35]}55...Qc4 {[%clk 0:06:15]}56.Kb7 {[%clk 0:03:37]}56...Qb4+ {[%clk
+0:06:19]}57.Kc8 {[%clk 0:03:41]}57...Qf8+ {[%clk 0:06:21]}58.Kb7 {[%clk
+0:03:44]}58...Qb4+ {[%clk 0:06:20]}59.Kc8 {[%clk 0:03:48]} { The game is a
+draw.} 1/2-1/2
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/YqVFuozz"]
+[Date "2025.06.06"]
+[Round "2"]
+[White "pei12"]
+[Black "kopalito"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1799"]
+[BlackRatingDiff "-215"]
+[EventDate "2025.06.06"]
+[FEN "bqrbkrnn/pppppppp/8/8/8/8/PPPPPPPP/BQRBKRNN w KQkq - 0 1"]
+[GameId "YqVFuozz"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.06"]
+[UTCTime "01:18:53"]
+[Variant "Chess960"]
+[WhiteElo "1632"]
+[WhiteRatingDiff "+240"]
+
+1.b3 {[%clk 0:10:00]}1...Nf6 {[%clk 0:10:00]}2.Nf3 {[%clk 0:09:53]}2...Ng6
+{[%clk 0:10:02]}3.c4 {[%clk 0:09:54]}3...c5 {[%clk 0:09:54]}4.Bc2 {[%clk
+0:09:35]}4...b6 {[%clk 0:09:20]}5.Ng3 {[%clk 0:09:18]}5...O-O {[%clk
+0:09:02]}6.O-O {[%clk 0:09:18]}6...e6 {[%clk 0:08:43]}7.Ne4 {[%clk
+0:08:58]}7...Nxe4 {[%clk 0:08:26]}8.Bxe4 {[%clk 0:09:01]}8...d5 {[%clk
+0:08:30]}9.cxd5 {[%clk 0:08:59]}9...exd5 {[%clk 0:08:31]}10.Bc2 {[%clk
+0:09:03]}10...d4 {[%clk 0:08:25]}11.e3 {[%clk 0:09:03]}11...Bxf3 {[%clk
+0:08:05]}12.gxf3 {[%clk 0:09:00]}12...Bf6 {[%clk 0:08:05]}13.Be4 {[%clk
+0:08:41]}13...Qe5 {[%clk 0:07:49]}14.f4 {[%clk 0:08:35]}14...Qh5 {[%clk
+0:07:45]}15.Qd3 {[%clk 0:08:02]}15...Qg4+ {[%clk 0:07:39]}16.Kh1 {[%clk
+0:08:05]}16...Nh4 {[%clk 0:07:29]}17.Rg1 {[%clk 0:08:07]}17...Qh5 {[%clk
+0:07:26]}18.exd4 {[%clk 0:07:57]}18...cxd4 {[%clk 0:07:18]}19.Rxc8 {[%clk
+0:08:00]}19...Rxc8 {[%clk 0:07:23]}20.Bxd4 {[%clk 0:07:52]}20...Rd8 {[%clk
+0:07:21]}21.Rc1 {[%clk 0:06:11]}21...h6 {[%clk 0:05:33]}22.Bxf6 {[%clk
+0:05:36]}22...Rxd3 {[%clk 0:05:33]}23.Rc8+ {[%clk 0:05:40]}23...Rd8 {[%clk
+0:05:20]}24.Rxd8# {[%clk 0:05:38]} { White wins by checkmate.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/StsDlINY"]
+[Date "2025.06.21"]
+[Round "2"]
+[White "twinsendell"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1718"]
+[BlackRatingDiff "-7"]
+[FEN "rbnqnkbr/pppppppp/8/8/8/8/PPPPPPPP/RBNQNKBR w KQkq - 0 1"]
+[GameId "StsDlINY"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.21"]
+[UTCTime "02:27:41"]
+[Variant "Chess960"]
+[WhiteElo "1545"]
+[WhiteRatingDiff "+150"]
+
+1.c3 c5 2.Nb3 b6 3.d4 c4 4.Nd2 d5 5.e4 e6 6.Qf3 Qf6 7.exd5 Qxf3 8.Nexf3 exd5
+9.Ne5 Bxe5 10.dxe5 f6 11.exf6 Nxf6 12.f3 Bf7 13.Bd4 Nd7 14.O-O O-O 15.Re1 Re8
+16.Bf5 Nf8 17.Nf1 Nd6 18.Bc2 Rxe1 19.Rxe1 Re8 20.Rxe8 Nxe8 21.Ng3 g6 22.Ne2 Ne6
+23.Kf2 Nd6 24.Ke3 Nf5+ 25.Kf2 Nfxd4 26.Nxd4 Nxd4 27.cxd4 b5 28.Ke3 Be6 29.Kf4
+Kf7 30.Ke5 Ke7 31.h3 a5 32.a3 b4 33.axb4 axb4 34.g4 Bg8 35.f4 c3 36.bxc3 bxc3
+37.f5 gxf5 38.gxf5 h6 39.h4 Kd7 40.Kf6 Ke8 41.Kg7 Bf7 42.Kxh6 Ke7 43.Kg7 Bh5
+44.Kh6 Bg4 45.Kg5 Bf3 46.h5 Be4 47.h6 Kf7 48.Bb3 c2 49.Bxc2 Bxc2 50.Kf4 Be4
+51.Ke5 Bd3 52.Kxd5 Bxf5 53.Ke5 Be6 54.h7 Kg7 55.Kxe6 Kxh7 56.d5 Kg7 57.d6  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/zooVhw7T"]
+[Date "2025.06.03"]
+[Round "2"]
+[White "IAHMCOL"]
+[Black "Alejandro-mesa"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1380"]
+[BlackRatingDiff "+89"]
+[EventDate "2025.06.03"]
+[FEN "nrbqkrnb/pppppppp/8/8/8/8/PPPPPPPP/NRBQKRNB w KQkq - 0 1"]
+[GameId "zooVhw7T"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.03"]
+[UTCTime "19:00:15"]
+[Variant "Chess960"]
+[WhiteElo "1258"]
+[WhiteRatingDiff "-150"]
+
+1.g3 {[%clk 0:10:00]}1...c6 {[%clk 0:10:00]}2.Nf3 {[%clk 0:09:58]}2...g6 {[%clk
+0:09:56]}3.d3 {[%clk 0:10:01]}3...Nh6 {[%clk 0:09:52]}4.O-O {[%clk
+0:10:05]}4...Ng4 {[%clk 0:09:51]}5.Nb3 {[%clk 0:09:16]}5...O-O {[%clk
+0:08:47]}6.c3 {[%clk 0:09:07]}6...b6 {[%clk 0:08:32]}7.Nbd4 {[%clk
+0:09:09]}7...Bb7 {[%clk 0:08:27]}8.Bf4 {[%clk 0:09:11]}8...Rc8 {[%clk
+0:08:25]}9.e4 {[%clk 0:08:50]}9...c5 {[%clk 0:08:25]}10.Ne2 {[%clk
+0:08:53]}10...d5 {[%clk 0:08:11]}11.h3 {[%clk 0:08:19]}11...Nf6 {[%clk
+0:08:06]}12.Nh2 {[%clk 0:06:49]}12...dxe4 {[%clk 0:08:01]}13.dxe4 {[%clk
+0:06:53]}13...Qxd1 {[%clk 0:08:05]}14.Rfxd1 {[%clk 0:06:56]}14...Bxe4 {[%clk
+0:08:06]}15.Bxe4 {[%clk 0:06:59]}15...Nxe4 {[%clk 0:08:11]}16.Rd7 {[%clk
+0:06:49]}16...Bf6 {[%clk 0:08:00]}17.Ng4 {[%clk 0:06:48]}17...Bg7 {[%clk
+0:07:53]}18.Be5 {[%clk 0:06:48]}18...f6 {[%clk 0:07:50]}19.Bf4 {[%clk
+0:06:31]}19...g5 {[%clk 0:07:49]}20.Be3 {[%clk 0:06:26]}20...Rc7 {[%clk
+0:07:53]}21.Rxc7 {[%clk 0:06:23]}21...Nxc7 {[%clk 0:07:57]}22.Rd1 {[%clk
+0:06:27]}22...Nb5 {[%clk 0:07:35]}23.Rd7 {[%clk 0:06:22]}23...Re8 {[%clk
+0:07:35]}24.h4 {[%clk 0:06:14]}24...f5 {[%clk 0:07:21]}25.Nh2 {[%clk
+0:06:02]}25...g4 {[%clk 0:07:19]}26.f3 {[%clk 0:06:01]}26...gxf3 {[%clk
+0:07:16]}27.Nxf3 {[%clk 0:06:05]}27...Nf6 {[%clk 0:07:17]}28.Nf4 {[%clk
+0:05:51]}28...Nxd7 {[%clk 0:07:19]} { White resigns.} 0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/RG23K2Ge"]
+[Date "2025.06.07"]
+[Round "2"]
+[White "pei12"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1500"]
+[BlackRatingDiff "+383"]
+[EventDate "2025.06.07"]
+[FEN "nrkbnqbr/pppppppp/8/8/8/8/PPPPPPPP/NRKBNQBR w KQkq - 0 1"]
+[GameId "RG23K2Ge"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.07"]
+[UTCTime "00:21:49"]
+[Variant "Chess960"]
+[WhiteElo "1872"]
+[WhiteRatingDiff "-225"]
+
+1.f4 f5 2.Nb3 Nb6 3.Nf3 Nd6 4.d3 e6 5.h3 Bf6 6.g4 fxg4 7.hxg4 O-O-O 8.g5 Be7
+9.e4 Qxf4+ 10.Nfd2 Qxf1 11.Nxf1 Bxg5+ 12.Nfd2 e5 13.Bg4 Ne8 14.O-O-O Nf6 15.Bh3
+Kb8 16.Kb1 d5 17.Bh2 dxe4 18.Nxe4 Nxe4 19.dxe4 Bxb3 20.axb3 Bf4 21.Rdf1 g5
+22.Bf5 h6 23.Bg1 h5 24.Bxb6 axb6 25.Rd1 Rxd1+ 26.Rxd1 g4 27.c3 g3 28.Kc2 h4
+29.Bh3 c5 30.Rg1 Rd8 31.Rg2 Kc7 32.Bf5 Kc6 33.Be6 Re8 34.Bh3 b5 35.Rg1 Rd8
+36.Rg2 b4 37.Be6 Rd6 38.Bf5 Rf6 39.Kd3 Rxf5 40.exf5 h3 41.Rg1 h2 42.Rd1 g2
+43.Ke4 h1=Q  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/lm3vrUNG"]
+[Date "2025.06.04"]
+[Round "2"]
+[White "IAHMCOL"]
+[Black "cgallego00"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1716"]
+[BlackRatingDiff "+1"]
+[EventDate "2025.06.04"]
+[FEN "rbnknqbr/pppppppp/8/8/8/8/PPPPPPPP/RBNKNQBR w KQkq - 0 1"]
+[GameId "lm3vrUNG"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.04"]
+[UTCTime "02:01:44"]
+[Variant "Chess960"]
+[WhiteElo "1108"]
+[WhiteRatingDiff "-15"]
+
+1.f3 h6 2.Ncd3 Bh7 3.c3 e6 4.Nf2 Bxb1 5.Rxb1 Qd6 6.Ne4 Qe7 7.Nd3 Ned6 8.Bf2 Nxe4
+9.fxe4 c6 10.e3 Qd6 11.Bg3 Qe7 12.Bxb8 Rxb8 13.Ne5 O-O 14.Qe2 d6 15.O-O dxe5
+16.d4 exd4 17.exd4 e5 18.d5 cxd5 19.exd5 Nd6 20.Rbe1 e4 21.c4 b6 22.b4 Rbc8
+23.Rc1 Qg5 24.c5 bxc5 25.Rxc5 Rfd8 26.Rxc8 Rxc8 27.Qa6 Qxd5 28.Qxa7 Nb5 29.Qe7
+Rf8 30.a4 Nc3 31.a5 Qd4+ 32.Rf2 Qd1+ 33.Rf1 Ne2+  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/xaVUvjTn"]
+[Date "2025.06.10"]
+[Round "2"]
+[White "Alejandro-mesa"]
+[Black "arandres0510"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1503"]
+[BlackRatingDiff "-145"]
+[EventDate "2025.06.10"]
+[FEN "rnbkrqnb/pppppppp/8/8/8/8/PPPPPPPP/RNBKRQNB w KQkq - 0 1"]
+[GameId "xaVUvjTn"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.10"]
+[UTCTime "02:28:33"]
+[Variant "Chess960"]
+[WhiteElo "1389"]
+[WhiteRatingDiff "+114"]
+
+1.g3 g5 2.Bf3 e5 3.Qg2 Nc6 4.d3 Nf6 5.Bxg5 Qb4 6.b3 b6 7.Bxc6 dxc6 8.Qxc6 Rb8
+9.Bxf6+ Bxf6 10.Qxf6+ Re7 11.Nf3 Bb7 12.Nxe5 Qd4 13.Qh8+ Re8 14.Nxf7+  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/ObfaOVtg"]
+[Date "2025.06.07"]
+[Round "2"]
+[White "IAHMCOL"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1883"]
+[BlackRatingDiff "+16"]
+[EventDate "2025.06.07"]
+[FEN "rbbnkrqn/pppppppp/8/8/8/8/PPPPPPPP/RBBNKRQN w KQkq - 0 1"]
+[GameId "ObfaOVtg"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.07"]
+[UTCTime "00:46:22"]
+[Variant "Chess960"]
+[WhiteElo "1093"]
+[WhiteRatingDiff "-14"]
+
+1.d3 c5 2.a3 Nc6 3.Ba2 Ng6 4.Bd2 Nd4 5.Bb3 d5 6.c4 Nxb3 7.Rc1 Nxc1 8.Bxc1 f6
+9.Ne3 d4 10.Nd5 e6 11.Nf4 Nxf4 12.Bxf4 Bxf4 13.g3 Bd6 14.f4 Qf7 15.Nf2 O-O
+16.Ng4 e5 17.Nh6+ gxh6 18.fxe5 Bxe5 19.Qf2 Bg4 20.O-O h5 21.h3 Bxh3 22.Re1 Qg6
+23.b4 Bxg3 24.Qxg3 Qxg3+ 25.Kh1 Qg2#  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/GnxqDTwn"]
+[Date "2025.06.07"]
+[Round "2"]
+[White "Alejandro-mesa"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1584"]
+[BlackRatingDiff "+106"]
+[EventDate "2025.06.07"]
+[FEN "nqbbrkrn/pppppppp/8/8/8/8/PPPPPPPP/NQBBRKRN w KQkq - 0 1"]
+[GameId "GnxqDTwn"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.07"]
+[UTCTime "20:07:58"]
+[Variant "Chess960"]
+[WhiteElo "1469"]
+[WhiteRatingDiff "-80"]
+
+1.c3 {[%clk 0:10:00]}1...Ng6 {[%clk 0:10:00]}2.d4 {[%clk 0:09:54]}2...c5 {[%clk
+0:09:52]}3.Ng3 {[%clk 0:09:52]}3...cxd4 {[%clk 0:09:55]}4.cxd4 {[%clk
+0:09:53]}4...d5 {[%clk 0:09:57]}5.Bb3 {[%clk 0:09:43]}5...Nb6 {[%clk
+0:09:55]}6.Nc2 {[%clk 0:08:43]}6...Bc7 {[%clk 0:08:59]}7.Nb4 {[%clk
+0:08:40]}7...Rd8 {[%clk 0:08:38]}8.a4 {[%clk 0:07:44]}8...a5 {[%clk
+0:08:39]}9.Nd3 {[%clk 0:07:32]}9...Bxg3 {[%clk 0:07:46]}10.hxg3 {[%clk
+0:07:33]}10...Bf5 {[%clk 0:07:47]}11.Qa2 {[%clk 0:07:13]}11...e6 {[%clk
+0:07:46]}12.Bg5 {[%clk 0:07:11]}12...Rc8 {[%clk 0:07:43]}13.Qa3+ {[%clk
+0:07:06]}13...Ke8 {[%clk 0:07:33]}14.Ne5 {[%clk 0:07:04]}14...f6 {[%clk
+0:07:27]}15.Nxg6 {[%clk 0:07:07]}15...Bxg6 {[%clk 0:07:32]}16.Bf4 {[%clk
+0:07:06]}16...e5 {[%clk 0:07:32]}17.dxe5 {[%clk 0:07:09]}17...fxe5 {[%clk
+0:07:37]}18.Bg5 {[%clk 0:07:11]}18...Qc7 {[%clk 0:06:57]}19.O-O {[%clk
+0:07:14]}19...Kf7 {[%clk 0:06:56]}20.Rc1 {[%clk 0:07:13]}20...Qd7 {[%clk
+0:06:22]}21.Rxc8 {[%clk 0:06:43]}21...Rxc8 {[%clk 0:06:27]}22.Rd1 {[%clk
+0:06:45]}22...Bc2 {[%clk 0:06:01]}23.Bxc2 {[%clk 0:06:25]}23...Rxc2 {[%clk
+0:06:04]}24.Qb3 {[%clk 0:06:30]}24...Rc6 {[%clk 0:05:13]}25.e4 {[%clk
+0:05:51]}25...Rd6 {[%clk 0:04:51]}26.Qf3+ {[%clk 0:05:43]}26...Kg8 {[%clk
+0:04:47]}27.Be3 {[%clk 0:05:34]}27...dxe4 {[%clk 0:04:31]}28.Rxd6 {[%clk
+0:05:31]}28...Qxd6 {[%clk 0:04:31]}29.Qxe4 {[%clk 0:05:34]}29...Nd5 {[%clk
+0:04:15]}30.Qc4 {[%clk 0:05:15]}30...Qc6 {[%clk 0:03:59]}31.Qb3 {[%clk
+0:04:40]}31...h6 {[%clk 0:03:56]}32.Bb6 {[%clk 0:04:40]}32...Kh8 {[%clk
+0:03:47]}33.Bxa5 {[%clk 0:04:41]}33...Nf6 {[%clk 0:03:38]}34.Bc3 {[%clk
+0:04:05]}34...Ne4 {[%clk 0:02:47]}35.Bxe5 {[%clk 0:02:51]}35...Qc1+ {[%clk
+0:02:48]}36.Kh2 {[%clk 0:02:54]}36...Nxf2 {[%clk 0:02:41]}37.g4 {[%clk
+0:02:25]}37...Nxg4+ {[%clk 0:02:28]}38.Kg3 {[%clk 0:02:21]}38...Nxe5 {[%clk
+0:02:28]}39.Qxb7 {[%clk 0:02:21]}39...Qe3+ {[%clk 0:02:12]}40.Kh2 {[%clk
+0:02:22]}40...Ng4+ {[%clk 0:01:56]}41.Kh1 {[%clk 0:02:24]}41...Qe1# {[%clk
+0:01:51]} { Black wins by checkmate.} 0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/T7qlGfTm"]
+[Date "2025.06.07"]
+[Round "2"]
+[White "arandres0510"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1739"]
+[BlackRatingDiff "-8"]
+[EventDate "2025.06.07"]
+[FEN "rnknqbbr/pppppppp/8/8/8/8/PPPPPPPP/RNKNQBBR w KQkq - 0 1"]
+[GameId "T7qlGfTm"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.07"]
+[UTCTime "02:33:06"]
+[Variant "Chess960"]
+[WhiteElo "1143"]
+[WhiteRatingDiff "+360"]
+
+1.e4 a6 2.Nbc3 e5 3.Ne3 Ne6 4.Kb1 f6 5.Bc4 Nc6 6.b3 O-O-O 7.f3 Na5 8.Be2 Nf4
+9.d3 Bc5 10.Bf1 Bd4 11.g3 Ne6 12.Kb2 Qe7 13.Nd5 Qd6 14.Bxd4 Nxd4 15.Ne2 Nxf3
+16.Qxa5 Bxd5 17.Qxd5 Qe7 18.Nc3 c6 19.Qa5 d5 20.Bg2 dxe4 21.dxe4 Nd4 22.Rhd1 g5
+23.Qb6 Kb8 24.Bf1 Ka8 25.Na4 Nb5 26.Bxb5 cxb5 27.Nc5 Rd4 28.Rxd4 exd4 29.Rd1
+Rc8 30.Nd3 Rc6 31.Qa5 Qxe4 32.Qd8+ Ka7 33.Re1 Qg2 34.Qxd4+ Kb8 35.Re8+ Rc8
+36.Qd6+ Ka7 37.Rxc8 Qxh2 38.Nc5 Qg2 39.Nd7 Qf2 40.Qb8#  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/TkWd2rY7"]
+[Date "2025.06.09"]
+[Round "3"]
+[White "pei12"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1079"]
+[BlackRatingDiff "-11"]
+[EventDate "2025.06.09"]
+[FEN "qrnnkbbr/pppppppp/8/8/8/8/PPPPPPPP/QRNNKBBR w KQkq - 0 1"]
+[GameId "TkWd2rY7"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.09"]
+[UTCTime "18:06:32"]
+[Variant "Chess960"]
+[WhiteElo "1822"]
+[WhiteRatingDiff "+8"]
+
+1.b3 {[%clk 0:10:00]}1...b6 {[%clk 0:10:00]}2.f3 {[%clk 0:09:59]}2...e6 {[%clk
+0:09:49]}3.g3 {[%clk 0:09:43]}3...Be7 {[%clk 0:09:49]}4.Bg2 {[%clk
+0:09:45]}4...Bf6 {[%clk 0:09:51]}5.c3 {[%clk 0:09:46]}5...Nc6 {[%clk
+0:09:53]}6.Nd3 {[%clk 0:09:42]}6...Nd6 {[%clk 0:09:57]}7.N1f2 {[%clk
+0:09:41]}7...O-O-O {[%clk 0:10:01]}8.O-O-O {[%clk 0:09:44]}8...a5 {[%clk
+0:09:57]}9.f4 {[%clk 0:09:48]}9...Nb4 {[%clk 0:09:58]}10.Bxa8 {[%clk
+0:09:51]}10...Nxd3+ {[%clk 0:10:00]}11.Nxd3 {[%clk 0:09:53]}11...Kb8 {[%clk
+0:09:58]}12.Bg2 {[%clk 0:09:52]}12...g5 {[%clk 0:09:58]}13.e3 {[%clk
+0:09:54]}13...gxf4 {[%clk 0:10:01]}14.exf4 {[%clk 0:09:57]}14...h5 {[%clk
+0:10:02]}15.Ne5 {[%clk 0:10:01]}15...Rh7 {[%clk 0:10:04]}16.Bd4 {[%clk
+0:09:55]}16...c5 {[%clk 0:10:04]}17.Be3 {[%clk 0:09:57]}17...Rc8 {[%clk
+0:10:03]}18.Nxd7+ {[%clk 0:09:54]}18...Kc7 {[%clk 0:10:04]}19.Nxf6 {[%clk
+0:09:58]}19...Rh6 {[%clk 0:10:07]}20.Nxg8 {[%clk 0:09:57]}20...Rxg8 {[%clk
+0:10:10]}21.f5 {[%clk 0:10:00]}21...e5 {[%clk 0:10:14]}22.Bxh6 {[%clk
+0:10:04]}22...f6 {[%clk 0:10:16]}23.Be3 {[%clk 0:10:07]}23...Nxf5 {[%clk
+0:10:20]}24.Rhf1 {[%clk 0:10:05]}24...Nxe3 {[%clk 0:10:13]}25.dxe3 {[%clk
+0:10:10]}25...Rf8 {[%clk 0:10:15]}26.Rf5 {[%clk 0:10:13]}26...b5 {[%clk
+0:10:13]}27.Rdf1 {[%clk 0:10:16]}27...b4 {[%clk 0:10:13]}28.Rxe5 {[%clk
+0:10:20]}28...bxc3 {[%clk 0:10:17]}29.Qxc3 {[%clk 0:10:23]}29...Rb8 {[%clk
+0:10:19]}30.Rxc5+ {[%clk 0:10:25]}30...Kd8 {[%clk 0:10:22]}31.Qd4+ {[%clk
+0:10:27]}31...Ke7 {[%clk 0:10:26]}32.Rc7+ {[%clk 0:10:30]}32...Ke6 {[%clk
+0:10:29]}33.Rxf6# {[%clk 0:10:29]} { White wins by checkmate.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/u5IhGQgp"]
+[Date "2025.06.28"]
+[Round "3"]
+[White "arandres0510"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1735"]
+[BlackRatingDiff "+18"]
+[EventDate "2025.06.28"]
+[FEN "nqrbknbr/pppppppp/8/8/8/8/PPPPPPPP/NQRBKNBR w KQkq - 0 1"]
+[GameId "u5IhGQgp"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.28"]
+[UTCTime "00:05:07"]
+[Variant "Chess960"]
+[WhiteElo "1400"]
+[WhiteRatingDiff "-14"]
+
+1.Ne3 e5 2.Nb3 f6 3.f3 Ne6 4.Bf2 Bf7 5.O-O O-O 6.c4 c5 7.Bc2 h6 8.Nd5 Nd4 9.Nxd4
+cxd4 10.e4 Rxc4 11.Bb3 Rxc1 12.Qxc1 Nb6 13.d3 Nxd5 14.exd5 Qd6 15.f4 Bxd5
+16.Bxd5+ Qxd5 17.fxe5 fxe5 18.b3 Qc6 19.Qd2 d5 20.Rc1 Qf6 21.Bg3 e4 22.dxe4
+dxe4 23.Re1 e3 24.Qd3 Bc7 25.Rf1 Qxf1+ 26.Qxf1 Rxf1+ 27.Kxf1 Bxg3 28.Ke2 Bxh2
+29.Kd3 Kf7  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/u5IhGQgp"]
+[Date "2025.06.28"]
+[Round "3"]
+[White "arandres0510"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1735"]
+[BlackRatingDiff "+18"]
+[EventDate "2025.06.28"]
+[FEN "nqrbknbr/pppppppp/8/8/8/8/PPPPPPPP/NQRBKNBR w KQkq - 0 1"]
+[GameId "u5IhGQgp"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.28"]
+[UTCTime "00:05:07"]
+[Variant "Chess960"]
+[WhiteElo "1400"]
+[WhiteRatingDiff "-14"]
+
+1.Ne3 e5 2.Nb3 f6 3.f3 Ne6 4.Bf2 Bf7 5.O-O O-O 6.c4 c5 7.Bc2 h6 8.Nd5 Nd4 9.Nxd4
+cxd4 10.e4 Rxc4 11.Bb3 Rxc1 12.Qxc1 Nb6 13.d3 Nxd5 14.exd5 Qd6 15.f4 Bxd5
+16.Bxd5+ Qxd5 17.fxe5 fxe5 18.b3 Qc6 19.Qd2 d5 20.Rc1 Qf6 21.Bg3 e4 22.dxe4
+dxe4 23.Re1 e3 24.Qd3 Bc7 25.Rf1 Qxf1+ 26.Qxf1 Rxf1+ 27.Kxf1 Bxg3 28.Ke2 Bxh2
+29.Kd3 Kf7  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/DtWyXAGX"]
+[Date "2025.06.16"]
+[Round "3"]
+[White "pei12"]
+[Black "Alejandro-mesa"]
+[Result "1/2-1/2"]
+[Annotator "lichess.org"]
+[BlackElo "1462"]
+[BlackRatingDiff "+54"]
+[EventDate "2025.06.16"]
+[FEN "nrkqnbbr/pppppppp/8/8/8/8/PPPPPPPP/NRKQNBBR w KQkq - 0 1"]
+[GameId "DtWyXAGX"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.16"]
+[UTCTime "22:11:48"]
+[Variant "Chess960"]
+[WhiteElo "1846"]
+[WhiteRatingDiff "-73"]
+
+1.f4 {[%clk 0:10:00]}1...g6 {[%clk 0:10:00]}2.Bxa7 {[%clk 0:10:02]}2...f6 {[%clk
+0:09:36]}3.Bxb8 {[%clk 0:10:04]}3...Bxa2 {[%clk 0:09:38]}4.Ba7 {[%clk
+0:09:51]}4...Bxb1 {[%clk 0:09:32]}5.Bd4 {[%clk 0:09:53]}5...Ba2 {[%clk
+0:09:24]}6.b3 {[%clk 0:09:54]}6...e5 {[%clk 0:09:17]}7.fxe5 {[%clk
+0:09:57]}7...Ba3+ {[%clk 0:09:19]}8.Bb2 {[%clk 0:09:59]}8...Qe7 {[%clk
+0:09:20]}9.Nd3 {[%clk 0:09:54]}9...fxe5 {[%clk 0:09:20]}10.e4 {[%clk
+0:09:56]}10...Nf6 {[%clk 0:09:16]}11.Qe2 {[%clk 0:09:51]}11...Rf8 {[%clk
+0:07:13]}12.g3 {[%clk 0:08:22]}12...d5 {[%clk 0:07:12]}13.Bg2 {[%clk
+0:08:14]}13...dxe4 {[%clk 0:07:13]}14.Bxe4 {[%clk 0:08:17]}14...Nb6 {[%clk
+0:06:49]}15.c4 {[%clk 0:06:05]}15...Bxb3 {[%clk 0:04:00]}16.Nxb3 {[%clk
+0:06:05]}16...Nxc4 {[%clk 0:04:04]}17.Kc2 {[%clk 0:04:24]}17...Rd8 {[%clk
+0:03:35]}18.Ra1 {[%clk 0:03:44]}18...Kb8 {[%clk 0:03:24]}19.Bxe5 {[%clk
+0:02:26]}19...Nxe5 {[%clk 0:02:56]}20.Nxe5 {[%clk 0:01:53]}20...Qxe5 {[%clk
+0:02:42]}21.Rxa3 {[%clk 0:01:47]}21...Qxe4+ {[%clk 0:02:42]}22.Qxe4 {[%clk
+0:01:50]}22...Nxe4 {[%clk 0:02:47]}23.Ra4 {[%clk 0:01:45]}23...Nd6 {[%clk
+0:02:44]}24.Rf4 {[%clk 0:01:43]}24...Nb5 {[%clk 0:02:22]}25.Rf7 {[%clk
+0:01:42]}25...h5 {[%clk 0:02:21]}26.Rf6 {[%clk 0:01:35]}26...Na3+ {[%clk
+0:02:12]}27.Kc3 {[%clk 0:01:31]}27...Nb5+ {[%clk 0:02:06]}28.Kc2 {[%clk
+0:01:35]}28...Na3+ {[%clk 0:02:07]}29.Kb2 {[%clk 0:01:15]}29...Nc4+ {[%clk
+0:02:06]}30.Kc3 {[%clk 0:01:17]}30...Ne5 {[%clk 0:02:06]}31.Re6 {[%clk
+0:01:11]}31...Nf3 {[%clk 0:02:01]}32.Rf6 {[%clk 0:01:13]}32...Nxh2 {[%clk
+0:01:53]}33.Rxg6 {[%clk 0:01:16]}33...Nf3 {[%clk 0:01:55]}34.Rh6 {[%clk
+0:01:05]}34...Rd5 {[%clk 0:01:52]}35.Rf6 {[%clk 0:00:43]}35...Ne5 {[%clk
+0:01:15]}36.Rf5 {[%clk 0:00:24]}36...h4 {[%clk 0:01:04]}37.gxh4 {[%clk
+0:00:21]}37...c6 {[%clk 0:01:04]}38.h5 {[%clk 0:00:19]}38...Ng4 {[%clk
+0:01:07]}39.Rxd5 {[%clk 0:00:23]}39...cxd5 {[%clk 0:01:12]}40.Kd3 {[%clk
+0:00:26]}40...Kc7 {[%clk 0:01:12]}41.Kd4 {[%clk 0:00:30]}41...Nf6 {[%clk
+0:01:15]}42.h6 {[%clk 0:00:33]}42...Kd7 {[%clk 0:01:19]}43.Ke5 {[%clk
+0:00:36]}43...Ke7 {[%clk 0:01:20]}44.Nc5 {[%clk 0:00:38]}44...Ng4+ {[%clk
+0:01:22]}45.Kxd5 {[%clk 0:00:41]}45...Nxh6 {[%clk 0:01:26]}46.Nxb7 {[%clk
+0:00:42]}46...Nf5 {[%clk 0:01:30]}47.Nc5 {[%clk 0:00:42]}47...Kf6 {[%clk
+0:01:34]}48.Ne4+ {[%clk 0:00:46]}48...Kg6 {[%clk 0:01:37]}49.Ke5 {[%clk
+0:00:47]}49...Ne7 {[%clk 0:01:38]}50.Ke6 {[%clk 0:00:41]}50...Nf5 {[%clk
+0:01:39]}51.Nd6 {[%clk 0:00:42]}51...Nd4+ {[%clk 0:01:39]}52.Kd5 {[%clk
+0:00:42]}52...Nb3 {[%clk 0:01:42]}53.d3 {[%clk 0:00:41]}53...Kf6 {[%clk
+0:01:41]}54.Ne4+ {[%clk 0:00:44]}54...Ke7 {[%clk 0:01:44]}55.Nc5 {[%clk
+0:00:45]}55...Nd2 {[%clk 0:01:45]}56.Kd4 {[%clk 0:00:41]}56...Nf3+ {[%clk
+0:01:46]}57.Ke4 {[%clk 0:00:43]}57...Ng5+ {[%clk 0:01:49]}58.Kf5 {[%clk
+0:00:45]}58...Nf3 {[%clk 0:01:52]}59.Ne4 {[%clk 0:00:39]}59...Nd4+ {[%clk
+0:01:47]}60.Ke5 {[%clk 0:00:42]}60...Nc6+ {[%clk 0:01:45]}61.Kf4 {[%clk
+0:00:41]}61...Ke6 {[%clk 0:01:48]}62.Nc5+ {[%clk 0:00:40]}62...Kd5 {[%clk
+0:01:51]}63.Nb3 {[%clk 0:00:41]}63...Nd4 {[%clk 0:01:49]}64.Nd2 {[%clk
+0:00:37]}64...Ne6+ {[%clk 0:01:51]}65.Ke3 {[%clk 0:00:40]}65...Nc5 {[%clk
+0:01:55]}66.d4 {[%clk 0:00:43]}66...Ne6 {[%clk 0:01:57]}67.Nb3 {[%clk
+0:00:45]}67...Nxd4 {[%clk 0:02:00]}68.Nxd4 {[%clk 0:00:45]} { The game is a
+draw.} 1/2-1/2
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/xYGdmXAV"]
+[Date "2025.06.14"]
+[Round "3"]
+[White "arandres0510"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1051"]
+[BlackRatingDiff "-58"]
+[EventDate "2025.06.14"]
+[FEN "brqnknrb/pppppppp/8/8/8/8/PPPPPPPP/BRQNKNRB w KQkq - 0 1"]
+[GameId "xYGdmXAV"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.14"]
+[UTCTime "22:37:54"]
+[Variant "Chess960"]
+[WhiteElo "1315"]
+[WhiteRatingDiff "+25"]
+
+1.Nc3 {[%clk 0:10:00]}1...Nde6 {[%clk 0:10:00]}2.g3 {[%clk 0:10:01]}2...d6
+{[%clk 0:10:03]}3.Ne3 {[%clk 0:09:59]}3...c6 {[%clk 0:10:07]}4.Bg2 {[%clk
+0:10:02]}4...g6 {[%clk 0:10:02]}5.O-O {[%clk 0:10:05]}5...Nd7 {[%clk
+0:10:01]}6.Ne4 {[%clk 0:09:56]}6...O-O {[%clk 0:10:04]}7.b3 {[%clk
+0:09:47]}7...Bxa1 {[%clk 0:10:08]}8.Rxa1 {[%clk 0:09:49]}8...Nf6 {[%clk
+0:10:08]}9.Nxf6+ {[%clk 0:09:45]}9...exf6 {[%clk 0:10:12]}10.Qb2 {[%clk
+0:09:49]}10...Qd8 {[%clk 0:10:12]}11.Ng4 {[%clk 0:09:51]}11...c5 {[%clk
+0:09:54]}12.Nxf6+ {[%clk 0:09:54]}12...Kg7 {[%clk 0:09:57]}13.Nd7+ {[%clk
+0:09:51]}13...Kg8 {[%clk 0:09:59]}14.Nxf8 {[%clk 0:09:55]}14...Qxf8 {[%clk
+0:10:03]}15.e4 {[%clk 0:09:53]}15...Nd4 {[%clk 0:10:06]}16.c3 {[%clk
+0:09:52]}16...Ne2+ {[%clk 0:10:09]}17.Kh1 {[%clk 0:09:54]}17...b6 {[%clk
+0:10:12]}18.d3 {[%clk 0:09:51]}18...Re8 {[%clk 0:10:15]}19.Qxe2 {[%clk
+0:09:53]} { Black resigns.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/0Z0QivxP"]
+[Date "2025.06.10"]
+[Round "3"]
+[White "kopalito"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1899"]
+[BlackRatingDiff "-241"]
+[EventDate "2025.06.10"]
+[FEN "rkbbrnqn/pppppppp/8/8/8/8/PPPPPPPP/RKBBRNQN w KQkq - 0 1"]
+[GameId "0Z0QivxP"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.10"]
+[UTCTime "21:42:46"]
+[Variant "Chess960"]
+[WhiteElo "1690"]
+[WhiteRatingDiff "+145"]
+
+1.e4 {[%clk 0:10:00]}1...b6 {[%clk 0:10:00]}2.Ne3 {[%clk 0:09:48]}2...Bb7 {[%clk
+0:10:03]}3.f3 {[%clk 0:09:48]}3...e5 {[%clk 0:09:57]}4.b3 {[%clk
+0:09:42]}4...Nhg6 {[%clk 0:09:51]}5.Bb2 {[%clk 0:09:45]}5...f6 {[%clk
+0:09:55]}6.Ng3 {[%clk 0:09:46]}6...Ne6 {[%clk 0:09:53]}7.Ne2 {[%clk
+0:09:18]}7...Be7 {[%clk 0:09:52]}8.g3 {[%clk 0:09:20]}8...Qf8 {[%clk
+0:09:54]}9.Nc4 {[%clk 0:09:15]}9...Ba6 {[%clk 0:09:13]}10.d3 {[%clk
+0:09:05]}10...Bxc4 {[%clk 0:08:58]}11.dxc4 {[%clk 0:09:09]}11...Ba3 {[%clk
+0:09:01]}12.Nc3 {[%clk 0:09:08]}12...a5 {[%clk 0:08:51]}13.Nb5 {[%clk
+0:09:10]}13...Bxb2 {[%clk 0:08:53]}14.Kxb2 {[%clk 0:09:13]}14...a4 {[%clk
+0:08:45]}15.a3 {[%clk 0:09:15]}15...axb3 {[%clk 0:08:02]}16.cxb3 {[%clk
+0:09:17]}16...Nc5 {[%clk 0:07:59]}17.Bc2 {[%clk 0:08:55]}17...Ne7 {[%clk
+0:06:22]}18.Red1 {[%clk 0:08:54]}18...d6 {[%clk 0:05:05]}19.Qe3 {[%clk
+0:07:52]}19...Nc6 {[%clk 0:05:06]}20.f4 {[%clk 0:06:54]}20...Na7 {[%clk
+0:04:49]}21.Nc3 {[%clk 0:06:45]}21...Qf7 {[%clk 0:04:23]}22.Nd5 {[%clk
+0:06:47]}22...O-O {[%clk 0:04:14]}23.fxe5 {[%clk 0:06:40]}23...dxe5 {[%clk
+0:03:47]}24.g4 {[%clk 0:06:14]}24...c6 {[%clk 0:03:41]}25.Nxb6 {[%clk
+0:06:02]}25...Ne6 {[%clk 0:03:14]}26.Nxa8 {[%clk 0:05:55]}26...Rxa8 {[%clk
+0:03:19]}27.h4 {[%clk 0:05:17]}27...Nd4 {[%clk 0:03:22]}28.g5 {[%clk
+0:05:18]}28...c5 {[%clk 0:02:47]}29.gxf6 {[%clk 0:05:20]}29...Qxf6 {[%clk
+0:02:51]}30.Rf1 {[%clk 0:05:17]}30...Qa6 {[%clk 0:02:27]}31.Qf2 {[%clk
+0:05:00]}31...Qb7 {[%clk 0:02:10]}32.Rg1 {[%clk 0:04:10]}32...Rb8 {[%clk
+0:02:12]}33.Qg3 {[%clk 0:03:48]}33...Nxc2 {[%clk 0:01:55]}34.Kxc2 {[%clk
+0:03:51]}34...Qxe4+ {[%clk 0:02:00]}35.Qd3 {[%clk 0:03:39]}35...Qxd3+ {[%clk
+0:01:44]}36.Kxd3 {[%clk 0:03:41]}36...Rxb3+ {[%clk 0:01:48]}37.Ke4 {[%clk
+0:03:45]}37...Nc6 {[%clk 0:01:22]}38.Kd5 {[%clk 0:03:45]}38...Nd4 {[%clk
+0:01:07]}39.Kxc5 {[%clk 0:03:25]}39...Rb7 {[%clk 0:01:11]}40.Kd5 {[%clk
+0:03:22]}40...Rc7 {[%clk 0:01:07]}41.a4 {[%clk 0:03:23]}41...Kf7 {[%clk
+0:01:10]}42.a5 {[%clk 0:03:27]}42...Kf6 {[%clk 0:01:13]}43.a6 {[%clk
+0:03:31]}43...Ra7 {[%clk 0:01:17]}44.c5 {[%clk 0:03:29]}44...Nb5 {[%clk
+0:01:17]}45.Rgf1+ {[%clk 0:03:29]}45...Ke7 {[%clk 0:01:11]}46.Kxe5 {[%clk
+0:03:32]}46...Nc7 {[%clk 0:01:13]}47.Rfb1 {[%clk 0:03:28]}47...Rxa6 {[%clk
+0:01:13]}48.Rxa6 {[%clk 0:03:29]}48...Nxa6 {[%clk 0:01:18]}49.Kd5 {[%clk
+0:03:28]}49...Nc7+ {[%clk 0:01:15]}50.Kc6 {[%clk 0:03:29]}50...Ne6 {[%clk
+0:01:15]}51.Re1 {[%clk 0:03:27]}51...Kf6 {[%clk 0:01:10]}52.Rxe6+ {[%clk
+0:03:26]}52...Kxe6 {[%clk 0:01:14]}53.Kb7 {[%clk 0:03:30]}53...h5 {[%clk
+0:01:13]}54.c6 {[%clk 0:03:33]} { Black resigns.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/U5iExV9t"]
+[Date "2025.06.14"]
+[Round "3"]
+[White "arandres0510"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1830"]
+[BlackRatingDiff "+16"]
+[EventDate "2025.06.14"]
+[FEN "bbqnrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBQNRNKR w KQkq - 0 1"]
+[GameId "U5iExV9t"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.14"]
+[UTCTime "02:39:53"]
+[Variant "Chess960"]
+[WhiteElo "1325"]
+[WhiteRatingDiff "-10"]
+
+1.b3 e5 2.e4 c6 3.c4 Ng6 4.Ng3 O-O 5.O-O b6 6.Nc3 Nb7 7.Bb2 Nc5 8.Ba3 Nf4 9.Qd1
+d5 10.b4 Nb7 11.cxd5 cxd5 12.Nxd5 Nxd5 13.exd5 Qd7 14.Be4 Nd6 15.d3 Nb5 16.Bb2
+Bxd5 17.a4 Nd4 18.Ba3 Bxe4 19.Rxe4 Rc8 20.b5 Rfe8 21.Rfe1 Nc2 22.d4 Nxa3 23.Qb3
+Nc2 24.Rd1 Nxd4 25.Nh5 Qf5 26.Ng3 Qxe4 27.Nxe4 Nxb3  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/1hFyWvD7"]
+[Date "2025.06.14"]
+[Round "3"]
+[White "Alejandro-mesa"]
+[Black "cgallego00"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1734"]
+[BlackRatingDiff "+2"]
+[EventDate "2025.06.14"]
+[FEN "qbbrnkrn/pppppppp/8/8/8/8/PPPPPPPP/QBBRNKRN w KQkq - 0 1"]
+[GameId "1hFyWvD7"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.14"]
+[UTCTime "18:11:28"]
+[Variant "Chess960"]
+[WhiteElo "1503"]
+[WhiteRatingDiff "-41"]
+
+1.b3 c6 2.Ng3 Ng6 3.Nf3 Nf6 4.d3 h6 5.c4 d5 6.O-O dxc4 7.dxc4 O-O 8.Rxd8 Rxd8
+9.Bf5 e6 10.Bxg6 fxg6 11.Qb1 Kh7 12.Bb2 Bxg3 13.fxg3 b5 14.Ne5 bxc4 15.Nxc4 a5
+16.Bxf6 Qa7+ 17.Kh1 gxf6 18.Rxf6 Rg8 19.Nd6 Qd4 20.Rf7+ Kh8 21.Nxc8 Rxc8 22.Rf1
+Kh7 23.Rf7+ Kh8 24.Rf1 Kg7 25.Qd1 Rd8 26.Qc2 Rf8 27.Rd1 c5 28.h3 Qe5 29.Kh2 h5
+30.Rd7+ Rf7 31.Rd3 Rf2 32.Rd7+ Kh6 33.Qd2+ g5 34.Qd3 Rf5 35.Kg1 Qa1+ 36.Kh2 Qe5
+37.Kg1 h4 38.g4 Qa1+ 39.Kh2 Qe5+ 40.Kh1 Rf1#  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/MpxJD4Dl"]
+[Date "2025.06.11"]
+[Round "3"]
+[White "IAHMCOL"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1835"]
+[BlackRatingDiff "+7"]
+[EventDate "2025.06.11"]
+[FEN "bbqnrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBQNRNKR w KQkq - 0 1"]
+[GameId "MpxJD4Dl"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.11"]
+[UTCTime "01:12:27"]
+[Variant "Chess960"]
+[WhiteElo "1068"]
+[WhiteRatingDiff "-9"]
+
+1.b3 {[%clk 0:10:00]}1...c5 {[%clk 0:10:00]}2.Qb2 {[%clk 0:10:02]}2...e5 {[%clk
+0:10:01]}3.Ng3 {[%clk 0:09:45]}3...Nc6 {[%clk 0:10:05]}4.Ne4 {[%clk
+0:09:47]}4...b6 {[%clk 0:10:00]}5.O-O {[%clk 0:09:51]}5...Ng6 {[%clk
+0:09:58]}6.Ne3 {[%clk 0:09:53]}6...Nd4 {[%clk 0:09:43]}7.Ng5 {[%clk
+0:09:32]}7...h6 {[%clk 0:09:39]}8.Nf3 {[%clk 0:09:29]}8...d6 {[%clk
+0:09:32]}9.c3 {[%clk 0:09:31]}9...Nxf3+ {[%clk 0:09:28]}10.exf3 {[%clk
+0:09:34]}10...Qe6 {[%clk 0:09:30]}11.Ng4 {[%clk 0:09:30]}11...Nf4 {[%clk
+0:09:17]}12.Be4 {[%clk 0:09:15]}12...d5 {[%clk 0:09:13]}13.Bd3 {[%clk
+0:09:05]}13...Nxd3 {[%clk 0:08:59]}14.Qc2 {[%clk 0:09:09]}14...Nxe1 {[%clk
+0:08:59]}15.Rxe1 {[%clk 0:09:13]}15...e4 {[%clk 0:08:57]}16.f4 {[%clk
+0:09:10]}16...Qxg4 {[%clk 0:09:00]}17.h3 {[%clk 0:09:14]}17...Qxf4 {[%clk
+0:09:00]}18.g3 {[%clk 0:09:17]}18...Qf5 {[%clk 0:08:53]}19.c4 {[%clk
+0:09:20]}19...d4 {[%clk 0:08:40]}20.f4 {[%clk 0:09:18]}20...Qxh3 {[%clk
+0:08:40]}21.Re2 {[%clk 0:09:20]}21...O-O {[%clk 0:08:40]}22.Rh2 {[%clk
+0:09:23]}22...Qxg3+ {[%clk 0:08:42]}23.Rg2 {[%clk 0:09:27]}23...Qxf4 {[%clk
+0:08:41]}24.Rxg7+ {[%clk 0:09:31]}24...Kxg7 {[%clk 0:08:44]}25.Bxd4+ {[%clk
+0:09:34]}25...Be5 {[%clk 0:08:43]}26.Bxe5+ {[%clk 0:09:38]}26...Qxe5 {[%clk
+0:08:47]}27.Qxe4 {[%clk 0:09:41]} { White resigns.} 0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/FoK2VssP"]
+[Date "2025.06.17"]
+[Round "4"]
+[White "cgallego00"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1773"]
+[BlackRatingDiff "+77"]
+[EventDate "2025.06.17"]
+[FEN "rbknbnqr/pppppppp/8/8/8/8/PPPPPPPP/RBKNBNQR w KQkq - 0 1"]
+[GameId "FoK2VssP"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.17"]
+[UTCTime "03:10:33"]
+[Variant "Chess960"]
+[WhiteElo "1735"]
+[WhiteRatingDiff "-4"]
+
+1.f3 a6 2.Bf2 Nc6 3.a3 g6 4.Ba2 Qg7 5.Nc3 e6 6.O-O-O d5 7.d4 Nd7 8.e3 f5 9.Nd2
+Bf7 10.Nb3 O-O 11.g4 fxg4 12.fxg4 Ba7 13.h4 Rad8 14.g5 e5 15.Bg3 exd4 16.exd4
+Bb8 17.Kb1 Nb6 18.Nc5 Nc4 19.Bf2 Ba7 20.Nb3 Be6 21.Re1 Bf5 22.h5 Qf7 23.hxg6
+Bxg6 24.Bg3 Qf5 25.Rc1 N6e5 26.Bxe5 Nxe5 27.Qf1 Nc4 28.Qxf5 Rxf5 29.Rhg1 Rdf8
+30.Na4 b6 31.Na1 c5 32.dxc5 bxc5 33.Nb3 Ne3 34.Nbxc5 Rc8 35.Nd3 Nxc2 36.Rg3
+Rff8 37.Bxd5+ Kg7 38.Rxc2 Rf1+ 39.Rc1 Rcxc1+ 40.Ka2 Rcd1 41.Nb4 a5 42.Bc4 axb4
+43.Bxf1 Rxf1 44.Kb3 bxa3 45.Kxa3 Bb8 46.Rb3 Ra1+ 47.Kb4 Bd6+ 48.Ka5 Rxa4+
+49.Kxa4 Bc2 50.g6 h5  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/XgeDGQvE"]
+[Date "2025.06.21"]
+[Round "4"]
+[White "arandres0510"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1655"]
+[BlackRatingDiff "+23"]
+[EventDate "2025.06.21"]
+[FEN "nnqrkbbr/pppppppp/8/8/8/8/PPPPPPPP/NNQRKBBR w KQkq - 0 1"]
+[GameId "XgeDGQvE"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.21"]
+[UTCTime "00:04:27"]
+[Variant "Chess960"]
+[WhiteElo "1340"]
+[WhiteRatingDiff "-19"]
+
+1.e4 e5 2.h3 Bc5 3.Bh2 Nc6 4.Bc4 Nb6 5.Bb3 Nd4 6.Bxe5 Nxb3 7.Nxb3 f6 8.Bg3 Be7
+9.O-O Be6 10.d4 O-O 11.Nc5 Bf7 12.Nc3 d5 13.Nb5 c6 14.Nxa7 Qa8 15.Bc7 Qxa7
+16.Bxd8 Bxd8 17.a3 dxe4 18.Rfe1 f5 19.Qf4 Bg6 20.Ne6 Nd5 21.Qd6 Be7 22.Qd7 Be8
+23.Nxf8 Bxd7 24.Nxd7 b5 25.Nc5 Bxc5 26.dxc5 Qxc5 27.c3 Nf4 28.Rd8+ Kf7 29.Red1
+Nd3 30.Kh2 Qxf2 31.Rd7+ Kg6 32.Rd6+ Kg5 33.Rd7 Kh6 34.Rd6+ g6 35.Rxc6 Nf4
+36.Rg1 Ne2 37.Rd1 Qg3+ 38.Kh1 f4 39.Re6 f3 40.gxf3 Qxh3#  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/0b9Uxd7B"]
+[Date "2025.06.28"]
+[Round "4"]
+[White "Alejandro-mesa"]
+[Black "twinsendell"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1767"]
+[BlackRatingDiff "+12"]
+[EventDate "2025.06.28"]
+[FEN "brqnkbnr/pppppppp/8/8/8/8/PPPPPPPP/BRQNKBNR w KQkq - 0 1"]
+[GameId "0b9Uxd7B"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.28"]
+[UTCTime "00:50:22"]
+[Variant "Chess960"]
+[WhiteElo "1365"]
+[WhiteRatingDiff "-14"]
+
+1.b3 {[%clk 0:10:00]}1...b6 {[%clk 0:10:00]}2.e3 {[%clk 0:09:37]}2...c5 {[%clk
+0:09:47]}3.Bc3 {[%clk 0:09:35]}3...Nf6 {[%clk 0:09:37]}4.Bc4 {[%clk
+0:09:26]}4...Bxg2 {[%clk 0:09:13]}5.Nf3 {[%clk 0:08:53]}5...Bxh1 {[%clk
+0:09:03]}6.Ng5 {[%clk 0:08:57]}6...e6 {[%clk 0:08:55]}7.Qa3 {[%clk
+0:08:58]}7...Nc6 {[%clk 0:08:47]}8.Ba6 {[%clk 0:08:56]}8...Qc7 {[%clk
+0:08:31]}9.Nb2 {[%clk 0:08:52]}9...Be7 {[%clk 0:08:22]}10.Nc4 {[%clk
+0:08:36]}10...Nb4 {[%clk 0:08:08]}11.Be5 {[%clk 0:08:32]}11...d6 {[%clk
+0:07:26]}12.Bf4 {[%clk 0:08:14]}12...Nxc2+ {[%clk 0:07:28]} { White resigns.}
+0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/SsYpvzQ6"]
+[Date "2025.06.17"]
+[Round "4"]
+[White "kopalito"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1850"]
+[BlackRatingDiff "+42"]
+[EventDate "2025.06.17"]
+[FEN "rknrnqbb/pppppppp/8/8/8/8/PPPPPPPP/RKNRNQBB w KQkq - 0 1"]
+[GameId "SsYpvzQ6"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.17"]
+[UTCTime "23:58:42"]
+[Variant "Chess960"]
+[WhiteElo "1705"]
+[WhiteRatingDiff "-50"]
+
+1.d4 g6 2.f3 Qg7 3.Ncd3 Nb6 4.g3 f5 5.Ng2 d6 6.Ngf4 Nf6 7.e4 fxe4 8.fxe4 Rd7
+9.Bg2 O-O-O 10.Bh3 Nxe4 11.Bxd7+ Nxd7 12.Re1 Nd2+ 13.Kc1 Nxf1 14.Rxf1 e5
+15.dxe5 Nxe5 16.Bd4 Nxd3+ 17.Nxd3 Qxd4 18.a4 Bc4  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/WcLix48x"]
+[Date "2025.06.21"]
+[Round "4"]
+[White "cgallego00"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1658"]
+[BlackRatingDiff "-113"]
+[EventDate "2025.06.21"]
+[FEN "rbnqnkbr/pppppppp/8/8/8/8/PPPPPPPP/RBNQNKBR w KQkq - 0 1"]
+[GameId "WcLix48x"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.21"]
+[UTCTime "02:12:06"]
+[Variant "Chess960"]
+[WhiteElo "1714"]
+[WhiteRatingDiff "+4"]
+
+1.c3 {[%clk 0:10:00]}1...f6 {[%clk 0:10:00]}2.Nf3 {[%clk 0:09:46]}2...c6 {[%clk
+0:09:33]}3.Nb3 {[%clk 0:09:47]}3...Ncd6 {[%clk 0:09:21]}4.Bc2 {[%clk
+0:09:45]}4...Nc7 {[%clk 0:09:02]}5.d3 {[%clk 0:09:43]}5...e5 {[%clk
+0:09:01]}6.Qd2 {[%clk 0:09:46]}6...Be6 {[%clk 0:08:48]}7.e4 {[%clk
+0:09:49]}7...O-O {[%clk 0:08:49]}8.Nc5 {[%clk 0:09:53]}8...b6 {[%clk
+0:08:45]}9.Nxe6 {[%clk 0:09:55]}9...Nxe6 {[%clk 0:08:47]}10.O-O-O {[%clk
+0:09:47]}10...a5 {[%clk 0:08:35]}11.h4 {[%clk 0:09:48]}11...b5 {[%clk
+0:08:37]}12.h5 {[%clk 0:09:51]}12...h6 {[%clk 0:08:41]}13.d4 {[%clk
+0:09:46]}13...exd4 {[%clk 0:08:31]}14.Nxd4 {[%clk 0:09:51]}14...Nxd4 {[%clk
+0:08:34]}15.Qxd4 {[%clk 0:09:53]}15...Qe7 {[%clk 0:08:15]}16.f3 {[%clk
+0:09:50]}16...b4 {[%clk 0:08:00]}17.c4 {[%clk 0:09:28]}17...a4 {[%clk
+0:07:56]}18.c5 {[%clk 0:09:32]}18...Nb5 {[%clk 0:07:42]}19.Qxd7 {[%clk
+0:09:34]}19...Qxd7 {[%clk 0:07:32]}20.Rxd7 {[%clk 0:09:39]}20...Bf4+ {[%clk
+0:07:30]}21.Kb1 {[%clk 0:09:28]}21...a3 {[%clk 0:07:01]}22.Bb3+ {[%clk
+0:08:28]}22...Kh8 {[%clk 0:06:56]}23.Bf2 {[%clk 0:08:26]}23...Rad8 {[%clk
+0:06:21]}24.Rhd1 {[%clk 0:08:28]}24...Rxd7 {[%clk 0:06:23]}25.Rxd7 {[%clk
+0:08:32]}25...f5 {[%clk 0:06:05]}26.g3 {[%clk 0:08:02]}26...Be5 {[%clk
+0:05:59]}27.bxa3 {[%clk 0:07:49]}27...Nxa3+ {[%clk 0:05:55]}28.Kc1 {[%clk
+0:07:51]}28...fxe4 {[%clk 0:05:52]}29.f4 {[%clk 0:07:55]}29...Bf6 {[%clk
+0:05:51]}30.Be1 {[%clk 0:07:41]}30...Bc3 {[%clk 0:04:45]}31.Bxc3 {[%clk
+0:07:24]}31...bxc3 {[%clk 0:04:50]}32.Re7 {[%clk 0:07:17]}32...Rf5 {[%clk
+0:04:41]}33.Re8+ {[%clk 0:06:47]}33...Kh7 {[%clk 0:04:45]}34.Bg8+ {[%clk
+0:06:49]} { Black resigns.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/T7a6hiHA"]
+[Date "2025.06.17"]
+[Round "4"]
+[White "Alejandro-mesa"]
+[Black "IAHMCOL"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "993"]
+[BlackRatingDiff "+236"]
+[EventDate "2025.06.17"]
+[FEN "rkqrbbnn/pppppppp/8/8/8/8/PPPPPPPP/RKQRBBNN w KQkq - 0 1"]
+[GameId "T7a6hiHA"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.17"]
+[UTCTime "18:36:26"]
+[Variant "Chess960"]
+[WhiteElo "1516"]
+[WhiteRatingDiff "-125"]
+
+1.f3 f5 2.d3 h6 3.Qe3 b6 4.g4 d5 5.gxf5 Qxf5 6.Bh3 Qf6 7.Bg3 Qc6 8.Nf2 g5 9.c4
+d4 10.Qe5 Nf7 11.Qe4 Nd6 12.Qxc6 Bxc6 13.Bg2 e5 14.Bxe5 Nf5 15.Bh3 Ne3 16.Rc1
+Bd7 17.Bxd4 Bxh3 18.Bxe3 Bd7 19.Ne4 c5 20.d4 cxd4 21.Bxd4 Bf5 22.Rd1 Bxe4+
+23.Kc1 Re8 24.fxe4 Kb7 25.e5 Ne7 26.Kc2 Nf5 27.Bc3 Ne3+ 28.Kd2 Nxd1 29.Kxd1
+Rad8+ 30.Ke1 Rc8 31.Nf3 Rxc4 32.Nd2 Rh4 33.Nf3 Rf4 34.Rd1 g4 35.Nh4 Be7 36.Ng6
+Ra4 37.Rd7+ Kc6 38.Rd3 Bc5 39.b4 Bxb4 40.Bxb4 Rxb4 41.Rc3+ Kd5 42.Rd3+ Kc4
+43.a3 Rb3 44.Rd6 Rxa3 45.e6 Kc5 46.Rd7 Rxe6 47.Nf4 Kc6 48.Rh7 Rae3 49.Nxe6 Rxe6
+50.Rxa7 h5 51.Rh7 Re5 52.Rh6+ Kc5 53.Kf2 b5 54.Ra6 b4 55.Ra5+ Kd4 56.Ra4 Kc3
+57.Ke1 b3 58.Ra3 h4 59.Kd1 g3 60.hxg3 hxg3 61.Ke1 Rf5 62.Ra4 g2 63.Rg4 b2
+64.Kd1 b1=Q#  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/OFDHjjNz"]
+[Date "2025.06.22"]
+[Round "4"]
+[White "twinsendell"]
+[Black "pei12"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1892"]
+[BlackRatingDiff "-84"]
+[EventDate "2025.06.22"]
+[FEN "qrkbnnbr/pppppppp/8/8/8/8/PPPPPPPP/QRKBNNBR w KQkq - 0 1"]
+[GameId "OFDHjjNz"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.22"]
+[UTCTime "22:07:29"]
+[Variant "Chess960"]
+[WhiteElo "1695"]
+[WhiteRatingDiff "+114"]
+
+1.f3 d5 2.e4 dxe4 3.fxe4 e5 4.Nd3 f6 5.Ng3 Be6 6.Be3 Nd6 7.Bf3 Be7 8.O-O Ng6
+9.Nc5 Bf7 10.Bg4+ Kd8 11.Ne6+ Bxe6 12.Bxe6 Nf8 13.Bg4 b6 14.d3 Qc6 15.c3 g6
+16.Rbe1 h5 17.Bf3 Nd7 18.d4 Qb7 19.dxe5 Nxe5 20.Qd1 Nxf3+ 21.Qxf3 Kd7 22.Rd1
+Rbf8 23.Bf4 Kc8 24.Bxd6 Bxd6 25.Ne2 g5 26.Qf5+ Kb8 27.Nd4 Be5 28.b4 Qc8 29.Nc6+
+Kb7 30.Qxc8+ Kxc8 31.Nxe5 fxe5 32.Rd5 Rxf1+ 33.Kxf1 Re8 34.Ke2 c6 35.Rd6 Kc7
+36.Rg6 g4 37.Rg5 Rf8 38.Rxh5 Kd6 39.Rg5 Rf4 40.Ke3 Rf1 41.Rxg4 Ra1 42.Rg6+ Kc7
+43.h4 Rxa2 44.h5 Ra1 45.h6 a5 46.bxa5 bxa5 47.h7 Rh1 48.Rg7+ Kb6 49.Kd3 Kb5
+50.Rb7+ Kc5 51.Kc2 a4 52.Ra7 Rh2 53.Kb1 Kc4 54.Rxa4+ Kxc3 55.Ra3+ Kb4 56.Rh3
+Rxg2 57.h8=Q  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/eKltdhqo"]
+[Date "2025.06.14"]
+[Round "4"]
+[White "cgallego00"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1059"]
+[BlackRatingDiff "-8"]
+[EventDate "2025.06.14"]
+[FEN "bnqbrnkr/pppppppp/8/8/8/8/PPPPPPPP/BNQBRNKR w KQkq - 0 1"]
+[GameId "eKltdhqo"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.14"]
+[UTCTime "22:14:48"]
+[Variant "Chess960"]
+[WhiteElo "1736"]
+[WhiteRatingDiff "+1"]
+
+1.b3 e5 2.d4 d6 3.dxe5 dxe5 4.Ne3 Bf6 5.O-O Nbd7 6.Nc3 b6 7.Ncd5 Bxd5 8.Nxd5 Qb7
+9.c4 c6 10.Ne3 e4 11.Bc2 Bxa1 12.Qxa1 Nf6 13.Nf5 Qd7 14.Ne3 Ne6 15.Rd1 Qe7
+16.Nf5 Qc5 17.Ne3 O-O 18.a3 Rd8 19.b4 Qe7 20.Rxd8 Rxd8 21.Rd1 Rxd1+ 22.Qxd1 Qd8
+23.Qxd8+ Nxd8 24.f3 exf3 25.exf3 Ne6 26.Kf2 g6 27.g4 Nd4 28.Be4 c5 29.bxc5 bxc5
+30.Bb7 Kg7 31.g5 Nd7 32.h4 a5 33.Nd5 f6 34.gxf6+ Nxf6 35.Nc3 Nf5 36.Na4 Nxh4
+37.Nxc5 Nf5 38.Be4 Nd6 39.Bd3 h5 40.a4 g5 41.Nb3 Nb7 42.c5 g4 43.c6 Nd6 44.Nxa5
+Nd5 45.Nc4 Nxc4 46.Bxc4 Nc7 47.fxg4 hxg4 48.Kg3 Kh6 49.Kxg4  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/MwcdtWOu"]
+[Date "2025.06.24"]
+[Round "5"]
+[White "twinsendell"]
+[Black "IAHMCOL"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1229"]
+[BlackRatingDiff "-12"]
+[EventDate "2025.06.24"]
+[FEN "nbbnrqkr/pppppppp/8/8/8/8/PPPPPPPP/NBBNRQKR w KQkq - 0 1"]
+[GameId "MwcdtWOu"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.24"]
+[UTCTime "02:42:13"]
+[Variant "Chess960"]
+[WhiteElo "1809"]
+[WhiteRatingDiff "+9"]
+
+1.Nb3 Ne6 2.c3 g6 3.d4 d5 4.e4 c6 5.e5 Nac7 6.Qd3 Ng7 7.Bh6 Nce6 8.h4 f5 9.h5
+Qf7 10.Bxg7 Nxg7 11.hxg6 Qxg6 12.Ne3 Nh5 13.Nxf5 Bxf5 14.Qxf5 Qxf5 15.Bxf5 Nf4
+16.g3 e6 17.Bxh7+ Rxh7 18.Rxh7 Kxh7 19.gxf4 Rg8+ 20.Kf1 Rg4 21.f5 exf5 22.Re3
+Kg6 23.Rg3 Rxg3 24.fxg3 Kf7 25.Kf2 Bc7 26.Kf3 Bd8 27.Kf4 Ke6 28.Nd2 a5 29.Nf1
+b6 30.Ne3 c5 31.Nxf5 cxd4 32.Nxd4+ Ke7 33.Kf5  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/vv4aVOqn"]
+[Date "2025.06.24"]
+[Round "5"]
+[White "kopalito"]
+[Black "Alejandro-mesa"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1391"]
+[BlackRatingDiff "-26"]
+[EventDate "2025.06.24"]
+[FEN "bbqnrnkr/pppppppp/8/8/8/8/PPPPPPPP/BBQNRNKR w KQkq - 0 1"]
+[GameId "vv4aVOqn"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.24"]
+[UTCTime "21:52:54"]
+[Variant "Chess960"]
+[WhiteElo "1678"]
+[WhiteRatingDiff "+25"]
+
+1.Ng3 {[%clk 0:10:00]}1...a6 {[%clk 0:10:00]}2.b3 {[%clk 0:09:59]}2...b5 {[%clk
+0:10:04]}3.Qb2 {[%clk 0:09:51]}3...Nde6 {[%clk 0:10:09]}4.e4 {[%clk
+0:09:37]}4...Ba7 {[%clk 0:10:08]}5.Ne3 {[%clk 0:09:37]}5...Ng6 {[%clk
+0:10:01]}6.d4 {[%clk 0:09:34]}6...Bxd4 {[%clk 0:09:59]}7.c3 {[%clk
+0:09:37]}7...Bf6 {[%clk 0:09:59]}8.O-O {[%clk 0:09:36]}8...O-O {[%clk
+0:10:01]}9.Ng4 {[%clk 0:09:09]}9...b4 {[%clk 0:09:55]}10.Nxf6+ {[%clk
+0:09:11]}10...exf6 {[%clk 0:09:55]}11.cxb4 {[%clk 0:09:10]}11...Qb8 {[%clk
+0:09:37]}12.a3 {[%clk 0:09:00]}12...Nef4 {[%clk 0:09:41]}13.Nf5 {[%clk
+0:08:49]}13...Qb5 {[%clk 0:09:22]}14.Re3 {[%clk 0:08:18]}14...d5 {[%clk
+0:08:21]}15.Nd4 {[%clk 0:08:02]}15...Qd7 {[%clk 0:08:09]}16.Rfe1 {[%clk
+0:07:19]}16...Qg4 {[%clk 0:07:39]}17.Rg3 {[%clk 0:07:19]}17...Qd7 {[%clk
+0:07:37]}18.f3 {[%clk 0:06:47]}18...dxe4 {[%clk 0:07:34]}19.Bxe4 {[%clk
+0:06:44]}19...Bxe4 {[%clk 0:07:36]}20.Rxe4 {[%clk 0:06:47]}20...Rxe4 {[%clk
+0:07:37]}21.fxe4 {[%clk 0:06:49]}21...Re8 {[%clk 0:07:16]}22.Qc2 {[%clk
+0:05:56]}22...Qe7 {[%clk 0:05:50]}23.Re3 {[%clk 0:05:07]}23...Nd5 {[%clk
+0:05:31]}24.Nf5 {[%clk 0:04:50]}24...Qe6 {[%clk 0:05:07]}25.exd5 {[%clk
+0:04:40]}25...Qxe3+ {[%clk 0:05:09]}26.Nxe3 {[%clk 0:04:43]}26...Rxe3 {[%clk
+0:05:12]}27.Bd4 {[%clk 0:04:27]}27...Re1+ {[%clk 0:05:03]}28.Kf2 {[%clk
+0:04:31]}28...Re8 {[%clk 0:04:57]}29.Qxc7 {[%clk 0:04:33]}29...Nf4 {[%clk
+0:04:58]} { Black resigns.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/03rZUoxX"]
+[Date "2025.06.25"]
+[Round "5"]
+[White "cgallego00"]
+[Black "arandres0510"]
+[Result "1/2-1/2"]
+[Annotator "lichess.org"]
+[BlackElo "1321"]
+[BlackRatingDiff "+50"]
+[EventDate "2025.06.25"]
+[FEN "rknbbqrn/pppppppp/8/8/8/8/PPPPPPPP/RKNBBQRN w KQkq - 0 1"]
+[GameId "03rZUoxX"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.25"]
+[UTCTime "22:22:25"]
+[Variant "Chess960"]
+[WhiteElo "1721"]
+[WhiteRatingDiff "-4"]
+
+1.c3 e5 2.Bc2 Ng6 3.Nb3 d5 4.O-O-O Nd6 5.Kb1 Bf6 6.d3 O-O-O 7.e4 Bc6 8.exd5 Bxd5
+9.c4 Bc6 10.f3 Nf4 11.g3 Ne6 12.Na5 Bd7 13.Qg2 b6 14.f4 Kb8 15.Nc6+ Bxc6
+16.Qxc6 Nd4 17.Qg2 exf4 18.gxf4 N6f5 19.Bd2 Qc5 20.Ng3 Nxc2 21.Kxc2 Nd4+ 22.Kb1
+Rge8 23.Ne4 Qf5 24.Bc3 g6 25.Nxf6 Qxf6 26.Qf2 Re2 27.Bxd4 Rxf2 28.Bxf6 Rd6
+29.Be5 Re6 30.Rh1 f6 31.Bc3 Rxf4 32.Rde1 Rd6 33.Rhf1 Rxf1 34.Rxf1 f5 35.d4 Re6
+36.Kc2 Re2+ 37.Bd2 Rxh2 38.c5 Kb7 39.b4 Kc6 40.a4 Kd5 41.Kd3 Rh3+ 42.Be3 Rg3
+43.cxb6 cxb6 44.Rf4 h5 45.a5 b5 46.Ke2 Rg2+ 47.Rf2 Rg4 48.Kf3 a6 49.Rg2 Rxg2
+50.Kxg2 Kc4 51.Kf3 Kd5 52.Kf4 h4 53.Bf2 h3 54.Kg3 g5 55.Kxh3 Ke4 56.Kg3 Kd5
+57.Kf3 Kc4 58.Kg3 Kd5 59.Kf3 Kc4 60.Ke2 Kd5 61.Kd3 Kd6 62.Be3 g4 63.Bf4+ Kd5
+64.Be5 Ke6 65.Ke3 Kd5 66.Bf6 Kc4 67.Be7 Kd5 68.Bc5 Ke6 69.Kf4 Kd5 70.Ke3 Ke6
+71.Bb6 Kd5 72.Kf4 Ke6 73.Bd8 Kd5 74.Ke3 Kc4 75.Be7 Kd5 76.Bc5  1/2-1/2
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/sNcwWUdj"]
+[Date "2025.06.24"]
+[Round "5"]
+[White "IAHMCOL"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1808"]
+[BlackRatingDiff "+7"]
+[EventDate "2025.06.24"]
+[FEN "qnbbrkrn/pppppppp/8/8/8/8/PPPPPPPP/QNBBRKRN w KQkq - 0 1"]
+[GameId "sNcwWUdj"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.24"]
+[UTCTime "17:00:56"]
+[Variant "Chess960"]
+[WhiteElo "1217"]
+[WhiteRatingDiff "-10"]
+
+1.b3 {[%clk 0:10:00]}1...e5 {[%clk 0:10:00]}2.Bb2 {[%clk 0:10:04]}2...d6 {[%clk
+0:10:02]}3.Ng3 {[%clk 0:10:04]}3...Ng6 {[%clk 0:10:04]}4.Nc3 {[%clk
+0:10:06]}4...O-O {[%clk 0:10:06]}5.Nce4 {[%clk 0:10:08]}5...Nc6 {[%clk
+0:10:07]}6.c3 {[%clk 0:10:09]}6...b6 {[%clk 0:09:52]}7.Bc2 {[%clk
+0:10:11]}7...f5 {[%clk 0:09:46]}8.Nxd6 {[%clk 0:09:38]}8...cxd6 {[%clk
+0:09:51]}9.e4 {[%clk 0:09:39]}9...fxe4 {[%clk 0:09:49]}10.Bxe4 {[%clk
+0:09:42]}10...Bb7 {[%clk 0:09:51]}11.c4 {[%clk 0:09:40]}11...Bg5 {[%clk
+0:09:40]}12.Bc3 {[%clk 0:09:40]}12...Rf6 {[%clk 0:08:53]}13.d4 {[%clk
+0:09:27]}13...exd4 {[%clk 0:08:45]}14.Bxd4 {[%clk 0:09:30]}14...Nxd4 {[%clk
+0:08:08]}15.Bxb7 {[%clk 0:09:34]}15...Rxe1+ {[%clk 0:08:11]}16.Qxe1 {[%clk
+0:09:26]}16...Qxb7 {[%clk 0:08:07]}17.Qe8+ {[%clk 0:09:30]}17...Rf8 {[%clk
+0:08:09]}18.Qe4 {[%clk 0:09:24]}18...Qxe4 {[%clk 0:08:00]}19.Nxe4 {[%clk
+0:09:28]}19...Be7 {[%clk 0:07:56]}20.O-O {[%clk 0:09:30]}20...b5 {[%clk
+0:07:47]}21.cxb5 {[%clk 0:09:31]}21...Nxb5 {[%clk 0:07:51]}22.a4 {[%clk
+0:09:35]}22...Nd4 {[%clk 0:07:47]}23.b4 {[%clk 0:09:37]}23...Ne2+ {[%clk
+0:07:48]}24.Kh1 {[%clk 0:09:40]}24...d5 {[%clk 0:07:51]}25.Re1 {[%clk
+0:09:31]}25...Ngf4 {[%clk 0:07:37]}26.g3 {[%clk 0:09:12]}26...dxe4 {[%clk
+0:07:40]}27.gxf4 {[%clk 0:09:14]}27...Nxf4 {[%clk 0:07:41]}28.Rxe4 {[%clk
+0:09:16]}28...Nd5 {[%clk 0:07:40]}29.b5 {[%clk 0:09:18]}29...Rxf2 {[%clk
+0:07:36]}30.a5 {[%clk 0:09:18]}30...Bc5 {[%clk 0:07:28]}31.Re5 {[%clk
+0:09:19]}31...Rd2 {[%clk 0:07:32]}32.Re8+ {[%clk 0:09:22]}32...Kf7 {[%clk
+0:07:36]}33.Rc8 {[%clk 0:09:24]}33...Be3 {[%clk 0:07:32]}34.Ra8 {[%clk
+0:09:21]}34...Nf4 {[%clk 0:07:30]}35.b6 {[%clk 0:09:22]}35...Rd1# {[%clk
+0:07:28]} { Black wins by checkmate.} 0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/3JiAd4JH"]
+[Date "2025.06.28"]
+[Round "5"]
+[White "twinsendell"]
+[Black "arandres0510"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1386"]
+[BlackRatingDiff "-12"]
+[EventDate "2025.06.28"]
+[FEN "nqrbknbr/pppppppp/8/8/8/8/PPPPPPPP/NQRBKNBR w KQkq - 0 1"]
+[GameId "3JiAd4JH"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.28"]
+[UTCTime "00:19:18"]
+[Variant "Chess960"]
+[WhiteElo "1753"]
+[WhiteRatingDiff "+14"]
+
+1.e4 e5 2.Ne3 Ne6 3.Nb3 Nf4 4.f3 d5 5.exd5 f6 6.c4 h6 7.Bf2 Bh7 8.Bc2 Bxc2
+9.Qxc2 O-O 10.O-O Ne2+ 11.Kh1 Nxc1 12.Nxc1 Nb6 13.b3 Be7 14.Nf5 Bb4 15.d4 Rce8
+16.Nd3 Be7 17.dxe5 fxe5 18.Nxe5 Qc8 19.Nxh6+ gxh6 20.Qg6+ Kh8 21.Qxh6+ Kg8
+22.Qg6+ Kh8 23.Nf7+ Rxf7 24.Qxf7 Qd7 25.Bd4+  1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/gAmFfkxD"]
+[Date "2025.06.27"]
+[Round "5"]
+[White "kopalito"]
+[Black "cgallego00"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1717"]
+[BlackRatingDiff "+7"]
+[EventDate "2025.06.27"]
+[FEN "nrbbqkrn/pppppppp/8/8/8/8/PPPPPPPP/NRBBQKRN w KQkq - 0 1"]
+[GameId "gAmFfkxD"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.27"]
+[UTCTime "21:45:10"]
+[Variant "Chess960"]
+[WhiteElo "1774"]
+[WhiteRatingDiff "-62"]
+
+1.d4 d5 2.Ng3 Nb6 3.Bf4 Ng6 4.Bd2 Qa4 5.c3 Qxa2 6.Bc2 Nc4 7.Nb3 Qa6 8.Ra1 Qb6
+9.Bc1 h6 10.O-O O-O 11.e4 e6 12.e5 a6 13.Qe2 Qc6 14.Qg4 Qd7 15.Bxg6 fxg6
+16.Qxg6 Qf7 17.Qg4 Be7 18.Bxh6 Kh7 19.Bg5 Bxg5 20.Qxg5 Qg6 21.Qe7 Rf7 22.Qh4+
+Kg8 23.Qd8+ Kh7 24.Qh4+ Qh6 25.Qxh6+ Kxh6 26.Ra2 Bd7 27.Nc5 Bb5 28.b3 Nb6
+29.Nxe6 Bxf1 30.Kxf1 Re8 31.Nc5 Rb8 32.Ke2 Nc8 33.Ke3 Ne7 34.e6 Rf6 35.f4 b6
+36.Nxa6 Rxe6+ 37.Kd3 Rb7 38.Nb4 c5 39.dxc5 bxc5 40.Nc2 Rxb3 41.f5 Rf6 42.Ne3 d4
+43.Ng4+ Kg5 44.Nxf6 Rxc3+ 45.Ke4 gxf6 46.Ne2 Re3#  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/aODFhQ4y"]
+[Date "2025.06.30"]
+[Round "5"]
+[White "Alejandro-mesa"]
+[Black "pei12"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1815"]
+[BlackRatingDiff "+9"]
+[EventDate "2025.06.30"]
+[FEN "qbbrnkrn/pppppppp/8/8/8/8/PPPPPPPP/QBBRNKRN w KQkq - 0 1"]
+[GameId "aODFhQ4y"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.30"]
+[UTCTime "03:33:49"]
+[Variant "Chess960"]
+[WhiteElo "1351"]
+[WhiteRatingDiff "-10"]
+
+1.b3 O-O 2.Bb2 d6 3.c4 e5 4.Bxh7+ Kxh7 5.Qb1+ Kg8 6.Ng3 Nf6 7.Nf5 Bxf5 8.Qxf5
+Ng6 9.Nf3 Ne7 10.Qh3 c6 11.d4 Bc7 12.dxe5 dxe5 13.Rc1 Qc8 14.Qh4 Ng6 15.Qh3
+Qxh3 16.gxh3 e4 17.Ng5 Bxh2 18.Rg2 Be5 19.Ba3 Rfe8 20.Bc5 Bf4 21.Re1 Bxg5
+22.Rxg5 b6 23.Ba3 Rd2 24.Bb4 Rxa2 25.Rd1 e3 26.fxe3 Rxe3 27.Rd8+ Kh7 28.Rc8
+Rexe2 29.Rxc6 Nf4 30.Bf8  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/Ysj6miyA"]
+[Date "2025.06.26"]
+[Round "5"]
+[White "IAHMCOL"]
+[Black "arandres0510"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1371"]
+[BlackRatingDiff "+29"]
+[EventDate "2025.06.26"]
+[FEN "rbbnknrq/pppppppp/8/8/8/8/PPPPPPPP/RBBNKNRQ w KQkq - 0 1"]
+[GameId "Ysj6miyA"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.26"]
+[UTCTime "02:11:41"]
+[Variant "Chess960"]
+[WhiteElo "1207"]
+[WhiteRatingDiff "-57"]
+
+1.c4 e5 2.b4 g6 3.Nc3 d6 4.Bb2 Nde6 5.Ne3 c6 6.g3 Nd7 7.O-O Nf6 8.Ne4 O-O
+9.Nxf6+ Qxf6 10.Ng4 Qg5 11.Ne3 Bd7 12.Ng2 Bc7 13.Bc1 Qf6 14.e3 Ng5 15.f4 Nh3# 
+0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/OvuADEI6"]
+[Date "2025.06.27"]
+[Round "5"]
+[White "twinsendell"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1703"]
+[BlackRatingDiff "+71"]
+[EventDate "2025.06.27"]
+[FEN "nqbrkbnr/pppppppp/8/8/8/8/PPPPPPPP/NQBRKBNR w KQkq - 0 1"]
+[GameId "OvuADEI6"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.06.27"]
+[UTCTime "18:17:13"]
+[Variant "Chess960"]
+[WhiteElo "1818"]
+[WhiteRatingDiff "-83"]
+
+1.e4 e5 2.Nf3 c6 3.Bc4 Nf6 4.d3 d5 5.exd5 cxd5 6.Bb5+ Bd7 7.Bxd7+ Rxd7 8.c3 Bd6
+9.d4 e4 10.Ne5 Re7 11.Bf4 O-O 12.Nc2 Nb6 13.Ne3 Nh5 14.Bg3 Nxg3 15.hxg3 Bxe5
+16.dxe5 Rxe5 17.Qc2 f5 18.Qb3 Qd6 19.O-O-O Qe6 20.Rh4 Rc8 21.Rdh1 h6 22.g4 fxg4
+23.Nxg4 Rg5 24.Qd1 Nc4 25.f3 Qb6 26.Qe2 e3 27.Nxh6+ gxh6 28.Rxh6 Qc5 29.Rh8+
+Kf7 30.R1h7+ Rg7 31.Qd3 Rxh8 32.Rxh8 Nd6 33.g4 d4 34.Qxd4 Qxd4 35.cxd4 Kg6
+36.Rd8 Nc4 37.b3 Nd2 38.Kd1 Nxf3 39.Ke2 Nh2 40.Kxe3 Nxg4+ 41.Kd3 Re7 42.Kc4
+Ne3+ 43.Kc5 b6+ 44.Kc6 Kf7 45.d5 Nf5 46.d6 Re6 47.Kc7 Nd4 48.d7 Rc6+ 49.Kb7 Ke7
+50.Re8+ Kxd7 51.Re4 Rc7+ 52.Ka6 Ne6 53.a4 Nc5+  0-1
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/6NfdeTou"]
+[Date "2025.07.05"]
+[Round "6"]
+[White "pei12"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1779"]
+[BlackRatingDiff "-42"]
+[EventDate "2025.07.05"]
+[FEN "brknrbnq/pppppppp/8/8/8/8/PPPPPPPP/BRKNRBNQ w KQkq - 0 1"]
+[GameId "6NfdeTou"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.07.05"]
+[UTCTime "20:02:22"]
+[Variant "Chess960"]
+[WhiteElo "1824"]
+[WhiteRatingDiff "+45"]
+
+1.b3 {[%clk 0:10:00]}1...b6 {[%clk 0:10:00]}2.Nf3 {[%clk 0:10:02]}2...Nf6 {[%clk
+0:09:46]}3.g3 {[%clk 0:10:04]}3...d6 {[%clk 0:09:47]}4.Bg2 {[%clk
+0:10:08]}4...e5 {[%clk 0:09:48]}5.d3 {[%clk 0:09:36]}5...Ne6 {[%clk
+0:09:46]}6.e4 {[%clk 0:09:35]}6...Be7 {[%clk 0:09:10]}7.Ne3 {[%clk
+0:09:30]}7...Nd7 {[%clk 0:08:13]}8.O-O-O {[%clk 0:09:21]}8...a5 {[%clk
+0:07:51]}9.Nf5 {[%clk 0:09:23]}9...Bg5+ {[%clk 0:07:31]}10.Nxg5 {[%clk
+0:09:22]}10...Nxg5 {[%clk 0:07:36]}11.f4 {[%clk 0:09:19]}11...Ne6 {[%clk
+0:07:21]}12.fxe5 {[%clk 0:09:20]}12...Nxe5 {[%clk 0:07:26]}13.d4 {[%clk
+0:09:01]}13...Nd7 {[%clk 0:06:47]}14.e5 {[%clk 0:08:49]}14...g6 {[%clk
+0:06:37]}15.Nxd6+ {[%clk 0:08:42]}15...cxd6 {[%clk 0:06:28]}16.Bxa8 {[%clk
+0:08:46]}16...O-O {[%clk 0:05:36]}17.Bd5 {[%clk 0:08:32]}17...dxe5 {[%clk
+0:05:31]}18.dxe5 {[%clk 0:08:33]}18...Ndc5 {[%clk 0:05:16]}19.h4 {[%clk
+0:07:45]}19...a4 {[%clk 0:05:18]}20.h5 {[%clk 0:07:47]}20...axb3 {[%clk
+0:05:16]}21.axb3 {[%clk 0:07:43]}21...Rbc8 {[%clk 0:05:10]}22.hxg6 {[%clk
+0:07:40]}22...fxg6 {[%clk 0:04:58]}23.b4 {[%clk 0:07:39]}23...Qg7 {[%clk
+0:04:02]}24.bxc5 {[%clk 0:07:34]}24...Qe7 {[%clk 0:03:55]}25.Bxe6+ {[%clk
+0:07:34]}25...Qxe6 {[%clk 0:03:59]}26.Qd5 {[%clk 0:07:38]}26...Qxd5 {[%clk
+0:03:56]}27.Rxd5 {[%clk 0:07:42]}27...bxc5 {[%clk 0:04:00]}28.e6 {[%clk
+0:07:44]}28...Ra8 {[%clk 0:03:38]}29.Bb2 {[%clk 0:07:38]}29...Rfe8 {[%clk
+0:03:29]}30.Rxc5 {[%clk 0:07:37]}30...Ra6 {[%clk 0:03:27]}31.e7 {[%clk
+0:07:39]}31...Ra7 {[%clk 0:03:25]}32.Rce5 {[%clk 0:06:57]}32...Kf7 {[%clk
+0:03:28]}33.Bd4 {[%clk 0:06:57]}33...Rd7 {[%clk 0:03:06]}34.c3 {[%clk
+0:07:01]}34...h5 {[%clk 0:02:53]}35.Rf1+ {[%clk 0:06:59]}35...Kg8 {[%clk
+0:02:52]}36.Kd2 {[%clk 0:06:25]}36...Rdxe7 {[%clk 0:02:53]}37.Rxe7 {[%clk
+0:06:29]}37...Rxe7 {[%clk 0:02:58]}38.Rf6 {[%clk 0:06:28]}38...Kh7 {[%clk
+0:02:43]}39.c4 {[%clk 0:06:20]}39...Re4 {[%clk 0:02:01]}40.Kd3 {[%clk
+0:06:19]}40...Rg4 {[%clk 0:02:04]}41.Rf3 {[%clk 0:06:17]}41...h4 {[%clk
+0:02:02]}42.gxh4 {[%clk 0:06:20]}42...Rxh4 {[%clk 0:02:07]}43.c5 {[%clk
+0:06:19]}43...Rh1 {[%clk 0:01:47]}44.Kc4 {[%clk 0:06:11]}44...Rc1+ {[%clk
+0:01:49]}45.Rc3 {[%clk 0:06:15]}45...Ra1 {[%clk 0:01:30]}46.c6 {[%clk
+0:06:18]}46...Ra8 {[%clk 0:01:33]}47.c7 {[%clk 0:06:20]}47...Rc8 {[%clk
+0:01:37]}48.Kd5 {[%clk 0:06:24]}48...Kg8 {[%clk 0:01:38]}49.Ke6 {[%clk
+0:06:26]} { Black resigns.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/sjILKkKb"]
+[Date "2025.07.05"]
+[Round "6"]
+[White "twinsendell"]
+[Black "pei12"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1869"]
+[BlackRatingDiff "-61"]
+[EventDate "2025.07.05"]
+[FEN "rbnknqbr/pppppppp/8/8/8/8/PPPPPPPP/RBNKNQBR w KQkq - 0 1"]
+[GameId "sjILKkKb"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.07.05"]
+[UTCTime "20:25:01"]
+[Variant "Chess960"]
+[WhiteElo "1737"]
+[WhiteRatingDiff "+58"]
+
+1.c3 {[%clk 0:10:00]}1...d5 {[%clk 0:10:00]}2.d4 {[%clk 0:10:01]}2...Nf6 {[%clk
+0:10:03]}3.Ncd3 {[%clk 0:09:56]}3...Nd6 {[%clk 0:09:45]}4.f3 {[%clk
+0:09:39]}4...Nc4 {[%clk 0:09:47]}5.Nc2 {[%clk 0:09:06]}5...g6 {[%clk
+0:09:39]}6.Ne3 {[%clk 0:09:06]}6...Nxe3+ {[%clk 0:09:37]}7.Bxe3 {[%clk
+0:09:11]}7...c6 {[%clk 0:09:20]}8.Nc5 {[%clk 0:09:14]}8...b6 {[%clk
+0:09:04]}9.Nd3 {[%clk 0:09:09]}9...Bd6 {[%clk 0:09:01]}10.Qf2 {[%clk
+0:09:04]}10...Nd7 {[%clk 0:09:03]}11.O-O {[%clk 0:09:04]}11...f6 {[%clk
+0:09:05]}12.a4 {[%clk 0:08:56]}12...Bf7 {[%clk 0:09:01]}13.Bf4 {[%clk
+0:08:29]}13...e5 {[%clk 0:08:46]}14.dxe5 {[%clk 0:08:26]}14...Nxe5 {[%clk
+0:08:47]}15.Nxe5 {[%clk 0:08:29]}15...fxe5 {[%clk 0:08:51]}16.Qh4+ {[%clk
+0:08:17]}16...Qe7 {[%clk 0:08:53]}17.Bg5 {[%clk 0:08:20]}17...O-O {[%clk
+0:08:36]}18.Bxe7 {[%clk 0:08:22]} { Black resigns.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/lBMr3aKB"]
+[Date "2025.07.05"]
+[Round "6"]
+[White "pei12"]
+[Black "twinsendell"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1795"]
+[BlackRatingDiff "-38"]
+[EventDate "2025.07.05"]
+[FEN "rknqnrbb/pppppppp/8/8/8/8/PPPPPPPP/RKNQNRBB w KQkq - 0 1"]
+[GameId "lBMr3aKB"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.07.05"]
+[UTCTime "20:33:25"]
+[Variant "Chess960"]
+[WhiteElo "1808"]
+[WhiteRatingDiff "+39"]
+
+1.d4 {[%clk 0:10:00]}1...d5 {[%clk 0:10:00]}2.h3 {[%clk 0:09:51]}2...Ncd6 {[%clk
+0:10:01]}3.Nf3 {[%clk 0:09:38]}3...c6 {[%clk 0:09:42]}4.Bh2 {[%clk
+0:09:41]}4...Nc7 {[%clk 0:09:45]}5.Nd3 {[%clk 0:09:31]}5...g6 {[%clk
+0:09:40]}6.e3 {[%clk 0:09:31]}6...f5 {[%clk 0:09:07]}7.Nde5 {[%clk
+0:09:18]}7...Ne4 {[%clk 0:09:00]}8.Qd3 {[%clk 0:08:39]}8...Nb5 $4 {[%clk
+0:08:33]}9.Nxc6+ $3 $19 $148 {[%clk 0:08:29]}9...Kc8 {[%clk 0:08:12]}10.Nxd8
+{[%clk 0:08:33]}10...Rxd8 {[%clk 0:08:15]}11.Qxb5 {[%clk 0:08:37]} { Black
+resigns.} 1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/7kRc6Ucm"]
+[Date "2025.07.08"]
+[Round "6"]
+[White "kopalito"]
+[Black "cgallego00"]
+[Result "1-0"]
+[Annotator "lichess.org"]
+[BlackElo "1693"]
+[BlackRatingDiff "-5"]
+[EventDate "2025.07.08"]
+[FEN "nrbbnkrq/pppppppp/8/8/8/8/PPPPPPPP/NRBBNKRQ w KQkq - 0 1"]
+[GameId "7kRc6Ucm"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.07.08"]
+[UTCTime "02:42:25"]
+[Variant "Chess960"]
+[WhiteElo "1712"]
+[WhiteRatingDiff "+45"]
+
+1.e4 e5 2.Nf3 d6 3.c3 g6 4.Bb3 Qf6 5.O-O O-O 6.d4 Qg7 7.dxe5 dxe5 8.Be3 b6 9.Nc2
+Bg4 10.g3 c5 11.Rbd1 Bc7 12.h3 Be6 13.Qg2 Bxb3 14.axb3 Nd6 15.b4 Nxe4 16.bxc5
+Nxc5 17.Nb4 Qf6 18.Nd5 Qg7 19.Nh2 Bd8 20.Ng4 g5 21.Rfe1 f6 22.Nb4 Be7 23.Nc6
+Rb7 24.Qd5+ Qf7 25.Nxe7+ Rxe7 26.Nh6+ Kg7 27.Nxf7 Rexf7 28.b4 Na4 29.Bd2 Nc7
+30.Qb3 b5 31.c4 a6 32.cxb5 axb5 33.Rc1 Rd8 34.Be3 Rd5 35.Rxc7 Rxc7 36.Qxd5 Rc1 
+1-0
+
+[Event "Los Chinchess XIII"]
+[Site "https://lichess.org/OM0Q4XXZ"]
+[Date "2025.07.08"]
+[Round "6"]
+[White "cgallego00"]
+[Black "kopalito"]
+[Result "0-1"]
+[Annotator "lichess.org"]
+[BlackElo "1757"]
+[BlackRatingDiff "+34"]
+[EventDate "2025.07.08"]
+[FEN "rkbnnqrb/pppppppp/8/8/8/8/PPPPPPPP/RKBNNQRB w KQkq - 0 1"]
+[GameId "OM0Q4XXZ"]
+[SetUp "1"]
+[Termination "Normal"]
+[UTCDate "2025.07.08"]
+[UTCTime "03:02:31"]
+[Variant "Chess960"]
+[WhiteElo "1688"]
+[WhiteRatingDiff "-4"]
+
+1.g3 {[%clk 0:10:00]}1...Nc6 {[%clk 0:10:00]}2.Bg2 {[%clk 0:10:02]}2...g6 {[%clk
+0:10:00]}3.Nc3 {[%clk 0:10:04]}3...Qg7 {[%clk 0:09:55]}4.e3 {[%clk
+0:10:07]}4...b6 {[%clk 0:09:49]}5.d4 {[%clk 0:10:11]}5...e6 {[%clk
+0:09:48]}6.Nd3 {[%clk 0:10:09]}6...d5 {[%clk 0:09:47]}7.Qe2 {[%clk
+0:10:07]}7...Bb7 {[%clk 0:09:46]}8.Bd2 {[%clk 0:10:09]}8...Nd6 {[%clk
+0:09:48]}9.b3 {[%clk 0:10:10]}9...a5 {[%clk 0:09:35]}10.O-O {[%clk
+0:10:13]}10...O-O {[%clk 0:09:38]}11.Nf4 {[%clk 0:10:03]}11...Ba6 {[%clk
+0:09:40]}12.Nd3 {[%clk 0:10:04]}12...Nb4 {[%clk 0:09:38]}13.Rac1 {[%clk
+0:09:46]}13...c5 {[%clk 0:09:17]}14.a3 {[%clk 0:09:48]}14...Nc6 {[%clk
+0:09:15]}15.dxc5 {[%clk 0:09:25]}15...bxc5 {[%clk 0:09:17]}16.Qe1 {[%clk
+0:09:26]}16...c4 {[%clk 0:09:10]}17.bxc4 {[%clk 0:09:28]}17...Nxc4 {[%clk
+0:09:05]}18.Nc5 {[%clk 0:09:25]}18...Nxd2 {[%clk 0:09:04]}19.Qxd2 {[%clk
+0:09:24]}19...Bxf1 {[%clk 0:09:07]}20.N5a4 {[%clk 0:08:57]}20...Bxg2 {[%clk
+0:09:07]}21.Kxg2 {[%clk 0:09:00]}21...Rac8 {[%clk 0:09:00]}22.Nb5 {[%clk
+0:09:00]}22...Rfd8 {[%clk 0:08:43]}23.c3 {[%clk 0:08:42]}23...Ne5 {[%clk
+0:08:27]}24.Na7 {[%clk 0:08:28]}24...Ra8 {[%clk 0:08:01]}25.Nb5 {[%clk
+0:08:30]}25...Nc4 {[%clk 0:08:00]}26.Qe2 {[%clk 0:08:26]}26...Qe5 {[%clk
+0:07:39]}27.Nd4 {[%clk 0:08:04]}27...Qe4+ {[%clk 0:07:35]}28.Kg1 {[%clk
+0:08:02]}28...Bxd4 {[%clk 0:07:38]}29.cxd4 {[%clk 0:08:07]}29...Rdc8 {[%clk
+0:07:21]}30.Nc5 {[%clk 0:08:09]}30...Qf5 {[%clk 0:07:06]}31.e4 {[%clk
+0:07:57]}31...Qg5 {[%clk 0:06:51]}32.Re1 {[%clk 0:07:55]}32...Nxa3 {[%clk
+0:06:40]}33.exd5 {[%clk 0:07:58]}33...exd5 {[%clk 0:06:35]}34.Qd3 {[%clk
+0:07:51]}34...Nc4 {[%clk 0:06:33]}35.Nd7 {[%clk 0:07:42]}35...Qd2 {[%clk
+0:06:16]}36.Rf1 {[%clk 0:07:39]} { White resigns.} 0-1
+
