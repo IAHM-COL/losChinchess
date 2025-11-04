@@ -7,8 +7,8 @@
 *** Final
 |          | pei12   | kopalito   |   points |   w |   neudstadtl |   glicko_2 |
 |----------+---------+------------+----------+-----+--------------+------------|
-| pei12    | x       |            |        0 |   0 |            0 |       2051 |
-| kopalito |         | x          |        0 |   0 |            0 |       1910 |
+| pei12    | x       | 2.0        |        2 |   0 |            0 |       2051 |
+| kopalito | 0       | x          |        0 |   0 |            0 |       1910 |
 
 
 |            | cgallego00   | Ear512   |   points |   w |   neudstadtl |   glicko_2 |
