@@ -1,0 +1,51 @@
+* Torneo de Ajedrez Los Chinchess XIV
+
+** Crosstable
+
+
+
+*** Final
+|          | pei12   | kopalito   |   points |   w |   neudstadtl |   glicko_2 |
+|----------+---------+------------+----------+-----+--------------+------------|
+| pei12    | x       | 2.0        |        2 |   0 |            0 |       2051 |
+| kopalito | 0       | x          |        0 |   0 |            0 |       1910 |
+
+
+|            | cgallego00   | Ear512   |   points |   w |   neudstadtl |   glicko_2 |
+|------------+--------------+----------+----------+-----+--------------+------------|
+| cgallego00 | x            | 2.0      |        2 |   0 |            0 |       1867 |
+| Ear512     | 0            | x        |        0 |   0 |            0 |       1874 |
+
+*** Pulgas
+|          | NeiderMT   | IAHMCOL   |   points |   w |   neudstadtl |   glicko_2 |
+|----------+------------+-----------+----------+-----+--------------+------------|
+| NeiderMT | x          | 2.0       |        2 |   0 |            0 |       1705 |
+| IAHMCOL  | 0          | x         |        0 |   0 |            0 |       1183 |
+
+
+|                | arandres0510   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+----------------+------------------+----------+-----+--------------+------------|
+| arandres0510   | x              | 1.5              |      1.5 |   0 |         0.75 |       1705 |
+| Alejandro-mesa | 0.5            | x                |      0.5 |   0 |         0.75 |       1476 |
+
+
+*** Group A
+|              | pei12   | cgallego00   | IAHMCOL   | arandres0510   |   points |   w |   neudstadtl |   glicko_2 |
+|--------------+---------+--------------+-----------+----------------+----------+-----+--------------+------------|
+| pei12        | x       | 1.5          | 1.0       | 1.0            |      3.5 |   0 |        10.25 |       2051 |
+| cgallego00   | 0.5     | x            | 1.0       | 2.0            |      3.5 |   0 |         9.25 |       1867 |
+| IAHMCOL      | 1.0     | 1.0          | x         | 0.5            |      2.5 |   0 |         8.25 |       1183 |
+| arandres0510 | 1.0     | 0            | 1.5       | x              |      2.5 |   0 |         7.25 |       1705 |
+
+*** Group B
+|                | kopalito   | Ear512   | NeiderMT   | Alejandro-mesa   |   points |   w |   neudstadtl |   glicko_2 |
+|----------------+------------+----------+------------+------------------+----------+-----+--------------+------------|
+| kopalito       | x          | 0.5      | 2.0        | 1.0              |      3.5 |   0 |         10   |       1910 |
+| Ear512         | 1.5        | x        | 1.0        | 0.5              |      3   |   0 |          9.5 |       1874 |
+| NeiderMT       | 0          | 1.0      | x          | 2.0              |      3   |   0 |          8   |       1705 |
+| Alejandro-mesa | 1.0        | 1.5      | 0          | x                |      2.5 |   0 |          8   |       1476 |
+
+
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]

@@ -7,7 +7,8 @@ El Campeon de cada edicion es reconocido con el titulo de *El Alfil de Oro*.
 
 | Edicion            | Fechas                  | Alfil de Oro                | Alfil de Plata          | Alfil de Bronce         |
 |--------------------+-------------------------+-----------------------------+-------------------------+-------------------------|
-| Los Chinchess XIV  | 09/13/2025 - 11/01/2025 |                             |                         |                         |
+| Los Chinchess XV   | 01/30/2026 - 03/26/2026 |                             |                         |                         |
+| Los Chinchess XIV  | 09/13/2025 - 11/01/2025 | *Pei [[https://lichess.org/@/pei12][(pei12)]]*               | Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]] | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
 | Los Chinchess XIII | 05/23/2025 - 07/18/2025 | *Pei [[https://lichess.org/@/pei12][(pei12)]]*               | Mauricio [[https://lichess.org/@/twinsendell][(twinsendell)]]  | Jorge Andres [[https://lichess.org/@/kopalito][(kopalito)]] |
 | Los Chinchess XII  | 01/31/2025 - 03/27/2025 | *Pei [[https://lichess.org/@/pei12][(pei12)]]*               | Mauricio [[https://lichess.org/@/twinsendell][(twinsendell)]]  | Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]     |
 | Los Chinchess XI   | 09/14/2024 - 11/02/2024 | *Camilo [[https://lichess.org/@/cgallego00][(cgallego00)]]*       | Andres [[https://lichess.org/@/arandres][(arandres0510)]]   | Mauricio [[https://lichess.org/@/twinsendell][(twinsendell)]]  |
@@ -24,7 +25,7 @@ El Campeon de cada edicion es reconocido con el titulo de *El Alfil de Oro*.
 
 ---------
 
-\copy 2021-2024, IAHM-COL
+\copy 2021-2025, IAHM-COL
 
 ** COPYING
 
