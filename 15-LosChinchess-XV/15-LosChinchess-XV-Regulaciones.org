@@ -5,8 +5,8 @@
 | A1. ♝♝♝♝ Pei ([[https://lichess.org/?user=pei12#friend][pei12]]; 2006)         | A7. ♝♝ Andres ([[https://lichess.org/?user=arandres#friend][arandres]]; 1565)            |
 | A2. ♝ Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1872)    | A8. Pablo ([[https://lichess.org/?user=pablomesa#friend][pablomesa]]; 1500)               |
 | A3. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1863)   | A9. Alejandro Agudelo ([[https://lichess.org/?user=angegolpeon#friend][angegolpeon]]; 1500) |
-| A4. ♝Jorge Andres ([[https://lichess.org/?user=kopalito#friend][kopalito]]; 1834) | A10 Alejandro Mesa ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1491) |
-| A5. ♝ Edison ([[https://lichess.org/?user=Ear512#friend][Ear512]]; 1762)        | A11 Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1437)                |
+| A4. ♝ Jorge Andres ([[https://lichess.org/?user=kopalito#friend][kopalito]]; 1834) | A10. Alejandro Mesa ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1491) |
+| A5. ♝ Edison ([[https://lichess.org/?user=Ear512#friend][Ear512]]; 1762)        | A11. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1437)               |
 | A6. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1729)        | A12. Eduardo  ([[https://lichess.org/?user=eduardogaviria#friend][eduardogaviria]]; 1071)      |
 
 ** Calendario de juegos y resultados
@@ -100,7 +100,7 @@
     La fase de repechaje se jugara en la Sexta Semana, una vez termine la fase
     swiss a cinco rondas. En la fase de repechaje se jugaran dos cara a cara;
 
-    + Enfrentamiento R1 (repechaje 1): Jugador 4 vs. Jugador 5, en la
+    + Enfrentamiento R1 (repechaje 1): *Jugador 4* vs. *Jugador 5*, en la
       clasificatoria
 
       El ganador de R1 clasificara a la final, para disputar por el Torneo
@@ -109,7 +109,7 @@
       El perdedor de R1 clasificara a la liguilla Pulgas XV, para disputar la
       Medalla de Oro
 
-    + Enfrentamiento R2 (repechaje 2) Jugador 9 vs. Jugador 8, en la
+    + Enfrentamiento R2 (repechaje 2) *Jugador 9* vs. *Jugador 8*, en la
       clasificatoria
 
       El ganador de R2 clasifica a la liguilla Pulgas XV, para disputar la
@@ -125,18 +125,18 @@
     Las finales Chinchess XV se completaran durante las semanas septima y
     octava de el torneo; de la siguiente manera
 
-    + Semifinal S1; Jugador 1 vs. Ganador R1 (4v5)
-    + Semifinal S2; Jugador 3 vs. Jugador 2
+    + Semifinal S1; *Jugador 1* vs. *Ganador R1* (4 vs. 5)
+    + Semifinal S2; *Jugador 3* vs. *Jugador 2*
 
     Los ganadores de las semifinales, jugaran la final.
     Los perdedores de las semifinales, jugaran por el Alfil de Bronce, asi
 
-    + Final F1; Ganador S2 vs. Ganador S1
+    + Final F1; *Ganador S2* vs. *Ganador S1*
 
       El ganador ganara el torneo y obtendra el covetado Alfil de Oro, el
       perdedor obtendra el Alfil de Plata.
 
-    + Tercer-Cuarto F2; Perdedor S1 vs. Perdedor S2
+    + Tercer-Cuarto F2; *Perdedor S1* vs. *Perdedor S2*
 
       El ganador obtendra posicion en podio con Alfil de Bronce. El perdedor
       es eliminado.
@@ -146,18 +146,18 @@
     La Liguilla Pulgas XV se disputara de manera similar a el final de el
     Torneo Chinchess, tambien durante la septima y octava semana, asi:
 
-    + Semifinal S3; Ganador Repechaje 2 (9 v 8) v Perdedor Repechaje 1 (4 v 5) 
-    + Semifinal S4; Jugador 7 v Jugador 6
+    + Semifinal S3; *Ganador R2* (9 vs. 8) vs. *Perdedor R1* (4 vs. 5) 
+    + Semifinal S4; *Jugador 7* vs. *Jugador 6*
 
     Los ganadores de las semifinales, jugaran la final.
     Los perdedores de las semifinales, jugaran por la Medalla de Bronce, asi
 
-    + Final F3; Ganador S4 vs. Ganador S3
+    + Final F3; *Ganador S4* vs. *Ganador S3*
 
       El ganador ganara la Liguilla Pulgas y obtendra Medalla de Oro, el
       perdedor obtendra Medalla de Plata.
       
-    + Tercer-Cuarto F4; Perdedor S3 vs. Perdedor S4
+    + Tercer-Cuarto F4; *Perdedor S3* vs. *Perdedor S4*
 
       El ganador obtendra posicion en podio con Medalla de Bronce. El perdedor
       es eliminado.
