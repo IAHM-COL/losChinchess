@@ -1,6 +1,6 @@
-#+TITLE: Los Chinchess XV, Qualifiers
-#+SUBTITLE: Crosstable
+#+TITLE: Los Chinchess XV, Crosstables
 
+*** Qualifiers
 |  # | Name              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Score | Rating | Change | Forfeit (W) | Solkoff |
 |----+-------------------+---+---+---+---+---+---+---+---+---+----+----+----+-------+--------+--------+-------------+---------|
 |  1 | [[https://lichess.org/?user=NeiderMT#friend][Neider]]            | x |   |   |   |   |   |   |   |   |    |  1 |    |     1 |   1730 |     +1 |           0 |       0 |
@@ -15,3 +15,41 @@
 | 10 | [[https://lichess.org/?user=Pablomesa#friend][Pablo]]             |   |   |   | 0 |   |   |   |   |   |  x |    |    |     0 |   1496 |     -4 |           0 |       1 |
 | 11 | [[https://lichess.org/?user=IAHMCOL#friend][Israel]]            |   | 0 |   |   |   |   |   |   |   |    |  x |    |     0 |   1432 |     -5 |           0 |       1 |
 | 12 | [[https://lichess.org/?user=eduardogaviria#friend][Eduardo]]           | 0 |   |   |   |   |   |   |   |   |    |    |  x |     0 |   1070 |     -1 |           0 |       1 |
+
+-----
+
+*** Repechaje 1
+| # | Name      | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+-----------+---+---+-------+--------+-------------+---------|
+| 1 | Jugador 4 | x |   |       |        |           0 |       0 |
+| 2 | Jugador 5 |   | x |       |        |           0 |       0 |
+
+
+*** Repechaje 2
+| # | Name      | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+-----------+---+---+-------+--------+-------------+---------|
+| 1 | Jugador 8 | x |   |       |        |           0 |       0 |
+| 2 | Jugador 9 |   | x |       |        |           0 |       0 |
+
+-----
+
+*** Los Chinchess XV, Final
+| # | Name                | 1 | 2 | 3 | 4 | Score | Rating | Forfeit (W) | Solkoff |
+|---+---------------------+---+---+---+---+-------+--------+-------------+---------|
+| 1 | Jugador 1           | x |   |   |   |       |        |           0 |       0 |
+| 2 | Jugador 2           |   | x |   |   |       |        |           0 |       0 |
+| 3 | Jugador 3           |   |   | x |   |       |        |           0 |       0 |
+| 4 | Ganador Repechaje 1 |   |   |   | x |       |        |           0 |       0 |
+
+*** Las Pulgas XV, Final
+| # | Name                 | 1 | 2 | 3 | 4 | Score | Rating | Forfeit (W) | Solkoff |
+|---+----------------------+---+---+---+---+-------+--------+-------------+---------|
+| 1 | Perdedor Repechaje 1 | x |   |   |   |       |        |           0 |       0 |
+| 2 | Jugador 6            |   | x |   |   |       |        |           0 |       0 |
+| 3 | Jugador 7            |   |   | x |   |       |        |           0 |       0 |
+| 4 | Ganador Repechaje 2  |   |   |   | x |       |        |           0 |       0 |
+
+-----
+Scores and tournament managed with [[https://coronate.netlify.app/][coronate]]
+
+Org-mode output assisted by [[https://gemini.google.com/][Gemini]]
