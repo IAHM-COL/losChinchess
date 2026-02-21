@@ -3,18 +3,18 @@
 *** Qualifiers
 |  # | Name              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Score | Rating | Change | Forfeit (W) | Solkoff |
 |----+-------------------+---+---+---+---+---+---+---+---+---+----+----+----+-------+--------+--------+-------------+---------|
-|  1 | [[https://lichess.org/?user=NeiderMT#friend][Neider]]            | x |   |   |   |   |   |   |   |   |    |  1 |    |     1 |   1730 |     +1 |           0 |       0 |
-|  2 | [[https://lichess.org/?user=Ear512#friend][Edison]]            |   | x |   |   |   |   |   |   |   |    |    |  1 |     1 |   1767 |     +5 |           0 |       0 |
-|  3 | [[https://lichess.org/?user=cgallego00#friend][Camilo]]            |   |   | x |   |   |   |   |   | 1 |    |    |    |     1 |   1876 |     +4 |           0 |       0 |
-|  4 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]          |   |   |   | x |   |   |   |   |   |  1 |    |    |     1 |   1867 |     +4 |           0 |       0 |
-|  5 | [[https://lichess.org/?user=pei12#friend][Pei]]               |   |   |   |   | x | ½ |   |   |   |    |    |    |     ½ |   1989 |    -17 |           0 |     0.5 |
-|  6 | [[https://lichess.org/?user=arandres0510#friend][Andres]]            |   |   |   |   | ½ | x |   |   |   |    |    |    |     ½ |   1582 |    +17 |           0 |     0.5 |
-|  7 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]]      |   |   |   |   |   |   | x | ½ |   |    |    |    |     ½ |   1819 |    -15 |           0 |     0.5 |
-|  8 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]]    |   |   |   |   |   |   | ½ | x |   |    |    |    |     ½ |   1506 |    +15 |           0 |     0.5 |
-|  9 | [[https://lichess.org/?user=angegolpeon#friend][Alejandro Agudelo]] |   |   | 0 |   |   |   |   |   | x |    |    |    |     0 |   1496 |     -4 |           0 |       1 |
-| 10 | [[https://lichess.org/?user=Pablomesa#friend][Pablo]]             |   |   |   | 0 |   |   |   |   |   |  x |    |    |     0 |   1496 |     -4 |           0 |       1 |
-| 11 | [[https://lichess.org/?user=IAHMCOL#friend][Israel]]            |   | 0 |   |   |   |   |   |   |   |    |  x |    |     0 |   1432 |     -5 |           0 |       1 |
-| 12 | [[https://lichess.org/?user=eduardogaviria#friend][Eduardo]]           | 0 |   |   |   |   |   |   |   |   |    |    |  x |     0 |   1070 |     -1 |           0 |       1 |
+|  1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]]            | x |   |   |   |   |   |   |   | 1 |    |    |    |     1 |   1876 |     +4 |           0 |       0 |
+|  2 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]          |   | x |   |   |   |   |   |   |   |  1 |    |    |     1 |   1867 |     +4 |           0 |       0 |
+|  3 | [[https://lichess.org/?user=Ear512#friend][Edison]]            |   |   | x |   |   |   |   |   |   |    |  1 |    |     1 |   1767 |     +5 |           0 |       0 |
+|  4 | [[https://lichess.org/?user=NeiderMT#friend][Neider]]            |   |   |   | x |   |   |   |   |   |    |    |  1 |     1 |   1730 |     +1 |           0 |       0 |
+|  5 | [[https://lichess.org/?user=pei12#friend][Pei]]               |   |   |   |   | x |   | ½ |   |   |    |    |    |     ½ |   1989 |    -17 |           0 |     0.5 |
+|  6 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]]      |   |   |   |   |   | x |   | ½ |   |    |    |    |     ½ |   1819 |    -15 |           0 |     0.5 |
+|  7 | [[https://lichess.org/?user=arandres0510#friend][Andres]]            |   |   |   |   | ½ |   | x |   |   |    |    |    |     ½ |   1582 |    +17 |           0 |     0.5 |
+|  8 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]]    |   |   |   |   |   | ½ |   | x |   |    |    |    |     ½ |   1506 |    +15 |           0 |     0.5 |
+|  9 | [[https://lichess.org/?user=angegolpeon#friend][Alejandro Agudelo]] | 0 |   |   |   |   |   |   |   | x |    |    |    |     0 |   1496 |     -4 |           0 |       1 |
+| 10 | [[https://lichess.org/?user=Pablomesa#friend][Pablo]]             |   | 0 |   |   |   |   |   |   |   |  x |    |    |     0 |   1496 |     -4 |           0 |       1 |
+| 11 | [[https://lichess.org/?user=IAHMCOL#friend][Israel]]            |   |   | 0 |   |   |   |   |   |   |    |  x |    |     0 |   1432 |     -5 |           0 |       1 |
+| 12 | [[https://lichess.org/?user=eduardogaviria#friend][Eduardo]]           |   |   |   | 0 |   |   |   |   |   |    |    |  x |     0 |   1070 |     -1 |           0 |       1 |
 
 -----
 
@@ -24,7 +24,6 @@
 | 1 | Jugador 4 | x |   |       |        |           0 |       0 |
 | 2 | Jugador 5 |   | x |       |        |           0 |       0 |
 
-
 *** Repechaje 2
 | # | Name      | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
 |---+-----------+---+---+-------+--------+-------------+---------|
@@ -33,21 +32,57 @@
 
 -----
 
+*** Los Chinchess XV, Semifinal
+**** Semifinal A (1 v 4)
+| # | Name                | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+---------------------+---+---+-------+--------+-------------+---------|
+| 1 | Jugador 1           | x |   |       |        |           0 |       0 |
+| 2 | Ganador Repechaje 1 |   | x |       |        |           0 |       0 |
+
+**** Semifinal B (2 v 3)
+| # | Name      | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+-----------+---+---+-------+--------+-------------+---------|
+| 1 | Jugador 2 | x |   |       |        |           0 |       0 |
+| 2 | Jugador 3 |   | x |       |        |           0 |       0 |
+
 *** Los Chinchess XV, Final
-| # | Name                | 1 | 2 | 3 | 4 | Score | Rating | Forfeit (W) | Solkoff |
-|---+---------------------+---+---+---+---+-------+--------+-------------+---------|
-| 1 | Jugador 1           | x |   |   |   |       |        |           0 |       0 |
-| 2 | Jugador 2           |   | x |   |   |       |        |           0 |       0 |
-| 3 | Jugador 3           |   |   | x |   |       |        |           0 |       0 |
-| 4 | Ganador Repechaje 1 |   |   |   | x |       |        |           0 |       0 |
+**** Grand Final (Winners)
+| # | Name           | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+----------------+---+---+-------+--------+-------------+---------|
+| 1 | Ganador Semi A | x |   |       |        |           0 |       0 |
+| 2 | Ganador Semi B |   | x |       |        |           0 |       0 |
+
+**** 3rd Place Match (Losers)
+| # | Name            | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+-----------------+---+---+-------+--------+-------------+---------|
+| 1 | Perdedor Semi A | x |   |       |        |           0 |       0 |
+| 2 | Perdedor Semi B |   | x |       |        |           0 |       0 |
+
+*** Las Pulgas XV, Semifinal
+**** Semifinal C (1 v 4)
+| # | Name                 | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+----------------------+---+---+-------+--------+-------------+---------|
+| 1 | Perdedor Repechaje 1 | x |   |       |        |           0 |       0 |
+| 2 | Ganador Repechaje 2  |   | x |       |        |           0 |       0 |
+
+**** Semifinal D (2 v 3)
+| # | Name      | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+-----------+---+---+-------+--------+-------------+---------|
+| 1 | Jugador 6 | x |   |       |        |           0 |       0 |
+| 2 | Jugador 7 |   | x |       |        |           0 |       0 |
 
 *** Las Pulgas XV, Final
-| # | Name                 | 1 | 2 | 3 | 4 | Score | Rating | Forfeit (W) | Solkoff |
-|---+----------------------+---+---+---+---+-------+--------+-------------+---------|
-| 1 | Perdedor Repechaje 1 | x |   |   |   |       |        |           0 |       0 |
-| 2 | Jugador 6            |   | x |   |   |       |        |           0 |       0 |
-| 3 | Jugador 7            |   |   | x |   |       |        |           0 |       0 |
-| 4 | Ganador Repechaje 2  |   |   |   | x |       |        |           0 |       0 |
+**** Grand Final (Winners)
+| # | Name           | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+----------------+---+---+-------+--------+-------------+---------|
+| 1 | Ganador Semi C | x |   |       |        |           0 |       0 |
+| 2 | Ganador Semi D |   | x |       |        |           0 |       0 |
+
+**** 3rd Place Match (Losers)
+| # | Name            | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
+|---+-----------------+---+---+-------+--------+-------------+---------|
+| 1 | Perdedor Semi C | x |   |       |        |           0 |       0 |
+| 2 | Perdedor Semi D |   | x |       |        |           0 |       0 |
 
 -----
 Scores and tournament managed with [[https://coronate.netlify.app/][coronate]]
