@@ -2,7 +2,7 @@
   "config": {
     "avoidPairs": [],
     "byeValue": 0.5,
-    "lastBackup": "2026-02-21T15:49:40.069Z",
+    "lastBackup": "2026-02-28T15:32:46.203Z",
     "whiteAlias": null,
     "blackAlias": null
   },
@@ -19,8 +19,8 @@
       "firstName": "Pei",
       "id": "0SiLV7l_hkpm2NxcPzZO3",
       "lastName": "(pei12)",
-      "matchCount": 6,
-      "rating": 1989,
+      "matchCount": 7,
+      "rating": 1980,
       "type_": "person"
     },
     "3guGW7R7gSgAeAtQy6rI0": {
@@ -35,40 +35,40 @@
       "firstName": "Neider",
       "id": "5N4VmxL3lmoLyA6Bm8ks2",
       "lastName": "(NeiderMT)",
-      "matchCount": 11,
-      "rating": 1730,
+      "matchCount": 12,
+      "rating": 1718,
       "type_": "person"
     },
     "62nbGprGZqHmmeI2-4jkF": {
       "firstName": "Alejandro Agudelo",
       "id": "62nbGprGZqHmmeI2-4jkF",
       "lastName": "(angegolpeon)",
-      "matchCount": 1,
-      "rating": 1496,
+      "matchCount": 2,
+      "rating": 1512,
       "type_": "person"
     },
     "7RaT-QQwqgEMLYLvwoIIc": {
       "firstName": "Andres",
       "id": "7RaT-QQwqgEMLYLvwoIIc",
       "lastName": "(arandres0510)",
-      "matchCount": 11,
-      "rating": 1582,
+      "matchCount": 12,
+      "rating": 1558,
       "type_": "person"
     },
     "Bp1t4tDse91iebCVY5Dlg": {
       "firstName": "Jorge Andres",
       "id": "Bp1t4tDse91iebCVY5Dlg",
       "lastName": "(kopalito)",
-      "matchCount": 11,
-      "rating": 1819,
+      "matchCount": 12,
+      "rating": 1828,
       "type_": "person"
     },
     "E-itZXAqpBz9u1RP3crBE": {
       "firstName": "Alejandro Mesa",
       "id": "E-itZXAqpBz9u1RP3crBE",
       "lastName": "(Alejandro-mesa)",
-      "matchCount": 11,
-      "rating": 1506,
+      "matchCount": 12,
+      "rating": 1530,
       "type_": "person"
     },
     "Ojh71jPEHShrnibN-0W5t": {
@@ -123,8 +123,8 @@
       "firstName": "Pablo Mesa",
       "id": "hUzWtUJeJFYYJZOsoEScq",
       "lastName": "(Pablomesa)",
-      "matchCount": 1,
-      "rating": 1496,
+      "matchCount": 2,
+      "rating": 1499,
       "type_": "person"
     },
     "mpOLPVeZIFZC5SAtsm2bS": {
@@ -147,8 +147,8 @@
       "firstName": "Edison",
       "id": "og7O3LnUtSJR77OSyQ8n8",
       "lastName": "(Ear512)",
-      "matchCount": 1,
-      "rating": 1767,
+      "matchCount": 2,
+      "rating": 1773,
       "type_": "person"
     },
     "otEMLCzuzJG4QT4qNP9dy": {
@@ -163,16 +163,16 @@
       "firstName": "Camilo",
       "id": "py1eVxP_mOWCay7c8-z0J",
       "lastName": "(cgallego00)",
-      "matchCount": 11,
-      "rating": 1876,
+      "matchCount": 12,
+      "rating": 1870,
       "type_": "person"
     },
     "th0wVfbemDeG7mfYx7qHC": {
       "firstName": "Eduardo Gaviria",
       "id": "th0wVfbemDeG7mfYx7qHC",
       "lastName": "(eduardogaviria)",
-      "matchCount": 1,
-      "rating": 1070,
+      "matchCount": 2,
+      "rating": 1067,
       "type_": "person"
     },
     "uIa8YIzK_9wHJU8_Tjn0t": {
@@ -187,8 +187,8 @@
       "firstName": "Israel",
       "id": "vdrf7yHQFUpbtj5v2_tG2",
       "lastName": "(IAHMCOL)",
-      "matchCount": 11,
-      "rating": 1432,
+      "matchCount": 12,
+      "rating": 1416,
       "type_": "person"
     },
     "xavd8MQVWBxHck-7npqDh": {
@@ -219,8 +219,8 @@
       "firstName": "Mauricio",
       "id": "zKfMqioJCnRPcDcSEVro9",
       "lastName": "(twinsendell)",
-      "matchCount": 11,
-      "rating": 1867,
+      "matchCount": 12,
+      "rating": 1879,
       "type_": "person"
     }
   },
@@ -861,60 +861,122 @@
             "id": "s8RNSHXyvTadLirwz_OHo",
             "whiteId": "E-itZXAqpBz9u1RP3crBE",
             "blackId": "7RaT-QQwqgEMLYLvwoIIc",
-            "whiteNewRating": 1506,
-            "blackNewRating": 1582,
+            "whiteNewRating": 1530,
+            "blackNewRating": 1558,
             "whiteOrigRating": 1506,
             "blackOrigRating": 1582,
-            "result": "notSet"
+            "result": "whiteWon"
           },
           {
             "id": "do_ZNcaatAf_VvLTTJqzV",
             "whiteId": "og7O3LnUtSJR77OSyQ8n8",
             "blackId": "py1eVxP_mOWCay7c8-z0J",
-            "whiteNewRating": 1767,
-            "blackNewRating": 1876,
+            "whiteNewRating": 1773,
+            "blackNewRating": 1870,
             "whiteOrigRating": 1767,
             "blackOrigRating": 1876,
-            "result": "notSet"
+            "result": "draw"
           },
           {
             "id": "ThVwXsYcleP-DUU0YOm_W",
             "whiteId": "5N4VmxL3lmoLyA6Bm8ks2",
             "blackId": "zKfMqioJCnRPcDcSEVro9",
-            "whiteNewRating": 1730,
-            "blackNewRating": 1867,
+            "whiteNewRating": 1718,
+            "blackNewRating": 1879,
             "whiteOrigRating": 1730,
             "blackOrigRating": 1867,
-            "result": "notSet"
+            "result": "blackWon"
           },
           {
             "id": "VSYIxX4L8Ygwbae0rzXP5",
             "whiteId": "Bp1t4tDse91iebCVY5Dlg",
             "blackId": "0SiLV7l_hkpm2NxcPzZO3",
-            "whiteNewRating": 1819,
-            "blackNewRating": 1989,
+            "whiteNewRating": 1828,
+            "blackNewRating": 1980,
             "whiteOrigRating": 1819,
             "blackOrigRating": 1989,
-            "result": "notSet"
+            "result": "draw"
           },
           {
             "id": "CZn6anCrIIaJksf1JHOiC",
             "whiteId": "62nbGprGZqHmmeI2-4jkF",
             "blackId": "vdrf7yHQFUpbtj5v2_tG2",
-            "whiteNewRating": 1496,
-            "blackNewRating": 1432,
+            "whiteNewRating": 1512,
+            "blackNewRating": 1416,
             "whiteOrigRating": 1496,
             "blackOrigRating": 1432,
-            "result": "notSet"
+            "result": "whiteWon"
           },
           {
             "id": "2pLPu3dy0dzctjRyM_Poy",
             "whiteId": "hUzWtUJeJFYYJZOsoEScq",
             "blackId": "th0wVfbemDeG7mfYx7qHC",
-            "whiteNewRating": 1496,
-            "blackNewRating": 1070,
+            "whiteNewRating": 1499,
+            "blackNewRating": 1067,
             "whiteOrigRating": 1496,
             "blackOrigRating": 1070,
+            "result": "whiteWon"
+          }
+        ],
+        [
+          {
+            "id": "ocaiBm-Xj7JLuKH7NtmL1",
+            "whiteId": "zKfMqioJCnRPcDcSEVro9",
+            "blackId": "og7O3LnUtSJR77OSyQ8n8",
+            "whiteNewRating": 1879,
+            "blackNewRating": 1773,
+            "whiteOrigRating": 1879,
+            "blackOrigRating": 1773,
+            "result": "notSet"
+          },
+          {
+            "id": "HTomZfJRAT-WtiFrFjEZD",
+            "whiteId": "py1eVxP_mOWCay7c8-z0J",
+            "blackId": "E-itZXAqpBz9u1RP3crBE",
+            "whiteNewRating": 1870,
+            "blackNewRating": 1530,
+            "whiteOrigRating": 1870,
+            "blackOrigRating": 1530,
+            "result": "notSet"
+          },
+          {
+            "id": "SNsi8UwZUIErPpRSuME5x",
+            "whiteId": "0SiLV7l_hkpm2NxcPzZO3",
+            "blackId": "5N4VmxL3lmoLyA6Bm8ks2",
+            "whiteNewRating": 1980,
+            "blackNewRating": 1718,
+            "whiteOrigRating": 1980,
+            "blackOrigRating": 1718,
+            "result": "notSet"
+          },
+          {
+            "id": "Zi6vl585BXlY8kmSou9vV",
+            "whiteId": "Bp1t4tDse91iebCVY5Dlg",
+            "blackId": "62nbGprGZqHmmeI2-4jkF",
+            "whiteNewRating": 1828,
+            "blackNewRating": 1512,
+            "whiteOrigRating": 1828,
+            "blackOrigRating": 1512,
+            "result": "notSet"
+          },
+          {
+            "id": "HLFcIG79EdOFiZdBtJxV3",
+            "whiteId": "hUzWtUJeJFYYJZOsoEScq",
+            "blackId": "7RaT-QQwqgEMLYLvwoIIc",
+            "whiteNewRating": 1499,
+            "blackNewRating": 1558,
+            "whiteOrigRating": 1499,
+            "blackOrigRating": 1558,
+            "result": "notSet"
+          },
+          {
+            "id": "el6fRiLQSAdAWlcFu5SoL",
+            "whiteId": "vdrf7yHQFUpbtj5v2_tG2",
+            "blackId": "th0wVfbemDeG7mfYx7qHC",
+            "whiteNewRating": 1416,
+            "blackNewRating": 1067,
+            "whiteOrigRating": 1416,
+            "blackOrigRating": 1067,
             "result": "notSet"
           }
         ]
