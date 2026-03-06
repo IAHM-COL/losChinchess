@@ -3,18 +3,18 @@
 *** Qualifiers
 |  # | Name              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Score | Rating | Forfeit (W) | Solkoff |
 |----+-------------------+---+---+---+---+---+---+---+---+---+----+----+----+-------+--------+-------------+---------|
-|  1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]          | x |   |   |   |   |   | 1 |   | 1 |    |    |    | 2     | 1863   | 0           | 2.0     |
-|  2 | [[https://lichess.org/?user=cgallego00#friend][Camilo]]            |   | x | ½ |   |   |   |   | 1 |   |    |    |    | 1½    | 1872   | 0           | 2.5     |
-|  3 | [[https://lichess.org/?user=Ear512#friend][Edison]]            |   | ½ | x |   |   |   |   |   |   |    | 1  |    | 1½    | 1762   | 0           | 1.5     |
-|  4 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]]    |   |   |   | x | ½ |   |   |   |   | 1  |    |    | 1½    | 1491   | 0           | 1.5     |
-|  5 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]]      |   |   |   | ½ | x | ½ |   |   |   |    |    |    | 1     | 1834   | 0           | 2.5     |
-|  6 | [[https://lichess.org/?user=pei12#friend][Pei]]               |   |   |   |   | ½ | x |   |   |   | ½  |    |    | 1     | 2006   | 0           | 2.0     |
-|  7 | [[https://lichess.org/?user=Pablomesa#friend][Pablo]]             | 0 |   |   |   |   |   | x |   |   |    |    | 1  | 1     | 1500   | 0           | 2.0     |
-|  8 | [[https://lichess.org/?user=angegolpeon#friend][Alejandro Agudelo]] |   | 0 |   |   |   |   |   | x |   |    | 1  |    | 1     | 1500   | 0           | 1.5     |
-|  9 | [[https://lichess.org/?user=NeiderMT#friend][Neider]]            | 0 |   |   |   |   |   |   |   | x |    |    | 1  | 1     | 1729   | 1           | 2.0     |
-| 10 | [[https://lichess.org/?user=arandres0510#friend][Andres]]            |   |   |   | 0 |   | ½ |   |   |   | x  |    |    | ½     | 1565   | 0           | 2.5     |
-| 11 | [[https://lichess.org/?user=IAHMCOL#friend][Israel]]            |   |   | 0 |   |   |   |   | 0 |   |    | x  |    | 0     | 1437   | 0           | 2.5     |
-| 12 | [[https://lichess.org/?user=eduardogaviria#friend][Eduardo]]           |   |   |   |   |   |   | 0 |   | 0 |    |    | x  | 0     | 1070   | 0           | 2.0     |
+|  1 | Camilo            | x |   | ½ |   |   | 1 |   | 1 |   |    |    |    |    2½ |   1872 |           0 |     4.5 |
+|  2 | Mauricio          |   | x | ½ |   |   |   |   |   | 1 |    |  1 |    |    2½ |   1863 |           0 |     4.0 |
+|  3 | Edison            | ½ | ½ | x |   |   |   |   |   |   |  1 |    |    |     2 |   1762 |           0 |     6.0 |
+|  4 | Pei               |   |   |   | x | ½ |   | ½ |   |   |    |  1 |    |     2 |   2006 |           0 |     4.5 |
+|  5 | Jorge Andres      |   |   |   | ½ | x | ½ |   | 1 |   |    |    |    |     2 |   1834 |           0 |     4.5 |
+|  6 | Alejandro Mesa    | 0 |   |   |   | ½ | x | 1 |   |   |    |    |    |    1½ |   1491 |           0 |     6.0 |
+|  7 | Andres            |   |   |   | ½ |   | 0 | x |   | 1 |    |    |    |    1½ |   1565 |           0 |     4.5 |
+|  8 | Alejandro Agudelo | 0 |   |   |   | 0 |   |   | x |   |  1 |    |    |     1 |   1500 |           0 |     5.5 |
+|  9 | Pablo             |   | 0 |   |   |   |   | 0 |   | x |    |    |  1 |     1 |   1500 |           0 |     4.0 |
+| 10 | Israel            |   |   | 0 |   |   |   |   | 0 |   |  x |    |  1 |     1 |   1437 |           0 |     3.0 |
+| 11 | Neider            |   | 0 |   | 0 |   |   |   |   |   |    |  x |  1 |     1 |   1729 |           1 |     4.5 |
+| 12 | Eduardo           |   |   |   |   |   |   |   |   | 0 |  0 |  0 |  x |     0 |   1070 |           0 |     3.0 |
 
 *** Repechaje 1
 | # | Name      | 1 | 2 | Score | Rating | Forfeit (W) | Solkoff |
