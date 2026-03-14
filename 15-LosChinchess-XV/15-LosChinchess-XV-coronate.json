@@ -2,7 +2,7 @@
   "config": {
     "avoidPairs": [],
     "byeValue": 0.5,
-    "lastBackup": "2026-03-06T21:41:19.588Z",
+    "lastBackup": "2026-03-14T01:42:53.214Z",
     "whiteAlias": null,
     "blackAlias": null
   },
@@ -19,8 +19,8 @@
       "firstName": "Pei",
       "id": "0SiLV7l_hkpm2NxcPzZO3",
       "lastName": "(pei12)",
-      "matchCount": 8,
-      "rating": 1987,
+      "matchCount": 9,
+      "rating": 1976,
       "type_": "person"
     },
     "3guGW7R7gSgAeAtQy6rI0": {
@@ -35,40 +35,40 @@
       "firstName": "Neider",
       "id": "5N4VmxL3lmoLyA6Bm8ks2",
       "lastName": "(NeiderMT)",
-      "matchCount": 13,
-      "rating": 1711,
+      "matchCount": 14,
+      "rating": 1699,
       "type_": "person"
     },
     "62nbGprGZqHmmeI2-4jkF": {
       "firstName": "Alejandro Agudelo",
       "id": "62nbGprGZqHmmeI2-4jkF",
       "lastName": "(angegolpeon)",
-      "matchCount": 3,
-      "rating": 1506,
+      "matchCount": 4,
+      "rating": 1469,
       "type_": "person"
     },
     "7RaT-QQwqgEMLYLvwoIIc": {
       "firstName": "Andres",
       "id": "7RaT-QQwqgEMLYLvwoIIc",
       "lastName": "(arandres0510)",
-      "matchCount": 13,
-      "rating": 1575,
+      "matchCount": 14,
+      "rating": 1588,
       "type_": "person"
     },
     "Bp1t4tDse91iebCVY5Dlg": {
       "firstName": "Jorge Andres",
       "id": "Bp1t4tDse91iebCVY5Dlg",
       "lastName": "(kopalito)",
-      "matchCount": 13,
-      "rating": 1834,
+      "matchCount": 14,
+      "rating": 1821,
       "type_": "person"
     },
     "E-itZXAqpBz9u1RP3crBE": {
       "firstName": "Alejandro Mesa",
       "id": "E-itZXAqpBz9u1RP3crBE",
       "lastName": "(Alejandro-mesa)",
-      "matchCount": 13,
-      "rating": 1525,
+      "matchCount": 14,
+      "rating": 1539,
       "type_": "person"
     },
     "Ojh71jPEHShrnibN-0W5t": {
@@ -123,8 +123,8 @@
       "firstName": "Pablo Mesa",
       "id": "hUzWtUJeJFYYJZOsoEScq",
       "lastName": "(Pablomesa)",
-      "matchCount": 3,
-      "rating": 1482,
+      "matchCount": 4,
+      "rating": 1494,
       "type_": "person"
     },
     "mpOLPVeZIFZC5SAtsm2bS": {
@@ -147,8 +147,8 @@
       "firstName": "Edison",
       "id": "og7O3LnUtSJR77OSyQ8n8",
       "lastName": "(Ear512)",
-      "matchCount": 3,
-      "rating": 1779,
+      "matchCount": 4,
+      "rating": 1790,
       "type_": "person"
     },
     "otEMLCzuzJG4QT4qNP9dy": {
@@ -163,7 +163,7 @@
       "firstName": "Camilo",
       "id": "py1eVxP_mOWCay7c8-z0J",
       "lastName": "(cgallego00)",
-      "matchCount": 13,
+      "matchCount": 14,
       "rating": 1875,
       "type_": "person"
     },
@@ -171,8 +171,8 @@
       "firstName": "Eduardo Gaviria",
       "id": "th0wVfbemDeG7mfYx7qHC",
       "lastName": "(eduardogaviria)",
-      "matchCount": 3,
-      "rating": 1062,
+      "matchCount": 4,
+      "rating": 1099,
       "type_": "person"
     },
     "uIa8YIzK_9wHJU8_Tjn0t": {
@@ -187,8 +187,8 @@
       "firstName": "Israel",
       "id": "vdrf7yHQFUpbtj5v2_tG2",
       "lastName": "(IAHMCOL)",
-      "matchCount": 13,
-      "rating": 1421,
+      "matchCount": 14,
+      "rating": 1407,
       "type_": "person"
     },
     "xavd8MQVWBxHck-7npqDh": {
@@ -219,7 +219,7 @@
       "firstName": "Mauricio",
       "id": "zKfMqioJCnRPcDcSEVro9",
       "lastName": "(twinsendell)",
-      "matchCount": 13,
+      "matchCount": 14,
       "rating": 1873,
       "type_": "person"
     }
@@ -989,56 +989,118 @@
             "blackNewRating": 1875,
             "whiteOrigRating": 1873,
             "blackOrigRating": 1875,
-            "result": "notSet"
+            "result": "draw"
           },
           {
             "id": "sMD-b0E00Ykm-JBlWAd6f",
             "whiteId": "og7O3LnUtSJR77OSyQ8n8",
             "blackId": "0SiLV7l_hkpm2NxcPzZO3",
-            "whiteNewRating": 1779,
-            "blackNewRating": 1987,
+            "whiteNewRating": 1790,
+            "blackNewRating": 1976,
             "whiteOrigRating": 1779,
             "blackOrigRating": 1987,
-            "result": "notSet"
+            "result": "draw"
           },
           {
             "id": "ehEduP8BSEBDjy0Qk2HTu",
             "whiteId": "7RaT-QQwqgEMLYLvwoIIc",
             "blackId": "Bp1t4tDse91iebCVY5Dlg",
-            "whiteNewRating": 1575,
-            "blackNewRating": 1834,
+            "whiteNewRating": 1588,
+            "blackNewRating": 1821,
             "whiteOrigRating": 1575,
             "blackOrigRating": 1834,
-            "result": "notSet"
+            "result": "draw"
           },
           {
             "id": "nHHJdqAQ58IpDd36VmwrP",
             "whiteId": "vdrf7yHQFUpbtj5v2_tG2",
             "blackId": "E-itZXAqpBz9u1RP3crBE",
-            "whiteNewRating": 1421,
-            "blackNewRating": 1525,
+            "whiteNewRating": 1407,
+            "blackNewRating": 1539,
             "whiteOrigRating": 1421,
             "blackOrigRating": 1525,
-            "result": "notSet"
+            "result": "blackWon"
           },
           {
             "id": "ALFC3jBLJ4q0wNxn7iqVy",
             "whiteId": "5N4VmxL3lmoLyA6Bm8ks2",
             "blackId": "hUzWtUJeJFYYJZOsoEScq",
-            "whiteNewRating": 1711,
-            "blackNewRating": 1482,
+            "whiteNewRating": 1699,
+            "blackNewRating": 1494,
             "whiteOrigRating": 1711,
             "blackOrigRating": 1482,
-            "result": "notSet"
+            "result": "draw"
           },
           {
             "id": "iVslj5V853-Xu0CG_gg54",
             "whiteId": "th0wVfbemDeG7mfYx7qHC",
             "blackId": "62nbGprGZqHmmeI2-4jkF",
-            "whiteNewRating": 1062,
-            "blackNewRating": 1506,
+            "whiteNewRating": 1099,
+            "blackNewRating": 1469,
             "whiteOrigRating": 1062,
             "blackOrigRating": 1506,
+            "result": "whiteWon"
+          }
+        ],
+        [
+          {
+            "id": "O9axxJb4QDjCuVqNlXnDy",
+            "whiteId": "0SiLV7l_hkpm2NxcPzZO3",
+            "blackId": "py1eVxP_mOWCay7c8-z0J",
+            "whiteNewRating": 1976,
+            "blackNewRating": 1875,
+            "whiteOrigRating": 1976,
+            "blackOrigRating": 1875,
+            "result": "notSet"
+          },
+          {
+            "id": "zOx_0VhywsVBaAAbLNKFh",
+            "whiteId": "E-itZXAqpBz9u1RP3crBE",
+            "blackId": "zKfMqioJCnRPcDcSEVro9",
+            "whiteNewRating": 1539,
+            "blackNewRating": 1873,
+            "whiteOrigRating": 1539,
+            "blackOrigRating": 1873,
+            "result": "notSet"
+          },
+          {
+            "id": "-sf010cAHqEx887yHymqx",
+            "whiteId": "og7O3LnUtSJR77OSyQ8n8",
+            "blackId": "Bp1t4tDse91iebCVY5Dlg",
+            "whiteNewRating": 1790,
+            "blackNewRating": 1821,
+            "whiteOrigRating": 1790,
+            "blackOrigRating": 1821,
+            "result": "notSet"
+          },
+          {
+            "id": "aE_xvhyNqYtgkJQxkLACP",
+            "whiteId": "th0wVfbemDeG7mfYx7qHC",
+            "blackId": "7RaT-QQwqgEMLYLvwoIIc",
+            "whiteNewRating": 1099,
+            "blackNewRating": 1588,
+            "whiteOrigRating": 1099,
+            "blackOrigRating": 1588,
+            "result": "notSet"
+          },
+          {
+            "id": "FjUxEbjfrVhWAhMjLetHd",
+            "whiteId": "62nbGprGZqHmmeI2-4jkF",
+            "blackId": "5N4VmxL3lmoLyA6Bm8ks2",
+            "whiteNewRating": 1469,
+            "blackNewRating": 1699,
+            "whiteOrigRating": 1469,
+            "blackOrigRating": 1699,
+            "result": "notSet"
+          },
+          {
+            "id": "jmKFvImdKywXX892W8jyM",
+            "whiteId": "hUzWtUJeJFYYJZOsoEScq",
+            "blackId": "vdrf7yHQFUpbtj5v2_tG2",
+            "whiteNewRating": 1494,
+            "blackNewRating": 1407,
+            "whiteOrigRating": 1494,
+            "blackOrigRating": 1407,
             "result": "notSet"
           }
         ]
