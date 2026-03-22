@@ -1,5 +1,19 @@
 #+TITLE: Los Chinchess XV, Crosstables
 
+*** Repechaje 1 (4 v 5)
+| # | Name   | 1 | 2 | Score | Rating | Forfeit (W) |
+|---+--------+---+---+-------+--------+-------------|
+| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | x |   |       |        |           0 |
+| 2 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  |   | x |       |        |           0 |
+
+*** Repechaje 2 (8 v 9)
+| # | Name   | 1 | 2 | Score | Rating | Forfeit (W) |
+|---+--------+---+---+-------+--------+-------------|
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] | x |   |       |        |           0 |
+| 2 | [[https://lichess.org/?user=NeiderMT#friend][Neider]] |   | x |       |        |           0 |
+
+-----
+
 *** Qualifiers
 |  # | Name              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Score | Rating | Forfeit (W) | Solkoff |
 |----+-------------------+---+---+---+---+---+---+---+---+---+----+----+----+-------+--------+-------------+---------|
@@ -15,18 +29,6 @@
 | 10 | [[https://lichess.org/?user=angegolpeon#friend][Alejandro Agudelo]] |   |   | 0 | 0 |   |   |   |   | ½ |  x |  1 |  0 |   1.5 |   1500 |           0 |    10.5 |
 | 11 | [[https://lichess.org/?user=IAHMCOL#friend][Israel]]            |   |   |   |   | 0 | 0 | 0 |   |   |  0 |  x |  1 |   1.0 |   1437 |           0 |    10.5 |
 | 12 | [[https://lichess.org/?user=eduardogaviria#friend][Eduardo]]           |   |   |   |   | 0 |   |   | 0 | 0 |  1 |  0 |  x |   1.0 |   1070 |           0 |    10.0 |
-
-*** Repechaje 1 (4 v 5)
-| # | Name   | 1 | 2 | Score | Rating | Forfeit (W) |
-|---+--------+---+---+-------+--------+-------------|
-| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | x |   |       |        |           0 |
-| 2 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  |   | x |       |        |           0 |
-
-*** Repechaje 2 (8 v 9)
-| # | Name   | 1 | 2 | Score | Rating | Forfeit (W) |
-|---+--------+---+---+-------+--------+-------------|
-| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] | x |   |       |        |           0 |
-| 2 | [[https://lichess.org/?user=NeiderMT#friend][Neider]] |   | x |       |        |           0 |
 
 -----
 
