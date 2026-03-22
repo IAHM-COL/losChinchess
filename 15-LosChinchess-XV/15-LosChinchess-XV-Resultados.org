@@ -45,19 +45,6 @@
 | 1 | [[https://lichess.org/?user=pei12#friend][Pei]]          | x |   |       |        |           0 |
 | 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] |   | x |       |        |           0 |
 
-*** Los Chinchess XV, Final
-**** Grand Final (Winners)
-| # | Name           | 1 | 2 | Score | Rating | Forfeit (W) |
-|---+----------------+---+---+-------+--------+-------------|
-| 1 | Ganador Semi A | x |   |       |        |           0 |
-| 2 | Ganador Semi B |   | x |       |        |           0 |
-
-**** 3rd Place Match
-| # | Name            | 1 | 2 | Score | Rating | Forfeit (W) |
-|---+-----------------+---+---+-------+--------+-------------|
-| 1 | Perdedor Semi A | x |   |       |        |           0 |
-| 2 | Perdedor Semi B |   | x |       |        |           0 |
-
 *** Las Pulgas XV, Semifinal
 **** Semifinal C
 | # | Name                 | 1 | 2 | Score | Rating | Forfeit (W) |
@@ -70,6 +57,21 @@
 |---+----------------+---+---+-------+--------+-------------|
 | 1 | [[https://lichess.org/?user=Ear512#friend][Edison]]         | x |   |       |        |           0 |
 | 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] |   | x |       |        |           0 |
+
+------
+
+*** Los Chinchess XV, Final
+**** Grand Final (Winners)
+| # | Name           | 1 | 2 | Score | Rating | Forfeit (W) |
+|---+----------------+---+---+-------+--------+-------------|
+| 1 | Ganador Semi A | x |   |       |        |           0 |
+| 2 | Ganador Semi B |   | x |       |        |           0 |
+
+**** 3rd Place Match
+| # | Name            | 1 | 2 | Score | Rating | Forfeit (W) |
+|---+-----------------+---+---+-------+--------+-------------|
+| 1 | Perdedor Semi A | x |   |       |        |           0 |
+| 2 | Perdedor Semi B |   | x |       |        |           0 |
 
 *** Las Pulgas XV, Final
 **** Grand Final
