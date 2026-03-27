@@ -1,16 +1,31 @@
 #+TITLE: Los Chinchess XV, Crosstables
 
-*** Repechaje 1 (4 v 5)
-| # | Name   | 1 | 2 | Score | Forfeit (W) |
-|---+--------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  |   | x |       |           0 |
+*** Los Chinchess XV, Semifinal
+**** Semifinal A
+| # | Name     | 1 | 2 | Score | Forfeit (W) |
+|---+----------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]] | x |   |       |           0 |
+| 2 | [[https://lichess.org/?user=cgallego00#friend][Camilo]]   |   | x |       |           0 |
 
-*** Repechaje 2 (8 v 9)
+**** Semifinal B (2 v 3)
+| # | Name         | 1 | 2 | Score | Forfeit (W) |
+|---+--------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=pei12#friend][Pei]]          | x |   |       |           0 |
+| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] |   | x |       |           0 |
+
+*** Las Pulgas XV, Semifinal
+**** Semifinal C
 | # | Name   | 1 | 2 | Score | Forfeit (W) |
 |---+--------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=NeiderMT#friend][Neider]] |   | x |       |           1 |
+| 1 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | x |   |       |           0 |
+| 2 | [[https://lichess.org/?user=arandres0510#friend][Andres]] |   | x |       |           0 |
+
+**** Semifinal D (6 v 7)
+| # | Name           | 1 | 2 | Score | Forfeit (W) |
+|---+----------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=Ear512#friend][Edison]]         | x |   |       |           0 |
+| 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] |   | x |       |           0 |
+
 
 -----
 
@@ -30,33 +45,19 @@
 | 11 | [[https://lichess.org/?user=IAHMCOL#friend][Israel]]            |   |   |   |   | 0 | 0 | 0 |   |   |  0 |  x |  1 |   1.0 |   1437 |           0 |    10.5 |
 | 12 | [[https://lichess.org/?user=eduardogaviria#friend][Eduardo]]           |   |   |   |   | 0 |   |   | 0 | 0 |  1 |  0 |  x |   1.0 |   1070 |           0 |    10.0 |
 
------
+----- 
 
-*** Los Chinchess XV, Semifinal
-**** Semifinal A
-| # | Name                | 1 | 2 | Score | Forfeit (W) |
-|---+---------------------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]            | x |   |       |           0 |
-| 2 | Ganador Repechaje 1 |   | x |       |           0 |
+*** Repechaje 1 (4 v 5)
+| # | Name   | 1 | 2 | Score | Forfeit (W) |
+|---+--------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | 0 | x |     0 |           0 |
 
-**** Semifinal B (2 v 3)
-| # | Name         | 1 | 2 | Score | Forfeit (W) |
-|---+--------------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=pei12#friend][Pei]]          | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] |   | x |       |           0 |
-
-*** Las Pulgas XV, Semifinal
-**** Semifinal C
-| # | Name                 | 1 | 2 | Score | Forfeit (W) |
-|---+----------------------+---+---+-------+-------------|
-| 1 | Perdedor Repechaje 1 | x |   |       |           0 |
-| 2 | Ganador Repechaje 2  |   | x |       |           0 |
-
-**** Semifinal D (6 v 7)
-| # | Name           | 1 | 2 | Score | Forfeit (W) |
-|---+----------------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=Ear512#friend][Edison]]         | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] |   | x |       |           0 |
+*** Repechaje 2 (8 v 9)
+| # | Name   | 1 | 2 | Score | Forfeit (W) |
+|---+--------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=NeiderMT#friend][Neider]] | 0 | x |     0 |           1 |
 
 ------
 
