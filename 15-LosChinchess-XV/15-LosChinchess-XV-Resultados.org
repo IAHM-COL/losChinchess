@@ -1,35 +1,34 @@
 #+TITLE: Los Chinchess XV, Crosstables
 
-*** Los Chinchess XV, Semifinal
-
 *** Los Chinchess XV, Final
-**** Grand Final (Winners)
+**** Gran Final
 | # | Name   | 1 | 2 | Score | Forfeit (W) |
 |---+--------+---+---+-------+-------------|
 | 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | x |   |       |           0 |
 | 2 | [[https://lichess.org/?user=pei12#friend][Pei]]    |   | x |       |           0 |
 
-**** 3rd Place Match
+**** Juego por 3er lugar
 | # | Name         | 1 | 2 | Score | Forfeit (W) |
 |---+--------------+---+---+-------+-------------|
 | 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]     | x |   |       |           0 |
 | 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] |   | x |       |           0 |
 
 *** Las Pulgas XV, Final
-**** Grand Final
+**** Gran Final
 | # | Name           | 1 | 2 | Score | Forfeit (W) |
 |---+----------------+---+---+-------+-------------|
-| 1 | Ganador Semi C | x |   |       |           0 |
-| 2 | Ganador Semi D |   | x |       |           0 |
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]]         | x |   |       |           0 |
+| 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] |   | x |       |           0 |
 
-**** 3rd Place Match
-| # | Name            | 1 | 2 | Score | Forfeit (W) |
-|---+-----------------+---+---+-------+-------------|
-| 1 | Perdedor Semi C | x |   |       |           0 |
-| 2 | Perdedor Semi D |   | x |       |           0 |
+**** Juego por 3er lugar
+| # | Name   | 1 | 2 | Score | Forfeit (W) |
+|---+--------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | x |   |       |           0 |
+| 2 | [[https://lichess.org/?user=Ear512#friend][Edison]] |   | x |       |           0 |
 
 -----
 
+*** Los Chinchess XV, Semifinal
 **** Semifinal A
 | # | Name     | 1 | 2 | Score | Forfeit (W) |
 |---+----------+---+---+-------+-------------|
@@ -46,14 +45,14 @@
 **** Semifinal C
 | # | Name   | 1 | 2 | Score | Forfeit (W) |
 |---+--------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=arandres0510#friend][Andres]] |   | x |       |           0 |
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | 0 | x |     0 |           0 |
 
 **** Semifinal D (6 v 7)
 | # | Name           | 1 | 2 | Score | Forfeit (W) |
 |---+----------------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=Ear512#friend][Edison]]         | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] |   | x |       |           0 |
+| 1 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=Ear512#friend][Edison]]         | 1 | x |     1 |           0 |
 
 -----
 
