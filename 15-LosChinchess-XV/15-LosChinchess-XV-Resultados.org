@@ -2,16 +2,16 @@
 
 *** Los Chinchess XV, Final
 **** Gran Final
-| # | Name   | 1 | 2 | Score | Forfeit (W) |
+| # | Name   | 2 | 1 | Score | Forfeit (W) |
 |---+--------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=pei12#friend][Pei]]    |   | x |       |           0 |
+| 2 | [[https://lichess.org/?user=pei12#friend][Pei]]    | x | 2 |     2 |           0 |
+| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | 2 | x |     1 |           0 |
 
 **** Juego por 3er lugar
 | # | Name         | 1 | 2 | Score | Forfeit (W) |
 |---+--------------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]     | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] |   | x |       |           0 |
+| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]     | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] | 1 | x |     1 |           0 |
 
 *** Las Pulgas XV, Final
 **** Gran Final
