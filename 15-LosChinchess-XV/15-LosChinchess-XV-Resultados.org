@@ -1,0 +1,92 @@
+#+TITLE: Los Chinchess XV, Crosstables
+
+*** Los Chinchess XV, Final
+**** Gran Final
+| # | Name                    | 2 | 1 | Score | Forfeit (W) |
+|---+-------------------------+---+---+-------+-------------|
+| 2 | [[https://lichess.org/?user=pei12#friend][Pei]] (Alfil de Oro)      | x | 2 |     2 |           0 |
+| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] (Alfil de Plata) | 2 | x |     1 |           0 |
+
+**** Juego por 3er lugar
+| # | Name                       | 1 | 2 | Score | Forfeit (W) |
+|---+----------------------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]] (Alfil de Bronce) | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]]               | 1 | x |     1 |           0 |
+
+*** Las Pulgas XV, Final
+**** Gran Final
+| # | Name                              | 1 | 2 | Score | Forfeit (W) |
+|---+-----------------------------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] (Medalla de Oro)           | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] (Medalla de Plata) | 1 | x |     1 |           0 |
+
+**** Juego por 3er lugar
+| # | Name                       | 2 | 1 | Score | Forfeit (W) |
+|---+----------------------------+---+---+-------+-------------|
+| 2 | [[https://lichess.org/?user=Ear512#friend][Edison]] (Medalla de Bronce) | x | 2 |     2 |           0 |
+| 1 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]                      | 0 | x |     0 |           0 |
+
+-----
+
+*** Los Chinchess XV, Semifinal
+**** Semifinal A
+| # | Name     | 1 | 2 | Score | Forfeit (W) |
+|---+----------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]] | x | 1 |     1 |           0 |
+| 2 | [[https://lichess.org/?user=cgallego00#friend][Camilo]]   | 2 | x |     2 |           0 |
+
+**** Semifinal B (2 v 3)
+| # | Name         | 1 | 2 | Score | Forfeit (W) |
+|---+--------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=pei12#friend][Pei]]          | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] | 0 | x |     0 |           0 |
+
+*** Las Pulgas XV, Semifinal
+**** Semifinal C
+| # | Name   | 1 | 2 | Score | Forfeit (W) |
+|---+--------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | 0 | x |     0 |           0 |
+
+**** Semifinal D (6 v 7)
+| # | Name           | 1 | 2 | Score | Forfeit (W) |
+|---+----------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=Ear512#friend][Edison]]         | 1 | x |     1 |           0 |
+
+-----
+
+*** Qualifiers
+|  # | Name              | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Score | Rating | Forfeit (W) | Solkoff |
+|----+-------------------+---+---+---+---+---+---+---+---+---+----+----+----+-------+--------+-------------+---------|
+|  1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]          | x |   |   | ½ | 1 | ½ | 1 |   | 1 |    |    |    |   4.0 |   1863 |           0 |    13.0 |
+|  2 | [[https://lichess.org/?user=pei12#friend][Pei]]               |   | x | ½ | 1 |   | ½ |   | ½ | 1 |    |    |    |   3.5 |   2006 |           0 |    13.5 |
+|  3 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]]      |   | ½ | x |   |   | 1 | ½ | ½ |   |  1 |    |    |   3.5 |   1834 |           0 |    12.5 |
+|  4 | [[https://lichess.org/?user=cgallego00#friend][Camilo]]            | ½ | 0 |   | x |   | ½ | 1 |   |   |  1 |    |    |   3.0 |   1872 |           0 |    14.0 |
+|  5 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]             | 0 |   |   |   | x |   |   | ½ | ½ |    |  1 |  1 |   3.0 |   1500 |           0 |    10.5 |
+|  6 | [[https://lichess.org/?user=Ear512#friend][Edison]]            | ½ | ½ | 0 | ½ |   | x |   |   |   |    |  1 |    |   2.5 |   1762 |           0 |    15.0 |
+|  7 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]]    | 0 |   | ½ | 0 |   |   | x | 1 |   |    |  1 |    |   2.5 |   1491 |           0 |    14.0 |
+|  8 | [[https://lichess.org/?user=arandres0510#friend][Andres]]            |   | ½ | ½ |   | ½ |   | 0 | x |   |    |    |  1 |   2.5 |   1565 |           0 |    13.5 |
+|  9 | [[https://lichess.org/?user=NeiderMT#friend][Neider]]            | 0 | 0 |   |   | ½ |   |   |   | x |  ½ |    |  1 |   2.0 |   1729 |           1 |    13.0 |
+| 10 | [[https://lichess.org/?user=angegolpeon#friend][Alejandro Agudelo]] |   |   | 0 | 0 |   |   |   |   | ½ |  x |  1 |  0 |   1.5 |   1500 |           0 |    10.5 |
+| 11 | [[https://lichess.org/?user=IAHMCOL#friend][Israel]]            |   |   |   |   | 0 | 0 | 0 |   |   |  0 |  x |  1 |   1.0 |   1437 |           0 |    10.5 |
+| 12 | [[https://lichess.org/?user=eduardogaviria#friend][Eduardo]]           |   |   |   |   | 0 |   |   | 0 | 0 |  1 |  0 |  x |   1.0 |   1070 |           0 |    10.0 |
+
+----- 
+
+*** Repechaje 1 (4 v 5)
+| # | Name   | 1 | 2 | Score | Forfeit (W) |
+|---+--------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | 0 | x |     0 |           0 |
+
+*** Repechaje 2 (8 v 9)
+| # | Name   | 1 | 2 | Score | Forfeit (W) |
+|---+--------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=NeiderMT#friend][Neider]] | 0 | x |     0 |           1 |
+
+------
+Scores and tournament managed with [[https://coronate.netlify.app/][coronate]]
+
+Org-mode output assisted by [[https://gemini.google.com/][Gemini]]

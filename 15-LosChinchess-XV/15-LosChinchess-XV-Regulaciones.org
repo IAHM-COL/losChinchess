@@ -1,0 +1,283 @@
+* Los Chinchess XV – Torneo de Ajedrez
+
+** Regulaciones
+
+| A1. ♝♝♝♝ Pei ([[https://lichess.org/?user=pei12#friend][pei12]]; 2006)         | A7. ♝♝ Andres ([[https://lichess.org/?user=arandres0510#friend][arandres]]; 1565)            |
+| A2. ♝ Camilo ([[https://lichess.org/?user=cgallego00#friend][cgallego00]]; 1872)    | A8. Pablo ([[https://lichess.org/?user=pablomesa#friend][pablomesa]]; 1500)               |
+| A3. Mauricio ([[https://lichess.org/?user=twinsendell#friend][twinsendell]]; 1863)   | A9. Alejandro Agudelo ([[https://lichess.org/?user=angegolpeon#friend][angegolpeon]]; 1500) |
+| A4. ♝ Jorge Andres ([[https://lichess.org/?user=kopalito#friend][kopalito]]; 1834) | A10. Alejandro Mesa ([[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro-mesa]]; 1491) |
+| A5. ♝ Edison ([[https://lichess.org/?user=Ear512#friend][Ear512]]; 1762)        | A11. Israel ([[https://lichess.org/?user=IAHMCOL#friend][IAHMCOL]]; 1437)               |
+| A6. Neider ([[https://lichess.org/?user=NeiderMT#friend][NeiderMT]]; 1729)        | A12. Eduardo  ([[https://lichess.org/?user=eduardogaviria#friend][eduardogaviria]]; 1071)      |
+
+** Calendario de juegos y resultados
+
+   Contacte a IAHMCOL para obtener el link de el calendario, or encuentrelo
+   directamente en la descripcion del grupo de Whats-App. 
+
+** A Formato
+
+   Las clasificatorias en la decimoquinta edicion de el torneo de Chinchess seran
+   jugadas con un formato Swiss a cinco rondas, doble (colores
+   intercambiados). La primera ronda se asigna 
+   usando el sistema Holandes (Dutch). Terminadas las rondas clasificatorias,
+   en la sexta semana, se jugara el repechaje (play-off). Las finales son
+   jugadas en la septima y octava semana; Los play-off y las finales consisten
+   en una serie cara-cara con enfrentamiento directo entre los jugadores,
+   ganando mejor score de tres partidos. 
+
+*** A1	Clasificatorias
+
+    El Alfil de oro de Chinchess XIV, Pei12 defendera el titulo en esta
+    edicion por tercera vez consecutiva, y fue asignado en la posicion A1.
+
+    Todos los jugadores participantes han sido
+    sembrados siguiendo el score Glicko-2 en lichess para categoria 'rapida' 
+    al momento del cierre del registro. 
+
+    El software [[https://coronate.netlify.app/][coronate]] es usado para
+    manejar los apareamientos y el computo de resultados en la fase Swiss. El
+    [[15-LosChinchess-XV-coronate.json][archivo de configuracion]] en formato json se hace disponible una vez se
+    introducen los resultados de cada ronda y se computan los nuevos
+    apareamientos. La primera ronda, se determina mediante el metodo Dutch de
+    preparacion de Torneos Swiss.
+
+    Cada semana, los jugadores apareados deberan completar dos partidas. El
+    jugador que es asignado Blancas, debera comenzar el primer juego, con
+    Blancas, y comenzara el segundo juego con Negras. El puntaje cumulativo
+    se usara para determinar el resultado de el encuentro, como blancas ganan
+    1-0, negras ganan 0-1, o tablas ½ – ½. Las tablas ocurren cuando el
+    resultado acumulado en ambos juegos es empate, por ejemplo cada jugador
+    gana uno de los juegos, o ambas partidas resultan en tablas. No habra,
+    durante las clasificatorias, una tercera partida.
+    
+    Los aparemiantos de cada semana seran creados y publicados por IAHMCOL
+    cada Sabado. Los jugadores oponente deben contactarse y programar las fechas y las
+    horas en que jugaran ambos partidos, prontamente. Los juegos pueden
+    completarse uno inmediato al otro, o pueden ser programados dia y hora
+    distintos, a la conveniencia de los oponentes.
+
+    Ambos juegos de la semana deberan ser jugados Y el resultado asignado a
+    mas tardar el Viernes a media noche, de la semana 
+    correspondiente. No hay regla indicando quien debe establecer contacto
+    para programar un juego, primero; se espera que la respuesta a este
+    contacto ocurra dentro de las primeras 24 horas. Si un juego no se ha
+    completado al llegar el Sabado, los jugadores deberan contactar a IAHMCOL
+    prontamente y determinar como se resuelve el resultado, es decir quien
+    pierde por W, o si ambos jugadores pierden por W. El resultado de cada
+    partida SE REQUIERE el Sabado correspondiente, para poder determinar los
+    oponentes de la semana que comienza.
+
+    Al terminar la quinta ronda Swiss, la fase clasificatoria de el torneo se
+    concluye, y la tabla de posiciones se usa para determinar la continuacion
+    de el torneo como se especifica a continuacion;
+
+*** Reglas de Juegos Cara-Cara (Knockout; o muerte subita)
+
+    Las fases repechaje y finales de el torneo se completaran en formato
+    Cara-Cara con muerte Subita.
+
+    Una enfrentamiento Cara-Cara se jugara con Mejor resultado de 3
+    juegos, con colores cambiados en cada partido. El jugador que empezara
+    Blancas el primer partido sera determinado basado en calendario.
+
+    El resultado de la serie sigue las siguientes consideraciones;
+
+    + Si un ganador resulta en dos partidas consecutivas, este jugador gana la
+      serie. El tercer juego no se disputa
+
+    + Si no hay ganador en dos partidas, la tercera se disputa, nuevamente
+      cambiando colores. El ganador tendra el mejor resultado de 3 juegos y gana
+      la serie
+
+    + Si no hay ganador en tres partidas, y persiste el empate, el jugador de
+      mayor rango durante la fase swiss de el torneo tiene ventaja deportiva,
+      y ganara la serie de modo tecnico. La serie se reporta como 1/2 -
+      1/2. El jugador de menor rango durante la fase swiss, perdera entonces
+      el cara-cara en esta situacion. 
+    
+*** A2 Repechaje
+
+    La fase de repechaje se jugara en la Sexta Semana, una vez termine la fase
+    swiss a cinco rondas. En la fase de repechaje se jugaran dos cara a cara;
+
+    + Enfrentamiento R1 (repechaje 1): *Jugador 4* vs. *Jugador 5*, en la
+      clasificatoria
+
+      El ganador de R1 clasificara a la final, para disputar por el Torneo
+      Chinchess XV y el Alfil de Oro
+
+      El perdedor de R1 clasificara a la liguilla Pulgas XV, para disputar la
+      Medalla de Oro
+
+    + Enfrentamiento R2 (repechaje 2) *Jugador 9* vs. *Jugador 8*, en la
+      clasificatoria
+
+      El ganador de R2 clasifica a la liguilla Pulgas XV, para disputar la
+      Medalla de Oro
+
+      El Perdedor de R2 quedara eliminado
+
+    + Los jugadores ubicados en las posiciones 10 - 12, son eliminados
+      directamente en la fase Swiss
+    
+*** A3 Final de Torneo Chinchess XV
+
+    Las finales Chinchess XV se completaran durante las semanas septima y
+    octava de el torneo; de la siguiente manera
+
+    + Semifinal S1; *Jugador 1* vs. *Ganador R1* (4 vs. 5)
+    + Semifinal S2; *Jugador 3* vs. *Jugador 2*
+
+    Los ganadores de las semifinales, jugaran la final.
+    Los perdedores de las semifinales, jugaran por el Alfil de Bronce, asi
+
+    + Final F1; *Ganador S2* vs. *Ganador S1*
+
+      El ganador ganara el torneo y obtendra el covetado Alfil de Oro, el
+      perdedor obtendra el Alfil de Plata.
+
+    + Tercer-Cuarto F2; *Perdedor S1* vs. *Perdedor S2*
+
+      El ganador obtendra posicion en podio con Alfil de Bronce. El perdedor
+      es eliminado.
+
+*** A4 Liguilla Pulgas XV
+    
+    La Liguilla Pulgas XV se disputara de manera similar a el final de el
+    Torneo Chinchess, tambien durante la septima y octava semana, asi:
+
+    + Semifinal S3; *Ganador R2* (9 vs. 8) vs. *Perdedor R1* (4 vs. 5) 
+    + Semifinal S4; *Jugador 7* vs. *Jugador 6*
+
+    Los ganadores de las semifinales, jugaran la final.
+    Los perdedores de las semifinales, jugaran por la Medalla de Bronce, asi
+
+    + Final F3; *Ganador S4* vs. *Ganador S3*
+
+      El ganador ganara la Liguilla Pulgas y obtendra Medalla de Oro, el
+      perdedor obtendra Medalla de Plata.
+      
+    + Tercer-Cuarto F4; *Perdedor S3* vs. *Perdedor S4*
+
+      El ganador obtendra posicion en podio con Medalla de Bronce. El perdedor
+      es eliminado.
+
+*** A5	Desempate
+
+    Para desempate en la fase clasificatoria se usara el siguiente sistema: i)
+    menor numero de partidas partidas por W, de persistir el empate, se usara
+    ii) el mayor score Solkoff y iii) Mayor cumulativo de los oponentes como
+    ultimo recurso. De persistir el empate, el mayor rango se asignara al
+    jugador con el Glicko-2 mas elevado al inicio del torneo. De persistir
+    empate IAHMCOL sorteara el rango.
+    
+** B Plataforma
+
+   + B1. El torneo se juega en [[https://lichess.org/][lichess.org]]
+   + B2. Todos los juegos deberan ser jugados con tiempo, 10 minutos,
+     incremento 5 segundos por movida (10+5)
+   + B3. *Importante*: Todos los partidos deben completarse *Por Puntos/rated*,
+     y no amistosos/casual
+   + B4. Todos los partidos se jugaran con usuario registrado (no anonimo)
+   + B5. El jugador que empieza con las Blancas creara el reto, y lo
+     compartira. El Jugador con negras aceptara.
+   + B6. *Importante*: El jugador que inicia con Blancas tiene la
+     responsabilidad de actualizar el calendario del torneo con la fecha y
+     horas acordadas, los link de lichess, y el resultado de cada partida,
+     prontamente, apenas la partida termina.
+   + B7. Una vez una partida empieza no puede ser reprogramada,
+     recomenzada, cambiada, o alterada.
+
+** C Resultados
+
+*** C1. Los resultados se registran de forma estandard para el ajedrez;
+
+1-0 : Ganan blancas (Mate, resignacion, tiempo, abandono)
+
+½ – ½ : Tablas (En acuerdo a todas las regulaciones de el ajedrez)
+
+0-1 : Ganan Negras (Mate, resignacion, tiempo, abandono)
+
+*** C2
+
+   En situaciones de disputa, para toda determinacion de si una partida es
+   perdida o ganada, el torneo concedera a el resultado asignado por la
+   plataforma Lichess. 
+
+** D Programacion de Juegos y Perdida por W o Abandono
+
+   + D1. Cada semana, un jugador tendra 2, or 3 partidas con su oponente
+     directo.
+   + D2. Se usara Whats-App, o mensajes directos por Lichess, para
+     comunicarse con el oponente para determinar una fecha y hora aceptable
+     para completar el o los juegos correspondientes. Es posible jugar ambas
+     partidas una inmediatamente despues de la otra, o es posible programar
+     dos o tres fechas y horas distintas, si las partidas se completan durante la semana.
+   + D3. El jugador que empieza la partida con las Blancas, tiene la
+     responsabilidad de indicar la fecha y la hora determinada en el
+     calendario, tan pronto como un acuerdo se haya obtenido. Partidas que no
+     se hayan acordado y jugado a mas tardar Viernes a media noche seran
+     adjudicadas por el director del torneo (IAHMCOL) como W, con Blancas o
+     Negras, o ambos abandonando. Para obtener extension, contactar el
+     director del torneo prontamente.
+   + D4. Si un jugador llega 15 minutos tarde a una partida se declarara
+     perdida en W. La reprogramacion de una partida perdida por retraso, solo
+     se podra reprogramar si i) ambos jugadores estan de acuerdo, ii) El
+     director del torneo esta de acuerdo, y iii) el jugador perdiendo por
+     retraso no ha perdido el mismo juego por retraso, en una ocasion
+     anterior.
+   + D5. Cada juego debera completarse durante la semana correspondiente (no
+     antes ni despues), entre el Sabado en la manana, y el viernes a media
+     noche. Los juegos tendran que jugarse una vez los apareamientos sean
+     publicados para la semana.
+   + D6. Si hay un jugador que no responde al contacto, y no facilita la
+     programacion de las partidas se le considerara perdida por W, y el
+     jugador opuesto obtendra el punto.
+   + D7 *Doble abandono*: Si ninguno de los dos oponentes intentan de manera
+     activa de encontrar un calendario para las partidas, se considerara
+     doble-abandono, y ambos jugadores obtienen 0 para el juego.
+   + D8: *Abandono de Torneo*: Si algun jugador se haya en abandono de torneo,
+     se le asignara abandono para todas las partidas que le hubieren quedado
+     por completar. Un jugador en abandono de torneo no podra obtener posicion
+     de Podio en ninguna de las categorias.
+   + D9: Si ambos jugadores de una partida se encuentran en abandono de
+     Torneo, se seguira D7 y D8, para ambos.
+     
+** E Honestidad y Comportamiento deportivo
+
+   + E1. Se requiere absoluta honestidad y comportamiento deportivo de cada
+     competidor
+   + E2. Todas las regulaciones de el ajedrez aplican
+   + E3. Todos los participates estan obligados a respetar el codigo de
+     conducta de Lichess.
+   + E4. Durante la partida, ninguno de los dos oponentes podra consultar
+     otras personas, software, libros, o algun otro recurso. Cada jugador
+     debera obtener sus movimientos basadonse en su propia determinacion, en
+     tiempo real.
+   + E5. No se permite devolver jugada, bajo ninguna circumstancia. 'Ficha
+     tocada, ficha movida'
+   + E6. No se permite extension de tiempo
+   + E7. Comentario y analisis de las partidas via WhatsApp, directamente en
+     Lichess, u otra plataforma es permitido y motivado, pero esto ocurrira
+     solamente una partida haya acabado.
+   + E8. Casting de las partidas esta permitido, pero los oponentes directos
+     no podran participar del casting hasta que la partida haya terminado
+   + E9. Las anotaciones de las partidas estan permitidas, una vez la partida
+     haya concluido.
+   + E10. Comentario critico y recomendaciones para cualquier participante
+     estan permitidas, unicamente si este no se encuentra directamente en un juego. 
+
+** F Historia del Torneo
+   
+   F1. La historia del torneo sera almacenada en un archivo formato PGN, que
+   el director del torneo hara disponible para todos los competidores, una vez
+   termine el torneo. Esta informacion sera publica en:
+
+   [[https://github.com/IAHM-COL/losChinchess]]
+
+   F2. La Medalleria historica de los torneos Chinchess y las liguillas Pulgas
+   pasadas esta disponible en
+
+   [[15-MedalryHistory.org][Medalleria Historica]]
+
+   F3. Otra Pizza??
