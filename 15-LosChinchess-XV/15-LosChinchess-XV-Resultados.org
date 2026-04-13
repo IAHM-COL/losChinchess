@@ -2,29 +2,29 @@
 
 *** Los Chinchess XV, Final
 **** Gran Final
-| # | Name   | 2 | 1 | Score | Forfeit (W) |
-|---+--------+---+---+-------+-------------|
-| 2 | [[https://lichess.org/?user=pei12#friend][Pei]]    | x | 2 |     2 |           0 |
-| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] | 2 | x |     1 |           0 |
+| # | Name                    | 2 | 1 | Score | Forfeit (W) |
+|---+-------------------------+---+---+-------+-------------|
+| 2 | [[https://lichess.org/?user=pei12#friend][Pei]] (Alfil de Oro)      | x | 2 |     2 |           0 |
+| 1 | [[https://lichess.org/?user=cgallego00#friend][Camilo]] (Alfil de Plata) | 2 | x |     1 |           0 |
 
 **** Juego por 3er lugar
-| # | Name         | 1 | 2 | Score | Forfeit (W) |
-|---+--------------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]]     | x | 2 |     2 |           0 |
-| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]] | 1 | x |     1 |           0 |
+| # | Name                       | 1 | 2 | Score | Forfeit (W) |
+|---+----------------------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=twinsendell#friend][Mauricio]] (Alfil de Bronce) | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=kopalito#friend][Jorge Andres]]               | 1 | x |     1 |           0 |
 
 *** Las Pulgas XV, Final
 **** Gran Final
-| # | Name           | 1 | 2 | Score | Forfeit (W) |
-|---+----------------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]]         | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] |   | x |       |           0 |
+| # | Name                              | 1 | 2 | Score | Forfeit (W) |
+|---+-----------------------------------+---+---+-------+-------------|
+| 1 | [[https://lichess.org/?user=arandres0510#friend][Andres]] (Medalla de Oro)           | x | 2 |     2 |           0 |
+| 2 | [[https://lichess.org/?user=Alejandro-mesa#friend][Alejandro Mesa]] (Medalla de Plata) | 1 | x |     1 |           0 |
 
 **** Juego por 3er lugar
-| # | Name   | 1 | 2 | Score | Forfeit (W) |
-|---+--------+---+---+-------+-------------|
-| 1 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]  | x |   |       |           0 |
-| 2 | [[https://lichess.org/?user=Ear512#friend][Edison]] |   | x |       |           0 |
+| # | Name                       | 2 | 1 | Score | Forfeit (W) |
+|---+----------------------------+---+---+-------+-------------|
+| 2 | [[https://lichess.org/?user=Ear512#friend][Edison]] (Medalla de Bronce) | x | 2 |     2 |           0 |
+| 1 | [[https://lichess.org/?user=pablomesa#friend][Pablo]]                      | 0 | x |     0 |           0 |
 
 -----
 
