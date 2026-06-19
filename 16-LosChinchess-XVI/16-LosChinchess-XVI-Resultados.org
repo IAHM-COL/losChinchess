@@ -2,6 +2,17 @@
 
 ** Crosstable
 
++ Grupo 1: Pei (pei12) + Pablo (Pablomesa)
++ Grupo 2: Jorge Andres (kopalito) + Alejandro M. (Alejandro-mesa)
++ Grupo 3: Edison (Ear512) + Andres (arandres0510)
++ Grupo 4: Mauricio (twinsendell) + Israel (IAHMCOL)
++ Grupo 5: Daniel (Danielcast9) + Alejandro A. (angegolpeon)
++ Grupo 6: Camilo (cgallego00) + Eduardo (eduardogaviria)
++ Grupo 7: Neider (NeiderMT) + Ema (hon3ybadger)
+
+
+** Crosstable
+
 *** Clasificatorias
 |         | Grupo 7   | Grupo 4   | Grupo 1   | Grupo 3   | Grupo 2   | Grupo 5   | Grupo 6   |   points |   w |   neudstadtl |   glicko_2 |
 |---------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+----------+-----+--------------+------------|
