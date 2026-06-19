@@ -1,0 +1,43 @@
+* Torneo de Ajedrez Los Chinchess XVI
+
+** Crosstable
+
+*** Clasificatorias
+|         | Grupo 1   | Grupo 3   | Grupo 2   | Grupo 7   | Grupo 5   | Grupo 4   | Grupo 6   |   points |   w |   neudstadtl |   glicko_2 |
+|---------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+----------+-----+--------------+------------|
+| Grupo 1 | x         |           |           |           |           |           |           |        0 |   0 |            0 |     1747   |
+| Grupo 3 |           | x         |           |           |           |           |           |        0 |   0 |            0 |     1743.5 |
+| Grupo 2 |           |           | x         |           |           |           |           |        0 |   0 |            0 |     1737.5 |
+| Grupo 7 |           |           |           | x         |           |           |           |        0 |   0 |            0 |     1715   |
+| Grupo 5 |           |           |           |           | x         |           |           |        0 |   0 |            0 |     1637   |
+| Grupo 4 |           |           |           |           |           | x         |           |        0 |   0 |            0 |     1617   |
+| Grupo 6 |           |           |           |           |           |           | x         |        0 |   0 |            0 |     1543   |
+
+*** Repechaje
+|         | Rango 4   | Rango 5   |   points |   w |   neudstadtl |   glicko_2 |
+|---------+-----------+-----------+----------+-----+--------------+------------|
+| Rango 4 | x         |           |        0 |   0 |            0 |       1500 |
+| Rango 5 |           | x         |        0 |   0 |            0 |       1500 |
+
+*** Final
+|               | Rango 1   | Rango 2   | Rango 3   | Rango 4/5 (W)   |   points |   w |   neudstadtl |   glicko_2 |
+|---------------+-----------+-----------+-----------+-----------------+----------+-----+--------------+------------|
+| Rango 1       | x         |           |           |                 |        0 |   0 |            0 |       1500 |
+| Rango 2       |           | x         |           |                 |        0 |   0 |            0 |       1500 |
+| Rango 3       |           |           | x         |                 |        0 |   0 |            0 |       1500 |
+| Rango 4/5 (W) |           |           |           | x               |        0 |   0 |            0 |       1500 |
+
+
+*** Pulgas XVI
+|              | Individual 1   | Individual 2   | Individual 3   | Individual 4   |   points |   w |   neudstadtl |   glicko_2 |
+|--------------+----------------+----------------+----------------+----------------+----------+-----+--------------+------------|
+| Individual 1 | x              |                |                |                |        0 |   0 |            0 |       1500 |
+| Individual 2 |                | x              |                |                |        0 |   0 |            0 |       1500 |
+| Individual 3 |                |                | x              |                |        0 |   0 |            0 |       1500 |
+| Individual 4 |                |                |                | x              |        0 |   0 |            0 |       1500 |
+
+
+
+
+-------
+Resultados tabulados con [[https://pandas.pydata.org/][pandas]], y [[https://pypi.org/project/tabulate/][tabulate]]
