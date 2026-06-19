@@ -1,14 +1,14 @@
 * Torneo de Ajedrez Los Chinchess XVI
 
-** Crosstable
+** Grupos
 
-+ Grupo 1: Pei (pei12, 1985) + Pablo (Pablomesa, 1509)
-+ Grupo 2: Jorge Andres (kopalito, 1850) + Alejandro M. (Alejandro-mesa, 1625)
-+ Grupo 3: Edison (Ear512, 1779) + Andres (arandres0510, 1708)
-+ Grupo 4: Mauricio (twinsendell, 1915) + Israel (IAHMCOL, 1319)
-+ Grupo 5: Daniel (Danielcast9, 1883) + Alejandro A. (angegolpeon, 1391)
-+ Grupo 6: Camilo (cgallego00, 1874) + Eduardo (eduardogaviria, 1212)
-+ Grupo 7: Neider (NeiderMT, 1727) + Ema (hon3ybadger, 1703)
++ _Grupo 1_: Pei (pei12, 1985) + Pablo (Pablomesa, 1509)
++ _Grupo 2_: Jorge Andres (kopalito, 1850) + Alejandro M. (Alejandro-mesa, 1625)
++ _Grupo 3_: Edison (Ear512, 1779) + Andres (arandres0510, 1708)
++ _Grupo 4_: Mauricio (twinsendell, 1915) + Israel (IAHMCOL, 1319)
++ _Grupo 5_: Daniel (Danielcast9, 1883) + Alejandro A. (angegolpeon, 1391)
++ _Grupo 6_: Camilo (cgallego00, 1874) + Eduardo (eduardogaviria, 1212)
++ _Grupo 7_: Neider (NeiderMT, 1727) + Ema (hon3ybadger, 1703)
 
 
 ** Crosstable
