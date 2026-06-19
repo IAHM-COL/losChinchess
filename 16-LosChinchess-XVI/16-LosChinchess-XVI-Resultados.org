@@ -2,13 +2,13 @@
 
 ** Crosstable
 
-+ Grupo 1: Pei (pei12) + Pablo (Pablomesa)
-+ Grupo 2: Jorge Andres (kopalito) + Alejandro M. (Alejandro-mesa)
-+ Grupo 3: Edison (Ear512) + Andres (arandres0510)
-+ Grupo 4: Mauricio (twinsendell) + Israel (IAHMCOL)
-+ Grupo 5: Daniel (Danielcast9) + Alejandro A. (angegolpeon)
-+ Grupo 6: Camilo (cgallego00) + Eduardo (eduardogaviria)
-+ Grupo 7: Neider (NeiderMT) + Ema (hon3ybadger)
++ Grupo 1: Pei (pei12, 1985) + Pablo (Pablomesa, 1509)
++ Grupo 2: Jorge Andres (kopalito, 1850) + Alejandro M. (Alejandro-mesa, 1625)
++ Grupo 3: Edison (Ear512, 1779) + Andres (arandres0510, 1708)
++ Grupo 4: Mauricio (twinsendell, 1915) + Israel (IAHMCOL, 1319)
++ Grupo 5: Daniel (Danielcast9, 1883) + Alejandro A. (angegolpeon, 1391)
++ Grupo 6: Camilo (cgallego00, 1874) + Eduardo (eduardogaviria, 1212)
++ Grupo 7: Neider (NeiderMT, 1727) + Ema (hon3ybadger, 1703)
 
 
 ** Crosstable
