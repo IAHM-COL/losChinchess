@@ -6,23 +6,24 @@
 + _Grupo 2_: Jorge Andres (kopalito, 1850) + Alejandro M. (Alejandro-mesa, 1625)
 + _Grupo 3_: Edison (Ear512, 1779) + Andres (arandres0510, 1708)
 + _Grupo 4_: Mauricio (twinsendell, 1915) + Israel (IAHMCOL, 1319)
-+ _Grupo 5_: Daniel (Danielcast9, 1883) + Alejandro A. (angegolpeon, 1391)
-+ _Grupo 6_: Camilo (cgallego00, 1874) + Eduardo (eduardogaviria, 1212)
++ _Grupo 6_: Camilo (cgallego00, 1874) + Daniel (Danielcast9, 1883) 
 + _Grupo 7_: Neider (NeiderMT, 1727) + Ema (hon3ybadger, 1703)
 
+
++ Alejandro A. (angegolpeon, 1391): Abandona Torneo
++ Eduardo (eduardogaviria, 1212): Abandona Torneo
 
 ** Crosstable
 
 *** Clasificatorias
-|         | Grupo 7   | Grupo 4   | Grupo 1   | Grupo 3   | Grupo 2   | Grupo 5   | Grupo 6   |   points |   w |   neudstadtl |   glicko_2 |
-|---------+-----------+-----------+-----------+-----------+-----------+-----------+-----------+----------+-----+--------------+------------|
-| Grupo 7 | x         | 0.5       |           |           | 0.5       |           |           |      1   |   0 |         0.75 |     1715   |
-| Grupo 4 | 0.5       | x         |           | 0.5       |           |           |           |      1   |   0 |         0.75 |     1617   |
-| Grupo 1 |           |           | x         | 1.0       |           |           |           |      1   |   0 |         0.5  |     1747   |
-| Grupo 3 |           | 0.5       | 0         | x         |           |           |           |      0.5 |   0 |         0.5  |     1743.5 |
-| Grupo 2 | 0.5       |           |           |           | x         |           |           |      0.5 |   0 |         0.5  |     1737.5 |
-| Grupo 5 |           |           |           |           |           | x         |           |      0   |   0 |         0    |     1637   |
-| Grupo 6 |           |           |           |           |           |           | x         |      0   |   0 |         0    |     1543   |
+|         | Grupo 4   | Grupo 1   | Grupo 6   | Grupo 7   | Grupo 3   | Grupo 2   |   points |   w |   neudstadtl |   glicko_2 |
+|---------+-----------+-----------+-----------+-----------+-----------+-----------+----------+-----+--------------+------------|
+| Grupo 4 | x         | 0         | 1.0       | 0.5       | 0.5       | 1.0       |      3   |   0 |         3.5  |     1617   |
+| Grupo 1 | 1.0       | x         | 0.5       |           | 1.0       |           |      2.5 |   0 |         4.5  |     1747   |
+| Grupo 6 | 0         | 0.5       | x         | 0.5       |           | 1.0       |      2   |   0 |         2.5  |     1543   |
+| Grupo 7 | 0.5       |           | 0.5       | x         |           | 0.5       |      1.5 |   0 |         2.75 |     1715   |
+| Grupo 3 | 0.5       | 0         |           |           | x         |           |      0.5 |   0 |         1.5  |     1743.5 |
+| Grupo 2 | 0         |           | 0         | 0.5       |           | x         |      0.5 |   0 |         0.75 |     1737.5 |
 
 *** Repechaje
 |         | Rango 4   | Rango 5   |   points |   w |   neudstadtl |   glicko_2 |
