@@ -26,17 +26,17 @@
 | Grupo 2 | 0         | 0         | 1.0       | 1.0       | 2.0       | x         |      4   |   0 |         21   |     1737.5 |
 
 *** Repechaje
-|         | Rango 4   | Rango 5   |   points |   w |   neudstadtl |   glicko_2 |
+|         | Grupo 3   | Grupo 7   |   points |   w |   neudstadtl |   glicko_2 |
 |---------+-----------+-----------+----------+-----+--------------+------------|
-| Rango 4 | x         |           |        0 |   0 |            0 |       1500 |
-| Rango 5 |           | x         |        0 |   0 |            0 |       1500 |
+| Grupo 3 | x         |           |        0 |   0 |            0 |     1743.5 |
+| Grupo 7 |           | x         |        0 |   0 |            0 |     1715   |
 
 *** Final
-|               | Grupo 6   | Grupo 1   | Rango 3   | Rango 4/5 (W)   |   points |   w |   neudstadtl |   glicko_2 |
+|               | Grupo 6   | Grupo 1   | Grupo 4   | Rango 4/5 (W)   |   points |   w |   neudstadtl |   glicko_2 |
 |---------------+-----------+-----------+-----------+-----------------+----------+-----+--------------+------------|
 | Grupo 6       | x         |           |           |                 |        0 |   0 |            0 |     1878.5 |
 | Grupo 1       |           | x         |           |                 |        0 |   0 |            0 |     1747   |
-| Rango 3       |           |           | x         |                 |        0 |   0 |            0 |     1500   |
+| Grupo 4       |           |           | x         |                 |        0 |   0 |            0 |     1617   |
 | Rango 4/5 (W) |           |           |           | x               |        0 |   0 |            0 |     1500   |
 
 
