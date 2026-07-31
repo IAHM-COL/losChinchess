@@ -28,8 +28,8 @@
 *** Repechaje
 |         | Grupo 3   | Grupo 7   |   points |   w |   neudstadtl |   glicko_2 |
 |---------+-----------+-----------+----------+-----+--------------+------------|
-| Grupo 3 | x         |           |        0 |   0 |            0 |     1743.5 |
-| Grupo 7 |           | x         |        0 |   0 |            0 |     1715   |
+| Grupo 3 | x         | 3.0       |        3 |   0 |            3 |     1743.5 |
+| Grupo 7 | 1.0       | x         |        1 |   0 |            3 |     1715   |
 
 *** Final
 |         | Grupo 6   | Grupo 1   | Grupo 3   | Grupo 4   |   points |   w |   neudstadtl |   glicko_2 |
