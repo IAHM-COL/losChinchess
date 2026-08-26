@@ -2,33 +2,36 @@
 
 | Rango | Jugador                   | Alfiles de Oro | Alfiles de Plata | Alfiles de Bronce | Totales |
 |-------+---------------------------+----------------+------------------+-------------------+---------|
-|     1 | Pei (pei12)               |              5 |                1 |                 0 |       6 |
+|     1 | Pei (pei12)               |              5 |                2 |                 0 |       7 |
 |     2 | Asher (AsDaGo)            |              4 |                0 |                 0 |       4 |
-|     3 | Andres (arandres0510)     |              2 |                1 |                 1 |       4 |
-|     4 | Camilo (cgallego00)       |              1 |                5 |                 8 |      14 |
+|     3 | Camilo (cgallego00)       |              2 |                5 |                 8 |      15 |
+|     4 | Andres (arandres0510)     |              2 |                2 |                 1 |       5 |
 |     5 | Jorge Andres (kopalito)   |              1 |                4 |                 1 |       6 |
-|     6 | Edison (Ear512)           |              1 |                1 |                 0 |       2 |
+|     6 | Edison (Ear512)           |              1 |                2 |                 0 |       3 |
 |     7 | Christian (Christian1323) |              1 |                0 |                 0 |       1 |
-|     8 | Mauricio (twinsendell)    |              0 |                3 |                 3 |       6 |
-|     9 | Maria Clara (mc3010)      |              0 |                0 |                 2 |       2 |
+|     8 | Daniel (Danielcast9)      |              1 |                0 |                 0 |       1 |
+|     9 | Pablo (Pablomesa)         |              0 |                1 |                 0 |       1 |
+|    10 | Mauricio (twinsendell)    |              0 |                3 |                 3 |       6 |
+|    11 | Maria Clara (mc3010)      |              0 |                0 |                 2 |       2 |
 
 ** Conteo historico de medallas 'Pulgas' y rango de competidores
 
 | Rango | Jugador                    | Medallas de Oro | Medallas de Plata | Medallas de Bronce | Totales |
 |-------+----------------------------+-----------------+-------------------+--------------------+---------|
 |     1 | Mauricio (twinsedell)      |               3 |                 2 |                  0 |       5 |
-|     2 | Jorge Andres (kopalito)    |               2 |                 1 |                  2 |       5 |
+|     2 | Jorge Andres (kopalito)    |               2 |                 2 |                  2 |       5 |
 |     3 | Israel (IAHMCOL)           |               2 |                 1 |                  1 |       4 |
 |     4 | Neider (NeiderMT)          |               1 |                 2 |                  1 |       4 |
 |     5 | Andres (arandres0510)      |               1 |                 1 |                  1 |       3 |
 |     6 | Leison (Quintero_05)       |               1 |                 0 |                  0 |       1 |
 |     7 | Duvian                     |               1 |                 0 |                  0 |       1 |
-|     8 | Joaquin (OseznoRaudo)      |               0 |                 2 |                  0 |       2 |
-|     9 | Jairo (jajajairoramirez)   |               0 |                 1 |                  1 |       2 |
-|    10 | Alejandro (Alejandro-Mesa) |               0 |                 1 |                  0 |       1 |
-|    11 | Lautaro (Altaleff)         |               0 |                 0 |                  1 |       1 |
-|    12 | Harry (marinvahos)         |               0 |                 0 |                  1 |       1 |
-|    13 | Edison (Ear512)            |               0 |                 0 |                  1 |       1 |
+|     8 | Ema (hon3ybadger)          |               1 |                 0 |                  0 |       1 |
+|     9 | Joaquin (OseznoRaudo)      |               0 |                 2 |                  0 |       2 |
+|    10 | Jairo (jajajairoramirez)   |               0 |                 1 |                  1 |       2 |
+|    11 | Alejandro (Alejandro-Mesa) |               0 |                 1 |                  1 |       2 |
+|    12 | Lautaro (Altaleff)         |               0 |                 0 |                  1 |       1 |
+|    13 | Harry (marinvahos)         |               0 |                 0 |                  1 |       1 |
+|    14 | Edison (Ear512)            |               0 |                 0 |                  1 |       1 |
 
 ** Conteo historico Categoria 'Piojos'
 
